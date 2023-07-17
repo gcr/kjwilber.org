@@ -1,0 +1,46 @@
+/* You can delete all this. It's just for the demo. */
+/* Actually, literally everything in the static folder can be replaced. */
+body {
+  font-family: "Manrope", sans-serif;
+  margin: 2em clamp(10vw, 15vw, 30vw);
+}
+
+h1, h2, h3, h4, h5 {
+  color: #ff8c00;
+}
+
+@keyframes pretty {
+  from {
+    color: #00ff8c;
+  } 25% {
+    color: #008cff;
+  } 50% {
+    color: #8c00ff;
+  } 75% {
+    color: #008cff;
+  } to {
+    color: #00ff8c;
+  }
+}
+
+.pretty {
+  animation: pretty 2s infinite forwards;
+}
+
+code {
+  color: black;
+  background-color: #dfdfdf;
+
+  border-radius: 0.2em;
+  padding: 0 0.5em;
+}
+
+a {
+  color: #008cff;
+} a:visited {
+  color: #8c00ff;
+}
+
+#footer {
+  font-size: 0.8em;
+}
