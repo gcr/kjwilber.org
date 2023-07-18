@@ -77,8 +77,8 @@ module.exports = function (eleventyConfig) {
           tags: {
             blockStart: "<%",
             blockEnd: "%>",
-            variableStart: "<$",
-            variableEnd: "$>",
+            variableStart: "<<",
+            variableEnd: ">>",
             commentStart: "<#",
             commentEnd: "#>",
           },

@@ -53,7 +53,7 @@ Software Engineer, Google AI
 \hfill
 \begin{minipage}[ht]{0.38\textwidth}
 \flushright{%wilmic1102@gmail.com
-kimberly@kjwilber.org
+kimmy@kjwilber.org
 \\{http://kjwilber.org}
 % \\111 8th Ave, Ste. 302
 % \\New York, NY 10011
@@ -230,111 +230,27 @@ University %(4.0~GPA)
 
 \section*{Publications}
 \begin{longtable}{L!{\VRule}R}
-
 &{\textit{Note that some work before 2018 is published under a previous name.}}\vspace{10pt}\\
-
-2019&\textit{%
-Understanding Image Quality and Trust in Peer-to-Peer Marketplaces
-}\\
-&{\small Ma, X.; Mezghani, L.; \textbf{Wilber, K.}; Hong, H.; Piramuthu, R.; Naaman, M.; Belongie, S. Winter Conference on Applications of Computer Vision (WACV 2019)}\vspace{10pt}\\
-
-2018&\textit{%
-Learning perceptual similarity from crowds and machines
-}\\&{\small \textbf{Wilber, M.} PhD Thesis, Cornell University, Ithaca,
-NY.}\vspace{10pt}\\
-
-2018&\textit{%
-Learning from Multi-domain Artistic Images for Arbitrary Style Transfer
-}\\
-&{\small Xu, Z.;, \textbf{Wilber, M.}; Fang, C.; Hertzmann, A.; Jin, H.}\vspace{10pt}\\
-
-2017&\textit{%
-BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography
-}\\
-&{\small \textbf{Wilber, M.}; Fang, C.; Jin, H.; Hertzmann, A.; Collomosse, J.; Belongie, S. International Conference on Computer Vision (ICCV~2017)}\vspace{10pt}\\
-
-2017&\textit{%
-Sketching with Style: Visual Search with Sketches and Aesthetic Context
-}\\
-&{\small
-  Collomosse, J.; Bui, T.; \textbf{Wilber, M.}; Fang, C.; Jin, H. International Conference on Computer Vision (ICCV~2017)
+<% for paper in papers.paperList %>
+<%- if paper.best_paper  %>$\bigstar$ <%  endif -%>
+<< paper.year >> & 
+<%-  if paper.best_paper -%>
+  \textbf{Best paper award: }
+<%- endif -%>
+\textit{<<paper.title>>}\\
+&{\small 
+  <% for author in paper.authors -%>
+    <%- if "Wilber" in author -%>
+      \textbf{<<author>>}
+    <%- else -%>
+      <<author>>
+    <%- endif -%>
+    <% if not loop.last %>; <% endif %>
+  <%- endfor %>
+  \emph{<< paper.venue | replace(" 20", "~20") >>}
 }\vspace{10pt}\\
-
-2017&\textit{%
-  Crowd Research: Open and Scalable University Laboratories
-}\\
-&{\small
-  Vaish, R.; Gaikwad, S.; Kovacs, G.; Veit, A.; Krishna, R.; Ibarra, I. A.; Simoiu, C.; \textbf{Wilber, M.;} Belongie, S.; Goel, S.; Davis, J.; Bernstein, M.
-  User Interface Software and Technology Symposium (UIST~2017)
-}\vspace{10pt}\\
-
-2016&\textit{Residual Networks Behave Like Ensembles of Relatively Shallow Networks}\\
-&{\small Veit, A.; \textbf{Wilber, M.}; Belongie, S. Neural information processing systems (NIPS~2016)}\vspace{10pt}\\
-
-2015&\textit{Learning Concept Embeddings with Combined Human-Machine Expertise}\\
-&{\small \textbf{Wilber, M.}; Kwak, I. S.; Belongie, B. International Conference on Computer Vision (ICCV~2015)}\vspace{10pt}\\
-
-2015&\textit{On Optimizing Human-Machine Task Assignments}\\
-&{\small Veit, A.; \textbf{Wilber, M.}; Vaish, R.; Belongie, B.; Davis, J.; \emph{et al}. AAAI Conference on Human Computation and Crowdsourcing Work-in-Progress session (HCOMP~2015~WIP) }\vspace{10pt}\\
-
-2015&\textit{Image Representations and New Domains in Neural Image Captioning}\\
-&{\small Hessel, J.; Savva, N.;, \textbf{Wilber, M.} Workshop on Vision and Language Integration (VL~2015)}\vspace{10pt}\\
-
-2014&\textit{Cost-Effective HITs for Relative Similarity
-  Comparisons}\\
-&{\small \textbf{Wilber, M.}; Kwak, I. S.; Belongie; S. J. AAAI Conference on Human Computation and Crowdsourcing (HCOMP~2014)}\vspace{10pt}\\
-
-2014&\textit{Exemplar Codes: An Accurate and Efficient Mid-Level
-  Representation for Big Vision Problems}\\
-&{\small Rudd, E.; \textbf{Wilber, M.}; Boult, T. E.
-  Computer Vision and Pattern Recognition BigVision workshop (CVPR~2014)}\vspace{10pt}\\
-
-2014&\textit{Exemplar Codes for Facial Attributes and Tattoo
-  Recognition}\\
-&{\small \textbf{Wilber, M.}; Rudd, E.; Heflin, B.; Lui; Y. M.; Boult, T. E.
-    Winter Conference on Applications of Computer Vision (WACV 2014).}\vspace{10pt}\\
-
-2014&\textit{Good Recognition is Non-Metric}\\
-&{\small Scheirer, W. J.; \textbf{Wilber, M.}; Eckmann; M.; Boult; T.
-  E. Pattern Recognition 47 (8), 2014}\vspace{10pt}\\
-
-$\bigstar$ 2013&
-\textbf{Best paper award:}
-\textit{Animal Recognition in the Mojave Desert: Vision Tools
-    for Field Biologists}\\
-&{\small\textbf{Wilber, M.}; Scheirer, W.; Leitner,
-  P.; et al. Workshop on Applications of  Computer Vision (WACV~2013).
-}\vspace{10pt}\\
-% & \tikz{\node[color=white,fill=black, rounded corners=10pt]{$\bigstar$ \textbf{Best paper award.}}} \vspace{10pt}\\
-% &{\small\textbf{$\bigstar$ Best paper award.}}\vspace{10pt}\\
-
-2013& \textit{Issues in Rotational (Non-) Invariance and Image Preprocessing}\\
-&{\small Jain, L.; \textbf{Wilber, M.}; Boult, T.
-Conference on Computer Vision and Pattern Recognition Biometrics
-  Workshop (CVPR~2013)}\vspace{10pt}\\
-
-2012& \textit{PRIVV: Private Remote Iris Authentication with Vaulted
-    Verification}\\
-&{\small\textbf{Wilber, M.}; Scheirer, W.; Boult, T. E.
-  Conference on Computer Vision and Pattern Recognition Biometrics
-  Workshop (CVPR~2012)}\vspace{10pt}\\
-
-2012& \textit{Secure Remote Matching with Privacy: Scrambled Support
-    Vector Vaulted Verification (S$^2$V$^3$)}\\
-&{\small\textbf{Wilber, M.};
-  Boult, T. E.
-  Workshop on Applications of Computer Vision (WACV~2012)}\vspace{10pt}\\
-
-%2012& \textit{System and Method for Privacy
-%  Security Enhanced Vaulted Verification}\\
-%&{\small\textbf{Wilber, M.}; Boult, T. E. Provisional patent
-%  application.}\vspace{10pt} \\
-
-2011& \textit{Face and Eye Detection on Hard Datasets}\\
-& {\small Parris, J.; \textbf{Wilber, M.}; Heflin, B.; et al. International Joint Conference on Biometrics (IJCB~2011)}
+<% endfor %>
 \end{longtable}
-
-
 
 % \vspace{3pt}
 % \section*{Conferences and Scholarships}

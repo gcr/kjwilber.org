@@ -1,11 +1,264 @@
-papers:
-  - title: Testing paper title
-    authors:
-    - Kimberly Wilber
-    year: 2023
+paperList:
 
-  - title: Testing 2
+  - year: 2022
+    title: On Label Granularity and Object Localization
+    authors:
+    - Elijah Cole
+    - Kimberly Wilber
+    - Grant Van Horn
+    - Xuan S. Yang
+    - Marco Fornoni
+    - Pietro Perona
+    - Serge Belongie
+    - Andrew G. Howard
+    - Oisin Mac Aodha
+    venue: European Conference on Computer Vision (ECCV 2022)
+
+  - year: 2022
+    title: Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset
+    authors:
+    - Grant Van Horn
+    - Rui Qian
+    - Kimberly Wilber
+    - Hartwig Adam
+    - Oisin Mac Aodha
+    - Serge Belongie
+    venue: European Conference on Computer Vision (ECCV 2022)
+
+  - year: 2022
+    title: When Does Contrastive Visual Representation Learning Work?
+    authors:
+    - Elijah Cole
+    - Xuan Yang
+    - Kimberly Wilber
+    - Oisin Mac Aodha
+    - Serge Belongie
+    venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)
+
+  - year: 2021
+    title: Benchmarking Representation Learning for Natural World Image Collections
+    authors:
+    - Grant Van Horn
+    - Elijah Cole
+    - Sara Beery
+    - Kimberly Wilber
+    - Serge Belongie
+    - Oisin Mac Aodha
+    venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
+
+  - year: 2021
+    title: On the Reproducibility of Neural Network Predictions
+    authors:
+    - Srinadh Bhojanapalli
+    - Kimberly Wilber
+    - Andreas Veit
+    - Ankit Rawat
+    - Seungyeon Kim
+    - Aditya Menon
+    - Sanjiv Kumar
+    venue: ArXiv
+
+  - year: 2021
+    title: Bridging the Gap Between Object Detection and User Intent via Query-Modulation
+    authors:
+    - Marco Fornoni
+    - Chaochao Yan
+    - Liangchen Luo
+    - Kimberly Wilber
+    - Alex Stark
+    - Yin Cui
+    - Boqing Gong
+    - Andrew Howard
+    venue: ArXiv
+
+  - year: 2020
+    title: Improving Calibration in Deep Metric Learning With Cross-Example Softmax
     authors:
     - Andreas Veit
     - Kimberly Wilber
-    year: 2017
+    venue: ArXiv
+
+  - year: 2019
+    title: Understanding Image Quality and Trust in Peer-to-Peer Marketplaces
+    authors:
+    - Xiao Ma
+    - Lina Mezghani
+    - Kimberly Wilber
+    - Hui Hong
+    - Robinson Piramuthu
+    - Mor Naaman
+    - Serge Belongie
+    venue: Winter Conference on Applications of Computer Vision (WACV 2019)
+
+  - year: 2018
+    title: Learning perceptual similarity from crowds and machines
+    authors: 
+    - M. Wilber
+    venue: PhD Thesis, Cornell University, Ithaca, NY.
+
+  - year: 2018
+    title: Learning from Multi-domain Artistic Images for Arbitrary Style Transfer
+    authors:
+    - Zheng Xu
+    - M. Wilber
+    - Chen Fang
+    - Aaron Hertzmann
+    - Hailin Jin
+    venue: ACM/Eurographics Expressive Symposium
+
+  - year: 2017
+    title: "BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography"
+    authors:
+    - M. Wilber
+    - Chen Fang
+    - Hailin Jin
+    - Aaron Hertzmann
+    - John Collomosse
+    - Serge Belongie
+    venue: International Conference on Computer Vision (ICCV 2017)
+
+  - year: 2017
+    title: "Sketching with Style: Visual Search with Sketches and Aesthetic Context"
+    authors:
+    - John Collomosse
+    - Tu Bui
+    - M. Wilber
+    - Chen Fang
+    - Hailin Jin
+    venue: International Conference on Computer Vision (ICCV 2017)
+
+  - year: 2017
+    title: "Crowd Research: Open and Scalable University Laboratories"
+    authors:
+    - Rajan Vaish
+    - Snehalkumar (Neil) S. Gaikwad
+    - Geza Kovacs
+    - Andreas Veit
+    - Ranjay Krishna
+    - Imanol Arrieta Ibarra
+    - Camelia Simoiu
+    - M. Wilber
+    - Serge Belongie
+    - Sharad Goel
+    - James Davis 
+    - Michael S. Bernstein 
+    venue: User Interface Software and Technology Symposium (UIST 2017)
+
+  - year: 2016
+    title: Residual Networks Behave Like Ensembles of Relatively Shallow Networks
+    authors:
+    - Andreas Veit
+    - M. Wilber
+    - Serge Belongie
+    venue: Neural information processing systems (NIPS 2016)
+
+  - year: 2015
+    title: Learning Concept Embeddings with Combined Human-Machine Expertise
+    authors:
+    - M. Wilber
+    - Iljung Sam Kwak
+    - Serge Belongie
+    venue: International Conference on Computer Vision (ICCV 2015)
+
+  - year: 2015
+    title: On Optimizing Human-Machine Task Assignments
+    authors:
+    - Andreas Veit
+    - M. Wilber
+    - Rajan Vaish
+    - Serge Belongie
+    - James Davis
+    - et. al.
+    # full author list at: https://arxiv.org/abs/1509.07543
+    venue: AAAI Conference on Human Computation and Crowdsourcing Work-in-Progress session (HCOMP 2015 WIP)
+
+  - year: 2015
+    title: Image Representations and New Domains in Neural Image Captioning
+    authors:
+    - Jack Hessel
+    - Nicolas Savva
+    - M. Wilber
+    venue: Workshop on Vision and Language Integration (VL 2015)
+
+  - year: 2014
+    title: Cost-Effective HITs for Relative Similarity Comparisons
+    authors:
+    - M. Wilber
+    - Iljung Sam Kwak
+    - Serge Belongie
+    venue: AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2014)
+
+  - year: 2014
+    title: "Exemplar Codes: An Accurate and Efficient Mid-Level Representation for Big Vision Problems"
+    authors:
+    - Ethan Rudd
+    - M. Wilber
+    - Terry Boult
+    venue: Computer Vision and Pattern Recognition BigVision workshop (CVPR 2014)
+
+  - year: 2014
+    title: Exemplar Codes for Facial Attributes and Tattoo Recognition
+    authors:
+    - M. Wilber
+    - Ethan Rudd
+    - Brian Heflin
+    - Yui-Man Lui
+    - Terry Boult
+    venue: Winter Conference on Applications of Computer Vision (WACV 2014)
+
+  - year: 2014
+    title: Good Recognition is Non-Metric
+    authors:
+    - Walter J. Scheirer
+    - M. Wilber
+    - Michael Eckmann
+    - Terry Boult
+    venue: E. Pattern Recognition 47 (8), 2014
+
+  - year: 2013
+    title: "Animal Recognition in the Mojave Desert: Vision Tools for Field Biologists"
+    best_paper: true
+    authors:
+    - M. Wilber
+    - Walter J. Scheirer
+    - Phil Leitner
+    - et. al.
+    venue: Workshop on Applications of  Computer Vision (WACV 2013)
+
+  - year: 2013
+    title: "Issues in Rotational (Non-) Invariance and Image Preprocessing"
+    authors:
+    - Lalit Jain
+    - M. Wilber
+    - Terry Boult
+    venue: Conference on Computer Vision and Pattern Recognition Biometrics Workshop (CVPRW 2013)
+
+  - year: 2012
+    title: "PRIVV: Private Remote Iris Authentication with Vaulted Verification"
+    authors:
+    - M. Wilber
+    - Walter J. Scheirer
+    - Terry Boult
+    venue: Conference on Computer Vision and Pattern Recognition Biometrics Workshop (CVPR 2012)
+
+  - year: 2012
+    title: "Secure Remote Matching with Privacy: Scrambled Support Vector Vaulted Verification (S2V3)"
+    authors:
+    - M. Wilber
+    - Terry Boult
+    venue: Workshop on Applications of Computer Vision (WACV 2012)
+
+# %2012& \textit{System and Method for Privacy
+# %  Security Enhanced Vaulted Verification}\\
+# %&{\small\textbf{Wilber, M.} Boult, T. E. Provisional patent
+# %  application.}\vspace{10pt} \\
+
+  - year: 2011
+    title: Face and Eye Detection on Hard Datasets
+    authors:
+    - Jon Parris
+    - M. Wilber
+    - Brian Heflin
+    - et. al.
+    venue: International Joint Conference on Biometrics (IJCB 2011)
+

@@ -1,7 +1,12 @@
 <ul>
-{%- for paper in papers.papers -%}
+{%- for paper in papers.paperList -%}
     <li>
+      <b>{{paper.year}}:</b>
       {{ paper.title }} 
+      {% for author in paper.authors %}
+        {{author}}{%- if not loop.last -%};{%- endif -%}
+      {% endfor %}
+      {{ paper.venue }}
     </li>
 {%- endfor -%}
 </ul>
