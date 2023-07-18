@@ -62,7 +62,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addExtension('tex', {
       outputFileExtension: 'pdf',
       compile: async function(inputContent, inputPath) {
-        let path = fs.mkdtempSync(os.tmpdir()) + '/output.pdf'
+        let path = fs.mkdtempSync(os.tmpdir() + '/') + 'output.pdf'
         await luatex(path, inputContent)
         return async ()=>{
           return fs.readFileSync(path);
