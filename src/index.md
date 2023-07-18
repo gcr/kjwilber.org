@@ -24,7 +24,9 @@ My hobbies include peer counseling, bouldering (still a beginner, VB-V1), liftin
 
 <ul>
   {%- for post in collections.posts -%}
+    {%- if loop.index < 5 -%}
     <li{% if page.url == post.url %} aria-current="page"{% endif %}>{{ post.data.page.date | htmlDateString }} — <a href='{{ post.url }}'>{{ post.data.title }}</a></li>
+    {%-endif-%}
   {%- endfor -%}
   <li><a href="/posts">View all posts</a></li>
 </ul>
