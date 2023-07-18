@@ -1,0 +1,379 @@
+% thanks to http://texblog.org/2012/04/25/writing-a-cv-in-latex/
+\documentclass[10pt,letterpaper]{article}
+\usepackage[margin=0.6in]{geometry}
+\usepackage{tikz}
+
+%\usepackage{showframe} % Debug margins
+\usepackage{graphicx}
+
+\usepackage{amssymb}
+
+\usepackage{enumitem}
+\setlist{nosep}
+
+\usepackage{longtable}
+\setlength{\LTpre}{0pt}
+\setlength{\LTpost}{0pt}
+
+\usepackage[math]{kurier} % nicer fonts
+% \usepackage[osf]{mathpazo} % Palatino, which is not bad.
+% \usepackage{tgpagella}
+\usepackage{url}
+
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage[us,12hr]{datetime}
+\setlength\parindent{0pt}
+\usepackage{array, xcolor}
+\definecolor{lightgray}{gray}{0.8}
+\newcolumntype{L}{>{\raggedleft}p{0.12\textwidth}}
+\newcolumntype{R}{p{0.85\textwidth}}
+\newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
+
+
+\usepackage{datetime}
+\usepackage{fancyhdr}
+\pagestyle{fancyplain}
+\fancyhf{}
+\rhead{\fancyplain{}{Page \thepage}}
+\chead{\fancyplain{Last modified: \today}{Kimberly Wilber}}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+\thispagestyle{plain}
+\begin{minipage}{0.60\textwidth}
+  \flushleft
+{\bfseries\Huge Kimberly J. Wilber}
+\vspace{-0.8em}
+\rule[0.7em]{\linewidth}{0.5mm}
+%\vspace{0.2em}
+Software Engineer, Google AI
+\hfill {She / Her}
+\end{minipage}
+\hfill
+\begin{minipage}[ht]{0.38\textwidth}
+\flushright{%wilmic1102@gmail.com
+kimberly@kjwilber.org
+\\{http://kjwilber.org}
+% \\111 8th Ave, Ste. 302
+% \\New York, NY 10011
+%\\(719) 237-8834
+%\\\url{http://github.com/gcr}
+}
+\end{minipage}
+\section*{Technical Skills}
+\vspace{-4pt}
+\begin{itemize}
+% \item \textbf{Biometrics and template protection.} \\
+%   Designed and implemented ``Vaulted Verification,'' a secure
+%   client/server authentication protocol. Applied Vaulted Verification
+%   to face and iris verification.
+% \item \textbf{Face recognition.} \\
+%   Helped
+\item \textbf{Research interests:} Computer vision, crowdsourcing, and machine learning. Specific areas include biometrics, object recognition, perceptual embeddings, and artistic style recognition.
+
+\item \textbf{Languages and Libraries:}
+  Fluent in Python, the scientific Python stack (numpy/scipy,
+  Cython, scikit-learn, scikit-image), Javascript, and
+  general purpose POSIX tools. %Reasonably familiar with Lua/Torch7,
+  Familiar with ML/CV tools (Torch7, Pytorch, OpenCV).
+  %Racket/Scheme, node.js,
+  %C (and to a lesser extent, C\kern-0.2ex\raisebox{0.4ex}{\scalebox{0.8}{+\kern-0.4ex+}}),
+  %\textsc{Matlab}, Java, and C\#.
+  %Familiar with several graphics libraries including OpenGL, OpenCV.
+  %Also fluent in presentation languages including \LaTeX , HTML, and CSS.
+  Contributor to open-source projects including node.js and Racket. Some experience with C and Java.
+\item \textbf{Linux Server Administration:}
+  Ten years of Debian, Ubuntu, and Arch Linux experience on server,
+  desktop, and cloud services (EC2, Digital\-Ocean). Managed over 20
+  Debian servers at
+  startups and university research labs.
+%Vision and Security Technology Laboratory at
+% the University of Colorado Colorado Springs (UCCS) and Securics,
+% Inc.
+%\item \textbf{Cluster Computing and ``Big Data'':}
+%  Skilled at parallelizing large experiments. Created internal
+%  projects with BOINC, the \emph{Berkeley Open Infrastructure for
+%    Network Computing}. Designed several frameworks for distributed
+%  computing in Python and
+%  Racket. %; subsequently used such frameworks on
+%  % 20 machines mentioned above to ensure experiments mentioned above
+%  % finished before deadline.
+%Can port \textsc{Matlab}/Python code to C.
+\end{itemize}
+% Languages?
+% play up "big data" system design
+\vspace{-8pt}
+
+\section*{Education}
+\begin{longtable}{L!{\VRule}R}
+2014--2018&\textbf{Ph.D. in Computer Science, Cornell Tech}\\
+&{\small Supported by the National Science Foundation Graduate Research Fellowship~(NSF~GRFP)}\vspace{5pt}\\
+2013--2014&Graduate studies at University of California, San Diego\\
+&{\small Transferred to Cornell to follow my advisor, Dr. Serge Belongie}\vspace{5pt}\\
+2009--2013&\textbf{Bachelor of Innovation in Computer Science, University
+of Colorado Colorado Springs} %(4.0~GPA)
+%\\
+%&{\small Supported by the Kane Family Foundation Scholarship, Braxton Scholarship}
+\vspace{5pt}\\
+% &{\small The Bachelor of Innovation is like a BS but places more emphasis on
+% teamwork and technical writing.}
+2008--2010&High-school concurrent classes at University of Colorado
+Colorado Springs %(4.0~GPA)
+\vspace{5pt}\\
+2007--2008&High-school concurrent classes at Colorado Technical
+University %(4.0~GPA)
+\end{longtable}
+\vspace{5pt}
+
+\section*{Professional Experience}
+% REU program
+% copy papers from website
+\begin{longtable}{L!{\VRule}R}
+  2018--Present&\textbf{Software Engineer, Google AI, New York, NY}
+\begin{itemize}
+\item Developing large-scale machine learning and computer vision applications in
+    collaboration with multiple teams.
+\vspace{-5pt}
+\end{itemize}
+\\
+  2017&\textbf{Summer Intern, Google Photos Team, Mountain View, CA}
+\begin{itemize}
+\item Implemented and tested prototyping tools for new user interactions
+\vspace{-5pt}
+\end{itemize}
+\\
+  2016&\textbf{Summer Intern, Adobe Research, San Jose, CA}
+\begin{itemize}
+\item Built systems to analyze millions of images and terabytes of data
+\vspace{-5pt}
+\end{itemize}
+\\
+  2014&\textbf{Summer Intern, Dropbox Photos Team, San Francisco, CA}
+\begin{itemize}
+\item Conducted product-focused computer vision research.
+\item Introduced our team to more efficient tools and technologies.
+\item Maintained a computer vision evaluation and experimentation pipeline.
+\vspace{-5pt}
+\end{itemize}
+\\
+  2014--2018&\textbf{Research Assistant, Cornell University, Cornell Tech NYC}
+\begin{itemize}
+\item Conducting research related to many areas of computer vision, including perceptual similarity, large-scale crowdsourcing, and object recognition.
+\item Helping establish and maintain the new vision group's presence at Cornell.
+\item Serving as TA for classes including four semesters of ``CS5785
+  Modern Analytics.''
+\vspace{-5pt}
+\end{itemize}
+\\
+  2013&\textbf{Research Assistant, University of California, San
+    Diego, CA}
+\begin{itemize}
+\item Conducted computer vision research: face
+  recognition, object recognition, perceptual similarity.
+\item Helped maintain servers and lab equipment.
+\vspace{-5pt}
+\end{itemize}
+\\
+2012--2013&\textbf{Software Engineer, Securics, Inc., Colorado
+  Springs, CO}
+\begin{itemize}
+\item Helped implement ``MugHunt,'' an attribute face search
+  engine. MugHunt was one of the most popular demos in its
+  session at CVPR 2012.
+\item Conducted face recognition experiments to evaluate academic and
+  commercial algorithms.
+%\item Performed research involving animal recognition in the
+  %Mojave desert.
+\vspace{-5pt}
+\end{itemize}
+\\
+2009--2013&{\bf Assistant Researcher, Vision and Security Technology
+  (VAST) Laboratory at UCCS, CO}
+\begin{itemize}
+\item Maintained laboratory equipment and over 20 Debian servers.
+\item Performed research on face detection and biometrics, including
+  biometric template protection.
+\item Designed and implemented a cluster computing framework for large-scale fingerprint matching.
+\item Helped organize the \emph{Face and Eye Detection on
+    Hard Datasets} Competition, IJCB 2011.
+\vspace{-5pt}
+\end{itemize}
+\\
+2011&{\bf Summer Researcher, NSF REU Program, University of Colorado
+  Colorado Springs, CO}
+\begin{itemize}
+\item Designed and implemented a privacy-enhanced biometric
+  authentication protocol, ``Vaulted Verification.'' This work
+  resulted in a provisional patent application, two first-author
+  conference papers, and scored fourth place in the \emph{2012 National
+    Security Innovation Competition} sponsored by the National
+  Homeland Defense Foundation.
+% \item Involved researching privacy-protected biometrics, security
+%   issues in networks and computer vision, and developing a framework
+%   for massively parallel distributed computing to complete experiments
+\vspace{-5pt}
+\end{itemize}
+\\
+2009--2010&\textbf{NSF RAHSS High School Intern, Securics, Inc.,
+  Colorado Springs, CO}
+\begin{itemize}
+\item Helped implement ``Verified Presence,'' a time-tracker
+  kiosk system that allows employers to verify employees' physical
+  attendance with fingerprints.
+\item Helped test and debug ``EPayNotary,'' a payment verification
+  service that integrates with PayPal. EPayNotary protects customers
+  by verifying the identity of merchant recipients.
+\vspace{-5pt}
+\end{itemize}
+\end{longtable}
+
+\section*{Publications}
+\begin{longtable}{L!{\VRule}R}
+
+&{\textit{Note that some work before 2018 is published under a previous name.}}\vspace{10pt}\\
+
+2019&\textit{%
+Understanding Image Quality and Trust in Peer-to-Peer Marketplaces
+}\\
+&{\small Ma, X.; Mezghani, L.; \textbf{Wilber, K.}; Hong, H.; Piramuthu, R.; Naaman, M.; Belongie, S. Winter Conference on Applications of Computer Vision (WACV 2019)}\vspace{10pt}\\
+
+2018&\textit{%
+Learning perceptual similarity from crowds and machines
+}\\&{\small \textbf{Wilber, M.} PhD Thesis, Cornell University, Ithaca,
+NY.}\vspace{10pt}\\
+
+2018&\textit{%
+Learning from Multi-domain Artistic Images for Arbitrary Style Transfer
+}\\
+&{\small Xu, Z.;, \textbf{Wilber, M.}; Fang, C.; Hertzmann, A.; Jin, H.}\vspace{10pt}\\
+
+2017&\textit{%
+BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography
+}\\
+&{\small \textbf{Wilber, M.}; Fang, C.; Jin, H.; Hertzmann, A.; Collomosse, J.; Belongie, S. International Conference on Computer Vision (ICCV~2017)}\vspace{10pt}\\
+
+2017&\textit{%
+Sketching with Style: Visual Search with Sketches and Aesthetic Context
+}\\
+&{\small
+  Collomosse, J.; Bui, T.; \textbf{Wilber, M.}; Fang, C.; Jin, H. International Conference on Computer Vision (ICCV~2017)
+}\vspace{10pt}\\
+
+2017&\textit{%
+  Crowd Research: Open and Scalable University Laboratories
+}\\
+&{\small
+  Vaish, R.; Gaikwad, S.; Kovacs, G.; Veit, A.; Krishna, R.; Ibarra, I. A.; Simoiu, C.; \textbf{Wilber, M.;} Belongie, S.; Goel, S.; Davis, J.; Bernstein, M.
+  User Interface Software and Technology Symposium (UIST~2017)
+}\vspace{10pt}\\
+
+2016&\textit{Residual Networks Behave Like Ensembles of Relatively Shallow Networks}\\
+&{\small Veit, A.; \textbf{Wilber, M.}; Belongie, S. Neural information processing systems (NIPS~2016)}\vspace{10pt}\\
+
+2015&\textit{Learning Concept Embeddings with Combined Human-Machine Expertise}\\
+&{\small \textbf{Wilber, M.}; Kwak, I. S.; Belongie, B. International Conference on Computer Vision (ICCV~2015)}\vspace{10pt}\\
+
+2015&\textit{On Optimizing Human-Machine Task Assignments}\\
+&{\small Veit, A.; \textbf{Wilber, M.}; Vaish, R.; Belongie, B.; Davis, J.; \emph{et al}. AAAI Conference on Human Computation and Crowdsourcing Work-in-Progress session (HCOMP~2015~WIP) }\vspace{10pt}\\
+
+2015&\textit{Image Representations and New Domains in Neural Image Captioning}\\
+&{\small Hessel, J.; Savva, N.;, \textbf{Wilber, M.} Workshop on Vision and Language Integration (VL~2015)}\vspace{10pt}\\
+
+2014&\textit{Cost-Effective HITs for Relative Similarity
+  Comparisons}\\
+&{\small \textbf{Wilber, M.}; Kwak, I. S.; Belongie; S. J. AAAI Conference on Human Computation and Crowdsourcing (HCOMP~2014)}\vspace{10pt}\\
+
+2014&\textit{Exemplar Codes: An Accurate and Efficient Mid-Level
+  Representation for Big Vision Problems}\\
+&{\small Rudd, E.; \textbf{Wilber, M.}; Boult, T. E.
+  Computer Vision and Pattern Recognition BigVision workshop (CVPR~2014)}\vspace{10pt}\\
+
+2014&\textit{Exemplar Codes for Facial Attributes and Tattoo
+  Recognition}\\
+&{\small \textbf{Wilber, M.}; Rudd, E.; Heflin, B.; Lui; Y. M.; Boult, T. E.
+    Winter Conference on Applications of Computer Vision (WACV 2014).}\vspace{10pt}\\
+
+2014&\textit{Good Recognition is Non-Metric}\\
+&{\small Scheirer, W. J.; \textbf{Wilber, M.}; Eckmann; M.; Boult; T.
+  E. Pattern Recognition 47 (8), 2014}\vspace{10pt}\\
+
+$\bigstar$ 2013&
+\textbf{Best paper award:}
+\textit{Animal Recognition in the Mojave Desert: Vision Tools
+    for Field Biologists}\\
+&{\small\textbf{Wilber, M.}; Scheirer, W.; Leitner,
+  P.; et al. Workshop on Applications of  Computer Vision (WACV~2013).
+}\vspace{10pt}\\
+% & \tikz{\node[color=white,fill=black, rounded corners=10pt]{$\bigstar$ \textbf{Best paper award.}}} \vspace{10pt}\\
+% &{\small\textbf{$\bigstar$ Best paper award.}}\vspace{10pt}\\
+
+2013& \textit{Issues in Rotational (Non-) Invariance and Image Preprocessing}\\
+&{\small Jain, L.; \textbf{Wilber, M.}; Boult, T.
+Conference on Computer Vision and Pattern Recognition Biometrics
+  Workshop (CVPR~2013)}\vspace{10pt}\\
+
+2012& \textit{PRIVV: Private Remote Iris Authentication with Vaulted
+    Verification}\\
+&{\small\textbf{Wilber, M.}; Scheirer, W.; Boult, T. E.
+  Conference on Computer Vision and Pattern Recognition Biometrics
+  Workshop (CVPR~2012)}\vspace{10pt}\\
+
+2012& \textit{Secure Remote Matching with Privacy: Scrambled Support
+    Vector Vaulted Verification (S$^2$V$^3$)}\\
+&{\small\textbf{Wilber, M.};
+  Boult, T. E.
+  Workshop on Applications of Computer Vision (WACV~2012)}\vspace{10pt}\\
+
+%2012& \textit{System and Method for Privacy
+%  Security Enhanced Vaulted Verification}\\
+%&{\small\textbf{Wilber, M.}; Boult, T. E. Provisional patent
+%  application.}\vspace{10pt} \\
+
+2011& \textit{Face and Eye Detection on Hard Datasets}\\
+& {\small Parris, J.; \textbf{Wilber, M.}; Heflin, B.; et al. International Joint Conference on Biometrics (IJCB~2011)}
+\end{longtable}
+
+
+
+% \vspace{3pt}
+% \section*{Conferences and Scholarships}
+% \begin{longtable}{L!{\VRule}R}
+% & \textbf{Student Volunteer} at several conferences:\\
+% CVPR & IEEE Conference on Computer Vision and Pattern Recognition 2011, 2012, 2013, 2014, 2015\\
+% WACV & Winter conference on Applied Computer Vision 2012, 2013, 2014
+% \vspace{3pt}\\
+
+% 2013--2016&\textbf{National Science Foundation GRFP Awardee}, UCSD/Cornell\vspace{3pt}\\
+
+% 2010--2013&\textbf{Dean's List}, UCCS\vspace{3pt}\\
+
+% 2010--2013&\textbf{Kane Family Foundation Scholarship Recipient},
+% Full tuition and books, UCCS\vspace{3pt}\\
+
+% 2010--2013&\textbf{Braxton Scholarship Recipient}, UCCS
+
+% \end{longtable}
+% \vspace{3pt}
+% FDHD at IJCB2012
+
+\end{document}
+
+% Education:
+% Fall 2010 – Present
+% Fall 2008 – Fall 2010
+% High-school concurrent student at UCCS
+% Fall 2007 - Fall 2008
+% Student for one year at Colorado Springs Early Colleges. Transferred to UCCS with a 4.0 GPA.
+% Relevant Skills:
+% Employment
+% Works at the UCCS Vision And Security Technology lab from 2009 – present. Worked at Securics, Inc. as a National Science Foundation high school intern from Winter 2009 – Summer 2010.
+% Programming
+% Fluent in C#, Python,  Javascript, HTML/CSS, and general purpose Debian Linux tools; two formal courses of Java and C; limited experience with C++, PHP, MySQL, Ruby, Racket, and OpenGL.
+% Administration
+% Six years of Debian and Ubuntu home server administration experience, working for two years as an assistant system administrator for VAST lab, family wireless network / printer manager, 10+ years unpaid technical support for friends and family, general knowledge of Windows operating systems.
+% Projects
+% Past projects include “Goggles,” a web-based collaborative drawing tool currently licensed to local company Synapse Software, a language-agnostic robot programming game, a web-based collaborative text editor, and other exploratory projects.
+% Extracurricular:
+% Played piano from 2000-2007, participated in many recitals. Boy Scout from 2004-2007, earned the rank of Star Scout. Participated in the 2006 Wapiti Boy Scout Leadership Training course. Awarded “2005 Justin Morrill Memorial Award” at an Innovations with Industry summer electrical engineering program. Currently learning guitar.
+% References are available on request.
