@@ -6,6 +6,8 @@ const { DateTime } = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const yaml = require('js-yaml');
+const luatex = require('netlify-lualatex').default;
+const os = require('os');
 
 nodePandoc = util.promisify(nodePandoc_)
 
@@ -28,7 +30,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addDataExtension("yaml", contents => yaml.load(contents));
 
   
-    eleventyConfig.addTemplateFormats('org')
+    eleventyConfig.addTemplateFormats('org');
     eleventyConfig.addExtension('org', {
       compile: async (inputContent, inputPath) => {
         const output = await nodePandoc(inputContent, "-f org -t html")
@@ -55,6 +57,18 @@ module.exports = function(eleventyConfig) {
         return {"data": data};
       }
     });
+
+    eleventyConfig.addTemplateFormats('tex');
+    eleventyConfig.addExtension('tex', {
+      outputFileExtension: 'pdf',
+      compile: async function(inputContent, inputPath) {
+        let path = fs.mkdtempSync(os.tmpdir()) + '/output.pdf'
+        await luatex(path, inputContent)
+        return async ()=>{
+          return fs.readFileSync(path);
+        }
+      }
+    })
 
   /* From: https://github.com/artstorm/eleventy-plugin-seo
   

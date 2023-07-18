@@ -17,6 +17,7 @@
     "eleventy-plugin-seo": "^0.5.2",
     "handlebars": "^4.7.7",
     "luxon": "^3.3.0",
+    "netlify-lualatex": "^1.2.1",
     "node-pandoc": "^0.3.0"
   }
 }
