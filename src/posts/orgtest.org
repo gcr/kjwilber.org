@@ -1,12 +1,9 @@
-:PROPERTIES
-:ID: abcdefg
-:END:
 #+title: org-posts
 #+date: <2023-07-17 Mon>
-#+layout: post.njk
 
 This is a test of org post ?
 * Foo
 ** Bar
 Testing
-[ ] Baz
+
+- [X] Baz

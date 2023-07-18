@@ -9,6 +9,7 @@ templateClass: tmpl-home
   <div class="content">
     {{ content | safe }}
     
+    <h1>Posts</h1>
     {# After the the content defined in index.md, list the blog posts in the collection #}
     <ul>
       {%- for post in collections.posts -%}
@@ -17,9 +18,9 @@ templateClass: tmpl-home
       <li><a href="/posts">View all posts</a></li>
     </ul>
 
-<h2>Papers</h2>
-    {% include "papers.njk" %}
-  </div>
+    <h1>Papers</h1>
+      {% include "papers.njk" %}
+    </div>
 </div>
 
 
