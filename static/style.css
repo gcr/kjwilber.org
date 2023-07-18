@@ -63,6 +63,9 @@ header a {
   border-bottom: none !important;
   padding: 0 0.5rem 0.5rem;
 }
+header a.active {
+  color: var(--color-text-main);
+}
 
 /******************************************************************************
 END Glitch hello-app default styles
@@ -219,4 +222,10 @@ a:hover{
 }
 .controls {
   margin: 3rem 0 2rem;
+}
+
+/* Figures */
+.caption {
+  color: #888;
+  font-size: 0.8rem;
 }

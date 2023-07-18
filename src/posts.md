@@ -1,10 +1,12 @@
 ---
 layout: page.njk
+title: Blog
+eleventyNavigation:
+  key: Blog
+  order: 2
 ---
 
 # Posts
-
-Write some details about your post lists. Or don't, and remove this!
 
 <ul>
     {%- for post in collections.posts -%}

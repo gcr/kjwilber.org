@@ -1,5 +1,8 @@
 ---
 layout: home.njk
+eleventyNavigation:
+  key: Home
+  order: 0
 ---
 
 <div class="illo-container">
@@ -18,7 +21,7 @@ My hobbies include peer counseling, bouldering (still a beginner, VB-V1), liftin
 - [Mastadon](https://hachyderm.io/@ghostynewt)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=OAtUvx0AAAAJ&view_op=list_works&sortby=pubdate)
 
-# Scraps
+# Posts
 
 <ul>
   {%- for post in collections.posts -%}
@@ -27,9 +30,34 @@ My hobbies include peer counseling, bouldering (still a beginner, VB-V1), liftin
   <li><a href="/posts">View all posts</a></li>
 </ul>
 
-# Papers
+# Selected Papers
 
-...
+<table>
+{%- for paper in papers.paperList -%}
+{%- if paper.spotlight -%}
+<tr>
+<td><h4> {{paper.spotlight.oneline}}</h4>
+<ul>
+    <li>
+      <b>{{paper.year}}:</b>
+      {%if paper.url-%}
+        <a href="{{paper.url}}">{{paper.title}}</a>
+      {%-else-%}
+        <b>{{ paper.title }}</b>
+      {%-endif%}
+      {% for author in paper.authors -%}
+        {{author}}{%- if not loop.last %};{%else%}.{% endif  %}
+      {% endfor -%}
+      <em>{{ paper.venue }}</em>
+    </li>
+  </ul></td>
+<td class="caption">
+  {{paper.spotlight.caption}}
+</td>
+</tr>
+{%- endif -%}
+{%- endfor -%}
+</table>
 
 # Support
 Throughout my academic career, I am grateful to be supported by Dr. Serge Belongie, the NSF Graduate Research Fellowship, Oath, Google, Adobe, the faculty and staff at Cornell Tech, and and my friends, family, partners, and community. I am an [Oath PhD fellow](http://cx.jacobs.cornell.edu/). I also participated at the NSF REU program at UCCS in Summer 2011.

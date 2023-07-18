@@ -80,6 +80,7 @@ paperList:
 
   - year: 2019
     title: Understanding Image Quality and Trust in Peer-to-Peer Marketplaces
+    url: https://arxiv.org/abs/1811.10648
     authors:
     - Xiao Ma
     - Lina Mezghani
@@ -89,6 +90,10 @@ paperList:
     - Mor Naaman
     - Serge Belongie
     venue: Winter Conference on Applications of Computer Vision (WACV 2019)
+    spotlight:
+      oneline: Online Trust
+      caption: |
+        We created a system that can understand the aesthetic quality of user-created photos on online marketplaces like Letgo or eBay. This was a collaboration between Cornell Tech, eBay, and the Oath connected experiences lab.
 
   - year: 2018
     title: Learning perceptual similarity from crowds and machines
@@ -108,6 +113,7 @@ paperList:
 
   - year: 2017
     title: "BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography"
+    url: https://arxiv.org/abs/1704.08614
     authors:
     - M. Wilber
     - Chen Fang
@@ -116,6 +122,10 @@ paperList:
     - John Collomosse
     - Serge Belongie
     venue: International Conference on Computer Vision (ICCV 2017)
+    spotlight:
+      oneline: Artistic Aesthetics
+      caption: |
+        We taught a computer about artwork! Our efforts led to the creation of "BAM," currently the largest semisupervised dataset of digital artwork on the Internet freely available for researchers.
 
   - year: 2017
     title: "Sketching with Style: Visual Search with Sketches and Aesthetic Context"
@@ -146,19 +156,29 @@ paperList:
 
   - year: 2016
     title: Residual Networks Behave Like Ensembles of Relatively Shallow Networks
+    url: https://arxiv.org/abs/1605.06431
     authors:
     - Andreas Veit
     - M. Wilber
     - Serge Belongie
     venue: Neural information processing systems (NIPS 2016)
+    spotlight:
+      oneline: Deep learning theory
+      caption: |
+        What happens when you perform brain surgery on a ResNet? Surprisingly, performance still stays the same when deleting several layers, even without fine-tuning. We investigate why in this paper.
 
   - year: 2015
     title: Learning Concept Embeddings with Combined Human-Machine Expertise
+    url: http://arxiv.org/abs/1509.07479
     authors:
     - M. Wilber
     - Iljung Sam Kwak
     - Serge Belongie
     venue: International Conference on Computer Vision (ICCV 2015)
+    spotlight:
+      oneline: Human-in-the-loop with efficient crowdsourcing
+      caption: |
+        We built "SNaCK", a system that combines expert constraints with deep-learning similarity kernels to understand intuitive ideas like the taste of food or the visual similarity of different classes of animals.
 
   - year: 2015
     title: On Optimizing Human-Machine Task Assignments
@@ -182,11 +202,16 @@ paperList:
 
   - year: 2014
     title: Cost-Effective HITs for Relative Similarity Comparisons
+    url: http://arxiv.org/abs/1404.3291
     authors:
     - M. Wilber
     - Iljung Sam Kwak
     - Serge Belongie
     venue: AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2014)
+    spotlight:
+      oneline: Human In-the-Loop with efficient crowdsourcing
+      caption: |
+        This project studied how best to ask human experts about food taste similarity. We showed that we could pay our Amazon Mechanical Turk workers more by collecting their input using more efficient UIs for higher-quality results.
 
   - year: 2014
     title: "Exemplar Codes: An Accurate and Efficient Mid-Level Representation for Big Vision Problems"
@@ -208,22 +233,32 @@ paperList:
 
   - year: 2014
     title: Good Recognition is Non-Metric
+    url: http://mjwilber.org/papers/wjs_pr2014_metric.pdf
     authors:
     - Walter J. Scheirer
     - M. Wilber
     - Michael Eckmann
     - Terry Boult
     venue: E. Pattern Recognition 47 (8), 2014
+    spotlight:
+      oneline: Metric Learning
+      caption: |
+        On flagship datasets like LFW and Caltech-256, the current top performing algorithms at time of writing do not satisfy the triangle inequality, symettricity, or even identity. Why are top-performing algorithms non-metric?
 
   - year: 2013
     title: "Animal Recognition in the Mojave Desert: Vision Tools for Field Biologists"
     best_paper: true
+    url: http://mjwilber.org/papers/vision-tools-2013.pdf
     authors:
     - M. Wilber
     - Walter J. Scheirer
     - Phil Leitner
     - et. al.
     venue: Workshop on Applications of  Computer Vision (WACV 2013)
+    spotlight:
+      caption: |
+        Our team built a system to help scientists track the population of endangered ground squirrels and desert tortoises living near the Edwards Air Force Base in the Mojave Desert. This is a challenging detection and recognition task - the animals of interest are only a few pixels tall and are easily confused with non-endangered species.
+      oneline: Wildlife conservation
 
   - year: 2013
     title: "Issues in Rotational (Non-) Invariance and Image Preprocessing"
@@ -240,6 +275,11 @@ paperList:
     - Walter J. Scheirer
     - Terry Boult
     venue: Conference on Computer Vision and Pattern Recognition Biometrics Workshop (CVPR 2012)
+    url: http://mjwilber.org/papers/vv-iris-2012.pdf
+    spotlight:
+      caption: |
+        Most biometrics systems compromise users' privacy by storing their data in large biometrics databases that can be searched by law enforcement and rogue actors. Our Vaulted Verification work allows users to authenticate their accounts, but requires their cooperation to verify their identity, so it cannot be used in large-scale search databases.
+      oneline: Biometrics without privacy compromise
 
   - year: 2012
     title: "Secure Remote Matching with Privacy: Scrambled Support Vector Vaulted Verification (S2V3)"

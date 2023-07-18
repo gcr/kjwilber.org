@@ -10,21 +10,21 @@ const luatex = require("netlify-lualatex").default;
 const os = require("os");
 const process = require("process");
 const nunjucks = require("nunjucks");
+const navigation = require('@11ty/eleventy-navigation');
+const eleventyNavigation = require("@11ty/eleventy-navigation");
 
 const isDevServer = /serve/.test(process.argv.join(" "));
 
 nodePandoc = util.promisify(nodePandoc_);
 
 const metadata = {
-  "glitch-help-instructions":
-    "For a custom domain, change the 'url' parameter from 'glitch-default' to your domain _without_ a traling slash, like 'https://www.example.com'",
-  title: "Hello Eleventy!",
+  title: "Kimmy's Site",
   description:
-    "A simple Eleventy blog, built with Glitch. Remix it to get your own.",
+    "Personal webpage of Kimberly Wilber",
   language: "en",
   url: "https://kjwilber.org",
   image:
-    "https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-eleventy-social.png?v=1616712747908",
+    "/static/kimmy-profile.jpg",
   author: {
     name: "Kimberly Wilber",
     email: "kimmy@kjwilber.org",
@@ -99,6 +99,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(pluginSEO, metadata);
 
+  eleventyConfig.addPlugin(eleventyNavigation);
+
   // RSS support
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addGlobalData("metadata", metadata);
@@ -118,7 +120,10 @@ module.exports = function (eleventyConfig) {
 
     // EDIT HERE WITH THE CODE FROM THE NEXT STEPS PAGE TO REVERSE CHRONOLOGICAL ORDER
     // (inspired by https://github.com/11ty/eleventy/issues/898#issuecomment-581738415)
-    const coll = collection.getFilteredByTag("posts");
+    const coll = collection
+      .getFilteredByTag("posts")
+      .sort((a, b) => b.data.date - a.data.date)
+      .reverse();
 
     // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
     // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates
