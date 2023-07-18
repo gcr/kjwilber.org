@@ -152,10 +152,11 @@ h1.title {
   
 }
 h1 {
-  font-size: 4rem;
+  font-size: 3rem;
     background: -webkit-linear-gradient(45deg, var(--accent-4), var(--accent-3));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  width: fit-content;
 }
 h2 {
   font-size: 2rem;
@@ -220,16 +221,18 @@ a:hover{
 .illo-container {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  align-items: end;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
 }
 .illustration {
   max-width: 200px;
+  min-width: 50px;
   /*max-height: var(--image-max-width);*/
   /*margin-top: 1rem;
   margin-right: 2rem;*/
   /* transform: rotate(1deg);*/
-  align: right;
+  /*align: right;*/
 }
 
 /* Post */

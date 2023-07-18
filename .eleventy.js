@@ -74,8 +74,6 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
 
-  eleventyConfig.setBrowserSyncConfig({ ghostMode: false });
-
   /* Build the collection of posts to list in the site
      - Read the Next Steps post to learn how to extend this
   */

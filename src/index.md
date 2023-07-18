@@ -64,3 +64,10 @@ You can change the layout of all the files as long as you know what you're doing
 </div>
 
 # Posts
+
+<ul>
+{%- for post in collections.posts -%}
+<li>{{ post.data.title }}</li>
+{%- endfor -%}
+</ul>
+      
