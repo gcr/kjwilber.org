@@ -103,12 +103,8 @@ p {
   line-height: 1.5 !important;
   font-size: 1rem;
 }
-h1,
-h2,
-h3,
-h4,
-h5 {
-  margin: 2rem 0 .8rem;
+h1, h2, h3, h4, h5 {
+  margin: 1.5rem 0 .8rem;
   font-family: var(--font-family-header);
   font-weight: 600;
   line-height: 1.1;

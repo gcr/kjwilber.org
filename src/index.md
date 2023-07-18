@@ -15,8 +15,7 @@ Hello! I'm a machine learning researcher in NYC currently working as a software 
 
 My hobbies include peer counseling, bouldering (still a beginner, VB-V1), lifting (beginner), hiking, and finding delicious quiet places in the city to drink tea and read books.
 
-## Around the Web
-
+## Find me around the web
 - [LinkedIn](https://www.linkedin.com/in/kwilber/)
 - [Mastadon](https://hachyderm.io/@ghostynewt)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=OAtUvx0AAAAJ&view_op=list_works&sortby=pubdate)
@@ -65,3 +64,6 @@ Throughout my academic career, I am grateful to be supported by Dr. Serge Belong
 ## Contact
 
 You can find my contact details on my [CV](/cv/cv.pdf) or my [LinkedIn page](https://www.linkedin.com/in/kwilber/).
+
+
+<img src="/static/figures/cornell-tech.png" style="margin: 10vh auto; max-width: 15vw;" />
