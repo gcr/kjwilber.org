@@ -1,38 +1,60 @@
 const nodePandoc_ = require('node-pandoc');
 const util = require('util');
+const fs = require('fs');
 //const nodePandoc = util.promisify(nodePandoc_)
+const { DateTime } = require("luxon");
+const pluginSEO = require("eleventy-plugin-seo");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+const yaml = require('js-yaml');
 
 nodePandoc = util.promisify(nodePandoc_)
 
+const metadata = {
+    "glitch-help-instructions": "For a custom domain, change the 'url' parameter from 'glitch-default' to your domain _without_ a traling slash, like 'https://www.example.com'",
+  "title": "Hello Eleventy!",
+  "description": "A simple Eleventy blog, built with Glitch. Remix it to get your own.",
+  "language": "en",
+  "url": "https://kjwilber.org",
+  "image": "https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-eleventy-social.png?v=1616712747908",
+  "author": {
+    "name": "Kimberly Wilber",
+    "email": "kimmy@kjwilber.org"
+  }
+}
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static");
 
+    eleventyConfig.addDataExtension("yaml", contents => yaml.load(contents));
+
+  
     eleventyConfig.addTemplateFormats('org')
     eleventyConfig.addExtension('org', {
       compile: async (inputContent, inputPath) => {
         const output = await nodePandoc(inputContent, "-f org -t html")
-        console.log("Result:", output)
         return async () => {
           return output
         }
       },
+      getData: true,
+      getInstanceFromInputPath: async (inputPath)=>{
+        let data = {};
+        fs.readFileSync(inputPath, 'utf-8')
+          .split(/\r?\n/).forEach(line =>  {
+            let match = /^#\+(.*): (.*)/.exec(line);
+            if (match) {
+              let key = match[1].toLowerCase(),
+                  val = match[2].trim();
+              if (key == 'date') {
+                data['date'] = val.split(" ")[0].replace(/<|>/g, "");
+              } else {
+                data[key] = val;
+              }
+            }
+          });
+        return {"data": data};
+      }
     });
-
-    eleventyConfig.setTemplateFormats([
-    // Templates:
-    "html",
-    "njk",
-    "md",
-    // Static Assets:
-    "css",
-    "jpeg",
-    "jpg",
-    "png",
-    "svg",
-    "woff",
-    "woff2"
-  ]);
 
   /* From: https://github.com/artstorm/eleventy-plugin-seo
   
@@ -40,20 +62,19 @@ module.exports = function(eleventyConfig) {
   The "glitch-default" bit allows someone to set the url in seo.json while
   still letting it have a proper glitch.me address via PROJECT_DOMAIN
   */
-  /*
-  const seo = require("./src/seo.json");
-  if (seo.url === "glitch-default") {
-    seo.url = `https://${process.env.PROJECT_DOMAIN}.glitch.me`;
-  }
-  eleventyConfig.addPlugin(pluginSEO, seo);
-  */
 
+  eleventyConfig.addPlugin(pluginSEO, metadata);
+
+  // RSS support
+  eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addGlobalData("metadata", metadata);
+  
   // Filters let you modify the content https://www.11ty.dev/docs/filters/
   eleventyConfig.addFilter("htmlDateString", dateObj => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
 
-  //eleventyConfig.setBrowserSyncConfig({ ghostMode: false });
+  eleventyConfig.setBrowserSyncConfig({ ghostMode: false });
 
   /* Build the collection of posts to list in the site
      - Read the Next Steps post to learn how to extend this
@@ -85,8 +106,8 @@ module.exports = function(eleventyConfig) {
   
   return {
     "dir": {
-      "input": "source",
-      "layouts": "layouts"
+      "input": "src",
+      //"layouts": "layouts"
     }
   }
 }
