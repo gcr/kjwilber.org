@@ -52,7 +52,10 @@ My hobbies include peer counseling, bouldering (still a beginner, VB-V1), liftin
       <em>{{ paper.venue }}</em>
     </li>
   </ul></td>
-<td class="caption">
+<td class="figure">
+  {%if paper.spotlight.figure-%}
+    <img src="{{paper.spotlight.figure}}" />
+  {%-endif%}
   {{paper.spotlight.caption}}
 </td>
 </tr>

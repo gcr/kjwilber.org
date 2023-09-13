@@ -91,6 +91,7 @@ paperList:
     - Serge Belongie
     venue: Winter Conference on Applications of Computer Vision (WACV 2019)
     spotlight:
+      figure: /static/figures/shoes-handbags.png
       oneline: Online Trust
       caption: |
         We created a system that can understand the aesthetic quality of user-created photos on online marketplaces like Letgo or eBay. This was a collaboration between Cornell Tech, eBay, and the Oath connected experiences lab.
@@ -123,6 +124,7 @@ paperList:
     - Serge Belongie
     venue: International Conference on Computer Vision (ICCV 2017)
     spotlight:
+      figure: /static/figures/bam.png
       oneline: Artistic Aesthetics
       caption: |
         We taught a computer about artwork! Our efforts led to the creation of "BAM," currently the largest semisupervised dataset of digital artwork on the Internet freely available for researchers.
@@ -163,6 +165,7 @@ paperList:
     - Serge Belongie
     venue: Neural information processing systems (NIPS 2016)
     spotlight:
+      figure: /static/figures/resnet.png
       oneline: Deep learning theory
       caption: |
         What happens when you perform brain surgery on a ResNet? Surprisingly, performance still stays the same when deleting several layers, even without fine-tuning. We investigate why in this paper.
@@ -176,6 +179,7 @@ paperList:
     - Serge Belongie
     venue: International Conference on Computer Vision (ICCV 2015)
     spotlight:
+      figure: /static/figures/snack.png
       oneline: Human-in-the-loop with efficient crowdsourcing
       caption: |
         We built "SNaCK", a system that combines expert constraints with deep-learning similarity kernels to understand intuitive ideas like the taste of food or the visual similarity of different classes of animals.
@@ -209,6 +213,7 @@ paperList:
     - Serge Belongie
     venue: AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2014)
     spotlight:
+      figure: /static/figures/food101.png
       oneline: Human In-the-Loop with efficient crowdsourcing
       caption: |
         This project studied how best to ask human experts about food taste similarity. We showed that we could pay our Amazon Mechanical Turk workers more by collecting their input using more efficient UIs for higher-quality results.
@@ -241,6 +246,7 @@ paperList:
     - Terry Boult
     venue: E. Pattern Recognition 47 (8), 2014
     spotlight:
+      figure: /static/figures/nonmetric.png
       oneline: Metric Learning
       caption: |
         On flagship datasets like LFW and Caltech-256, the current top performing algorithms at time of writing do not satisfy the triangle inequality, symettricity, or even identity. Why are top-performing algorithms non-metric?
@@ -256,6 +262,7 @@ paperList:
     - et. al.
     venue: Workshop on Applications of  Computer Vision (WACV 2013)
     spotlight:
+      figure: /static/figures/mojave.png
       caption: |
         Our team built a system to help scientists track the population of endangered ground squirrels and desert tortoises living near the Edwards Air Force Base in the Mojave Desert. This is a challenging detection and recognition task - the animals of interest are only a few pixels tall and are easily confused with non-endangered species.
       oneline: Wildlife conservation
@@ -277,6 +284,7 @@ paperList:
     venue: Conference on Computer Vision and Pattern Recognition Biometrics Workshop (CVPR 2012)
     url: http://mjwilber.org/papers/vv-iris-2012.pdf
     spotlight:
+      figure: /static/figures/privv.png
       caption: |
         Most biometrics systems compromise users' privacy by storing their data in large biometrics databases that can be searched by law enforcement and rogue actors. Our Vaulted Verification work allows users to authenticate their accounts, but requires their cooperation to verify their identity, so it cannot be used in large-scale search databases.
       oneline: Biometrics without privacy compromise
