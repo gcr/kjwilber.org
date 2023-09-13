@@ -17,9 +17,10 @@ My hobbies include peer counseling, bouldering (still a beginner, VB-V1), liftin
 
 ## Find me around the web
 - [LinkedIn](https://www.linkedin.com/in/kwilber/)
-- [Mastadon](https://hachyderm.io/@ghostynewt)
+<!-- - [Mastadon](https://hachyderm.io/@ghostynewt) -->
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=OAtUvx0AAAAJ&view_op=list_works&sortby=pubdate)
 
+{% if false %}
 # Posts
 
 <ul>
@@ -30,23 +31,37 @@ My hobbies include peer counseling, bouldering (still a beginner, VB-V1), liftin
   {%- endfor -%}
   <li><a href="/posts">View all posts</a></li>
 </ul>
+{% endif %}
 
 # Selected Papers
 
+This is an excerpt. [View all publications...](/publications)
+
 <table>
+{%- set prev_year = 0 -%}
 {%- for paper in papers.paperList -%}
 {%- if paper.spotlight -%}
+
 <tr>
-<td><h4> {{paper.spotlight.oneline}}</h4>
+  {%- if prev_year != paper.year -%}
+  <tr><td><h2>{{paper.year}}</h2></td></tr>
+  {%- endif -%}
+  {%- set prev_year = paper.year -%}
+  <tr>
+    <td><h4> {{paper.spotlight.oneline}}</h4>
 <ul>
     <li>
-      <b>{{paper.year}}:</b>
-      {%if paper.url-%}
-        <a href="{{paper.url}}">{{paper.title}}</a>
-      {%-else-%}
-        <b>{{ paper.title }}</b>
-      {%-endif%}
-      {% for author in paper.authors -%}
+      {%- if paper.pdf -%}
+      [<a href="/static/pdfs/{{paper.pdf}}">PDF</a>]&nbsp;
+      {%- endif -%}
+      {%- if paper.arxiv -%}
+      [<a href="https://arxiv.org/abs/{{paper.arxiv}}/">arXiv</a>]&nbsp;
+      {%- endif -%}
+      {%- if paper.url -%}
+      [<a href="{{paper.url}}">link</a>]
+      {%- endif -%}
+      <b>{{ paper.title }}</b><br />
+      {%- for author in paper.authors -%}
         {{author}}{%- if not loop.last %};{%else%}.{% endif  %}
       {% endfor -%}
       <em>{{ paper.venue }}</em>
@@ -62,6 +77,8 @@ My hobbies include peer counseling, bouldering (still a beginner, VB-V1), liftin
 {%- endif -%}
 {%- endfor -%}
 </table>
+
+[View all publications](/publications)
 
 # Support
 Throughout my academic career, I am grateful to be supported by Dr. Serge Belongie, the NSF Graduate Research Fellowship, Oath, Google, Adobe, the faculty and staff at Cornell Tech, and and my friends, family, partners, and community. I am an [Oath PhD fellow](http://cx.jacobs.cornell.edu/). I also participated at the NSF REU program at UCCS in Summer 2011.

@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: Blog
-eleventyNavigation:
+eleventyNavigation__DISABLED:
   key: Blog
   order: 2
 ---

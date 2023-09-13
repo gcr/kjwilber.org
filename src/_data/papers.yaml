@@ -2,6 +2,8 @@ paperList:
 
   - year: 2022
     title: On Label Granularity and Object Localization
+    arxiv: 2207.10225
+    pdf: on-label-granularity-and-object-localization.pdf
     authors:
     - Elijah Cole
     - Kimberly Wilber
@@ -16,6 +18,8 @@ paperList:
 
   - year: 2022
     title: Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset
+    arxiv: 2207.10664
+    pdf: exploring-fine-grained-audiovisual-categorization-ssw60.pdf
     authors:
     - Grant Van Horn
     - Rui Qian
@@ -27,6 +31,8 @@ paperList:
 
   - year: 2022
     title: When Does Contrastive Visual Representation Learning Work?
+    arxiv: 2105.05837
+    pdf: when-does-contrastive-visual-representation-learning-work.pdf
     authors:
     - Elijah Cole
     - Xuan Yang
@@ -37,6 +43,8 @@ paperList:
 
   - year: 2021
     title: Benchmarking Representation Learning for Natural World Image Collections
+    arxiv: 2103.16483
+    pdf: benchmarking-natural-image-collections.pdf
     authors:
     - Grant Van Horn
     - Elijah Cole
@@ -48,6 +56,8 @@ paperList:
 
   - year: 2021
     title: On the Reproducibility of Neural Network Predictions
+    arxiv: 2102.03349
+    pdf: on-reproducibility-of-nn-predictions.pdf
     authors:
     - Srinadh Bhojanapalli
     - Kimberly Wilber
@@ -60,6 +70,8 @@ paperList:
 
   - year: 2021
     title: Bridging the Gap Between Object Detection and User Intent via Query-Modulation
+    arxiv: 2106.10258
+    pdf: query-modulated-localizer.pdf
     authors:
     - Marco Fornoni
     - Chaochao Yan
@@ -73,6 +85,8 @@ paperList:
 
   - year: 2020
     title: Improving Calibration in Deep Metric Learning With Cross-Example Softmax
+    arxiv: 2011.08824
+    pdf: cross-example-softmax.pdf
     authors:
     - Andreas Veit
     - Kimberly Wilber
@@ -80,7 +94,8 @@ paperList:
 
   - year: 2019
     title: Understanding Image Quality and Trust in Peer-to-Peer Marketplaces
-    url: https://arxiv.org/abs/1811.10648
+    arxiv: 1811.10648
+    pdf: understanding-image-quality-and-trust.pdf
     authors:
     - Xiao Ma
     - Lina Mezghani
@@ -100,10 +115,13 @@ paperList:
     title: Learning perceptual similarity from crowds and machines
     authors: 
     - M. Wilber
-    venue: PhD Thesis, Cornell University, Ithaca, NY.
+    venue: PhD Thesis, Cornell University, Ithaca, NY. Advised by Serge Belongie.
+    pdf: wilber_thesis.pdf
 
   - year: 2018
     title: Learning from Multi-domain Artistic Images for Arbitrary Style Transfer
+    pdf: arbitrary-style-transfer.pdf
+    arxiv: 1805.09987
     authors:
     - Zheng Xu
     - M. Wilber
@@ -114,7 +132,8 @@ paperList:
 
   - year: 2017
     title: "BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography"
-    url: https://arxiv.org/abs/1704.08614
+    arxiv: 1704.08614
+    pdf: bam-dataset.pdf
     authors:
     - M. Wilber
     - Chen Fang
@@ -129,8 +148,10 @@ paperList:
       caption: |
         We taught a computer about artwork! Our efforts led to the creation of "BAM," currently the largest semisupervised dataset of digital artwork on the Internet freely available for researchers.
 
+
   - year: 2017
     title: "Sketching with Style: Visual Search with Sketches and Aesthetic Context"
+    pdf: sketching-with-style.pdf
     authors:
     - John Collomosse
     - Tu Bui
@@ -141,6 +162,7 @@ paperList:
 
   - year: 2017
     title: "Crowd Research: Open and Scalable University Laboratories"
+    pdf: crowd-research-uist.pdf
     authors:
     - Rajan Vaish
     - Snehalkumar (Neil) S. Gaikwad
@@ -158,7 +180,8 @@ paperList:
 
   - year: 2016
     title: Residual Networks Behave Like Ensembles of Relatively Shallow Networks
-    url: https://arxiv.org/abs/1605.06431
+    arxiv: 1605.06431
+    pdf: resnets-ensembles.pdf
     authors:
     - Andreas Veit
     - M. Wilber
@@ -170,9 +193,33 @@ paperList:
       caption: |
         What happens when you perform brain surgery on a ResNet? Surprisingly, performance still stays the same when deleting several layers, even without fine-tuning. We investigate why in this paper.
 
+  - year: 2016
+    title: Training and investigating Residual Nets
+    url: http://torch.ch/blog/2016/02/04/resnets.html
+    authors:
+    - Sam Gross
+    - M. Wilber
+    venue: Tech report (Torch blog)
+
+  - year: 2016
+    title: "Can we still avoid automatic face detection?"
+    authors:
+    - M. Wilber
+    - Vitaly Shmatikov
+    - Serge Belongie
+    venue: Winter Conference on Applications of Computer Vision (WACV 2016)
+    arxiv: 1602.04504
+    pdf: can-we-avoid-face-detection.pdf
+    spotlight:
+      figure: /static/figures/face-detection.png
+      oneline: Biometric Privacy
+      caption: |
+        Can you see the face in each of these images? Facebook's automatic face detector can detect and localize all six faces shown above, even when the uploader takes steps to hide it.
+
   - year: 2015
     title: Learning Concept Embeddings with Combined Human-Machine Expertise
-    url: http://arxiv.org/abs/1509.07479
+    arxiv: 1509.07479
+    pdf: concept-embeddings.pdf
     authors:
     - M. Wilber
     - Iljung Sam Kwak
@@ -180,7 +227,7 @@ paperList:
     venue: International Conference on Computer Vision (ICCV 2015)
     spotlight:
       figure: /static/figures/snack.png
-      oneline: Human-in-the-loop with efficient crowdsourcing
+      oneline: Humans and Machines
       caption: |
         We built "SNaCK", a system that combines expert constraints with deep-learning similarity kernels to understand intuitive ideas like the taste of food or the visual similarity of different classes of animals.
 
@@ -194,10 +241,14 @@ paperList:
     - James Davis
     - et. al.
     # full author list at: https://arxiv.org/abs/1509.07543
+    arxiv: 1509.07543
+    pdf: optimizing-human-machine.pdf
     venue: AAAI Conference on Human Computation and Crowdsourcing Work-in-Progress session (HCOMP 2015 WIP)
 
   - year: 2015
     title: Image Representations and New Domains in Neural Image Captioning
+    arxiv: 1508.02091
+    pdf: new-domains.pdf
     authors:
     - Jack Hessel
     - Nicolas Savva
@@ -206,7 +257,8 @@ paperList:
 
   - year: 2014
     title: Cost-Effective HITs for Relative Similarity Comparisons
-    url: http://arxiv.org/abs/1404.3291
+    arxiv: 1404.3291
+    pdf: cost-effective-hits.pdf
     authors:
     - M. Wilber
     - Iljung Sam Kwak
@@ -228,6 +280,7 @@ paperList:
 
   - year: 2014
     title: Exemplar Codes for Facial Attributes and Tattoo Recognition
+    pdf: exemplar-codes.pdf
     authors:
     - M. Wilber
     - Ethan Rudd
@@ -238,7 +291,9 @@ paperList:
 
   - year: 2014
     title: Good Recognition is Non-Metric
-    url: http://mjwilber.org/papers/wjs_pr2014_metric.pdf
+    arxiv: 1302.4673
+    pdf: wjs_pr2014_metric.pdf
+    #url: http://mjwilber.org/papers/wjs_pr2014_metric.pdf
     authors:
     - Walter J. Scheirer
     - M. Wilber
@@ -254,7 +309,8 @@ paperList:
   - year: 2013
     title: "Animal Recognition in the Mojave Desert: Vision Tools for Field Biologists"
     best_paper: true
-    url: http://mjwilber.org/papers/vision-tools-2013.pdf
+    #url: http://mjwilber.org/papers/vision-tools-2013.pdf
+    pdf: vision-tools-2013.pdf
     authors:
     - M. Wilber
     - Walter J. Scheirer
@@ -269,6 +325,7 @@ paperList:
 
   - year: 2013
     title: "Issues in Rotational (Non-) Invariance and Image Preprocessing"
+    pdf: issues-in-rotational-noninvariance.pdf
     authors:
     - Lalit Jain
     - M. Wilber
@@ -282,7 +339,8 @@ paperList:
     - Walter J. Scheirer
     - Terry Boult
     venue: Conference on Computer Vision and Pattern Recognition Biometrics Workshop (CVPR 2012)
-    url: http://mjwilber.org/papers/vv-iris-2012.pdf
+    #url: http://mjwilber.org/papers/vv-iris-2012.pdf
+    pdf: privv.pdf
     spotlight:
       figure: /static/figures/privv.png
       caption: |
@@ -291,6 +349,7 @@ paperList:
 
   - year: 2012
     title: "Secure Remote Matching with Privacy: Scrambled Support Vector Vaulted Verification (S2V3)"
+    pdf: vaulted-verification.pdf
     authors:
     - M. Wilber
     - Terry Boult
@@ -303,6 +362,7 @@ paperList:
 
   - year: 2011
     title: Face and Eye Detection on Hard Datasets
+    pdf: fedhd.pdf
     authors:
     - Jon Parris
     - M. Wilber
