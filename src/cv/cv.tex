@@ -52,7 +52,7 @@ eleventyNavigation:
 \vspace{-0.8em}
 \rule[0.7em]{\linewidth}{0.5mm}
 %\vspace{0.2em}
-Software Engineer, Google AI
+ML Software Engineer with an academic background
 \hfill {She / Her}
 \end{minipage}
 \hfill
@@ -135,7 +135,7 @@ University %(4.0~GPA)
 % REU program
 % copy papers from website
 \begin{longtable}{L!{\VRule}R}
-  2018--Present&\textbf{Software Engineer, Google AI, New York, NY}
+  2018--2024&\textbf{Software Engineer, Google AI, New York, NY}
 \begin{itemize}
 \item Developing large-scale machine learning and computer vision applications in
     collaboration with multiple teams.
@@ -238,12 +238,12 @@ University %(4.0~GPA)
 &{\textit{Note that some work before 2018 is published under a previous name.}}\vspace{10pt}\\
 <% for paper in papers.paperList %>
 <%- if paper.best_paper  %>$\bigstar$ <%  endif -%>
-<< paper.year >> & 
+<< paper.year >> &
 <%-  if paper.best_paper -%>
   \textbf{Best paper award: }
 <%- endif -%>
 \textit{<<paper.title>>}\\
-&{\small 
+&{\small
   <% for author in paper.authors -%>
     <%- if "Wilber" in author -%>
       \textbf{<<author>>}

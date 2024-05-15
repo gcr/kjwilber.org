@@ -1,8 +1,55 @@
 paperList:
 
+  - year: 2024
+    title: "PolyMaX: General Dense Prediction with Mask Transformer"
+    pdf: polymax.pdf
+    arxiv: "2311.05770"
+    authors:
+    - Xuan Yang
+    - Liangzhe Yuan
+    - Kimberly Wilber
+    - Astuti Sharma
+    - Xiuye Gu
+    - Siyuan Qiao
+    - Stephanie Debats
+    - Huisheng Wang
+    - Hartwig Adam
+    - Mikhail Sirotenko
+    - Liang-Chieh Chen
+    venue: Winter Conference on Applications of Computer Vision (WACV 2024)
+    spotlight:
+      figure: /static/figures/polymax.jpg
+      oneline: Dense Prediction
+      caption: |
+        What's the difference between depth estimation, semantic segmentation, and surface normal prediction? Less than you might think. Previous work converged on similar approaches for each, so we decided to unify them in one simple transformer-based architecture.
+
+  - year: 2023
+    title: "SANPO: A Scene Understanding, Accessibility, Navigation, Pathfinding, Obstacle Avoidance Dataset"
+    pdf: sanpo.pdf
+    arxiv: "2309.12172"
+    authors:
+    - Sagar M. Waghmare
+    - Kimberly Wilber
+    - Dave Hawkey
+    - Xuan Yang
+    - Matthew Wilson
+    - Stephanie Debats
+    - Cattalyya Nuengsigkapian
+    - Astuti Sharma
+    - Lars Pandikow
+    - Huisheng Wang
+    - Hartwig Adam
+    - Mikhail Sirotenko
+    venue: ArXiv
+    spotlight:
+      figure: /static/figures/sanpo-animation.gif
+      oneline: Putting the "Mobile" in Mobile Vision
+      caption: |
+        We created a dataset that stretches the limits of state-of-the-art obstacle detection and scene understanding systems. Our dataset, SANPO, includes 112,000 frames of egocentric video from a runner's perspective, annotated with panoptic segmentations and depth maps. We also include 113,000 synthetic frames from virtual environments. This was a collaboration between Google, Project Guideline, and Parallel Domain.
+
   - year: 2022
     title: On Label Granularity and Object Localization
-    arxiv: 2207.10225
+    arxiv: "2207.10225"
     pdf: on-label-granularity-and-object-localization.pdf
     authors:
     - Elijah Cole
@@ -18,7 +65,7 @@ paperList:
 
   - year: 2022
     title: Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset
-    arxiv: 2207.10664
+    arxiv: "2207.10664"
     pdf: exploring-fine-grained-audiovisual-categorization-ssw60.pdf
     authors:
     - Grant Van Horn
@@ -31,7 +78,7 @@ paperList:
 
   - year: 2022
     title: When Does Contrastive Visual Representation Learning Work?
-    arxiv: 2105.05837
+    arxiv: "2105.05837"
     pdf: when-does-contrastive-visual-representation-learning-work.pdf
     authors:
     - Elijah Cole
@@ -43,7 +90,7 @@ paperList:
 
   - year: 2021
     title: Benchmarking Representation Learning for Natural World Image Collections
-    arxiv: 2103.16483
+    arxiv: "2103.16483"
     pdf: benchmarking-natural-image-collections.pdf
     authors:
     - Grant Van Horn
@@ -56,7 +103,7 @@ paperList:
 
   - year: 2021
     title: On the Reproducibility of Neural Network Predictions
-    arxiv: 2102.03349
+    arxiv: "2102.03349"
     pdf: on-reproducibility-of-nn-predictions.pdf
     authors:
     - Srinadh Bhojanapalli
@@ -70,7 +117,7 @@ paperList:
 
   - year: 2021
     title: Bridging the Gap Between Object Detection and User Intent via Query-Modulation
-    arxiv: 2106.10258
+    arxiv: "2106.10258"
     pdf: query-modulated-localizer.pdf
     authors:
     - Marco Fornoni
@@ -85,7 +132,7 @@ paperList:
 
   - year: 2020
     title: Improving Calibration in Deep Metric Learning With Cross-Example Softmax
-    arxiv: 2011.08824
+    arxiv: "2011.08824"
     pdf: cross-example-softmax.pdf
     authors:
     - Andreas Veit
@@ -94,7 +141,7 @@ paperList:
 
   - year: 2019
     title: Understanding Image Quality and Trust in Peer-to-Peer Marketplaces
-    arxiv: 1811.10648
+    arxiv: "1811.10648"
     pdf: understanding-image-quality-and-trust.pdf
     authors:
     - Xiao Ma
@@ -113,7 +160,7 @@ paperList:
 
   - year: 2018
     title: Learning perceptual similarity from crowds and machines
-    authors: 
+    authors:
     - M. Wilber
     venue: PhD Thesis, Cornell University, Ithaca, NY. Advised by Serge Belongie.
     pdf: wilber_thesis.pdf
@@ -121,7 +168,7 @@ paperList:
   - year: 2018
     title: Learning from Multi-domain Artistic Images for Arbitrary Style Transfer
     pdf: arbitrary-style-transfer.pdf
-    arxiv: 1805.09987
+    arxiv: "1805.09987"
     authors:
     - Zheng Xu
     - M. Wilber
@@ -132,7 +179,7 @@ paperList:
 
   - year: 2017
     title: "BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography"
-    arxiv: 1704.08614
+    arxiv: "1704.08614"
     pdf: bam-dataset.pdf
     authors:
     - M. Wilber
@@ -174,13 +221,13 @@ paperList:
     - M. Wilber
     - Serge Belongie
     - Sharad Goel
-    - James Davis 
-    - Michael S. Bernstein 
+    - James Davis
+    - Michael S. Bernstein
     venue: User Interface Software and Technology Symposium (UIST 2017)
 
   - year: 2016
     title: Residual Networks Behave Like Ensembles of Relatively Shallow Networks
-    arxiv: 1605.06431
+    arxiv: "1605.06431"
     pdf: resnets-ensembles.pdf
     authors:
     - Andreas Veit
@@ -208,7 +255,7 @@ paperList:
     - Vitaly Shmatikov
     - Serge Belongie
     venue: Winter Conference on Applications of Computer Vision (WACV 2016)
-    arxiv: 1602.04504
+    arxiv: "1602.04504"
     pdf: can-we-avoid-face-detection.pdf
     spotlight:
       figure: /static/figures/face-detection.png
@@ -218,7 +265,7 @@ paperList:
 
   - year: 2015
     title: Learning Concept Embeddings with Combined Human-Machine Expertise
-    arxiv: 1509.07479
+    arxiv: "1509.07479"
     pdf: concept-embeddings.pdf
     authors:
     - M. Wilber
@@ -241,13 +288,13 @@ paperList:
     - James Davis
     - et. al.
     # full author list at: https://arxiv.org/abs/1509.07543
-    arxiv: 1509.07543
+    arxiv: "1509.07543"
     pdf: optimizing-human-machine.pdf
     venue: AAAI Conference on Human Computation and Crowdsourcing Work-in-Progress session (HCOMP 2015 WIP)
 
   - year: 2015
     title: Image Representations and New Domains in Neural Image Captioning
-    arxiv: 1508.02091
+    arxiv: "1508.02091"
     pdf: new-domains.pdf
     authors:
     - Jack Hessel
@@ -257,7 +304,7 @@ paperList:
 
   - year: 2014
     title: Cost-Effective HITs for Relative Similarity Comparisons
-    arxiv: 1404.3291
+    arxiv: "1404.3291"
     pdf: cost-effective-hits.pdf
     authors:
     - M. Wilber
@@ -291,7 +338,7 @@ paperList:
 
   - year: 2014
     title: Good Recognition is Non-Metric
-    arxiv: 1302.4673
+    arxiv: "1302.4673"
     pdf: wjs_pr2014_metric.pdf
     #url: http://mjwilber.org/papers/wjs_pr2014_metric.pdf
     authors:
