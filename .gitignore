@@ -1,3 +1,12 @@
 node_modules
 _site
 .*~
+.DS_Store
+**/.DS_Store
+**/*.aux
+**/*.fls
+**/*.log
+**/*.out
+src/cv/cv.pdf
+**/*.fdb_latexmk
+**/*.synctex*
