@@ -11,9 +11,9 @@ eleventyNavigation:
 {%include "_links.njk" %}
 </div>
 
-Hello! I'm a machine learning researcher in NYC currently working as a software engineer at Google AI. Before graduating in 2018, I was a Ph.D. student at the [Cornell Tech SE(3) Vision Group](http://vision.cornell.edu/se3/) under [Dr. Serge Belongie](http://cseweb.ucsd.edu/~sjb/). I previously worked as a research assistant in the [Vision and Security Technology lab](http://vast.uccs.edu/) and as a software engineer at [Securics, Inc.](http://securics.com/), both under [Terrance E. Boult](http://vast.uccs.edu/~tboult).
+Hello! I'm a research engineer with an academic computer vision background in NYC. Before graduating in 2018, I was a Ph.D. student at the [Cornell Tech SE(3) Vision Group](http://vision.cornell.edu/se3/) under [Dr. Serge Belongie](http://cseweb.ucsd.edu/~sjb/). I previously worked for four years as a software engineer in Google Research. I started my career as a research assistant at the [Vision and Security Technology lab](http://vast.uccs.edu/) and as a software engineer at [Securics, Inc.](http://securics.com/), both under [Terrance E. Boult](http://vast.uccs.edu/~tboult).
 
-My hobbies include peer counseling, bouldering (still a beginner, VB-V1), lifting (beginner), hiking, and finding delicious quiet places in the city to drink tea and read books.
+My interests include applied computer vision and machine learning to empower users and the society we live in, especially assistive technology, privacy/security, ecology, individual identity, creativity, and antisurveillance. Ask me about my side projects!
 
 ## Find me around the web
 - [LinkedIn](https://www.linkedin.com/in/kwilber/)

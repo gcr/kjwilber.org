@@ -5,8 +5,9 @@ eleventyNavigation:
 ---
 % thanks to http://texblog.org/2012/04/25/writing-a-cv-in-latex/
 \documentclass[10pt,letterpaper]{article}
-\usepackage[margin=0.6in]{geometry}
+\usepackage[margin=0.5in]{geometry}
 \usepackage{tikz}
+\usepackage[hidelinks]{hyperref}
 
 %\usepackage{showframe} % Debug margins
 \usepackage{graphicx}
@@ -17,11 +18,13 @@ eleventyNavigation:
 \setlist{nosep}
 
 \usepackage{longtable}
+\usepackage{multirow}
+\usepackage{makecell}
+\renewcommand\cellalign{lc}
 \setlength{\LTpre}{0pt}
 \setlength{\LTpost}{0pt}
 
 \usepackage[math]{kurier} % nicer fonts
-% \usepackage[osf]{mathpazo} % Palatino, which is not bad.
 % \usepackage{tgpagella}
 \usepackage{url}
 
@@ -31,7 +34,7 @@ eleventyNavigation:
 \setlength\parindent{0pt}
 \usepackage{array, xcolor}
 \definecolor{lightgray}{gray}{0.8}
-\newcolumntype{L}{>{\raggedleft}p{0.12\textwidth}}
+\newcolumntype{L}{>{\raggedleft}p{0.1\textwidth}}
 \newcolumntype{R}{p{0.85\textwidth}}
 \newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
 
@@ -40,8 +43,8 @@ eleventyNavigation:
 \usepackage{fancyhdr}
 \pagestyle{fancyplain}
 \fancyhf{}
-\rhead{\fancyplain{}{Page \thepage}}
-\chead{\fancyplain{Last modified: \today}{Kimberly Wilber}}
+\rhead{\fancyplain{}{\\Page \thepage}}
+\chead{\fancyplain{\\Last modified: \today}{Kimberly Wilber}}
 \renewcommand{\headrulewidth}{0pt}
 
 \begin{document}
@@ -52,7 +55,7 @@ eleventyNavigation:
 \vspace{-0.8em}
 \rule[0.7em]{\linewidth}{0.5mm}
 %\vspace{0.2em}
-ML Software Engineer with an academic background
+Research engineer with a computer vision background.
 \hfill {She / Her}
 \end{minipage}
 \hfill
@@ -75,24 +78,32 @@ kimmy@kjwilber.org
 %   to face and iris verification.
 % \item \textbf{Face recognition.} \\
 %   Helped
-\item \textbf{Research interests:} Computer vision, crowdsourcing, and machine learning. Specific areas include biometrics, object recognition, perceptual embeddings, and artistic style recognition.
+\item \textbf{Research interests: Applied computer vision and machine learning to empower users and the societies we live in.} Specific areas include assistive technology, ecology, general-purpose object recognition, perceptual embeddings, artistic style understanding, and privacy-preserving biometrics.
+\item \textbf{Work I enjoy most:} Visually communicating experimental results to an outside audience (quickly producing figures or plots of internal ML state diagnostics, creating infra/tools for engineers to find insights faster). Also skilled at performance optimization (\emph{e.g.} rewriting hot loops in lower-level languages or SSE/AVX compiler intrinsics), especially of ``research-quality'' code.
 
 \item \textbf{Languages and Libraries:}
-  Fluent in Python, the scientific Python stack (numpy/scipy,
-  Cython, scikit-learn, scikit-image), Javascript, and
-  general purpose POSIX tools. %Reasonably familiar with Lua/Torch7,
-  Familiar with ML/CV tools (Torch7, Pytorch, OpenCV).
+  I try to strike a balance between high level scripting and low-level performance languages:
+  \begin{itemize}
+  \item \bfseries{Fluent} with Python, the scientific Python stack (Torch, TensorFlow, numpy/scipy,
+  Cython, scikit-learn, excellent with matplotlib),
+  with strong POSIX/CLI proficiency. %Reasonably familiar with Lua/Torch7,
+  Favorite languages are livescript and nim-lang.
+  \item \bfseries{Familiar} with old and new ML/CV tools -- I cut my teeth on OpenCV/LibSVM shortly before deep learning became common. Also familiar with C and its ABI.
   %Racket/Scheme, node.js,
   %C (and to a lesser extent, C\kern-0.2ex\raisebox{0.4ex}{\scalebox{0.8}{+\kern-0.4ex+}}),
   %\textsc{Matlab}, Java, and C\#.
   %Familiar with several graphics libraries including OpenGL, OpenCV.
   %Also fluent in presentation languages including \LaTeX , HTML, and CSS.
-  Contributor to open-source projects including node.js and Racket. Some experience with C and Java.
+  \item \bfseries{Some experience} with C++ and Java, and can work my way around various front-end HTML/Javascript stacks.
+  \item \bfseries{Eager to learn} JAX, rust, nix, F\#/OCaml, Haskell, the .NET stack, etc.
+  \item \bfseries{Contributor} to open-source projects including Racket and node.js (ask me about the old \verb+clearTimeouts+ bug I found and fixed in 2010).
+  \end{itemize}
 \item \textbf{Linux Server Administration:}
-  Ten years of Debian, Ubuntu, and Arch Linux experience on server,
-  desktop, and cloud services (EC2, Digital\-Ocean). Managed over 20
-  Debian servers at
-  startups and university research labs.
+  Twenty years of Debian, Ubuntu, and Arch Linux experience on server,
+  desktop, and cloud services (EC2, Digital\-Ocean, GCP). Managed over 30
+  Debian servers at startups and university research labs.
+  Eager to learn kube/nix, though most of my sysadmin experience
+  is with ``pre-orchestration'' tools like ansible/salt/docker.
 %Vision and Security Technology Laboratory at
 % the University of Colorado Colorado Springs (UCCS) and Securics,
 % Inc.
@@ -108,7 +119,7 @@ kimmy@kjwilber.org
 \end{itemize}
 % Languages?
 % play up "big data" system design
-\vspace{-8pt}
+\vspace{-5pt}
 
 \section*{Education}
 \begin{longtable}{L!{\VRule}R}
@@ -129,7 +140,7 @@ Colorado Springs %(4.0~GPA)
 2007--2008&High-school concurrent classes at Colorado Technical
 University %(4.0~GPA)
 \end{longtable}
-\vspace{5pt}
+\vspace{-5pt}
 
 \section*{Professional Experience}
 % REU program
@@ -139,18 +150,20 @@ University %(4.0~GPA)
 \begin{itemize}
 \item Developing large-scale machine learning and computer vision applications in
     collaboration with multiple teams.
+\item Built a reputation as a strong visual communicator -- others relied on me to produce figures and graphics for papers and presentations authored during my tenure.
 \vspace{-5pt}
 \end{itemize}
 \\
   2017&\textbf{Summer Intern, Google Photos Team, Mountain View, CA}
 \begin{itemize}
-\item Implemented and tested prototyping tools for new user interactions
+\item Implemented and tested prototyping tools for new user interactions.
 \vspace{-5pt}
 \end{itemize}
 \\
   2016&\textbf{Summer Intern, Adobe Research, San Jose, CA}
 \begin{itemize}
-\item Built systems to analyze millions of images and terabytes of data
+\item Built systems to analyze millions of images and terabytes of data.
+%See the ``BAM: Behance Artistic Media'' publication below.
 \vspace{-5pt}
 \end{itemize}
 \\
@@ -164,9 +177,11 @@ University %(4.0~GPA)
 \\
   2014--2018&\textbf{Research Assistant, Cornell University, Cornell Tech NYC}
 \begin{itemize}
-\item Conducting research related to many areas of computer vision, including perceptual similarity, large-scale crowdsourcing, and object recognition.
-\item Helping establish and maintain the new vision group's presence at Cornell.
-\item Serving as TA for classes including four semesters of ``CS5785
+\item Conducted computer vision research on %on many areas of computer vision including
+ perceptual similarity, %large-scale
+ crowdsourcing, and object recognition.
+\item Helped establish and maintain the new vision group's presence at Cornell.
+\item Served as TA for classes including four semesters of ``CS5785
   Modern Analytics.''
 \vspace{-5pt}
 \end{itemize}
@@ -224,37 +239,35 @@ University %(4.0~GPA)
   Colorado Springs, CO}
 \begin{itemize}
 \item Helped implement ``Verified Presence,'' a time-tracker
-  kiosk system that allows employers to verify employees' physical
-  attendance with fingerprints.
+  kiosk system that allows users to log in with a revocable,
+  privacy-preserving fingerprint.
 \item Helped test and debug ``EPayNotary,'' a payment verification
   service that integrates with PayPal. EPayNotary protects customers
   by verifying the identity of merchant recipients.
-\vspace{-5pt}
+\vspace{-25pt}
 \end{itemize}
 \end{longtable}
 
 \section*{Publications}
-\begin{longtable}{L!{\VRule}R}
-&{\textit{Note that some work before 2018 is published under a previous name.}}\vspace{10pt}\\
-<% for paper in papers.paperList %>
+\begin{longtable}{L!{\VRule}p{16.2cm}}
+&{\textit{Note that some work before 2018 is published under a previous name. All titles are clickable.}}\vspace{10pt}\\
+<% for paper in papers.paperList-%>
 <%- if paper.best_paper  %>$\bigstar$ <%  endif -%>
 << paper.year >> &
 <%-  if paper.best_paper -%>
   \textbf{Best paper award: }
 <%- endif -%>
-\textit{<<paper.title>>}\\
-&{\small
-  <% for author in paper.authors -%>
+  \href{https://kjwilber.org/static/pdfs/<<paper.pdf>>}{\textit{<<paper.title>>}}\\%
+&{\small <% for author in paper.authors -%>
     <%- if "Wilber" in author -%>
       \textbf{<<author>>}
     <%- else -%>
       <<author>>
     <%- endif -%>
-    <% if not loop.last %>; <% endif %>
-  <%- endfor %>
-  \emph{<< paper.venue | replace(" 20", "~20") >>}
-}\vspace{10pt}\\
-<% endfor %>
+    <% if loop.last %>. <% else-%>; <% endif -%>
+  <%- endfor -%>\emph{<< paper.venue | replace(" 20", "~20") >>}
+}\vspace{5pt}\\
+<%-endfor %>
 \end{longtable}
 
 % \vspace{3pt}
