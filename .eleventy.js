@@ -73,7 +73,8 @@ module.exports = function (eleventyConfig) {
       return async function (data) {
         if (isDevServer) return;
         let path = fs.mkdtempSync(os.tmpdir() + "/") + "output.pdf";
-        let e = new nunjucks.Environment(null, {
+        let e = new nunjucks.Environment(
+          new nunjucks.FileSystemLoader("src/_includes"), {
           tags: {
             blockStart: "<%",
             blockEnd: "%>",
@@ -91,7 +92,7 @@ module.exports = function (eleventyConfig) {
   });
 
   /* From: https://github.com/artstorm/eleventy-plugin-seo
-  
+
   Adds SEO settings to the top of all pages
   The "glitch-default" bit allows someone to set the url in seo.json while
   still letting it have a proper glitch.me address via PROJECT_DOMAIN
@@ -115,7 +116,7 @@ module.exports = function (eleventyConfig) {
   */
   eleventyConfig.addCollection("posts", function (collection) {
 
-    
+
     /* The posts collection includes all posts that list 'posts' in the front matter 'tags'
        - https://www.11ty.dev/docs/collections/
     */

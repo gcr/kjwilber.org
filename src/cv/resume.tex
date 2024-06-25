@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
-  key: CV
-  order: 9
+  key: Resume
+  order: 10
 ---
 % thanks to http://texblog.org/2012/04/25/writing-a-cv-in-latex/
 \documentclass[10pt,letterpaper]{article}
@@ -11,7 +11,7 @@ eleventyNavigation:
 \pagestyle{fancyplain}
 \fancyhf{}
 \rhead{\fancyplain{}{\\Page \thepage}}
-\chead{\fancyplain{\\Last modified: \today. \href{https://kjwilber.org/cv/cv.pdf}{Link to latest version.}}{Kimberly Wilber}}
+\chead{\fancyplain{\\Last modified: \today. \href{https://kjwilber.org/cv/resume.pdf}{Link to latest version.}}{Kimberly Wilber}}
 \renewcommand{\headrulewidth}{0pt}
 
 \begin{document}
@@ -23,13 +23,15 @@ eleventyNavigation:
 % play up "big data" system design
 
 <% include "cv_interests.tex.njk" %>
-<% include "cv_education.tex.njk" %>
 <% include "cv_professional_experience.tex.njk" %>
+<% include "cv_education.tex.njk" %>
 
-\section*{Publications}
+\section*{Selected Publications}
 \begin{longtable}{L!{\VRule}p{16.2cm}}
-&{\textit{Note that some work before 2018 is published under a previous name. All titles are clickable.}}\vspace{10pt}\\
+&{\textit{Note that some work before 2018 is published under a previous name. %All titles are clickable.
+See \href{https://kjwilber.org/publications}{here} for the unabridged list.}}\vspace{10pt}\\
 <% for paper in papers.paperList-%>
+<%- if paper.spotlight -%>
 <%- if paper.best_paper  %>$\bigstar$ <%  endif -%>
 << paper.year >> &
 <%-  if paper.best_paper -%>
@@ -45,6 +47,7 @@ eleventyNavigation:
     <% if loop.last %>. <% else-%>; <% endif -%>
   <%- endfor -%>\emph{<< paper.venue | replace(" 20", "~20") >>}
 }\vspace{5pt}\\
+<%- endif -%>
 <%-endfor %>
 \end{longtable}
 

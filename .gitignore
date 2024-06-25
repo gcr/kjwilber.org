@@ -8,5 +8,6 @@ _site
 **/*.log
 **/*.out
 src/cv/cv.pdf
+src/cv/resume.pdf
 **/*.fdb_latexmk
 **/*.synctex*
