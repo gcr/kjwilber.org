@@ -11,7 +11,7 @@ eleventyNavigation:
 \pagestyle{fancyplain}
 \fancyhf{}
 \rhead{\fancyplain{}{\\Page \thepage}}
-\chead{\fancyplain{\\Last modified: \today. \href{https://kjwilber.org/cv/resume.pdf}{Link to latest version.}}{Kimberly Wilber}}
+\chead{\fancyplain{\\Last modified: \today. \slink{https://kjwilber.org/cv/resume.pdf}{Link to latest version.}}{Kimberly Wilber}}
 \renewcommand{\headrulewidth}{0pt}
 
 \begin{document}
@@ -29,7 +29,7 @@ eleventyNavigation:
 \section*{Selected Publications}
 \begin{longtable}{L!{\VRule}p{16.2cm}}
 &{\textit{Note that some work before 2018 is published under a previous name. %All titles are clickable.
-See \href{https://kjwilber.org/publications}{here} for the unabridged list.}}\vspace{10pt}\\
+See \slink{https://kjwilber.org/publications}{here} for the unabridged list.}}\vspace{10pt}\\
 <% for paper in papers.paperList-%>
 <%- if paper.spotlight -%>
 <%- if paper.best_paper  %>$\bigstar$ <%  endif -%>
@@ -37,7 +37,7 @@ See \href{https://kjwilber.org/publications}{here} for the unabridged list.}}\vs
 <%-  if paper.best_paper -%>
   \textbf{Best paper award: }
 <%- endif -%>
-  \href{https://kjwilber.org/static/pdfs/<<paper.pdf>>}{\textit{<<paper.title>>}}\\%
+  \slink{https://kjwilber.org/static/pdfs/<<paper.pdf>>}{\textit{<<paper.title>>}}\\%
 &{\small <% for author in paper.authors -%>
     <%- if "Wilber" in author -%>
       \textbf{<<author>>}
