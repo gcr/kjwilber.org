@@ -85,6 +85,9 @@ module.exports = function (eleventyConfig) {
           },
         });
         templatedContent = e.renderString(inputContent, data);
+        if (isDevServer) {
+          console.log(templatedContent);
+        }
         await luatex(path, templatedContent);
         return fs.readFileSync(path);
       };
