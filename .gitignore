@@ -12,3 +12,6 @@ src/cv/resume.pdf
 **/*.fdb_latexmk
 **/*.synctex*
 **/.vscode
+
+# Local Netlify folder
+.netlify
