@@ -5,7 +5,7 @@ eleventyNavigation:
 ---
 % thanks to http://texblog.org/2012/04/25/writing-a-cv-in-latex/
 \documentclass[10pt,letterpaper]{article}
-\usepackage[margin=0.5in, bmargin=0.3in]{geometry}
+\usepackage[margin=0.5in, bmargin=0.2in]{geometry}
 
 <% include "cv_preamble.tex.njk" %>
 \pagestyle{fancyplain}
@@ -23,8 +23,11 @@ eleventyNavigation:
 % play up "big data" system design
 
 <% include "cv_interests.tex.njk" %>
+\vspace{-12pt}
 <% include "cv_education.tex.njk" %>
+\vspace{-12pt}
 <% include "cv_professional_experience.tex.njk" %>
+%\vspace{-12pt}
 
 \section*{Publications}
 \begin{longtable}{L!{\VRule}p{16.2cm}}
@@ -47,6 +50,7 @@ eleventyNavigation:
 }\vspace{4pt}\\
 <%-endfor %>
 \end{longtable}
+
 
 
 \end{document}
