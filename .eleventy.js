@@ -12,6 +12,9 @@ const process = require("process");
 const nunjucks = require("nunjucks");
 const navigation = require('@11ty/eleventy-navigation');
 const eleventyNavigation = require("@11ty/eleventy-navigation");
+const eleventyPluginTypst = require("eleventy-plugin-typst");
+
+process.env.NODE_ENV = process.env.NODE_ENV || "development"; // fix typst build issue
 
 const isDevServer = /serve/.test(process.argv.join(" "));
 
@@ -92,6 +95,12 @@ module.exports = function (eleventyConfig) {
         return fs.readFileSync(path);
       };
     },
+  });
+
+  eleventyConfig.addTemplateFormats("typ");
+  eleventyConfig.addPlugin(eleventyPluginTypst.default, {
+    targets: ["pdf"], // Output formats
+    fontPaths: ["fonts"], // Paths to custom fonts
   });
 
   /* From: https://github.com/artstorm/eleventy-plugin-seo
