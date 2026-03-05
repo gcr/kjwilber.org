@@ -6,17 +6,11 @@ const { DateTime } = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const yaml = require("js-yaml");
-const luatex = require("netlify-lualatex").default;
-const os = require("os");
 const process = require("process");
-const nunjucks = require("nunjucks");
-const navigation = require('@11ty/eleventy-navigation');
 const eleventyNavigation = require("@11ty/eleventy-navigation");
 const eleventyPluginTypst = require("eleventy-plugin-typst");
 
 process.env.NODE_ENV = process.env.NODE_ENV || "development"; // fix typst build issue
-
-const isDevServer = /serve/.test(process.argv.join(" "));
 
 nodePandoc = util.promisify(nodePandoc_);
 
@@ -65,35 +59,6 @@ module.exports = function (eleventyConfig) {
           }
         });
       return { data: data };
-    },
-  });
-
-  /* Tex support! */
-  eleventyConfig.addTemplateFormats("tex");
-  eleventyConfig.addExtension("tex", {
-    outputFileExtension: "pdf",
-    compile: async function (inputContent, inputPath) {
-      return async function (data) {
-        if (isDevServer) return;
-        let path = fs.mkdtempSync(os.tmpdir() + "/") + "output.pdf";
-        let e = new nunjucks.Environment(
-          new nunjucks.FileSystemLoader("src/_includes"), {
-          tags: {
-            blockStart: "<%",
-            blockEnd: "%>",
-            variableStart: "<<",
-            variableEnd: ">>",
-            commentStart: "<#",
-            commentEnd: "#>",
-          },
-        });
-        templatedContent = e.renderString(inputContent, data);
-        if (isDevServer) {
-          console.log(templatedContent);
-        }
-        await luatex(path, templatedContent);
-        return fs.readFileSync(path);
-      };
     },
   });
 
