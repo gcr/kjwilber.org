@@ -5,6 +5,11 @@
   title: "Resume",
   targets: ("pdf",),
   permalink: "resume.pdf",
+  eleventyNavigation: (
+    key: "Resume",
+    title: "Resume",
+    order: 1,
+  ),
 )
 
 #set page(
@@ -26,7 +31,7 @@
 )
 #set text(
   12pt,
-  font: "Cambria",
+  font: "Caladea",
   hyphenate: false,
 )
 #set highlight(fill: rgb("#fff2e2"), extent: 4pt, radius: 2pt)
