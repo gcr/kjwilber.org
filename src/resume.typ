@@ -196,48 +196,32 @@
 
 == Selected Publications
 _Note that some work before 2018 is published under a previous name. See #link("https://kjwilber.org/publications")[here] for the unabridged list._
+#let papers = yaml("/src/_data/papers.yaml")
 #table(
-  [2024], [#link("https://kjwilber.org/static/pdfs/polymax.pdf")[_PolyMaX: General Dense Prediction with Mask Transformer_] \
-    #text(size: 9pt)[Xuan Yang; Liangzhe Yuan; *Kimberly Wilber*; Astuti Sharma; Xiuye Gu; Siyuan Qiao; Stephanie Debats; Huisheng Wang; Hartwig Adam; Mikhail Sirotenko; Liang-Chieh Chen. _Winter Conference on Applications of Computer Vision (WACV 2024)_]
-  ],
+  ..papers.paperList.filter(p => "spotlight" in p).map(p => {
+    let authors = p.authors.map(a => {
+      if a == "Kimberly Wilber" or a == "M. Wilber" {
+        [*#a*]
+      } else {
+        [#a]
+      }
+    }).join([; ])
 
-  [2023], [#link("https://kjwilber.org/static/pdfs/sanpo.pdf")[_SANPO: A Scene Understanding, Accessibility, Navigation, Pathfinding, Obstacle Avoidance Dataset_] \
-    #text(size: 9pt)[Sagar M. Waghmare; *Kimberly Wilber*; Dave Hawkey; Xuan Yang; Matthew Wilson; Stephanie Debats; Cattalyya Nuengsigkapian; Astuti Sharma; Lars Pandikow; Huisheng Wang; Hartwig Adam; Mikhail Sirotenko. _ArXiv_]
-  ],
+    let title-content = if "pdf" in p {
+      link("https://kjwilber.org/static/pdfs/" + p.pdf)[_#p.title _]
+    } else {
+      [_#p.title _]
+    }
 
-  [2019], [#link("https://kjwilber.org/static/pdfs/understanding-image-quality-and-trust.pdf")[_Understanding Image Quality and Trust in Peer-to-Peer Marketplaces_] \
-    #text(size: 9pt)[Xiao Ma; Lina Mezghani; *Kimberly Wilber*; Hui Hong; Robinson Piramuthu; Mor Naaman; Serge Belongie. _Winter Conference on Applications of Computer Vision (WACV 2019)_]
-  ],
+    let prefix = if "best_paper" in p and p.best_paper == true {
+      [*Best paper award:* ]
+    }
 
-  [2017], [#link("https://kjwilber.org/static/pdfs/bam-dataset.pdf")[_BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography_] \
-    #text(size: 9pt)[*M. Wilber*; Chen Fang; Hailin Jin; Aaron Hertzmann; John Collomosse; Serge Belongie. _International Conference on Computer Vision (ICCV 2017)_]
-  ],
-
-  [2016], [#link("https://kjwilber.org/static/pdfs/resnets-ensembles.pdf")[_Residual Networks Behave Like Ensembles of Relatively Shallow Networks_] \
-    #text(size: 9pt)[Andreas Veit; *M. Wilber*; Serge Belongie. _Neural information processing systems (NIPS 2016)_]
-  ],
-
-  [2016], [#link("https://kjwilber.org/static/pdfs/can-we-avoid-face-detection.pdf")[_Can we still avoid automatic face detection?_] \
-    #text(size: 9pt)[*M. Wilber*; Vitaly Shmatikov; Serge Belongie. _Winter Conference on Applications of Computer Vision (WACV 2016)_]
-  ],
-
-  [2015], [#link("https://kjwilber.org/static/pdfs/concept-embeddings.pdf")[_Learning Concept Embeddings with Combined Human-Machine Expertise_] \
-    #text(size: 9pt)[*M. Wilber*; Iljung Sam Kwak; Serge Belongie. _International Conference on Computer Vision (ICCV 2015)_]
-  ],
-
-  [2014], [#link("https://kjwilber.org/static/pdfs/cost-effective-hits.pdf")[_Cost-Effective HITs for Relative Similarity Comparisons_] \
-    #text(size: 9pt)[*M. Wilber*; Iljung Sam Kwak; Serge Belongie. _AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2014)_]
-  ],
-
-  [2014], [#link("https://kjwilber.org/static/pdfs/wjs_pr2014_metric.pdf")[_Good Recognition is Non-Metric_] \
-    #text(size: 9pt)[Walter J. Scheirer; *M. Wilber*; Michael Eckmann; Terry Boult. _E. Pattern Recognition 47 (8), 2014_]
-  ],
-
-  [2013], [*Best paper award:* #link("https://kjwilber.org/static/pdfs/vision-tools-2013.pdf")[_Animal Recognition in the Mojave Desert: Vision Tools for Field Biologists_] \
-    #text(size: 9pt)[*M. Wilber*; Walter J. Scheirer; Phil Leitner; et. al.. _Workshop on Applications of Computer Vision (WACV 2013)_]
-  ],
-
-  [2012], [#link("https://kjwilber.org/static/pdfs/privv.pdf")[_PRIVV: Private Remote Iris Authentication with Vaulted Verification_] \
-    #text(size: 9pt)[*M. Wilber*; Walter J. Scheirer; Terry Boult. _Conference on Computer Vision and Pattern Recognition Biometrics Workshop (CVPR 2012)_]
-  ],
+    (
+      [#str(p.year)],
+      [#prefix#title-content \
+        #text(size: 9pt)[#authors. _#p.venue _]
+      ],
+    )
+  }).flatten()
 )
