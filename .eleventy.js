@@ -84,6 +84,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addGlobalData("metadata", metadata);
 
   // Filters let you modify the content https://www.11ty.dev/docs/filters/
+  eleventyConfig.addFilter("date", (dateObj, format) => {
+    if (dateObj === "now") dateObj = new Date();
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(format);
+  });
+
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });

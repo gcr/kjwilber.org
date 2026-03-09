@@ -1,7 +1,7 @@
 /******************************************************************************
 START Glitch hello-app default styles
 
-The styles in this section do some minimal CSS resets, set default fonts and 
+The styles in this section do some minimal CSS resets, set default fonts and
 colors, and handle the layout for our footer and "Remix on Glitch" button. If
 you're new to CSS they may seem a little complicated, but you can scroll down
 to this section's matching END comment to see page-specific styles.
@@ -46,7 +46,7 @@ to this section's matching END comment to see page-specific styles.
 header {
   display: flex;
   justify-content: space-evenly;
-  margin: 0 auto 0 auto;
+  margin: 0 auto 1rem;
   width: 100%;
   flex-wrap: wrap;
   border-bottom: 3px solid;
@@ -70,27 +70,27 @@ END Glitch hello-app default styles
 ******************************************************************************/
 
 /* Page structure */
-body {
+html, body {
   font-family: var(--font-family);
   background-color: var(--color-bg);
+  margin: 0;
+  padding: 0;
 }
 .wrapper {
   min-height: var(--wrapper-height);
-  place-items: center;
-  margin: 3rem 2rem 0;
+  margin: 0;
+  padding: 1rem 2rem;
 }
 .content {
   display: flex;
   flex-direction: column;
-  max-width: 600px;
   margin: 0 auto;
-  padding-bottom: 5rem;
+  max-width: 600px;
 }
 
 footer {
   margin: 0 auto;
   padding: 0 2rem;
-  max-width: calc(600px + 2rem + 2rem);
   color: var(--color-footer);
   font-size: 0.7rem;
 }
@@ -112,19 +112,19 @@ td > h4 {
   margin-top: 0;
 }
 h1.title {
-  margin-top: 1rem;
-  margin-bottom: 1.75rem;
-  font-size: 4rem;
+  margin-top: 0rem;
+  margin-bottom: 0;
+  font-size: 3rem;
   /*display: inline-flex;*/
   flex-basis: min-content;
   background: linear-gradient(45deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  
+
 }
 h1 {
-  font-size: 3rem;
-    background: -webkit-linear-gradient(45deg, var(--accent-4), var(--accent-3));
+  font-size: 2rem;
+  background: -webkit-linear-gradient(45deg, var(--accent-4), var(--accent-3));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   width: fit-content;
@@ -173,38 +173,20 @@ a:hover{
   -webkit-text-fill-color: var(--color-bg) !important;
 }
 
-/* Title style adjustments */
-.title-lg {
-  color: var(--color-text-main);
-  font-family: HK Grotesk;
-  font-style: normal;
-  font-weight: bold;
-  line-height: 1.5;
-}
-.title-md {
-  font-size: 56px;
-}
-
 /* Layout: Home */
 .home {
-  justify-content: left;
 }
 .illo-container {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  flex-wrap: nowrap;
+  justify-content: space-between;
   align-items: center;
-  margin: 0 0 1rem;
+  margin: 0 0 0rem;
 }
 .illustration {
-  max-width: 200px;
-  min-width: 50px;
-  /*max-height: var(--image-max-width);*/
-  /*margin-top: 1rem;
-  margin-right: 2rem;*/
-  /* transform: rotate(1deg);*/
-  /*align: right;*/
+  max-width: 8rem;
+  object-fit: contain;
 }
 
 /* Post */

@@ -8,8 +8,8 @@ eleventyNavigation:
 <div class="illo-container">
   <h1 class="title">Kimberly Wilber</h1>
   <img src="/static/kimmy-profile.jpg" srcset="/static/kimmy-profile.jpg 1x, /static/kimmy-profile@2x.jpg 2x" class="illustration" style="align: right" alt="Kimberly Wilber">
-{%include "_links.njk" %}
 </div>
+{%include "_links.njk" %}
 
 Hello! I'm a research engineer with an academic computer vision background in NYC. Before graduating in 2018, I was a Ph.D. student at the [Cornell Tech SE(3) Vision Group](http://vision.cornell.edu/se3/) under [Dr. Serge Belongie](http://cseweb.ucsd.edu/~sjb/). I previously worked for four years as a software engineer in Google Research. I started my career as a research assistant at the [Vision and Security Technology lab](http://vast.uccs.edu/) and as a software engineer at [Securics, Inc.](http://securics.com/), both under [Terrance E. Boult](http://vast.uccs.edu/~tboult).
 
@@ -90,4 +90,4 @@ Throughout my academic career, I am grateful to be supported by Dr. Serge Belong
 You can find my contact details on my [resume](/resume.pdf) or my [LinkedIn page](https://www.linkedin.com/in/kwilber/).
 
 
-<img src="/static/figures/cornell-tech.png" style="margin: 10vh auto; max-width: 15vw;" />
+<img src="/static/figures/cornell-tech.png" style="margin: 10vw auto; max-width: 25vw;" />
