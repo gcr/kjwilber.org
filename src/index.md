@@ -87,7 +87,7 @@ Throughout my academic career, I am grateful to be supported by Dr. Serge Belong
 
 ## Contact
 
-You can find my contact details on my [CV](/cv/cv.pdf) or my [LinkedIn page](https://www.linkedin.com/in/kwilber/).
+You can find my contact details on my [resume](/resume.pdf) or my [LinkedIn page](https://www.linkedin.com/in/kwilber/).
 
 
 <img src="/static/figures/cornell-tech.png" style="margin: 10vh auto; max-width: 15vw;" />
