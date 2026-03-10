@@ -1,5 +1,5 @@
 ---
-layout: home.njk
+layout: page.njk
 eleventyNavigation:
   key: Home
   order: 0
@@ -7,19 +7,17 @@ eleventyNavigation:
 
 <div class="illo-container">
   <h1 class="title">Kimberly Wilber</h1>
-  <img src="/static/kimmy-profile.jpg" srcset="/static/kimmy-profile.jpg 1x, /static/kimmy-profile@2x.jpg 2x" class="illustration" style="align: right" alt="Kimberly Wilber">
+  <img src="/static/kimmy-profile.jpg" srcset="/static/kimmy-profile.jpg 1x, /static/kimmy-profile@2x.jpg 2x" class="illustration" alt="Kimberly Wilber">
 </div>
-{%include "_links.njk" %}
 
-Hello! I'm a research engineer with an academic computer vision background in NYC. Before graduating in 2018, I was a Ph.D. student at the [Cornell Tech SE(3) Vision Group](http://vision.cornell.edu/se3/) under [Dr. Serge Belongie](http://cseweb.ucsd.edu/~sjb/). I previously worked for four years as a software engineer in Google Research. I started my career as a research assistant at the [Vision and Security Technology lab](http://vast.uccs.edu/) and as a software engineer at [Securics, Inc.](http://securics.com/), both under [Terrance E. Boult](http://vast.uccs.edu/~tboult).
+Hello! I'm a research engineer with an academic computer vision background in NYC. Before graduating in 2018, I was a Ph.D. student at the [Cornell Tech SE(3) Vision Group](http://vision.cornell.edu/se3/) under [Dr. Serge Belongie](http://cseweb.ucsd.edu/~sjb/). I previously worked for four years as a software engineer in Google Research. I started my career as a research assistant at the [Vision and Security Technology lab](http://vast.uccs.edu/) and as a software engineer at [Securics, Inc.](http://securics.com/), both under [Terrance E. Boult](http://vast.uccs.edu/~tboult).
 
 My interests include applied computer vision and machine learning to empower users and the society we live in, especially assistive technology, privacy/security, ecology, individual identity, creativity, and antisurveillance. Ask me about my side projects!
 
 The work that I enjoy the most is visually communicating experimental results to an outside audience, quickly producing figures or plots of internal ML state diagnostics, creating infra/tools for engineers to find insights faster. I'm also skilled at performance optimization, e.g. rewriting hot loops in lower-level languages or SSE/AVX compiler intrinsics, especially improving "research-quality" code.
 
-## Find me around the web
+# Find me around the web
 - [LinkedIn](https://www.linkedin.com/in/kwilber/)
-<!-- - [Mastadon](https://hachyderm.io/@ghostynewt) -->
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=OAtUvx0AAAAJ&view_op=list_works&sortby=pubdate)
 
 {% if false %}

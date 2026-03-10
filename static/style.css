@@ -3,7 +3,6 @@
   --color-bg: #fff;
   --color-footer: #aaa;
   --color-text-main: #000;
-  --color-primary: #52A5E9;
   --wrapper-height: 85vh;
   --font-family: "HK Grotesk";
 
@@ -62,9 +61,6 @@ header {
   border-image: linear-gradient(45deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%) 1;
 }
 header a {
-  font-family: HK Grotesk;
-  font-style: normal;
-  font-weight: normal;
   font-size: 1.1rem;
   border-bottom: none !important;
   padding: 0 0.5rem 0.5rem;
@@ -76,7 +72,7 @@ header a.active {
 /* Typography */
 p {
   margin: 0 0 1rem 0;
-  line-height: 1.5 !important;
+  line-height: 1.5;
   font-size: 1rem;
 }
 h1, h2, h3, h4, h5 {
@@ -96,12 +92,14 @@ h1.title {
   flex-basis: min-content;
   background: linear-gradient(45deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 h1 {
   font-size: 2rem;
   background: -webkit-linear-gradient(45deg, var(--accent-4), var(--accent-3));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   width: fit-content;
 }
@@ -130,21 +128,18 @@ ul {
   padding: 0 0 0 18px;
   margin: 0;
 }
-ul.no-bullet {
-  list-style-type: none;
-}
 
 /* Links */
 a:link,
 a:visited {
   text-decoration: none;
-  border-bottom: 2px solid var(--color-primary);
-  color: var(--color-primary);
+  border-bottom: 2px solid var(--accent-1);
+  color: var(--accent-1);
   transition: background 0.2s linear;
 }
 a:hover {
   color: var(--color-bg) !important;
-  background: var(--color-primary);
+  background: var(--accent-1);
   -webkit-background-clip: unset !important;
   -webkit-text-fill-color: var(--color-bg) !important;
 }
@@ -164,9 +159,6 @@ a:hover {
 }
 
 /* Post */
-.post {
-  place-items: normal;
-}
 .postTitle {
   font-size: 4rem;
   color: #000;

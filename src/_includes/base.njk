@@ -1,26 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    {# This is the base template for the site–other templates extend this one #}
     <meta charset="utf-8"/>
-    <!-- <link rel="icon" href="https://glitch.com/favicon.ico"/> -->
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <meta name="description" content="Your new 11ty blog"/>
     <link rel="stylesheet" type="text/css" href="/static/style.css"/>
     {% seo "" %}
   </head>
   <body>
+    <header>
+      {% include "_links.njk" %}
+    </header>
     <main>
-      {# Page or post content will appear here #}
-      {{ content | safe }}
-
-      <footer>
-        &copy; {{ "now" | date("yyyy") }} Kimberly Wilber.
-        Template adapted from by
-        <a href="https://vercte.net">Vercte</a>'s ReplIt template and
-        <a href="https://glitch.com/~glitch-hello-eleventy">the glitch eleventy template</a>
-        made by Keith Kurson and friends.
-      </footer>
+      <div class="wrapper">
+        <div class="content">
+          {{ content | safe }}
+        </div>
+      </div>
     </main>
+    <footer>
+      &copy; {{ "now" | date("yyyy") }} Kimberly Wilber.
+      Template adapted from by
+      <a href="https://vercte.net">Vercte</a>'s ReplIt template and
+      <a href="https://glitch.com/~glitch-hello-eleventy">the glitch eleventy template</a>
+      made by Keith Kurson and friends.
+    </footer>
   </body>
 </html>
