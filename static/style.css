@@ -1,21 +1,11 @@
-/******************************************************************************
-START Glitch hello-app default styles
-
-The styles in this section do some minimal CSS resets, set default fonts and
-colors, and handle the layout for our footer and "Remix on Glitch" button. If
-you're new to CSS they may seem a little complicated, but you can scroll down
-to this section's matching END comment to see page-specific styles.
-******************************************************************************/
-/* Our default values set as CSS variables */
+/* CSS variables */
 :root {
   --color-bg: #fff;
   --color-footer: #aaa;
-  --color-text-main: #000000;
+  --color-text-main: #000;
   --color-primary: #52A5E9;
   --wrapper-height: 85vh;
-  --image-max-width: 320px;
   --font-family: "HK Grotesk";
-  --font-family-header: "HK Grotesk";
 
   --accent-1: #52A5E9;
   --accent-2: #A99DFF;
@@ -23,7 +13,7 @@ to this section's matching END comment to see page-specific styles.
   --accent-4: #FFB85E;
 }
 
-/* Basic page style resets */
+/* Reset */
 * {
   box-sizing: border-box;
 }
@@ -31,7 +21,7 @@ to this section's matching END comment to see page-specific styles.
   display: none !important;
 }
 
-/* Import fonts */
+/* Fonts */
 @font-face {
   font-family: HK Grotesk;
   src: url("fonts/HKGrotesk-Regular.otf") format("opentype");
@@ -41,33 +31,6 @@ to this section's matching END comment to see page-specific styles.
   font-weight: bold;
   src: url("fonts/HKGrotesk-Bold.otf") format("opentype");
 }
-
-/* Navigation grid */
-header {
-  display: flex;
-  justify-content: space-evenly;
-  margin: 0 auto 1rem;
-  width: 100%;
-  flex-wrap: wrap;
-  border-bottom: 3px solid;
-  border-image: linear-gradient(45deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%) 1;
-}
-
-header a {
-  font-family: HK Grotesk;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 1.1rem;
-  border-bottom: none !important;
-  padding: 0 0.5rem 0.5rem;
-}
-header a.active {
-  color: var(--color-text-main);
-}
-
-/******************************************************************************
-END Glitch hello-app default styles
-******************************************************************************/
 
 /* Page structure */
 html, body {
@@ -88,11 +51,26 @@ html, body {
   max-width: 600px;
 }
 
-footer {
-  margin: 0 auto;
-  padding: 0 2rem;
-  color: var(--color-footer);
-  font-size: 0.7rem;
+/* Navigation */
+header {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto 1rem;
+  width: 100%;
+  flex-wrap: wrap;
+  border-bottom: 3px solid;
+  border-image: linear-gradient(45deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%) 1;
+}
+header a {
+  font-family: HK Grotesk;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.1rem;
+  border-bottom: none !important;
+  padding: 0 0.5rem 0.5rem;
+}
+header a.active {
+  color: var(--color-text-main);
 }
 
 /* Typography */
@@ -103,7 +81,7 @@ p {
 }
 h1, h2, h3, h4, h5 {
   margin: 1.5rem 0 .8rem;
-  font-family: var(--font-family-header);
+  font-family: var(--font-family);
   font-weight: 600;
   line-height: 1.1;
   color: var(--color-text-main);
@@ -112,15 +90,13 @@ td > h4 {
   margin-top: 0;
 }
 h1.title {
-  margin-top: 0rem;
+  margin-top: 0;
   margin-bottom: 0;
   font-size: 3rem;
-  /*display: inline-flex;*/
   flex-basis: min-content;
   background: linear-gradient(45deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-
 }
 h1 {
   font-size: 2rem;
@@ -158,7 +134,7 @@ ul.no-bullet {
   list-style-type: none;
 }
 
-/* Link styles */
+/* Links */
 a:link,
 a:visited {
   text-decoration: none;
@@ -166,23 +142,21 @@ a:visited {
   color: var(--color-primary);
   transition: background 0.2s linear;
 }
-a:hover{
+a:hover {
   color: var(--color-bg) !important;
   background: var(--color-primary);
   -webkit-background-clip: unset !important;
   -webkit-text-fill-color: var(--color-bg) !important;
 }
 
-/* Layout: Home */
-.home {
-}
+/* Home layout */
 .illo-container {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: space-between;
   align-items: center;
-  margin: 0 0 0rem;
+  margin: 0;
 }
 .illustration {
   max-width: 8rem;
@@ -220,4 +194,11 @@ td {
 
 blockquote {
   margin-bottom: 0;
+}
+
+footer {
+  margin: 0 auto;
+  padding: 0 2rem;
+  color: var(--color-footer);
+  font-size: 0.7rem;
 }
