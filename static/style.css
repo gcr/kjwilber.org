@@ -39,28 +39,20 @@ html, body {
   margin: 0;
   padding: 0;
 }
-main {
-  min-height: var(--wrapper-height);
+main,footer {
   padding: 1rem 2rem;
-  display: flex;
-  flex-direction: column;
   margin: 0 auto;
   max-width: var(--wrapper-width);
+}
+main {
+  min-height: var(--wrapper-height);
 }
 
 /* Navigation */
 header {
   width: 100%;
   border-bottom: 3px solid;
-  border-image: linear-gradient(45deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%) 1;
-}
-header a {
-  font-size: 1.1rem;
-  border-bottom: none !important;
-  padding: 0.5rem;
-}
-header a.active {
-  color: var(--color-text-main);
+  border-image: linear-gradient(90deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%) 1;
 }
 nav {
   margin: 0 auto;
@@ -69,6 +61,36 @@ nav {
   justify-content: space-between;
   flex-wrap: wrap;
   max-width: var(--wrapper-width);
+  background: linear-gradient(90deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%);
+  background-attachment: fixed;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+header a {
+  font-size: 1.1rem;
+  padding: 0.5rem;
+  text-decoration: none;
+  font-weight: bold;
+  color: inherit;
+  -webkit-text-fill-color: inherit;
+}
+/* this works by establishing a background that starts at the top left */
+header a.active:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: linear-gradient(90deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%);
+  z-index: -1;
+}
+header a.active {
+  -webkit-mask: linear-gradient(#000);
+  mask: linear-gradient(#000);
+  -webkit-text-fill-color: var(--color-bg);
+  color: var(--color-bg);
 }
 
 /* Typography */
@@ -88,8 +110,6 @@ td > h4 {
   margin-top: 0;
 }
 h1.title {
-  margin-top: 0;
-  margin-bottom: 0;
   font-size: 3rem;
   flex-basis: min-content;
   background: linear-gradient(45deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%);
@@ -134,15 +154,20 @@ ul {
 /* Links */
 a:link,
 a:visited {
-  text-decoration: none;
-  border-bottom: 2px solid var(--accent-1);
-  color: var(--accent-1);
+  /* text-decoration: none;
+  border-bottom: 2px solid var(--accent-1); */
+  color: inherit;
   transition: background 0.2s linear;
+  text-underline-offset: 0.1rem;
+  text-decoration-thickness: 0.1rem;
+  text-decoration-skip-ink: all;
+  text-decoration-color: var(--accent-1);
 }
 a:hover {
   color: var(--color-bg) !important;
   background: var(--accent-1);
   -webkit-background-clip: unset !important;
+  background-clip: unset !important;
   -webkit-text-fill-color: var(--color-bg) !important;
 }
 
@@ -153,7 +178,15 @@ a:hover {
   flex-wrap: nowrap;
   justify-content: space-between;
   align-items: center;
-  margin: 0;
+}
+.page-title.links {
+  justify-content: space-between;
+  gap: 0.05em 0;
+  margin-bottom: 0.8rem;
+  a {
+    color:var(--accent-1);
+    font-weight: bold;
+  }
 }
 .illustration {
   max-width: 8rem;
@@ -161,12 +194,6 @@ a:hover {
 }
 
 /* Post */
-.postTitle {
-  font-size: 4rem;
-  color: #000;
-  line-height: 1.1;
-  margin-bottom: 2rem;
-}
 .controls {
   margin: 3rem 0 2rem;
 }
@@ -191,7 +218,6 @@ blockquote {
 }
 
 footer {
-  margin: 0 auto;
   padding: 0 2rem;
   color: var(--color-footer);
   font-size: 0.7rem;

@@ -1,6 +1,6 @@
 ---
 title: It's time to write some posts
-description: Add posts and your site build will publish them
+excerpt: "Add posts and your site build will publish them"
 date: 2021-03-09
 tags:
   - posts

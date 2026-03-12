@@ -1,12 +1,10 @@
 ---
 layout: page.njk
-title: Blog
+title: Posts
 eleventyNavigation__DISABLED:
   key: Blog
   order: 2
 ---
-
-# Posts
 
 <ul>
     {%- for post in collections.posts -%}

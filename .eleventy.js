@@ -21,11 +21,9 @@ const metadata = {
   language: "en",
   url: "https://kjwilber.org",
   image:
-    "/static/kimmy-profile.jpg",
-  author: {
-    name: "Kimberly Wilber",
-    email: "kimmy@kjwilber.org",
-  },
+    "https://kjwilber.org/static/kimmy-profile.jpg",
+  author: "Kimberly Wilber",
+  authorEmail: "kimmy@kjwilber.org",
 };
 
 module.exports = function (eleventyConfig) {

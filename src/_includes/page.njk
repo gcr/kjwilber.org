@@ -2,4 +2,19 @@
 layout: base.njk
 ---
 
+{% if title %}
+<div class="page-title">
+  <h1 class="title">{{ title }}</h1>
+  {% if profileImage %}
+    <img src="{{ profileImage }}" srcset="{{ profileImage }} 1x, {{ profileImage2x }} 2x" class="illustration" alt="{{ title }}">
+  {% endif %}
+</div>
+{% if titleLinks %}
+    <div class="page-title links">
+        {% for link, href in titleLinks %}
+            <a href="{{ href }}">{{ link }}</a>{% if not loop.last %} &bull;{% endif %}
+        {% endfor %}
+    </div>
+{% endif %}
+{% endif %}
 {{ content | safe }}
