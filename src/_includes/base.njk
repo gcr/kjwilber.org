@@ -8,14 +8,16 @@
   </head>
   <body>
     <header>
-      {% include "_links.njk" %}
+      <nav>
+        {%- for entry in collections.all | eleventyNavigation %}
+          <a href="{{entry.url}}"{% if entry.url == page.url %} class="active"{% endif %}>
+            {{entry.key}}
+          </a>
+        {%- endfor -%}
+      </nav>
     </header>
     <main>
-      <div class="wrapper">
-        <div class="content">
-          {{ content | safe }}
-        </div>
-      </div>
+      {{ content | safe }}
     </main>
     <footer>
       &copy; {{ "now" | date("yyyy") }} Kimberly Wilber.

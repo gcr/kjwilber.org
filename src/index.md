@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 0
 ---
 
-<div class="illo-container">
+<div class="page-title">
   <h1 class="title">Kimberly Wilber</h1>
   <img src="/static/kimmy-profile.jpg" srcset="/static/kimmy-profile.jpg 1x, /static/kimmy-profile@2x.jpg 2x" class="illustration" alt="Kimberly Wilber">
 </div>

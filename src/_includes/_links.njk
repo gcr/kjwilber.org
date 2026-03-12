@@ -1,5 +1,0 @@
-{%- for entry in collections.all | eleventyNavigation %}
-  <a href="{{entry.url}}"{% if entry.url == page.url %} class="active"{% endif %}>
-    {{entry.key}}
-  </a>
-{%- endfor -%}

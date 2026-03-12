@@ -15,3 +15,7 @@ src/cv/resume.pdf
 
 # Local Netlify folder
 .netlify
+
+.playwright-cli
+.jj
+.claude
