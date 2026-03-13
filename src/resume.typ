@@ -7,11 +7,11 @@
   title: "Resume",
   targets: ("pdf",),
   permalink: "resume.pdf",
-  eleventyNavigation: (
-    key: "Resume",
-    title: "Resume",
-    order: 1,
-  ),
+  // eleventyNavigation: (
+  //   key: "Resume",
+  //   title: "Resume",
+  //   order: 1,
+  // ),
 )
 
 #let LaTeX = {
