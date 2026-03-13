@@ -67,7 +67,7 @@ nav {
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-header a {
+header a, header .active {
   font-size: 1.1rem;
   padding: 0.5rem;
   text-decoration: none;
@@ -76,7 +76,7 @@ header a {
   -webkit-text-fill-color: inherit;
 }
 /* this works by establishing a background that starts at the top left */
-header a.active:before {
+header .active::before {
   content: "";
   position: absolute;
   left: 0;
@@ -86,9 +86,9 @@ header a.active:before {
   background: linear-gradient(90deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%);
   z-index: -1;
 }
-header a.active {
-  -webkit-mask: linear-gradient(#000);
-  mask: linear-gradient(#000);
+header .active {
+  -webkit-mask: linear-gradient(#000 0 0);
+  mask: linear-gradient(#000 0 0);
   -webkit-text-fill-color: var(--color-bg);
   color: var(--color-bg);
 }
