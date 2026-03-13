@@ -1,8 +1,8 @@
 ---
 layout: page.njk
 title: Kimberly Wilber
-profileImage: /static/kimmy-profile.jpg
-profileImage2x: /static/kimmy-profile@2x.jpg
+profileImage: /static/kimmy-profile.webp
+profileImage2x: /static/kimmy-profile@2x.webp
 eleventyNavigation:
   key: About
   order: 0
@@ -19,10 +19,6 @@ Hello! I'm a research engineer with an academic computer vision background in NY
 My interests include applied computer vision and machine learning to empower users and the society we live in, especially assistive technology, privacy/security, ecology, individual identity, creativity, and antisurveillance. Ask me about my side projects!
 
 The work that I enjoy the most is visually communicating experimental results to an outside audience, quickly producing figures or plots of internal ML state diagnostics, creating infra/tools for engineers to find insights faster. I'm also skilled at performance optimization, e.g. rewriting hot loops in lower-level languages or SSE/AVX compiler intrinsics, especially improving "research-quality" code.
-
-# Find me around the web
-- [LinkedIn](https://www.linkedin.com/in/kwilber/)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=OAtUvx0AAAAJ&view_op=list_works&sortby=pubdate)
 
 {% if false %}
 # Posts

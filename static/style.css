@@ -1,11 +1,11 @@
 /* CSS variables */
 :root {
-  --color-bg: #fff;
+  --color-bg: #fdf6e3;
   --color-footer: #aaa;
-  --color-text-main: #000;
+  --color-text-main: #7e666e;
   --wrapper-height: 85vh;
   --wrapper-width: 600px;
-  --font-family: "HK Grotesk";
+  --font-family: "Merriweather";
 
   --accent-1: #52A5E9;
   --accent-2: #A99DFF;
@@ -22,6 +22,7 @@
 }
 
 /* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 @font-face {
   font-family: HK Grotesk;
   src: url("fonts/HKGrotesk-Regular.otf") format("opentype");
@@ -32,10 +33,13 @@
   src: url("fonts/HKGrotesk-Bold.otf") format("opentype");
 }
 
+
 /* Page structure */
 html, body {
   font-family: var(--font-family);
+  font-optical-sizing: auto;
   background-color: var(--color-bg);
+  color: var(--color-text-main);
   margin: 0;
   padding: 0;
 }
@@ -100,7 +104,7 @@ p {
   line-height: 1.5;
   font-size: 1rem;
 }
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4, h5, h6 {
   margin: 1.5rem 0 .8rem;
   font-family: var(--font-family);
   font-weight: 600;
@@ -112,6 +116,8 @@ td > h4 {
 }
 h1.title {
   font-size: 3rem;
+  font-weight: 900;
+  font-variation-settings: "wdth" 200;
   flex-basis: min-content;
   background: linear-gradient(45deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%);
   -webkit-background-clip: text;
@@ -119,8 +125,8 @@ h1.title {
   -webkit-text-fill-color: transparent;
 }
 h1 {
-  font-size: 2rem;
-  background: -webkit-linear-gradient(45deg, var(--accent-4), var(--accent-3));
+  font-size: 2.5rem;
+  background: -webkit-linear-gradient(45deg, var(--accent-1), var(--accent-3));
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -157,19 +163,19 @@ a:link,
 a:visited {
   /* text-decoration: none;
   border-bottom: 2px solid var(--accent-1); */
-  color: inherit;
-  transition: background 0.2s linear;
+  color: var(--accent-1);
+  font-weight: bold;
   text-underline-offset: 0.1rem;
-  text-decoration-thickness: 0.1rem;
+  text-decoration-thickness: 0.08rem;
   text-decoration-skip-ink: all;
   text-decoration-color: var(--accent-1);
 }
 a:hover {
-  color: var(--color-bg) !important;
-  background: var(--accent-1);
-  -webkit-background-clip: unset !important;
-  background-clip: unset !important;
-  -webkit-text-fill-color: var(--color-bg) !important;
+  text-decoration-color: var(--accent-3);
+}
+a:visited {
+  color: var(--accent-2);
+  text-decoration-color: var(--accent-2);
 }
 
 /* Home layout */
@@ -184,10 +190,6 @@ a:hover {
   justify-content: space-between;
   gap: 0.05em 0;
   margin-bottom: 0.8rem;
-  a {
-    color:var(--accent-1);
-    font-weight: bold;
-  }
 }
 .illustration {
   max-width: 8rem;
