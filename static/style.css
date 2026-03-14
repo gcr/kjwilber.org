@@ -118,11 +118,13 @@ h1.title {
   font-size: 3rem;
   font-weight: 900;
   font-variation-settings: "wdth" 200;
-  flex-basis: min-content;
   background: linear-gradient(45deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+h1.title.minwidth {
+  flex-basis: min-content;
 }
 h1 {
   font-size: 2.5rem;
@@ -199,6 +201,9 @@ a:visited {
 /* Post */
 .controls {
   margin: 3rem 0 2rem;
+}
+.date {
+  color: var(--color-footer);
 }
 
 td {

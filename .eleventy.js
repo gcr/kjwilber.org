@@ -1,4 +1,4 @@
-const nodePandoc_ = require("node-pandoc");
+// const nodePandoc_ = require("node-pandoc");
 const util = require("util");
 const fs = require("fs");
 //const nodePandoc = util.promisify(nodePandoc_)
@@ -12,7 +12,7 @@ const eleventyPluginTypst = require("eleventy-plugin-typst");
 
 process.env.NODE_ENV = process.env.NODE_ENV || "development"; // fix typst build issue
 
-nodePandoc = util.promisify(nodePandoc_);
+// nodePandoc = util.promisify(nodePandoc_);
 
 const metadata = {
   title: "Kimmy's Site",
@@ -27,10 +27,18 @@ const metadata = {
 };
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
+    if (data.draft && process.env.ELEVENTY_RUN_MODE !== "serve") {
+      return false;
+    }
+  });
+
   eleventyConfig.addPassthroughCopy("static");
 
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 
+
+  /*
   eleventyConfig.addTemplateFormats("org");
   eleventyConfig.addExtension("org", {
     compile: async (inputContent, inputPath) => {
@@ -59,6 +67,7 @@ module.exports = function (eleventyConfig) {
       return { data: data };
     },
   });
+  */
 
   eleventyConfig.addTemplateFormats("typ");
   eleventyConfig.addPlugin(eleventyPluginTypst.default, {
@@ -77,10 +86,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("date", (dateObj, format) => {
     if (dateObj === "now") dateObj = new Date();
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(format);
-  });
-
-  eleventyConfig.addFilter("htmlDateString", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
 
   eleventyConfig.addCollection("posts", function (collection) {

@@ -1,9 +1,0 @@
-#+title: org-posts
-#+date: <2023-07-17 Mon>
-
-This is a test of org post ?
-* Foo
-** Bar
-Testing
-
-- [X] Baz

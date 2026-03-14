@@ -5,6 +5,9 @@ layout: page.njk
 {# This is the template for individual blog posts–it builds the front matter properties into the page #}
 
 <div class="post">
+  {%if date %}
+    <p class="date"><strong>Posted:</strong> {{ date | date("yyyy-LL-dd") }}</p>
+  {% endif %}
   {# Content from the body of the post markdown appears here #}
   {{ content | safe }}
   <div class="controls">

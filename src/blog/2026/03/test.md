@@ -1,9 +1,10 @@
 ---
 title: It's time to write some posts
 excerpt: "Add posts and your site build will publish them"
-date: 2021-03-09
+date: 2026-03-14
 tags:
   - posts
+draft: true
 ---
 
 The body of your posts will be in Markdown. With Glitch, you can edit Markdown right in the editor, and the preview will update as you type. While you work you can switch between editing Markdown and seeing a preview of your formatted text by toggling the **Markdown** button just above the editor window.

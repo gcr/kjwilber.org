@@ -4,7 +4,7 @@ title: Publications
 excerpt: "Research publications by Kimberly Wilber"
 eleventyNavigation:
   key: Publications
-  order: 1
+  order: 2
 ---
 
 Throughout my career, I've been fortunate to work with several awesome research labs, including Google AI, Adobe Research, the Dropbox photo science team, Securics, the UCCS Vision and Security Technologies Lab, Cornell Tech, and UCSD.

@@ -5,7 +5,7 @@ profileImage: /static/kimmy-profile.webp
 profileImage2x: /static/kimmy-profile@2x.webp
 eleventyNavigation:
   key: About
-  order: 0
+  order: 1
 
 titleLinks:
   Github: https://github.com/gcr
@@ -14,7 +14,7 @@ titleLinks:
   Google Scholar: https://scholar.google.com/citations?user=OAtUvx0AAAAJ&hl=en&oi=ao
 ---
 
-Hello! I'm a research engineer with an academic computer vision background in NYC. Before graduating in 2018, I was a Ph.D. student at the [Cornell Tech SE(3) Vision Group](http://vision.cornell.edu/se3/) under [Dr. Serge Belongie](http://cseweb.ucsd.edu/~sjb/). I previously worked for four years as a software engineer in Google Research. I started my career as a research assistant at the [Vision and Security Technology lab](http://vast.uccs.edu/) and as a software engineer at [Securics, Inc.](http://securics.com/), both under [Terrance E. Boult](http://vast.uccs.edu/~tboult).
+Hello! I'm a research engineer with an academic computer vision background in NYC. Before graduating in 2018, I was a Ph.D. student at the Cornell Tech SE(3) Vision Group under [Dr. Serge Belongie](https://serge.belongie.com/). I previously worked for four years as a software engineer in Google Research. I started my career as a research assistant at the Vision and Security Technology lab and as a software engineer at Securics, Inc., both under [Terrance E. Boult](http://vast.uccs.edu/~tboult).
 
 My interests include applied computer vision and machine learning to empower users and the society we live in, especially assistive technology, privacy/security, ecology, individual identity, creativity, and antisurveillance. Ask me about my side projects!
 
@@ -26,7 +26,7 @@ The work that I enjoy the most is visually communicating experimental results to
 <ul>
   {%- for post in collections.posts -%}
     {%- if loop.index < 5 -%}
-    <li{% if page.url == post.url %} aria-current="page"{% endif %}>{{ post.data.page.date | htmlDateString }} — <a href='{{ post.url }}'>{{ post.data.title }}</a></li>
+    <li{% if page.url == post.url %} aria-current="page"{% endif %}>{{ post.data.page.date | date("yyyy-LL-dd") }} — <a href='{{ post.url }}'>{{ post.data.title }}</a></li>
     {%-endif-%}
   {%- endfor -%}
   <li><a href="/posts">View all posts</a></li>
