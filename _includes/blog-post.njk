@@ -7,14 +7,15 @@ layout: page.njk
 <section class="post">
   <p class="post-metadata">
     <strong>Posted:</strong> {{ date | date("yyyy-LL-dd") }}
-  {% if tags.length > 1 %}
-    <br /><strong>More: </strong>
-    {%- for tag in tags -%}
-      {%- if tag != "posts" -%}
-        <a href="/archive/#{{ tag }}">{{ categories[tag].short or tag | capitalize }}</a>{% if not loop.last %}, {% endif %}
-      {%- endif -%}
-    {%- endfor -%}
-  {% endif %}
+    {% include "ail.njk" %}
+    {% if tags.length > 1 %}
+      <br /><strong>More: </strong>
+      {%- for tag in tags -%}
+        {%- if tag != "posts" -%}
+          <a href="/archive/#{{ tag }}">{{ categories[tag].short or tag | capitalize }}</a>{% if not loop.last %}, {% endif %}
+        {%- endif -%}
+      {%- endfor -%}
+    {% endif %}
   </p>
   {# Content from the body of the post markdown appears here #}
   {{ content | safe }}

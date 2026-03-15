@@ -1,7 +1,7 @@
 ---
 title: Let's make a tiny bug light!
 excerpt: "3D-printing a model of the Duxbury Pier lighthouse for my dad"
-date: 2026-03-14
+date: 2023-06-12
 draft: true
 tags:
   - sketches

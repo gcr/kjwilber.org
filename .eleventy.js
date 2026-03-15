@@ -84,6 +84,7 @@ module.exports = function (eleventyConfig) {
   // RSS support
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addGlobalData("metadata", metadata);
+  eleventyConfig.addGlobalData("isServing", process.env.ELEVENTY_RUN_MODE === "serve");
 
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     formats: ["webp", "jpeg"],

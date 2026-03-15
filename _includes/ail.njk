@@ -1,0 +1,13 @@
+{%- if ail is defined and ail is number -%}
+  {%- if ail == 0 %}{% set ailDesc = "Human created, no AI involved" %}
+  {%- elif ail == 1 %}{% set ailDesc = "Human created, minor AI assistance" %}
+  {%- elif ail == 2 %}{% set ailDesc = "Human created, major AI augmentation" %}
+  {%- elif ail == 3 %}{% set ailDesc = "AI created, human full structure" %}
+  {%- elif ail == 4 %}{% set ailDesc = "AI created, human basic idea" %}
+  {%- elif ail == 5 %}{% set ailDesc = "AI created, little human involvement" %}
+  {%- endif %}
+  <br />
+  <a href="https://danielmiessler.com/blog/ai-influence-level-ail">
+  <strong>AIL:</strong></a> {{ail}}
+  <span > &mdash; {{ ailDesc }}</span>
+{%- endif -%}

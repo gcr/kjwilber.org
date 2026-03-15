@@ -8,7 +8,6 @@ draft: true
 pagination:
   data: collections.posts
   size: 5
-  reverse: true
 permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}"
 ---
 
@@ -20,18 +19,19 @@ permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 <p>Hi! I'm Kimberly! This is my informal blog where I write about things that interest me. I also write about my life and other things that are on my mind.</p>
 
 {% for post in pagination.items %}
-<section class="post">
+<section class="post embedded {{ post.data.tags | join(" ") }}">
   <h1><a href="{{ post.url }}">{{ post.data.title }}</a></h1>
   <p class="post-metadata">
     <strong>Posted:</strong> {{ post.data.date | date("yyyy-LL-dd") }}
-  {% if post.data.tags.length > 1 %}
-    <br /><strong>More: </strong>
-    {%- for tag in post.data.tags -%}
-      {%- if tag != "posts" -%}
-        <a href="/archive/#{{ tag }}">{{ categories[tag].short or tag|capitalize }}</a>{% if not loop.last %}, {% endif %}
-      {%- endif -%}
-    {%- endfor -%}
-  {% endif %}
+    {% set ail = post.data.ail %}{% include "ail.njk" %}
+    {% if post.data.tags.length > 1 %}
+      <br /><strong>More: </strong>
+      {%- for tag in post.data.tags -%}
+        {%- if tag != "posts" -%}
+          <a href="/archive/#{{ tag }}">{{ categories[tag].short or tag|capitalize }}</a>{% if not loop.last %}, {% endif %}
+        {%- endif -%}
+      {%- endfor -%}
+    {% endif %}
   </p>
   {{ post.content | absoluteImagePaths(post.inputPath) | safe }}
 </section>

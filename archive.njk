@@ -7,6 +7,17 @@ eleventyNavigation:
 draft: true
 ---
 
+{% if isServing %}
+<h2 id="drafts">Drafts (internal only)</h2>
+<ul>
+  {%- for post in collections.posts | reverse -%}
+  {%- if post.data.draft -%}
+  <li>{{ post.data.date | date("yyyy-LL-dd") }} — <a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {%- endif -%}
+  {%- endfor -%}
+</ul>
+{% endif %}
+
 {# 1. Known categories from _data/categories.yaml #}
 {% for slug, name in categories %}
 {% if collections[slug] and collections[slug].length %}
