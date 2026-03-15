@@ -33,7 +33,7 @@ permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
     {%- endfor -%}
   {% endif %}
   </p>
-  {{ post.content | safe }}
+  {{ post.content | absoluteImagePaths(post.inputPath) | safe }}
 </section>
 {% endfor %}
 

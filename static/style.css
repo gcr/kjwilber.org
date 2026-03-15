@@ -230,3 +230,13 @@ footer {
   color: var(--color-footer);
   font-size: 0.7rem;
 }
+
+.post img {
+  height: auto;
+  width: 100%;
+}
+
+.image-strip img {
+  width: auto !important;
+  height: 8rem !important;
+}

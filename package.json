@@ -9,8 +9,7 @@
   "author": "lopste",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy-plugin-rss": "^1.2.0",
-    "eleventy": "^1.0.6"
+    "@11ty/eleventy-plugin-rss": "^1.2.0"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",

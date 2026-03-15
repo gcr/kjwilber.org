@@ -85,7 +85,22 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addGlobalData("metadata", metadata);
 
-  eleventyConfig.addPlugin(eleventyImageTransformPlugin);
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    formats: ["webp", "jpeg"],
+    widths: [600, "auto"], // Pick your own srcset widths
+    defaultAttributes: {
+      loading: "lazy",
+      decoding: "async",
+    },
+  });
+
+  // Rewrite relative image srcs to source file paths so they resolve on listing pages
+  eleventyConfig.addFilter("absoluteImagePaths", function(content, inputPath) {
+    const dir = path.dirname(inputPath);
+    return content.replace(/src="(?:\.\/)?(?!\/|https?:\/\/)([^"]+)"/g, (match, filename) => {
+      return `src="./${path.join(dir, filename)}"`;
+    });
+  });
 
   eleventyConfig.addFilter("otherTags", (collections, categories) => {
     return Object.keys(collections).filter(tag =>
@@ -120,7 +135,7 @@ module.exports = function (eleventyConfig) {
   return {
     markdownTemplateEngine: "njk",
     dir: {
-      input: "src",
+      // input: "src",
       //"layouts": "layouts"
     },
   };

@@ -324,7 +324,7 @@
 
 == Selected Publications
 _Note that some work before 2018 is published under a previous name. See #link("https://kjwilber.org/publications")[here] for the unabridged list._
-#let papers = yaml("/src/_data/papers.yaml")
+#let papers = yaml("/_data/papers.yaml")
 #table(
   ..papers.paperList.filter(p => "spotlight" in p).map(p => {
     let authors = p.authors.map(a => {
