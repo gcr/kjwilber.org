@@ -73,7 +73,7 @@ This is an excerpt. [View all publications...](/publications)
   </ul></td>
 <td class="figure">
   {%if paper.spotlight.figure-%}
-    <img src="{{paper.spotlight.figure}}" alt="Figure 1 from the paper" />
+    <img src="{{paper.spotlight.figure}}" alt="Figure 1 from the paper" eleventy:ignore />
   {%-endif%}
   {{paper.spotlight.caption}}
 </td>
@@ -92,4 +92,4 @@ Throughout my academic career, I am grateful to be supported by Dr. Serge Belong
 You can find my contact details on my [resume](/resume.pdf) or my [LinkedIn page](https://www.linkedin.com/in/kwilber/).
 
 
-<img src="/static/figures/cornell-tech.png" style="display: block; margin: 20px auto; max-width: 100px;" alt="Cornell Tech logo" />
+<img src="/static/figures/cornell-tech.png" style="display: block; margin: 20px auto; max-width: 100px; height: auto;" alt="Cornell Tech logo" />

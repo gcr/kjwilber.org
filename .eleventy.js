@@ -87,7 +87,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     formats: ["webp", "jpeg"],
-    widths: [600, "auto"], // Pick your own srcset widths
+    widths: [600], // Pick your own srcset widths
     defaultAttributes: {
       loading: "lazy",
       decoding: "async",

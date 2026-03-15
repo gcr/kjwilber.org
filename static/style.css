@@ -196,6 +196,7 @@ a:visited {
 .illustration {
   max-width: 8rem;
   object-fit: contain;
+  height: auto;
 }
 
 /* Post */
