@@ -1,7 +1,6 @@
 ---
 title: on leaving
 date: 2026-03-10
-draft: true
 ail: 0
 tags:
   - poetry
