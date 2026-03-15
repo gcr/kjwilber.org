@@ -202,7 +202,7 @@ a:visited {
 .controls {
   margin: 3rem 0 2rem;
 }
-.date {
+.post-metadata {
   color: var(--color-footer);
 }
 

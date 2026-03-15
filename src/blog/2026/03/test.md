@@ -2,8 +2,6 @@
 title: It's time to write some posts
 excerpt: "Add posts and your site build will publish them"
 date: 2026-03-14
-tags:
-  - posts
 draft: true
 ---
 
@@ -11,13 +9,13 @@ The body of your posts will be in Markdown. With Glitch, you can edit Markdown r
 
 > 💡 Are the live updates to your site distracting you while you write or work? Go to the project menu in the top-left of your Glitch editor, and uncheck the box for **Refresh App on Changes**.
 
-### Post metadata
+## Post metadata
 
 Above the content of your posts, you'll include front matter that tells Eleventy about details like the title and date.
 
 Any values you include in the front matter are accessible in the template (e.g. `_includes/layouts/post.njk`). The template can build this data into the HTML page along with your post content.
 
-### Add a post!
+## Add a post!
 
 Click the three little dots next to the `/posts` folder in Glitch and add a new file, naming it `my-first-post.md`.
 

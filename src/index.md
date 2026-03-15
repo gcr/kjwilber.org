@@ -14,11 +14,15 @@ titleLinks:
   Google Scholar: https://scholar.google.com/citations?user=OAtUvx0AAAAJ&hl=en&oi=ao
 ---
 
-Hello! I'm a research engineer with an academic computer vision background in NYC. Before graduating in 2018, I was a Ph.D. student at the Cornell Tech SE(3) Vision Group under [Dr. Serge Belongie](https://serge.belongie.com/). I previously worked for four years as a software engineer in Google Research. I started my career as a research assistant at the Vision and Security Technology lab and as a software engineer at Securics, Inc., both under [Terrance E. Boult](http://vast.uccs.edu/~tboult).
+Hello! I'm a research engineer with an academic computer vision background in NYC.
+My interests include applied computer vision and machine learning to empower users and the society we live in, especially assistive technology, privacy/security, ecology, the construction of individual identity, the study and practice of creativity, and antisurveillance. I'm also interested in LLMs, mechanistic interpretability, and creating infrastructure for research communities.
 
-My interests include applied computer vision and machine learning to empower users and the society we live in, especially assistive technology, privacy/security, ecology, individual identity, creativity, and antisurveillance. Ask me about my side projects!
+I started my career as a research assistant at the Vision and Security Technology lab and as a software engineer at Securics, Inc., both under [Terrance E. Boult](http://vast.uccs.edu/~tboult).
+I graduated with a Ph. D. from Cornell Tech's SE(3) computer vision group under [Dr. Serge Belongie](https://serge.belongie.com/).
+From there, I worked for six years as a software engineer at Google Research on a variety of problems before co-founding [Krnel](https://krnel.ai) with [Peyman Faratin](https://en.wikipedia.org/wiki/Peyman_Faratin).
 
-The work that I enjoy the most is visually communicating experimental results to an outside audience, quickly producing figures or plots of internal ML state diagnostics, creating infra/tools for engineers to find insights faster. I'm also skilled at performance optimization, e.g. rewriting hot loops in lower-level languages or SSE/AVX compiler intrinsics, especially improving "research-quality" code.
+
+<!-- The work that I enjoy the most is visually communicating experimental results to an outside audience, quickly producing figures or plots of internal ML state diagnostics, creating infra/tools for engineers to find insights faster. I'm also skilled at performance optimization, e.g. rewriting hot loops in lower-level languages or SSE/AVX compiler intrinsics, especially improving "research-quality" code. -->
 
 {% if false %}
 # Posts

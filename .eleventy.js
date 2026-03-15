@@ -9,6 +9,8 @@ const yaml = require("js-yaml");
 const process = require("process");
 const eleventyNavigation = require("@11ty/eleventy-navigation");
 const eleventyPluginTypst = require("eleventy-plugin-typst");
+const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+const path = require("path");
 
 process.env.NODE_ENV = process.env.NODE_ENV || "development"; // fix typst build issue
 
@@ -82,6 +84,14 @@ module.exports = function (eleventyConfig) {
   // RSS support
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addGlobalData("metadata", metadata);
+
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin);
+
+  eleventyConfig.addFilter("otherTags", (collections, categories) => {
+    return Object.keys(collections).filter(tag =>
+      tag !== "posts" && tag !== "all" && !(tag in categories)
+    );
+  });
 
   eleventyConfig.addFilter("date", (dateObj, format) => {
     if (dateObj === "now") dateObj = new Date();

@@ -1,0 +1,42 @@
+---
+layout: page.njk
+title: All Blog Posts
+eleventyNavigation:
+  key: Archive
+  order: 3
+draft: true
+---
+
+{# 1. Known categories from _data/categories.yaml #}
+{% for slug, name in categories %}
+{% if collections[slug] and collections[slug].length %}
+<h2 id="{{ slug }}">{{ name.long }}</h2>
+<ul>
+  {%- for post in collections[slug] | reverse -%}
+  <li>{{ post.data.date | date("yyyy-LL-dd") }} — <a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {%- endfor -%}
+</ul>
+{% endif %}
+{% endfor %}
+
+{# 2. Tags that exist in collections but aren't in categories.yaml #}
+{% for slug in collections | otherTags(categories) %}
+{% if collections[slug].length %}
+<h2 id="{{ slug }}">{{ slug | capitalize }}</h2>
+<ul>
+  {%- for post in collections[slug] | reverse -%}
+  <li>{{ post.data.date | date("yyyy-LL-dd") }} — <a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {%- endfor -%}
+</ul>
+{% endif %}
+{% endfor %}
+
+{# 3. Posts with no tags other than "posts" #}
+<h2 id="uncategorized">Uncategorized</h2>
+<ul>
+  {%- for post in collections.posts | reverse -%}
+  {%- if post.data.tags.length <= 1 -%}
+  <li>{{ post.data.date | date("yyyy-LL-dd") }} — <a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {%- endif -%}
+  {%- endfor -%}
+</ul>
