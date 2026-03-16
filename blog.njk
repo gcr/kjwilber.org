@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title: Kimmy's Blog
+title: Kimmy's Scrapbook
 eleventyNavigation:
   key: Blog
   order: 0
@@ -37,7 +37,6 @@ permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 {% endfor %}
 
 
-{% if pagination.href.previous or pagination.href.next %}
 <nav class="pagination" aria-label="Blog pages">
   {% if pagination.href.previous %}
   <a href="{{ pagination.href.previous }}" class="left" rel="prev">&larr; Newer</a>
@@ -51,4 +50,3 @@ permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
     <span class="de-emphasized">Nothing older</span>
   {% endif %}
 </nav>
-{% endif %}
