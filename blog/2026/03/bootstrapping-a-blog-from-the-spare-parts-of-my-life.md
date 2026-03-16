@@ -12,7 +12,7 @@ ail: 0
 >
 > <footer>Gentle paraphrase of Leslie Lamport</footer>
 
-Every good blog starts with a "what should I blog about?" post. I suppose this is mine.
+Every good blog from 2010 starts with a "what should I blog about?" post. I suppose this is mine.
 
 ## Background
 
