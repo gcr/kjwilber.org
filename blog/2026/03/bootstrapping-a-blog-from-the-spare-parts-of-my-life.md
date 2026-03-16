@@ -87,7 +87,7 @@ So for now, there are only two ways to subscribe to my content:
 3. RSS feed
 
 If you use bookmarks (hi Heli!!) and want to read what I write, I deeply thank you.
-If you use substack (hi Olivia!!) and would like to see my posts, you might be able to [add the RSS feed on the web reader](https://on.substack.com/p/new-web-reader).
+If you use substack (hi Olivia!!) and would like to see my posts, I also deeply thank you, and you might be able to [add the RSS feed on the web reader](https://on.substack.com/p/new-web-reader).
 I'd like to explore further bluesky/email newsletter/linkedin integrations in the future as my process develops.
 
 But be warned: **this is a scrapbooking project, not a platform.** The reader won’t learn who I am except parasocially, and I don’t care to appeal to whatever copy of me might live in the reader's head.
