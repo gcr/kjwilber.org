@@ -8,13 +8,9 @@ tags:
 ---
 
 <blockquote class="poem">
-
-  in the moments that i leave,
-
-  -  may it be in service of a rocket-propellant-powered heart that wants to do more;
-
-  and in the moments i stay,
-
-  - may it be a study in persistence, that there are some things worth sticking around for
-
+  <p>in the moments that i leave,</p>
+  <p class="indent">may it be in service of a rocket-propellant-powered heart that wants to do more;</p>
+  <p>and in the moments i stay,</p>
+  <p class="indent">may it be a study in persistence, that there are some things worth sticking around for</p>
 </blockquote>
+

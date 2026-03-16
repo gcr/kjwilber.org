@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 0
 pagination:
   data: collections.posts
-  size: 2
+  size: 5
 permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}"
 ---
 
@@ -35,6 +35,7 @@ permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
   {{ post.content | absoluteImagePaths(post.inputPath) | safe }}
 </section>
 {% endfor %}
+
 
 {% if pagination.href.previous or pagination.href.next %}
 <nav class="pagination" aria-label="Blog pages">
