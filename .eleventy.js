@@ -17,7 +17,7 @@ process.env.NODE_ENV = process.env.NODE_ENV || "development"; // fix typst build
 // nodePandoc = util.promisify(nodePandoc_);
 
 const metadata = {
-  title: "Kimmy's Site",
+  title: "Kimmy's Scrapbook",
   description:
     "Personal webpage of Kimberly Wilber",
   language: "en",
