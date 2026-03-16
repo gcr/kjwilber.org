@@ -8,12 +8,14 @@
   </head>
   <body>
     <header>
-      <nav>
+      <nav aria-label="Sitemap">
         {%- for entry in collections.all | eleventyNavigation %}
-          {%- if entry.url == page.url %}
-          <span class="active">{{entry.key}}</span>
+          {%- if entry | urlMatches(page) %}
+            <span class="active">
+              <a href="{{entry.url}}">{{entry.key}}</a>
+            </span>
           {%- else %}
-          <a href="{{entry.url}}">{{entry.key}}</a>
+            <a href="{{entry.url}}">{{entry.key}}</a>
           {%- endif %}
         {%- endfor -%}
       </nav>

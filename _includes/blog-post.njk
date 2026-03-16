@@ -19,19 +19,19 @@ layout: page.njk
   </p>
   {# Content from the body of the post markdown appears here #}
   {{ content | safe }}
-  <div class="controls">
+  <nav class="controls" aria-label="Post navigation">
   {# The previous and next post data is added in .eleventy.js #}
   {% if prevPost.url %}
     <p>
       <strong>Previous post</strong>:
-      <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.title }}</a>
+      <a class="previous" href="{{ prevPost.url }}" rel="prev">{{ prevPost.data.title }}</a>
     </p>
   {% endif %}
   {% if nextPost.url %}
     <p>
       <strong>Next post</strong>:
-      <a class="next" href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
+      <a class="next" href="{{ nextPost.url }}" rel="next">{{ nextPost.data.title }}</a>
     </p>
   {% endif %}
-  </div>
+  </nav>
 </section>

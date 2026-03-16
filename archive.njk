@@ -9,7 +9,7 @@ eleventyNavigation:
 {% if isServing %}
 <h2 id="drafts">Drafts (internal only)</h2>
 <ul>
-  {%- for post in collections.posts | reverse -%}
+  {%- for post in collections.posts  -%}
   {%- if post.data.draft -%}
   <li>{{ post.data.date | date("yyyy-LL-dd") }} — <a href="{{ post.url }}">{{ post.data.title }}</a></li>
   {%- endif -%}
@@ -22,8 +22,10 @@ eleventyNavigation:
 {% if collections[slug] and collections[slug].length %}
 <h2 id="{{ slug }}">{{ name.long }}</h2>
 <ul>
-  {%- for post in collections[slug] | reverse -%}
-  <li>{{ post.data.date | date("yyyy-LL-dd") }} — <a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {%- for post in collections[slug]  -%}
+    {%- if not post.data.draft -%}
+    <li>{{ post.data.date | date("yyyy-LL-dd") }} — <a href="{{ post.url }}">{{ post.data.title }}</a></li>
+    {%- endif -%}
   {%- endfor -%}
 </ul>
 {% endif %}
@@ -34,8 +36,10 @@ eleventyNavigation:
 {% if collections[slug].length %}
 <h2 id="{{ slug }}">{{ slug | capitalize }}</h2>
 <ul>
-  {%- for post in collections[slug] | reverse -%}
-  <li>{{ post.data.date | date("yyyy-LL-dd") }} — <a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {%- for post in collections[slug]  -%}
+    {%- if not post.data.draft -%}
+    <li>{{ post.data.date | date("yyyy-LL-dd") }} — <a href="{{ post.url }}">{{ post.data.title }}</a></li>
+    {%- endif -%}
   {%- endfor -%}
 </ul>
 {% endif %}
@@ -44,9 +48,9 @@ eleventyNavigation:
 {# 3. Posts with no tags other than "posts" #}
 <h2 id="uncategorized">Uncategorized</h2>
 <ul>
-  {%- for post in collections.posts | reverse -%}
-  {%- if post.data.tags.length <= 1 -%}
-  <li>{{ post.data.date | date("yyyy-LL-dd") }} — <a href="{{ post.url }}">{{ post.data.title }}</a></li>
-  {%- endif -%}
+  {%- for post in collections.posts  -%}
+    {%- if post.data.tags.length <= 1 and not post.data.draft -%}
+      <li>{{ post.data.date | date("yyyy-LL-dd") }} — <a href="{{ post.url }}">{{ post.data.title }}</a></li>
+    {%- endif -%}
   {%- endfor -%}
 </ul>

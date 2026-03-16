@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 0
 pagination:
   data: collections.posts
-  size: 5
+  size: 2
 permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}"
 ---
 
@@ -37,8 +37,17 @@ permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 {% endfor %}
 
 {% if pagination.href.previous or pagination.href.next %}
-<nav class="pagination">
-  {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&larr; Newer</a>{% endif %}
-  {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Older &rarr;</a>{% endif %}
+<nav class="pagination" aria-label="Blog pages">
+  {% if pagination.href.previous %}
+  <a href="{{ pagination.href.previous }}" class="left" rel="prev">&larr; Newer</a>
+  {% else %}
+    <span class="de-emphasized">Nothing newer</span>
+  {% endif %}
+  <a href="/archive/">All posts</a>
+  {% if pagination.href.next %}
+    <a href="{{ pagination.href.next }}" class="right" rel="next">Older &rarr;</a>
+  {% else %}
+    <span class="de-emphasized">Nothing older</span>
+  {% endif %}
 </nav>
 {% endif %}

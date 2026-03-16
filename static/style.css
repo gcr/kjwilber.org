@@ -44,7 +44,7 @@ html, body {
   padding: 0;
 }
 main,footer {
-  padding: 1rem 2rem;
+  padding: 1rem 2rem 3rem;
   margin: 0 auto;
   max-width: var(--wrapper-width);
 }
@@ -58,7 +58,7 @@ header {
   border-bottom: 3px solid;
   border-image: linear-gradient(90deg, var(--accent-1) 10%, var(--accent-2), var(--accent-3), var(--accent-4) 90%) 1;
 }
-nav {
+header nav { /* For all navigation, including pagination at bottom of blogs */
   margin: 0 auto;
   padding: 0 2rem;
   display: flex;
@@ -96,6 +96,9 @@ header .active {
   mask: linear-gradient(#000 0 0);
   -webkit-text-fill-color: var(--color-bg);
   color: var(--color-bg);
+  a {
+      color: var(--color-bg) !important;
+  }
 }
 
 /* Typography */
@@ -159,6 +162,10 @@ ul {
   padding: 0 0 0 18px;
   margin: 0;
 }
+blockquote {
+  font-style: italic;
+  font-size: 1.3rem;
+}
 
 /* Links */
 a:link,
@@ -173,11 +180,15 @@ a:visited {
   text-decoration-color: var(--accent-1);
 }
 a:hover {
-  text-decoration-color: var(--accent-3);
+  /*text-decoration-color: var(--accent-3);*/
 }
 a:visited {
   color: var(--accent-2);
   text-decoration-color: var(--accent-2);
+}
+.de-emphasized {
+  color: var(--color-footer);
+  font-style: italic;
 }
 
 /* Home layout */
@@ -260,4 +271,14 @@ section.post.embedded::after {
   background: var(--color-footer);
   opacity: 0.3;
   border-radius: 2px;
+}
+
+
+nav.pagination { /* For all navigation, including pagination at bottom of blogs */
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  a,span {
+    padding: 0.5rem;
+  }
 }

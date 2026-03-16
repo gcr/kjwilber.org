@@ -114,11 +114,16 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(format);
   });
 
+  eleventyConfig.addFilter("urlMatches", (navEntry, currentPage) => {
+    // Handle trailing slashes by normalizing both URLs
+    if (navEntry.url == '/') return currentPage.url == '/'; // Special case for homepage
+    return currentPage.url.startsWith(navEntry.url);
+  });
+
   eleventyConfig.addCollection("posts", function (collection) {
     const coll = collection
       .getFilteredByTag("posts")
-      .sort((a, b) => b.data.date - a.data.date)
-      .reverse();
+      .sort((a, b) => b.data.date - a.data.date);
 
     // From: https://github.com/11ty/eleventy/issues/529#issuecomment-568257426
     // Adds {{ prevPost.url }} {{ prevPost.data.title }}, etc, to our njks templates

@@ -13,9 +13,7 @@ Throughout my career, I've been fortunate to work with several awesome research 
 
 A full list of publications is also available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=OAtUvx0AAAAJ&view_op=list_works&sortby=pubdate).
 
-<blockquote>
-<strong>Note:</strong> Some work before 2018 is published under a previous name.
-</blockquote>
+<strong>Note:</strong> Some work before 2018 is published under my previous name.
 
 {%- set prev_year = 0 -%}
 {%- for paper in papers.paperList -%}
