@@ -241,6 +241,10 @@ blockquote {
     font-style: normal;
     color: var(--color-footer);
     text-align: right;
+    a {
+      color: var(--color-footer) !important;
+      text-decoration-color: var(--color-footer) !important;
+    }
   }
   footer::before {
     content: "— ";
