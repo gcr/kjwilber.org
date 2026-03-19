@@ -6,7 +6,11 @@ tags:
 
 ---
 
-From https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/ :
+This only affects reviewers who
+- Agreed not to use LLMs in their review (“Policy A”)
+- Were the found to have used then anyway
+
+From [the article](https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/):
 
 > Reviewers can fall short of our expectations in many ways, with or without AI involved. This initiative focused only on one particular action (breaking previously agreed-upon rules for LLM usage) and still identified it for ~1% of all reviews. 
 >
