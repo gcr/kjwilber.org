@@ -21,17 +21,6 @@
   display: none !important;
 }
 
-/* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
-@font-face {
-  font-family: HK Grotesk;
-  src: url("fonts/HKGrotesk-Regular.otf") format("opentype");
-}
-@font-face {
-  font-family: HK Grotesk;
-  font-weight: bold;
-  src: url("fonts/HKGrotesk-Bold.otf") format("opentype");
-}
 
 
 /* Page structure */
@@ -252,6 +241,10 @@ blockquote {
     font-style: normal;
     color: var(--color-footer);
     text-align: right;
+    a {
+      color: var(--color-footer) !important;
+      text-decoration-color: var(--color-footer) !important;
+    }
   }
   footer::before {
     content: "— ";
