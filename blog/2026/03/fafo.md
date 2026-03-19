@@ -2,7 +2,7 @@
 title: "FAFO"
 date: 2026-03-17
 tags:
-  - quote
+  - quotes
 ---
 
 > <s>Fuck around, find out.</s><br />
