@@ -1,6 +1,5 @@
 ---
 title: "How I read"
-excerpt: "Exceprt here"
 date: 2026-03-16
 draft: true
 tags:

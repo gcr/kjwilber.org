@@ -10,4 +10,4 @@ from:
 ---
 
 > We already have a planet to hold us, whose repair is far more possible than its recreation
-> <footer>[Sarah Davis Baker](https://youtu.be/fr5fQM-Vp1U?si=jQ8MGL2Nphj7i8QU)</footer>
+> <footer><a href="https://youtu.be/fr5fQM-Vp1U?si=jQ8MGL2Nphj7i8QU">Sarah Davis Baker</a></footer>
