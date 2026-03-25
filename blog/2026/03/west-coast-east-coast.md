@@ -1,6 +1,8 @@
 ---
 title: "Stealing the California Zephyr"
 date: 2026-03-25
+excerpt: "My co-founder went to San Francisco looking for the old California spirit of abundance and optimism. What he found instead made me wonder — could the cultural energy of the west coast and east coast be switching places?"
+image: /blog/2026/03/point-bonita-lighthouse.jpg
 tags:
   - half-baked
 ail: 1
@@ -34,7 +36,7 @@ Peyman's spiritual journey a few weekends back was largely unsuccessful. He was 
 Artificial intelligence is certainly responsible for a big chunk of this sentiment. [College graduates are facing the grimmest job market in years](https://archive.ph/hVGVs) and even established staff engineers in my social circles are having trouble finding work.
 
 But I think the shift I'm seeing in the emotional resonance runs deeper than that.
-Across the board, tech engineers are worried about layoffs, efficiency, redundancy, even though we are currently the dominant force reshaping the city. Startups in the Bay Area routinely expect employees to abide by the [996 work schedule](https://www.linkedin.com/posts/petebeskas_the-996-work-schedule-has-been-gaining-traction-activity-7359649527135395840-jrCC/) - from 9 a.m. to 9 p.m., 6 days a week. This schedule is already familiar to [service workers with long commutes](https://eltecolote.org/content/en/extreme-commutes-sf-bay-area/) who have to [go to extreme measures to just make rent](https://localnewsmatters.org/2018/11/30/pactio-project-why-are-there-so-many-camper-vans-along-el-camino-in-palo-alto-and-on-side-streets-in-mountain-view/), and this flood is rising to swallow every discipline.
+Across the board, engineers are worried about layoffs, efficiency, redundancy, even though we are the overwhelmingly dominant force reshaping the Bay Area. Startups on the west coast routinely expect employees to abide by the [996 work schedule](https://www.linkedin.com/posts/petebeskas_the-996-work-schedule-has-been-gaining-traction-activity-7359649527135395840-jrCC/) - from 9 a.m. to 9 p.m., 6 days a week. This schedule is already familiar to [service workers with long commutes](https://eltecolote.org/content/en/extreme-commutes-sf-bay-area/) who have to [go to extreme measures to just make rent](https://localnewsmatters.org/2018/11/30/pactio-project-why-are-there-so-many-camper-vans-along-el-camino-in-palo-alto-and-on-side-streets-in-mountain-view/), but the flood now rises to swallow every discipline.
 
 A labor force that never sleeps, never leisures, never has time for art... **What city does this remind Californians of?**
 
