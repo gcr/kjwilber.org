@@ -6,6 +6,8 @@ tags:
 ail: 1
 ---
 
+![An image of Point Bonita lighthouse, taken 2014-07-21](/blog/2026/03/point-bonita-lighthouse.jpg)
+
 A couple weekends ago, my co-founder Peyman took a pilgrimage of sorts to San Francisco. One goal was strategic -- to raise money for our startup -- but another goal was spiritual, to rediscover his spark of the "California spirit," some innate sense that good things are still possible, that collaboration is abundant. I think he wanted to capture that easygoing nature in a bottle to sustain him for a hard road ahead.
 
 What he came home with was quite different.
