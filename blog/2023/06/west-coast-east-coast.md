@@ -6,7 +6,7 @@ tags:
 ail: 1
 ---
 
-A couple weekends ago, my co-founder Peyman took a pilgrimage of sorts to San Francisco. One goal was strategic -- to raise money for our startup -- but another goal was spiritual, to rediscover his spark of the "California spirit," some innate sense that good things are still possible, collaboration is abundant. I think he wanted to capture that easygoing nature in a bottle to sustain him for a hard road ahead.
+A couple weekends ago, my co-founder Peyman took a pilgrimage of sorts to San Francisco. One goal was strategic -- to raise money for our startup -- but another goal was spiritual, to rediscover his spark of the "California spirit," some innate sense that good things are still possible, that collaboration is abundant. I think he wanted to capture that easygoing nature in a bottle to sustain him for a hard road ahead.
 
 What he came home with was quite different.
 
@@ -27,13 +27,12 @@ The Californians I knew saw East Coasters in a different light. New York City, t
 
 ## There's something in the wind
 
-Peyman's spiritual journey a few weekends back was largely unsuccessful. He was hoping for abundance, but instead witnessed a pervasive panicked energy; some that San Franciscans are either billionaires or just scraping by. He spoke of how every overheard conversation was about work, tech, AI, or startups.
+Peyman's spiritual journey a few weekends back was largely unsuccessful. He was hoping for abundance, but instead he witnessed a pervasive panicked energy; some sense that San Franciscans are either billionaires or just scraping by. He spoke of how every overheard conversation was about work, tech, AI, or startups.
 
 Artificial intelligence is certainly responsible for a big chunk of this sentiment. [College graduates are facing the grimmest job market in years](https://archive.ph/hVGVs) and even established staff engineers in my social circles are having trouble finding work.
 
 But I think the shift I'm seeing in the emotional resonance runs deeper than that.
-Across the board, tech engineers are worried about layoffs, efficiency, redundancy, even though we are currently the dominant force reshaping the city. Startups in the Bay Area routinely expect employees to abide by the [996 work schedule](https://www.linkedin.com/posts/petebeskas_the-996-work-schedule-has-been-gaining-traction-activity-7359649527135395840-jrCC/) - from 9 a.m. to 9 p.m., 6 days a week. This schedule is already familiar to [service workers with long commutes](https://eltecolote.org/content/en/extreme-commutes-sf-bay-area/) who have to [go to extreme measures to make rent meet](https://localnewsmatters.org/2018/11/30/pactio-project-why-are-there-so-many-camper-vans-along-el-camino-in-palo-alto-and-on-side-streets-in-mountain-view/), and this flood is rising to swallow every discipline.
-
+Across the board, tech engineers are worried about layoffs, efficiency, redundancy, even though we are currently the dominant force reshaping the city. Startups in the Bay Area routinely expect employees to abide by the [996 work schedule](https://www.linkedin.com/posts/petebeskas_the-996-work-schedule-has-been-gaining-traction-activity-7359649527135395840-jrCC/) - from 9 a.m. to 9 p.m., 6 days a week. This schedule is already familiar to [service workers with long commutes](https://eltecolote.org/content/en/extreme-commutes-sf-bay-area/) who have to [go to extreme measures to just make rent](https://localnewsmatters.org/2018/11/30/pactio-project-why-are-there-so-many-camper-vans-along-el-camino-in-palo-alto-and-on-side-streets-in-mountain-view/), and this flood is rising to swallow every discipline.
 
 A labor force that never sleeps, never leisures, never has time for art... **What city does this remind Californians of?**
 
@@ -42,12 +41,11 @@ Tech will probably continue to entrench itself as the dominant power animating t
 I earnestly wonder if the energy around "west coast" and "east coast" might switch places soon.
 I don't think NYC is becoming more laid back, but I certainly think the bay area is rapidly becoming more intense, and I think it may outpace the east coast someday if it hasn't already.
 
-
 ## Final Thoughts
 This sort of position piece is new to me.
 I'm used to academic, structured writing, where every claim is enumerated and supported by evidence, so it feels quite strange to write about my _gut feelings_, or my _honest guesses_, especially since I'm not prepared to support them in a debate.
 
-But if I were to continue to sketch this topic out in future posts, I'd want to outline:
+But if I were to continue sketching this topic out, I'd want to outline:
 - The role of individualism in shaping the forces of capital
   - The way that the individualism of Americans differs from the individualism of other countries
 - Community as remedy for some of this
