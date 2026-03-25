@@ -1,0 +1,1195 @@
+:PROPERTIES:
+:ID:       680E9600-62F8-4899-9654-5D713AFE3CB3
+:END:
+#+title: Bodyweight Fitness Primer
+
+* Day 0
+** EDIT 01/01/2021:
+For those wondering where the Day 1 Post is:
+
+The posts will be made on Reddit at 18:00 GMT every day (this is because it is around the highest hours of reddit activity throughout the day, while not being too late for me to respond to comments if needed)
+
+However, every day post will be up on my website at 00:01 GMT every day, so Day 1 is up now if you'd like to check it there before the official reddit post.
+
+[[https://www.nick-e.com/exercise-library/routines/reddit-bwf-primer/]]
+
+Hey folks! Nick-E Here.
+
+This is just a post continuing to get the word out about the launch of the first of 5 routines we're coming out with in 2021 as an update/overhaul to the existing RR; the BWF Primer Routine!
+
+Now if you haven't seen last week's announcement, I'd strongly recommend you have a look through there, because it provides some important information about all this.
+
+[[https://www.reddit.com/r/bodyweightfitness/comments/kfqmhl/official_rr_update_new_years_new_routines_coming/][Check it out here]]
+
+In the last post we outlined our plans for all 5 programs, but in this post, I'll be going into more of a deep dive on the BWF Primer, as it is on its way into general circulation in the New Year!
+
+As this routine is meant to be replacing a longstanding fixture of the subreddit, I will try to use this post to be as explicit about my reasoning and justifications for how the routine is structured and how it was made as possible.
+
+** Disclaimer: beginners need not read this now to understand the program, however, reading it may help to answer any questions you have about the routine in terms of 'why am I doing this' or 'what should I expect?'
+ok, onto the content!
+
+** The Making of the BWF Primer Routine:
+So in designing the BWF Primer Routine, a lot of thought went into both*what people who are new to exercise need the most*, and*how to best deliver that information effectively.*
+
+With those two things in mind, the following factors were held up as the goal for what the BWF Primer should achieve.
+
+1. The program should provide the tools to*learn what proper form is*for any given exercise, and enable the person performing the routine to*self-evaluate their performance*, and/or provide an avenue through which*others with more experience can check form*.
+2. The program should allow for individuals to get started with*minimal barrier to entry*, and weave in reading with actual practice. This will space out the (unfortunately necessary and) relatively large quantity of reading required to learn proper form and understanding of training programs, thus considerably flattening out the originally steep learning curve.
+3. The program should be structured in such a way to facilitate habit formation to help new exercisers get into the groove more easily.
+
+With respect to*point #1*, this is something that the RR already did, and many free online programs already do. However, the high priority of this point is one of the reasons why the previous RR and many other free 'learn it yourself' programs have had such a high barrier to entry for non exercise-savvy individuals. There's a lot to read, watch, and comprehend before you can even start the routine.
+
+Now some people find this absolutely trivial and can just sit down for an hour, read through all the material and get going on their first session. However, for many others this has proven to be a bit more of a difficult task and has resulted in feeling too overwhelmed and intimidated to start.
+
+This is where*point #2 (and #3)*comes in. The solution to this in the BWF Primer is a 14 day 'building period', where there is an activity and/or reading to do 6 days per week. The building period allows people to start without having to tackle the whole routine on Day 1. Additionally, the 6 day per week structure will help build consistency while*also keeping the sessions short and sweet, atleast to begin with.*This will be explained below in the routine outline.
+
+** The BWF Primer Routine: Outline
+The purpose of the BWF Primer Routine is to take someone who has never exercised before/has not exercised very much before, and is not familiar with common exercises or principles of how exercise and training works, and get them to a minimally effective level of operation to start building strength and muscle.
+
+In completion of the routine, you should be able to understand roughly how and why workouts are structured the way that they are, and how that facilitates improvements in your fitness. You will also develop competence in a series of fundamental exercises.
+
+The exercises you should be able to competently and effectively do by the end of the routine are:
+
+1. Push-ups
+2. Horizontal Bodyweight Rows
+3. Squats
+4. Single Leg Glute Bridges
+5. Deadbugs
+6. Bird-dogs
+
+*Push-ups and Rows*are your main/upper body/exercises
+
+*Squats and Glute Bridges*are your main/lower body/exercises,
+
+and*Deadbugs and Bird-dogs*are your main/core/exercises.
+
+That list is also ordered in the most likely order that the exercises will be learnt.
+
+** The BWF Primer Routine: Structure and Progression:
+STRUCTURE:
+
+The BWF Primer will start out with a 14 day building period (explained in the next section), building up to this workout shown below by the end of the 14 days, to be performed 3 times per week. (Ideally with one day of rest between each session, but if need be, you can do 2 sessions in a row. But not all 3)
+
+
+
+| Exercise                                   | Sets and Rep ranges |
+|--------------------------------------------+---------------------|
+| Deadbugs                                   | 3x10-20             |
+| Birddogs                                   | 3x10-20             |
+| Row Progression OR Reverse Corner Push-ups | 3x5-12              |
+| Pushup Progression                         | 3x5-12              |
+| Glute Bridge Progression                   | 3x8-15              |
+| Squat Progression                          | 3x8-15              |
+
+In all exercises, as a standard baseline, we will work with 60s rest between sets (between the fact that 1. The work will be submaximal and 2. New exercisers need to develop better work capacity and inter-set recovery, more than 60s is likely not needed.)
+
+----
+
+*PROGRESSION:*
+
+----
+
+All exercises should start out very easy, and you should be able to add 1 rep per set (up to 3 sets of the upper rep range, e.g. 12, 15 or 20 depending on the exercise) every session. If you hit a plateau in the first two weeks you've started too heavy. If you did start too heavy and stall (or fail) for more than 2 workouts in a row, drop 2 reps per set and continue with the old progression scheme. FOR EXAMPLE: If you fail to complete 3x9 two workouts in a row, you should go back down to 3x7 before progressing again.
+
+If the above scheme does not enable you to progress past a plateau, many other methods (far more sophisticated than this) exist that are outside the scope of this routine that can be investigated if you need them!
+
+----
+
+*END STATE:*
+
+----
+
+You should be able to perform:
+
+*3x8 pushups*
+
+*3x8 horizontal rows*(body parallel to the floor at the bottom of the movement)
+
+*3x15 Squats*
+
+and*3x15 Glute bridges*
+
+all*/WITH GOOD FORM/*before moving on to the next program (For now, that will be the RR, but in future it will be the*BWF Strength Foundation Routine*). If you achieve one of these goals before reaching the rest, you may continue to progress in those exercises, or stay at that level and work on your form until all requisites are met.
+
+(SIDE NOTE:*If you were doing corner reverse push-ups*, you should acquire something to do rows on and continue on this program until you reach the row progression, progressing everything else in the meantime )
+
+----
+
+****A SIDE NOTE: RATIONALE FOR REP RANGES:**\**
+
+----
+
+You may be wondering why the upper end rep ranges for this program are so high. There's a number of reasons:
+
+1. Due to the occasionally big jumps between progressions in BWF, its usually better in a program suited for the widest number of people to overestimate the level of strength needed to move on in a progression. If 8 reps of one progression JUST ABOUT gives you enough strength for 5 of the next (albeit maybe with not the best form), thats a needlessly rushed approach when alternatively building up to 12 reps in the former progression would allow for a comfortable acclimation to the next progression because it is well within your strength ability. In a way it sort of naturally periodizes the intensity of that progression rather than slamming your head into maximum intensity every single session.
+2. Working in a variety of rep ranges is important for too many reasons to go into, and too many beginner programs just slam people either with 5s, or with 5-8's.
+3. Specifically for the squats and glute bridge progressions, BWF leg work is inherently limited in scope due and so naturally to squeeze the most benefit out of it, you will need to work in higher rep ranges, because if you do not have access to weights then you will hit a ceiling extremely quickly. Therefore, it's much better to treat BWF leg work on the "pump"-ier side of the rep range continuum.
+
+** 14 Day Building Period
+The structure of the 14 day building period is shown below:
+
+| Day    | Task                                                 | Reading                                                                                    |
+|--------+------------------------------------------------------+--------------------------------------------------------------------------------------------|
+| Day 1  | Pushups                                              | Read about Push-up Form!                                                                   |
+| Day 2  | Pushups                                              | Some Brief Training Theory (TBD)                                                           |
+| Day 3  | Pushups, Rows                                        | Read about Row Form!                                                                       |
+| Day 4  | Pushups, Rows                                        | Some Brief Training Theory (TBD)                                                           |
+| Day 5  | Pushups, Rows, Glute Bridge                          | Read about Glute Bridge Form!                                                              |
+| Day 6  | Pushups, Rows, Glute Bridge                          | Some Brief Training Theory (TBD)                                                           |
+| Day 7  | REST!                                                | Catch up on any reading you may not have done, or not have had time to do in the last week |
+| Day 8  | Pushups, Rows, Glute Bridge, Squat                   | Read about Squat Form!                                                                     |
+| Day 9  | Pushups, Rows, Glute Bridge, Squat                   | Some Brief Training Theory (TBD)                                                           |
+| Day 10 | Deadbug, Pushups, Rows, Glute Bridge, Squat          | Read about Deadbug Form!                                                                   |
+| Day 11 | Deadbug, Pushups, Rows, Glute Bridge, Squat          | Some Brief Training Theory (TBD)                                                           |
+| Day 12 | Birddog, Deadbug, Pushups, Rows, Glute Bridge, Squat | Read about Birddog Form!                                                                   |
+| Day 13 | Birddog, Deadbug, Pushups, Rows, Glute Bridge, Squat | Some Brief Training Theory (TBD)                                                           |
+| Day 14 | REST!                                                | Catch up on any reading you may not have done, or not have had time to do in the last week |
+|        |                                                      |                                                                                            |
+
+----
+
+****SIDE NOTE: TOTAL VOLUME OF THE BUILD-UP PERIOD**\**
+
+----
+
+Yet again you might be thinking to yourself:
+
+"But Nick! How could you! Beginners shouldn't train 6x a week, beginners should train 3x per week! 6x per week is far too much volume for our poor beginners and they will surely die a fiery death from:
+
+*/O V E R T R A I N I N G! ! ! ! ! !/*"
+
+If they were doing the full volume workout 6x per week, yes. That would certainly be likely to exceed the recovery capacity of a beginner athlete.
+
+However:
+
+1. The volume of each session will be reduced as exercises are added to ensure the weekly volume stays at a manageable level, and generally around the volume of the full routine (The current RR, for example, is 81 weekly working sets. The full BWF Primer is 54 sets of sub-max work. Week 1 will be around 45 sets, and week two will be 60. Of/very/sub-maximal form work mostly. There is zero chance of exceeding your recovery capacity as a beginner if you work in the guideline intensity)
+2. The intensity of this routine is meant to be low for the 14 day build-up. The intensity of the sets are not meaningfully high enough to impact your recovery in this period because the purpose of this period is learning, not really pushing yourself and trying to make*huge gains*.
+
+** The End.
+So that's the BWF Primer as I've got it developed so far in readiness for the New Year!
+
+There's still some finishing touches to go before it's ready, and it will likely continue to be developed to smooth out any rough edges (all programs have them when they are transferred from the perfect, lab-like ideal conditions in someone's brain to the wild and wacky real world), but the goal is to get it to a minimally effective state by New Year's so the first cohort of people going through the first 14 day build-up Community Workout will get a good experience!
+
+If you've made it this far, thanks for reading :)
+
+If you are experienced enough with fitness and exercise that you perfectly understood all that and would like to be a helpful member of the[[https://www.reddit.com/r/bodyweightfitness][/r/bodyweightfitness]]community, you should join the Discord server and opt-in to the 'Newbie Helper' role, to help get ready for the New Year's Rush, as beginners will be joining during the community event to ask questions![[https://discord.gg/5MsaChT3YF]]
+
+Cheers,
+
+Nick-E
+
+
+* Day 1
+** Before we Begin,
+Just so people know what to plan and when to expect the next days' post,
+
+*Every day at 18:00 GMT*, the next day post will be posted (this is because it is around the highest reddit activity of the day, while not being too late for me to respond to comments if needed)
+
+(*/Side note:/*For those in time-zones for whom this daily 18:00 GMT release date is too late for you to see the post, (or for those that just want to see the post ASAP), I will be posting the Day post on my own website at*00:01 GMT every day on*[[https://www.nick-e.com/exercise-library/routines/reddit-bwf-primer/][*my website*]]. It will be identical to the reddit post. This means that Day 2 will launch on my site in under 4 hours from now for people to view on the other side of the globe from me. )
+
+Hey folks! Nick-E here. Welcome
+
+Many of you will be coming to exercise for the absolute first time ever. Some of you will be coming from time off and want to really ease your way back in, and yet still some others will be wanting to simply reinforce their foundations and knowledge by reading up on the daily readings!
+
+In any case, thanks for coming!
+
+The way the community workouts will be structured is that for the next 14 days, every day you can come onto the subreddit and there will be a workout for you and some informational reading. The reading will be split evenly between:
+
+*Reading about how to properly perform an exercise*
+
+and
+
+*Reading about how training works*
+
+In any other training program you would have to read all of the information spread across these 14 days in one go, or already know it, in order to start a strength training program and also know what you are doing. This 14 day spread should make it much more achievable to get the info in!
+
+By the end of the 14 days, you will have eased your way straight in to the full BWF Primer Routine!
+
+** Reading #1: Understanding Training Nomenclature:
+*Reps:*
+
+A 'rep' is short for 'repetition' and refers to a single execution of a movement. If you were to sit in a chair and extend your knee straight out in front of you and then return it to the start position, that is '1 rep' of a knee extension. If you did that 10 times in a row, thats '10 reps' of a knee extension.
+
+*Sets:*
+
+A set is a specified number of reps to perform of an exercise. If you do 10 knee extensions, then wait a bit, 10 more knee extensions, then wait a bit, and 10 more, you've just done 3 sets of 10 knee extensions. In most training programs, you will see this shortened to '3x10 knee extensions'. You can read the 'X' as 'sets of'.
+
+3x10 = 3 sets of 10.
+
+*Rest:*
+
+This one is self explanatory, it is just the period of time between sets of an exercise where you rest. But more specifically, it refers to the amount of time that the parts of the body that are involved in an exercise are resting (not doing anything). You do not necessarily need to be completely immobilised during your rest periods (we can go into more detail on the implications of this on a later date.)
+
+*Adding in Rep-ranges:*
+
+You will see in this program and others, thigns looking like this:
+
+3x5-8
+
+This means '3 sets of 5 to 8 reps' and usually refers to a set progression scheme, where you will try to increase your reps performed by 1 rep every session within that range until you reach the top range, at which point you will move on to a harder exercise.
+
+For example:
+
+If you had a program that said 3x5-10 Squats. You would do your first workout doing 3x5 squats, and then next workout, try to do 3x6. If you succeeded, then next time do 3x7. If you succeeded, then next time do 3x8, etc. etc. etc. repeating until you can do 3x10 squats. Then you would move on to a harder exercise that works the same muscles, and start back at 3x5, repeating that process for the new harder exercise. This is the basis of how most simple strength training programs will work in bodyweight fitness given the lack of external weights to add on to make movements harder in a simpler way.
+
+** Reading #2: How to do Push-ups (At any strength level).
+The following is a guide I've made on how to do push-ups, which will be the very first exercise you learn in this program.
+
+It's bit long, but if you set aside about (15-20 minutes?) you should be able to read through the whole thing, try it out a couple times, and feel relatively confident about how they work. The exercise in the section '*How to Build Up To a Push-up if You Can't Yet Do One'*will be the focal point of the guide for the purposes of this workout, but it is worth reading and trying to comprehend the whole thing.
+
+[[https://www.nick-e.com/push-up/][Nick-E's Push-up Guide]]
+
+Many if not all of the exercises in this routine (and in general) will appear simple to do, but will be deceptively complex to do*well*, so if you don't grasp 100% of the nuance in the guide in the first go-around, don't worry. You're not really expected to, we just want you to have access to it to check back and learn more over time.
+
+Once you've finished that, head on down to the next section!
+
+** Workout #1:
+This workout is actually very quick and straightforward. It will likely not feel like a 'workout' in the sense that it tires you or makes you feel especially sore. Consider it more as a self-directed learning exercise. The workouts will become harder throughout the days, do not worry!
+
+For today:*You will simply perform 5 sets of 5 reps of push-ups at whatever incline is appropriate for you, with 60 seconds of rest between sets (or however long it takes you to review your footage).*This would be written as:
+
+5x5 (Incline) Push-ups, 60s rest.
+
+/For reference, the '/*/appropriate intensity/*/' of these push-ups should be very/*/moderate/**. The focus of this 14 day build-up to the full primer routine is technical competence, rather than pushing yourself. You should start by picking an intensity that you could easily do several more reps of if you wanted to.**/It should not feel trivially easy, but if you are struggling to manage 5 reps, or struggling to finish all sets, you've started out way too hard/**. You will be exercising 6x per week in this period, and you don't want to be maiming yourself with intensity. Leave that for the full primer after the 2 weeks!*
+
+It is highly recommended that you film yourself from the side and front in your sets, so you can watch this footage back in your rests to evaluate your form and compare them to the videos in the above guide, so you can learn how to identify errors in your own form and improve independently!
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in the communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+Cheers,
+
+Nick-E
+
+
+* Day 2
+Hey gang! Nick-E here.
+
+So yesterday we learned about how to do push-ups. You might have found that a little bit overwhelming! Maybe you thought to yourself 'Man, I thought push-ups were easy and simple! What the heck!'. You would not be alone in thinking that. Luckily, you aren't learning another exercise today, and you will have some more opportunity to practice them and re-consolidate all that info before you have to learn another one tomorrow.
+
+Instead, we'll be learning some theory about exercise for your reading today!
+
+So to summarise, today we will be:
+
+- reading a little bit about how exercise works,
+
+- and doing another push-up based mini-workout!
+
+** Today's Learning: The S.A.I.D Principle, and Progressive Overload
+So while you digest all that pushup-related learning from yesterday, we're going to learn a little bit about how and why exercise 'works', and provide a (hopefully) easy way of conceptualising what exercise is doing to your body. On the scale of 'Simple but reductive' to 'complex and scientific but very semantically accurate', we'll be leaning more to the former, as this is a beginner routine!
+
+----
+
+*The S.A.I.D Principle*
+
+----
+
+So in order to illustrate how exercise impacts the body, we have to establish two general ideas:
+
+1. *Your muscular system does not like working harder than it needs to*
+2. *Your body overall does not like using more resources than it needs to.*
+
+Because it does not like working hard, it will make sure that it can do the things it does*most often*in the*easiest and most efficient*way possible. That usually means diverting resources to the parts of the body that help you do that thing. At the same time, it will not put any effort (or resources) towards maintaining or building up your ability to things that you*never do*.
+
+This is the foundation of an extremely important concept in fitness called the S.A.I.D principle. SAID stands for '*Specific Adaptations to Imposed Demands*'.
+
+*EXAMPLE 1:*
+
+Say there is a person named Alex. Alex has an office job from 9 til 5, and they commute in their car. Alex has a lot of hobbies that do not require very much physical exertion. Listening to music, browsing the internet, social media and reading books are some of their favourite things to do when they aren't at work. Depending on how long Alex has had this lifestyle, it's possible that their body is happily existing in a state of/homeostasis/because it has perfectly adapted to the*demands*of that lifestyle.
+
+In this example, the*demands*of a sedentary job with sedentary hobbies, is very low. This means that the body does not need to maintain the*neuromusculoskeletal*(nerves, muscles, joints and bones),*cardiovascular*(heart and blood vessels), or*respiratory*(lungs) systems to a higher level than they need to support your ability to sit down, walk short distances, and use your arms a little.
+
+*EXAMPLE 2:*
+
+Say for example we take Alex, and then add a new detail. Now we say that Alex used to do county-level competitive swimming in middle school and high school, but has since stopped and hasn't really exercised since then.
+
+In their teen years, throughout years of swimming practice, training, meets and races, Alex's body became adapted to swimming. Initially swimming was hard to do, so over the years the body made the muscles that were required to do the swim strokes stronger and more enduring, and made their heart and lungs better at getting oxygen to the muscles. It did this in order to make the task that it had to do CONSTANTLY much easier and more efficient.
+
+Importantly, swimming did not make Alex extremely strong and fit and good at everything, it just made the necessary improvements in order to Alex really really good at/swimming/. This is where the 'Specific Adaptations' part of the SAID principle comes in. It would not make sense to your frugal, energy-conserving body to make Alex good at everything, because that would be a waste!*However*, some of the adaptations that made Alex good at swimming also made them good at some other things coincidentally. (e.g. It took Alex less time to get up a long staircase, and they were rarely out of breath by the top of it. Also, when Alex tried other forms of cardio exercise (running, cycling), it would have felt much easier than before they started swimming and they may have been better than their friends that didn't do any exercise at those things, despite it being their first time.)
+
+But how do we go from this young fit Alex, to the Alex of today? As soon as the*imposed demand*of swimming goes away, the body stops seeing the need to maintain such an elevated performance of the muscles and cardiovascular system. So it stops, and over time all that has been maintained is what is required to sit, walk short distances, and move their arms around a little, because that is the*imposed demand*of a sedentary, office job lifestyle!
+
+/(Side note: The adaptations Alex got from their swimming career are not strictly gone and dead by this point, in reality its about halfway between gone and/*/dormant/**. Generally speaking it's much easier to re-gain fitness adaptations than to gain them the first time round. But that's another topic.)*
+
+----
+
+*Progressive Overload*
+
+----
+
+So now we know that thanks to the SAID principle, if we do something, our bodies will make the necessary changes to get better*specifically*at that thing, and in order to keep those adaptations*we have to keep putting the demands that necessitate them*on our bodies,*over time*! So you decide you want to generally get stronger and build some muscle for [insert your personal reason right here]. So you decide to start some strength training. You find a 20lbs dumbbell in your attic and start lifting it in a variety of ways. It's quite hard to lift it, so this must make you stronger if you do it enough! Thanks, SAID principle. You're a lifesaver.
+
+You get into a bit of a habit with that and eventually lifting the dumbbell gets very easy. You keep doing it, and lifting the dumbell stays easy. Weeks pass, and it's still easy. You don't seem to be getting any stronger. What once was hard, now is not hard. Your body has no reason to keep getting stronger because its extremely well adapted to lifting this dumbbell!
+
+You briefly feel tricked and betrayed by the SAID principle before you log onto reddit and see a post called 'BWF Primer Community Workout: Day 2', where you learn about a concept called 'Progressive Overload'.
+
+Compared to the SAID principle, this one is super simple. It basically means, in any effective strength training program, the demand you are putting on your body always needs to be one step ahead of your bodies adaptation to that demand.
+
+To apply that to the above example:
+
+Once that 20lbs dumbbell gets easy, you need to move on to a 25lbs dumbbell, and eventually that too will get easy, and then you'll move onto a 30lbs dumbbell, and this process will repeat until you feel like you are strong enough, your body looks the way you want it to, and you are capable of doing all the things you want!
+
+This is the principle behind why in this program, every session you will be trying to do 1 more rep than you did last time in each exercise. It is giving a*progressively*greater*load*(demand) to overcome, that is always just a little bit*over*what it's used to!
+
+** Workout #2:
+In the spirit of progressive overload, this workout is simply a repeat of the first workout, but progressing the reps!
+
+5 sets of 6 pushups (5x6 Pushups) at whatever incline is appropriate, with 60s rest.
+
+(NOTE: Many of you starting the program may have gone sprinting out of the gate on Day 1, doing the hardest incline you could or even full floor pushups. The focus of this build-up period to the full Primer routine is on technique practice, not pushing it to the limit. If you did go out all guns blazing on Day 1, I'd strongly advise picking an easier level of inclination if you have one available to you.)
+
+In the next workout tomorrow, we will be adding another exercise.
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+Cheers,
+
+Nick-E
+
+
+* Day 3
+Hey Folks! Nick-E here.
+
+So now you should hopefully understand WHY exercise works the way it does, and have had 2 sessions now to work on your push-ups. So now we will be adding in a new exercise!
+
+Today we will be:
+
+- learning about how to do Rows (or an alternative exercise),
+
+- and then doing a workout comprised of push-ups and rows!
+
+** Today's Reading: How to do Rows (Or what to do if you have nowhere to do Rows!)
+Now that you've had 2 days to practice the push-ups, it's time to try a new exercise! The Row is a natural pairing with the push-up for well balanced upper body strength, because it trains the opposite muscles to the push-up.
+
+[[https://www.nick-e.com/row/][Check out how to do it here!]]
+
+Important to note: Even though the video is demonstrated on a straight bar, the form explained in the guide is more or less universally applicable for rows performed under:
+
+- A sturdy dinner table[[https://www.youtube.com/watch?v=iH18IrHexlo][(demonstration)]]
+
+- Gymnastics rings[[https://www.youtube.com/watch?v=sEAOZc77wk8][(demonstration)]]
+
+- A sturdy, straight bar of any kind (demonstration is in the guide)
+
+- Bedsheets knotted in the top of a door! ([[https://www.youtube.com/watch?v=EcmKlDW_p7E][demonstration]])
+
+- TRX Straps ([[https://www.youtube.com/watch?v=lBxgQ2FEiH8][demonstration]])
+
+----
+
+If you don't have access to ABSOLUTELY ANYTHING to row on, a potential short term stop-gap would be to try*Reverse Push-ups*at a corner between two walls. They're not a great substitute for rows and have very limited scope for progression (you'll get too strong for them eventually), but as a short term solution to help to maintain/some level of muscular balance/they're not too shabby!
+
+[[https://www.nick-e.com/reverse-push-ups/][Check them out here]]
+
+** Workout #3:
+As mentione above, this time we will be doing two exercises. The push-up, and the inverted row (or the corner reverse push-up)! Like with the push-ups, we will be starting doing 5 reps of the rows/reverse pushups. But for the push-ups, we will add yet another rep! However, we will be doing fewer sets.
+
+----
+
+*Workout:*
+
+4x7 Push-ups with 60s rest
+
+4x5 Rows (or Corner Reverse Pushups) with 60s rest.
+
+----
+
+Now that we have two exercises, we will be doing them in order, so your workout will look like this:
+
+*7 pushups*, 60s rest,*7 pushups*, 60s rest,*7 pushups*, 60s rest,*7 pushups*, 60s rest,*5 rows*, 60s rest,*5 rows*, 60s rest,*5 rows*, 60s rest,*5 rows*.
+
+Rather than:
+
+*7 pushups*, 60s rest,*5 rows*, 60s rest,*7 push-ups*, 60s rest,*5 rows*, etc. etc. etc.
+
+This order above is a concept called+'supersetting'+'pairing sets' (technical definition correction provided by[[https://www.reddit.com/u/Prof_Lasagne][/u/Prof_Lasagne]], thanks), which can be a really useful tool if you want extra rest between sets of the same exercise but need to save time. However, we want to keep the rest duration at 60s for this program.
+
+(REMINDER: IF YOU ARE FAILING ANY OF YOUR SETS, OR EVEN PUSHING CLOSE TO FAILURE, YOU ARE WORKING*WAY TOO HARD*. PICK AN EASIER LEVEL OF INCLINATION/EXERCISE VARIATION THAT YOU COULD DO*SEVERAL MORE REPS OF IF YOU HAD TO*. THE FOCUS OF THIS PHASE OF THE PRIMER ROUTINE IS ON*TECHNIQUE PRACTICE AND LEARNING*, NOT PUSHING YOURSELF TO YOUR LIMIT OR EVEN CLOSE. IF YOU PUSH YOURSELF TO FAILURE 6x A WEEK FOR TWO WEEKS YOU WILL BE MASSIVELY OVERDOING IT AND BURN OUT QUICKLY.)
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+Cheers,
+
+Nick-E
+
+* Day 4
+Hey gang, Nick-E here for Day 4!
+
+Hope you guys managed to get a hang of the rows or reverse push-ups yesterday. As with the rest of this 2 week period, you're going to now have another day to practice those rows or reverse push-ups, and you'll be reading a little bit of educational training theory information instead to help contextualise why you're doing what you are doing and how it is going to help you to achieve your goals.
+
+Anyway, today we'll be doing:
+
+- Some reading about the concept of muscular Balance and why it is important in training routines.
+
+- Another workout of Push-ups and Rows (or Reverse Push-ups)!
+
+** Today's Learning: Paying Attention to Muscular Balance in Exercise Selection
+Now that your workouts are push-ups AND rows, today is the perfect day to talk about balance in the selection of exercises in your training routine.
+
+Essentially this is making sure that your workout always exercises opposing muscles proportionally to eachother. Muscles that oppose eachother are called 'antagonists'. Your biceps (front of your upper arm) bends your elbow, and your triceps (back of your upper arm) straightens your elbow. Therefore the biceps is the antagonist of the triceps, and vice versa.
+
+Muscular balance is important for two reasons:
+
+1. If you only exercise half all the muscles in your body, you will look very unusual/unnatural (i.e. only training the muscles you can see in the mirror)
+2. If you only exercise the muscles on one side of a joint, that joint will function poorly and will be more likely to get injured (*This is the more important one.*)
+
+To expand on point 2, muscles primary function is to move your skeleton around. You big ol' bag of bones, you.
+
+You can say its sort of secondary function is to provide additional stability to your joints on top of the job done by your ligaments, particularly in keeping the joints aligned and centred where they should be*/throughout their whole range of motion/*.
+
+They achieve this by engaging in a constant tug-of-war with their antagonists, keeping the joint nice and snug in the middle where it should be. If one muscle is wildly, disproportionately stronger than the other, then they will very easily win that tug-of-war and the joint will be much more able to move out of centre (mostly, in the direction that it is being pulled by the very strong muscle), which opens the window for undue strain to the joint and surrounding tissues due to clicking, grinding and unnatural patterns of tension or stress on soft tissues such as tendons and ligaments.
+
+There is a super high individual variability in what degree of muscular *im-*balance becomes troublesome. For some individuals, they can train in a very imbalanced way for months or years before seeing problems, whereas for others, it doesn't take very much at all. Particularly for individuals with joint hypermobility, muscular balance is absolutely key, as a defining feature of joint hypermobility is laxity in the ligaments. This means that the muscles are actually the main joint stabiliser, since the "/real"/main joint stabiliser is off having a long nap in the corner. So if your muscles on either side of a joint are imbalanced and you are hypermobile, you are going to know, and right away.
+
+However, even in those individuals who are more resilient to muscular imbalance related joint issues, just because those joint issues take years to develop, doesn't mean you want them to develop anyway.
+
+So the simple solution to this is always making sure to train in a balanced way.
+
+For example, if you are training push-ups, you should always also train rows. This is because pushups train your chest and front shoulder muscles (pecs and anterior delts; for those that want the official names) which pull on the shoulder to towards the front), whereas rows work the back and rear shoulder muscles (lats, rhomboids, mid/low traps,and posterior delts; again for those who want the official names) which pull on the shoulder in the opposite direction; towards the back.
+
+Too much of one without the other spells trouble!
+
+Therefore, the volume of push-ups that you do should be (roughly) comparable to the volume of rows you do. By volume, I mean the total amount of the exercise that you do; 3 sets of one, 3 sets of the other (This does not have to be in the same day). As mentioned above with the individual variability, some people really do not function properly with any less than a 1:1 pushing to pulling ratio, some need even more pulling for their shoulders to be happy, whereas some inexplicably function ok with a lot of pushing but relatively little pulling.
+
+However,*only training push-ups*will eventually result in joint issues down the road. The only thing in question is how long that road is, not where it will end.
+
+This is true of more or less every area in the body, not just the shoulders. Hips, knees, ankles, the list goes on. In fact many joint injuries that occur will be in part, contributed to by some sort of "arthrokinematic dysfunction", which in real-person words means 'the joint not moving well and not staying in the centre when it should be staying in the centre, but instead going on a little adventure and knocking into some bones, tendons or ligaments', as we've outlined.
+
+This topic is pretty complex and I don't think I can continue without becoming unhelpfully and increasingly reductive for the sake of simplicity so I'm going to stop there, and if people want to discuss this more or have any questions, feel free to shoot them into the comments!
+
+** Workout #4:
+| Exercise              | Sets-x-Reps | Rest |
+|-----------------------+-------------+------|
+| Rows/Reverse Push-ups | 4x6         | 60s  |
+| Push-ups              | 4x8         | 60s  |
+
+(REMINDER: IF YOU ARE FAILING ANY OF YOUR SETS, OR EVEN PUSHING CLOSE TO FAILURE, YOU ARE WORKING*WAY TOO HARD*. PICK AN EASIER LEVEL OF INCLINATION/EXERCISE VARIATION THAT YOU COULD DO*SEVERAL MORE REPS OF IF YOU HAD TO*. THE FOCUS OF THIS PHASE OF THE PRIMER ROUTINE IS ON*TECHNIQUE PRACTICE AND LEARNING*, NOT PUSHING YOURSELF TO YOUR LIMIT OR EVEN CLOSE. IF YOU PUSH YOURSELF TO FAILURE 6x A WEEK FOR TWO WEEKS YOU WILL BE MASSIVELY OVERDOING IT AND BURN OUT QUICKLY.)
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+Cheers,
+
+Nick-E
+
+* Day 5
+Hey gang, Nick-E here.
+
+Now you've had a few days to get used to your upper body training, its time to give the bottom half of your body a little bit of love! This is an area of BWF that is a little bit more limited, because just from walking around and going up stairs, etc. your legs are already quite good at supporting your whole bodyweight, so the scope to work them even harder (given that you only weigh so much) is much more limited than with weights, but there's still quite a bit to do before you've 'maxed out' your exercising potential within bwf, so to speak!
+
+So today we will be doing:
+
+- A reading on how to do Glute Bridges
+
+- A workout with push-ups, rows, and glute bridges!
+
+** Today's Learning: How to do Glute Bridges
+Today's form reading will actually be quite short! The Glute Bridge is a relatively simple movement.
+
+[[https://www.nick-e.com/glutebridge/][Check it out here!]]
+
+As you'll see in the guide there are multiple progressions available to you, but for now we are going to start with the standard two foot glute bridge. As you progress, you can move on to the single leg variation! (Once you're all done with that in a few weeks, you can play around with the hamstring bridges mentiond at the end of the guide, and even eventually move on to hardest bridge variation: the single leg hamstring bridge curl. oooooh, spooky.)
+
+** Workout #5:
+| Exercise              | Sets-x-Reps | Rest |
+|-----------------------+-------------+------|
+| Glute Bridges         | 3x5         | 60s  |
+| Rows/Reverse Push-ups | 3x7         | 60s  |
+| Push-ups              | 3x9         | 60s  |
+
+(REMINDER: IF YOU ARE FAILING ANY OF YOUR SETS, OR EVEN PUSHING CLOSE TO FAILURE, YOU ARE WORKING*WAY TOO HARD*. PICK AN EASIER LEVEL OF INCLINATION/EXERCISE VARIATION THAT YOU COULD DO*SEVERAL MORE REPS OF IF YOU HAD TO*. THE FOCUS OF THIS PHASE OF THE PRIMER ROUTINE IS ON*TECHNIQUE PRACTICE AND LEARNING*, NOT PUSHING YOURSELF TO YOUR LIMIT OR EVEN CLOSE. IF YOU PUSH YOURSELF TO FAILURE 6x A WEEK FOR TWO WEEKS YOU WILL BE MASSIVELY OVERDOING IT AND BURN OUT QUICKLY.)
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+Cheers,
+
+Nick-E
+
+
+* Day 6
+Hey folks! Nick-E here. Last workout of the week before you get a rest day tomorrow! Well done for making it this far.
+
+Today we'll be doing:
+
+- Some reading about how progressive overload works practically during bodyweight training
+
+- Your second workout with glute bridges in it!
+
+** Today's Learning: Progressive Overload Specifically for BWF.
+So Progressive Overload was briefly touched on in Day 2, as a way to keep the SAID Principle working for you over a long period of time. But today we're going to actually go over how progressive overload works, and particularly how progressive overload is achieved in bodyweight training.
+
+So we established in day 2 that progressive overload is the process of always keeping the intensity of exercise you are doing one step ahead of your bodies' ability to fully adapt to it. Like a carrot dangling in front of a donkey. It never quite catches up.
+
+For strength training, the main method of progressive overload is gradually making the exercises you do 'heavier', over time. (The quotation marks around 'heavier' are key for us.)
+
+If you were performing weight training, this would be very straight forward, and would simply involve increasing the weight of what you are lifting by a very small increment on a regular basis (e.g. an increase of 2.5kg every session or every week).
+
+However, you can't do this with bodyweight fitness, because you only weigh as much as you weigh. Because the total weight of your body can't be freely manipulated like a dumbbell or barbell, you have to get clever with using leverages to intensify the load put on the muscles*, even though your total bodyweight does not change*.
+
+The best example of this is the push-up, and you all have been using this principle already in your workouts.
+
+We all started on Day 1 learning how to do push-ups. It's very likely that almost none of you doing this challenge were already able to do a push-up on the floor with good form upon starting the program. However, in order to adjust the push-up to make it appropriate for anyone's strength level, we changed the level of*/inclination./*
+
+This works because in a push-up position, your weight is spread between your hands and your feet. The higher your hands are relative to your feet, the less weight is on your hands and the more is on your feet. Think of it like a see-saw. So if there is less weight on your hands, you have to push less of your overall bodyweight when you do your push-up.
+
+What you do to progressively overload your push-up from here, is over time you will gradually decrease the height of what you place your hands on to do the push-ups until you are doing them on the floor!
+
+(Fun Fact: By the time you are doing push-ups on the floor, you will be pushing roughly 65-70% of your bodyweight)
+
+Beyond the full floor push-up, there is a small scope to continue to put the feet higher than the hands to continue this process, but not much. Progressive overload for push-ups gets a bit trickier after this point. You will have to move on to a new exercise or variation of exercise when the time comes to progress again.
+
+And this is how progressive overload most commonly works in BWF. You will have a list of exercises that work the same muscles (sometimes with varying emphases on those muscles, but nonetheless) that get progressively harder and harder through creative use of leverages, and you will go from one to the next as you get stronger.
+
+*/However/*, the jump in intensity between these exercises is much steeper. Unlike a dumbbell exercise, where you can go from 10kg, to 12kg, to 14kg, in easy small increments, progressing from one variation to the next in BWF can feel like going from 10kg to 20kg all at once.
+
+Therefore, we need to have a method of bridging that gap, and that's where rep progression comes from.
+
+If you can only do 5 reps of an exercise, doing 5 reps of a significantly harder progression is just way too hard. But if you can do 12 reps of an exercise, doing 5 reps of a significantly harder progression then becomes quite easily doable. That is why within BWF, all exercises will have an inbuilt rep progression before moving on to a new exercise. Just like you have been doing now!
+
+In this program (The BWF Primer) The rep range for your upper body exercises is exactly that. 3 sets of 5-12 reps. Once you hit 3x12, you would move up to a harder exercise, for only 3x5 reps and repeat the process. In the interest of this first 2 week period being about learning moreso than hard training, you will not be progressing the exercises once you reach that rep range. But once you move on to the full program, you will be!
+
+** Workout #6:
+| Exercise              | Sets-x-Reps | Rest |
+|-----------------------+-------------+------|
+| Glute Bridges         | 3x6         | 60s  |
+| Rows/Reverse Push-ups | 3x8         | 60s  |
+| Push-ups              | 3x10        | 60s  |
+
+(REMINDER: IF YOU ARE FAILING ANY OF YOUR SETS, OR EVEN PUSHING CLOSE TO FAILURE, YOU ARE WORKING*WAY TOO HARD*. PICK AN EASIER LEVEL OF INCLINATION/EXERCISE VARIATION THAT YOU COULD DO*SEVERAL MORE REPS OF IF YOU HAD TO*. THE FOCUS OF THIS PHASE OF THE PRIMER ROUTINE IS ON*TECHNIQUE PRACTICE AND LEARNING*, NOT PUSHING YOURSELF TO YOUR LIMIT OR EVEN CLOSE. IF YOU PUSH YOURSELF TO FAILURE 6x A WEEK FOR TWO WEEKS YOU WILL BE MASSIVELY OVERDOING IT AND BURN OUT QUICKLY.)
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+Cheers,
+
+Nick-E
+
+* Day 7
+Hey folks, Nick-E here! Woo, time flies, huh! Already halfway through the event.
+
+I hope you all have enjoyed your first week. To celebrate your achievement of making it halfway, today we're gonna have an extra special workout:
+
+Doing absolutely nothing!
+
+Oh... And we will also be reading about why doing absolutely nothing is important!
+
+** Today's Learning: Rest.
+So, contrary to what many people may be led to understand, it is actually when you are resting/after exercise/that you are getting stronger, gaining muscle, and getting all those other jazzy adaptations that you have been imposing demands on your body for!
+
+If we relate this back to the SAID principle, exercising is basically saying to your body 'hey, you know this hard thing we're doing? get better at it please, thank you!'. The body then needs ample time to use all its resources to build up whatever needs being built up (connections between the nervous system and the muscles, muscle tissue, bone density, etc.).
+
+Not only is the body using this time to*build up new things*, it's also using this time to*repair and maintain*old things! Exercising (and simply living in general) comes with a hefty side dose of general wear-and-tear on your muscles, tendons, ligaments and more. In fact, physiologically, this wear and tear is itself part of the signalling process that tells your body to make adaptations, too!
+
+So by exercising you could conceptualise it as though you are breaking something down, in order to tell your body to build it up better again! (This is not exactly what happens, but it's close enough for now).
+
+If you are effectively balancing your exercise days and rest days, your body will make all its necessary adaptations (getting stronger! getting more muscles! getting better at things!) while also keeping up with bodily maintenance to keep the wear and tear at bay.
+
+If you are exercising too much and resting too little for your individual recovery capacity, that wear and tear will accumulate over time, eventually building up to a degree that your risk of injury increases and your performance may even decrease due to fatigue and/or burnout over a period of weeks.
+
+If you are exercising too little, during many of your rest days nothing will be being built at all. Your body will simply be in a state of standby, patiently waiting for some more signals to improve. Your progress will just be slower than otherwise. No actual harm here.
+
+----
+
+Now what determines exercising too much, and what determines resting too little?
+
+That will depend largely on two things: the*Total Training Volume*and*Individual Recovery Capacity*.
+
+----
+
+*TRAINING VOLUME:*
+
+----
+
+So training volume is tricky one to balance. You need your training volume to be high enough to stimulate adaptations, but too high and it will exceed your recovery capacity and things will start wearing down.
+
+Volume, defined as:
+
+*the number of sets you do * the number of reps * the total load/resistance of the exercise*
+
+is essentially the #1 driver of muscle growth. Up to a point, the more of it you have, the more muscle growth is stimulated.
+
+At the same time, the more volume in your program, the more your body has to recover from.
+
+When looking at training volume in different programs it's usually defined by 'total sets per week'. This is a limited metric because it does not include the intensity/load of those sets, but it's a good proxy to start with when evaluating these things.
+
+People have tried for a long time to figure out how to model what is an effective, minimum, and likely maximum number of sets per week in training to maximise your progress, while minimising risk of exceeding your recovery capacity.
+
+Individuals like Dr. Mike Israetel have done[[https://renaissanceperiodization.com/training-volume-landmarks-muscle-growth/][a pretty good job of this]], and[[https://renaissanceperiodization.com/hypertrophy-training-guide-central-hub/][have even broken it down into sets per week by muscle group]], but that is*/far more complex/*than any of you need to know for the moment, or even for quite a while. Feel free to check it out if you just happen to be curious though! It's a bit of a rabbit hole of increasingly complex training theory.
+
+Ultimately, all of this aside, the amount of volume you will be able to handle is highly individualised, and very strongly impacted by how well you are managing your recovery variables:
+
+----
+
+*RECOVERY CAPACITY:*
+
+----
+
+So an individuals recovery capacity is determined (amongst other more minor things) by:
+
+1. Their training age and work capacity (long term improvement, not 'modifiable')
+2. Their stress levels
+3. Their diet
+4. Their sleep quality
+5. Their hydration status
+
+To explain that first point, the longer you have been training (measured in months to years), the better your body will be at sustaining greater loads of work and recovering from them. Unfortunately, you cannot directly aim to improve or modify this variable apart from simply continuing to train and waiting for the cruel, ceaseless passage of time to sink its bony claws into you and turn you into a seasoned athlete.
+
+However, by maximising (or minimising in the case of stress) these*modifiable*variables, individuals will be able to perform a greater volume of exercise and need considerably less rest to recover from it adequately.
+
+Conversely, if you find yourself training regularly and over time feel considerably more worn down and a bit kicked in the butt, it is extremely likely that one or more of your modifiable recovery variables is in need of some care and attention.
+
+Either that, or your exercise intensity far exceeds even your ideal recovery capacity for your given training age and work capacity. This would necessitate throttling back how much you are exercising until you find a level that you can consistently recover from.
+
+** Workout #7:
+Nothing! In true fashion of what we just read, today is a scheduled rest day in the program. For most beginner programs (including this one, once this initial 2 week period is over) you'll be having 4 of these a week, usually between workout days.
+
+For a*3x per week, full body strength program*then, that would look something like:
+
+
+
+| Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday |
+|---------+---------+-----------+----------+---------+----------+--------|
+| Workout | Rest    | Workout   | Rest     | Workout | Rest     | Rest   |
+
+If due to scheduling reasons you are not free on alternating days during the week (say for example you work long hours and don't have much time to train during the week but are free on weekends), it is also okay to do workouts on 2 consecutive days, like so:
+
+
+
+| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday  |
+|--------+---------+-----------+----------+--------+----------+---------|
+| Rest   | Rest    | Workout   | Rest     | Rest   | Workout  | Workout |
+
+*However,*its not usually recommended to train 3 days consecutively, like so:
+
+
+
+| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+|--------+---------+-----------+----------+--------+----------+--------|
+| Rest   | Workout | Workout   | Workout  | Rest   | Rest     | Rest   |
+
+This scenario will result in your body not having any time to recover by the third workout in a row, and you will ultimately see*reduced performance and an increased risk of strain or other injury*.
+
+** Ok, I "did" it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+Cheers,
+
+Nick-E
+
+* Day 8
+Hey folks, Nick-E here. Check us out! Starting our second week of training. Good job officially breezing past the halfway mark of the community exercise event!
+
+Without further ado, lets jump right into what we're going to be doing today:
+
+- Learning a new movement. Squats! Ostensibly simple, yet deceptively complex!
+
+- Adding some squats into our workout!
+
+** Today's Learning: How to do Squats
+Squats, as mentioned above, seem like something that would be very simple to do. They seem only slightly different to sitting down into an invisible chair (something we do with visible, real chairs all the time!).
+
+However, the technique is just different enough that it's a bit tricky to get the hang of without a good bit of practice, and out of all the movements in this routine, it is the one that the most people are likely to experience issues with due to insufficient mobility. In particular, tight ankles and hips are often the plague of the squatter, from beginner to advanced. Luckily, using the guide below, you should find*/a form/*and/or variation of squats that works for your current level of mobility.
+
+[[https://www.nick-e.com/squat/][Check it out here]]
+
+Just to emphasise, if you can't get it right away, don't get frustrated or discouraged. It will most likely be mobility moreso than coordination that is limiting you.
+
+** Workout #8:
+| Exercise              | Sets/Reps | Rest |
+|-----------------------+-----------+------|
+| Squats                | 2x5       | 60s  |
+| Glute Bridges         | 2x7       | 60s  |
+| Rows/Reverse Push-ups | 2x9       | 60s  |
+| Push-ups              | 2x11      | 60s  |
+
+(REMINDER: IF YOU ARE FAILING ANY OF YOUR SETS, OR EVEN PUSHING CLOSE TO FAILURE, YOU ARE WORKING*WAY TOO HARD*. PICK AN EASIER LEVEL OF INCLINATION/EXERCISE VARIATION THAT YOU COULD DO*SEVERAL MORE REPS OF IF YOU HAD TO*. THE FOCUS OF THIS PHASE OF THE PRIMER ROUTINE IS ON*TECHNIQUE PRACTICE AND LEARNING*, NOT PUSHING YOURSELF TO YOUR LIMIT OR EVEN CLOSE. IF YOU PUSH YOURSELF TO FAILURE 6x A WEEK FOR TWO WEEKS YOU WILL BE MASSIVELY OVERDOING IT AND BURN OUT QUICKLY.)
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+* Day 9
+Hey gang, Nick-E here! You're in the groove now so I won't bore you with a long intro.
+
+Today we'll be doing:
+
+- Some reading on what adaptations occur to what demands!
+
+- Another workout!
+
+** Today's Learning: Change the Demand, Change the Adaptation
+So there's a couple concepts we need to get sorted out today, and they all center around the SAID Principle.
+
+We know that if you repeatedly do something over time, your body makes*specific adaptations*to make the*demands*that have been*imposed*upon it easier to handle. How do those specific adaptations differ, based on the nature of the demand?
+
+(Note: Today might get a little technical, but I've tried to keep it as simple as I can. If it's still hard to understand, by all means, ask some clarifying questions in the comments!)
+
+----
+
+Rep Ranges
+
+----
+
+Within the realm of strength training and gym based (or home based. Teehee.) resistance exercise, one of the most significant ways we can alter the nature of the adaptations we get is by manipulating the rep ranges we train in.
+
+One of the simplest ways that you often see this represented in information online, is in a table like this:
+
+| Rep Range          | Specific Adaptation                       |
+|--------------------+-------------------------------------------|
+| 1-3 reps per set   | Absolute strength (or power)              |
+| 3-5 reps per set   | Strength                                  |
+| 5-8 reps per set   | Strength and Hypertrophy (Muscle Growth)  |
+| 8-12 reps per set  | Hypertrophy (Muscle Growth)               |
+| 12-15 reps per set | Hypertrophy (Muscle Growth) and Endurance |
+| 15+ reps per set   | Endurance                                 |
+
+(Note: The number of reps in this table refers to a set of*challenging*reps. If you do a set of 3 squats instead of doing 20 squats even though can easily do 20 or even more, you won't get stronger just because you only did 3 squats. On the other hand, if you did an exercise where it would be pretty dang tough to get 3 reps done, then that would stimulate a strength adaptation much moreso than if you did a tough set of 20 reps of an easier exercise.)
+
+Now that I've gotten you to read and understand that, I'm going to throw you a curveball and tell you that the neat divisions between rep ranges don't really work exactly that way in real life. It's a great way to begin to conceptualise the spectrum of adaptations you can get from resistance exercise, but the simpler an explanation gets the more it misses a great deal of nuance. This is important to bear in mind so you do not end up like the unfortunately misinformed people who limit themselves far too much with training in the following ways:
+
+e.g. "I want big muscles so I'm only going to train between 8 and 12 reps for everything, no matter what!"
+
+e.g. "I only want to be strong but don't care about muscles or aesthetics, so I'm never going to do more than 5 reps, maybe 8 reps if I really have to!"
+
+e.g. "I'm an endurance athlete and/or I like cycling and running, so I'm only going to train 15+ reps, because that's what*THE MIGHTY TABLE*says is appropriate for me!!!"
+
+The reality of the situation is:
+
+1. While certain rep ranges*bias towards*certain adaptations, all of the listed qualities are all developed to varying degree at most rep ranges ([[https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2016/02/12752057_10153492667389016_1119053659_o-593x1024.jpg][THIS IMAGE ILLUSTRATES THIS CONCEPT PERFECTLY]]) ([[https://i0.wp.com/tuusasports.com/wp-content/uploads/2019/05/nacc88yttocc88kuva-2019-5-25-kello-18.13.11.png?resize=731%2C323&ssl=1][THIS OTHER IMAGE DOES SO AS WELL]]).
+2. In most programs past the total beginner stages, regardless of your goals your progress will be better if you are utilising many different rep ranges between 1 and 20 reps in your program for different purposes and different exercises (The one caveat being: beginners will not benefit very much from training below 5 reps for reasons that would require more reading than I'm going to subject you to today).
+
+This is very relevant for you folks who may be wondering about how this relates to the rep ranges included in the primer routine that you are currently doing:
+
+- You have been, and will be doing exercises between 5 and 20 reps, depending on the exercise (and you will see the rep range is relevant to the exercise)
+
+- Your upper body strength training is neatly covering a wide range of reps
+
+- Same for the lower body but slightly higher because it is less useful to work in lower rep ranges when your capacity to make lower body exercises harder with BWF is so limited
+
+- You haven't been introduced to them yet, but your core work will be higher reps because your core needs to be able to work to stabilise your body constantly throughout other exercises and in life, so it needs a good deal of endurance
+
+So just for clarification, and also to pre-empt any questions:*Yes,the primer routine is appropriate for individuals who want to get stronger, who want to get bigger muscles, and essentially every other goal you may have*. It's a primer!
+
+This is not least because the goal of the primer is to give you the knowledge and practical competence to move on to a program more strength and muscle gain focused (the BWF Strength Foundation Routine!), or other goal focused upon completion.
+
+-----
+
+*Rest between Sets:*
+
+-----
+
+So your muscles contract (shorten) in order to move you around, which requires a kind of 'fuel' made by your body (mostly out of food!) and stored in the muscle. The harder your muscles have to work, and the longer the work, the more fuel they use up.
+
+When your muscles have done a good bit of hard work, they'll have depleted a large amount of that fuel, and it will take a little bit of time for your body to create more./Roughly/speaking, this is a representation of how much fuel will have been replenished by a certain amount of time after the end of a set of exercise:
+
+| Time after the end of the set | % Fuel Replenishment |
+|-------------------------------+----------------------|
+| 30s                           | 50%                  |
+| 60s (1min)                    | 75%                  |
+| 90s                           | 87%                  |
+| 120s (2min)                   | 93%                  |
+| 150s                          | 97%                  |
+| 180s (3min)                   | 98.5%                |
+| 5-10min                       | 100%                 |
+
+(*Side note:*this effect is specific to the muscles that were working during the set. If you did a fatiguing set of squats, your leg muscles would need to recover this fuel, but your arm muscles would still be ready to go.)
+
+So if you were to do 3 challenging sets of an exercise and rest for 2 minutes between sets, for example, you may notice that each set it feels a little bit harder than the last.
+
+What's happening here is your available strength is dipping slightly, because each time you are asking it to complete the same difficult task, but each time with less fuel in the tank. By doing this, you're imposing a new demand on your system.
+
+Instead of just:
+
+#+begin_quote
+  'get stronger',
+#+end_quote
+
+the new adaptation will be something a little more like:
+
+#+begin_quote
+  'Get stronger.
+
+  ...And be more efficient with your fuel use.
+
+  And also maybe store more fuel!
+
+  And also get bigger so you/can/actually store more fuel.
+
+  And while you're at it, be able to work harder even when you don't have all your fuel.
+
+  etc.'.
+#+end_quote
+
+/(I hope this disclaimer is not necessary, but this is not the most cutting edge of scientific accuracy for the more pedantically minded in the audience. We're going for simple and understandable here!)/
+
+The fancy word for this effect you are eliciting by limiting your rest times and exercising without 100% of your fuel stores is "/Metabolic Stress",/and it is one of the stimuli you get from exercising that causes your muscles to need to get bigger. This is why timing your rests is important, other than making sure you dont spend 3 hours doing your workout for no reason because you're resting too long.
+
+(The other two are:
+
+1. /Mechanical Tension/placed on the muscle from lifting something heavy, and
+2. the 'wear and tear' on the muscles that we talked about in*Day 7*.)
+
+Ok that was a bit of a long one, but well done for getting through it all. Now for the actual workout part!
+
+** Workout #9:
+| Exercise              | Sets/Reps | Rest |
+|-----------------------+-----------+------|
+| Squats                | 2x6       | 60s  |
+| Glute Bridges         | 2x8       | 60s  |
+| Rows/Reverse Push-ups | 2x10      | 60s  |
+| Push-ups              | 2x12      | 60s  |
+
+(REMINDER: IF YOU ARE FAILING ANY OF YOUR SETS, OR EVEN PUSHING CLOSE TO FAILURE, YOU ARE WORKING*WAY TOO HARD*. PICK AN EASIER LEVEL OF INCLINATION/EXERCISE VARIATION THAT YOU COULD DO*SEVERAL MORE REPS OF IF YOU HAD TO*. THE FOCUS OF THIS PHASE OF THE PRIMER ROUTINE IS ON*TECHNIQUE PRACTICE AND LEARNING*, NOT PUSHING YOURSELF TO YOUR LIMIT OR EVEN CLOSE. IF YOU PUSH YOURSELF TO FAILURE 6x A WEEK FOR TWO WEEKS YOU WILL BE MASSIVELY OVERDOING IT AND BURN OUT QUICKLY.)
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+* Day 10
+Hey folks! Nick-E here.
+
+** Today's Learning: How to do Deadbugs
+Here we are. The very first core exercise of the program! Deadbugs. I cannot overstate just how important these are. They're essentially the holy grail of core exercises, because on top of being a really killer core exercise once you get good at them, they also teach you proper breathing mechanics as well as how to properly brace (which is super important for both weightliftin and bwf, and life really.).
+
+That's something you won't get from pretty much any other core exercise. That's why, in spite of their complexity, I've added them into the BWF Primer, which is a program meant to focus on simplicity, but these are a little too important in my opinion to let slide (Especially as the sooner you learn them, the more you'll practice them, and the sooner you'll get good at them, and the sooner you will reap the benefits).
+
+** [[https://www.nick-e.com/deadbug/][Deadbug Guide]]
+*/P.S More-so than any other exercise guide so far, please don't get overwhelmed and think you have to understand it all and do the exercise perfectly on the first go. Do your best, but recognise it may take a while to really 'get' this exercise. Generally speaking, if it feels super easy, you're almost certainly not yet doing it right. Just keep trying!/*
+
+*P.P.S Due to the complexity of this guide, there will be no reading tomorrow, so you will be encouraged to simply come back to this guide and re-read it, to make sure you can really take your time to absorb the info and get a hold of the key concepts.*
+
+** Workout #10:
+
+
+| Exercise              | Sets/Reps | Rest |
+|-----------------------+-----------+------|
+| Deadbugs              | 3x10s     | 60s  |
+| Squats                | 2x7       | 60s  |
+| Glute Bridges         | 2x9       | 60s  |
+| Rows/Reverse Push-ups | 2x11      | 60s  |
+| Push-ups              | *2x12*    | 60s  |
+
+(Note,*3x10s*does not mean 3 sets of 10 reps. It means 3 sets of 10/seconds/, as denoted by the 's'. This means you will do 3 sets of static deabug holds, holding each set for 10s.)
+
+You'll notice that Push-ups have not increased from last time. Normally once you reach the top range of rep-range for an exercise, you would move on to the next progression (in this case, a lower inclination of push-ups). But as the 2 week build-up is more about learning than pushing yourself, you will be capping all your exercises at 12 reps until the 2 weeks is over. Once you move on to the full workout 3x per week, you will be free to progress as initially intended.
+
+(REMINDER: IF YOU ARE FAILING ANY OF YOUR SETS, OR EVEN PUSHING CLOSE TO FAILURE, YOU ARE WORKING*WAY TOO HARD*. PICK AN EASIER LEVEL OF INCLINATION/EXERCISE VARIATION THAT YOU COULD DO*SEVERAL MORE REPS OF IF YOU HAD TO*. THE FOCUS OF THIS PHASE OF THE PRIMER ROUTINE IS ON*TECHNIQUE PRACTICE AND LEARNING*, NOT PUSHING YOURSELF TO YOUR LIMIT OR EVEN CLOSE. IF YOU PUSH YOURSELF TO FAILURE 6x A WEEK FOR TWO WEEKS YOU WILL BE MASSIVELY OVERDOING IT AND BURN OUT QUICKLY.)
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+* Day 11
+Hey folks! Nick-E here.
+
+So yesterday was a whole lot of reading. Some of you may have got the hang out of it, some of you may not have. Some of you may be in the unfortunately common camp of 'that felt way too easy I don't think it's even doing anything'. For those in the last 2 camps, don't worry. Like I mentioned in the last post and also in the deadbug guide, it takes some practice to learn properly, and it is not simply holding the position however you can that's hard, it's the exact process of bracing with the right muscles to hold that position, with minimal air in your lungs. That takes a lot of practice and experimentation to figure out.
+
+Anyway, today:
+
+- Going back over the deadbug guide
+
+- Another workout!
+
+** Today's Learning:
+As I've said a few times now, yesterday's reading on the Deadbug was a real doozy, so to cut you a bit of slack and not overwhelm you with information, your reading for today is to go back over all that information, take your time to practice all the different breathing and core activation drills to really consolidate all the info best as you can.
+
+** [[https://www.nick-e.com/deadbug/][Deadbug Guide]]
+** Workout #11:
+| Exercise              | Sets/Reps | Rest |
+|-----------------------+-----------+------|
+| Static Deadbug Hold   | 3x10s     | 60s  |
+| Squats                | 2x8       | 60s  |
+| Glute Bridges         | 2x10      | 60s  |
+| Rows/Reverse Push-ups | *2x12*    | 60s  |
+| Push-ups              | *2x12*    | 60s  |
+
+(REMINDER: IF YOU ARE FAILING ANY OF YOUR SETS, OR EVEN PUSHING CLOSE TO FAILURE, YOU ARE WORKING*WAY TOO HARD*. PICK AN EASIER LEVEL OF INCLINATION/EXERCISE VARIATION THAT YOU COULD DO*SEVERAL MORE REPS OF IF YOU HAD TO*. THE FOCUS OF THIS PHASE OF THE PRIMER ROUTINE IS ON*TECHNIQUE PRACTICE AND LEARNING*, NOT PUSHING YOURSELF TO YOUR LIMIT OR EVEN CLOSE. IF YOU PUSH YOURSELF TO FAILURE 6x A WEEK FOR TWO WEEKS YOU WILL BE MASSIVELY OVERDOING IT AND BURN OUT QUICKLY.)
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+* Day 12
+Hey folks! Nick-E here.
+
+Today we'll be:
+
+- Learning how to do another Core exercise; Birddogs! The thematic counterpart to the deadbug.
+
+- You guessed it, another workout!
+
+** Today's Learning: How to do Birddogs.
+So the deadbug taught you how to brace, and it can be used to strengthen that brace over time. The Birddog will teach you how to integrate that brace into many different exercises.
+
+Simply put, the birddog will teach you how to extend your upper back, generating as much tension in the top half of your spine as the brace does in the bottom half, but without disrupting your rib position. It will also teach you how to maintain that position while moving the limbs against gravity.
+
+It will also exercise your spinal erectors, as well as another muscle in your "intrinsic core" (that you learned about on day 10 and 11), The Multifidus! This does well to balance (re: the Day 4 reading) the core development you get from the deadbug, which is one of many reasons why these exercises pair so well together.
+
+Anyway, read away!
+
+** [[https://www.nick-e.com/bird-dog][Birddog Guide]]
+After reading this guide, and practicing it, You might notice if you did the birddog set-up, then stepped your legs back out behind you and straightened them, you'd be in a perfect top position of a push-up.
+
+If you then flipped that upside down; boom. Perfect bottom position of a row.
+
+The concept of 'Extended upper back, ribs down, braced abdomen' widely applies to so many exercises and contexts (If you have any aspirations of learning to lift weights, this exercise will quickly become your best friend because this is needed in basically every barbell exercise ever), and this is why the birddog is my second favourite core exercise, trailing*just*behind the deadbug.
+
+** Workout #12:
+| Exercise              | Sets/Reps | Rest |
+|-----------------------+-----------+------|
+| Static Birddog Hold   | 3x10s     | 60s  |
+| Static Deadbug Hold   | 3x15s     | 60s  |
+| Squats                | 2x8       | 60s  |
+| Glute Bridges         | 2x10      | 60s  |
+| Rows/Reverse Push-ups | *2x12*    | 60s  |
+| Push-ups              | *2x12*    | 60s  |
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+Cheers,
+
+Nick-E
+
+* Day 13
+Hey folks! Nick-E here. Wow, last workout of the Build-up to the full Primer routine! Pretty exciting stuff. Now that you're about to leave the nest
+
+Today we'll be doing:
+
+- Some reading on the limits and possibilities of "bodyweight only" training.
+
+- Do another workout!
+
+** Today's Learning: The Possibilities and Limits of BWF Training
+There is a lot that you can achieve with BWF. Many enthusiasts and fans on BWF-only training may say that the scope for progression with bodyweight fitness is endless, and pretty much anything you can achieve with other modes of training (e.g. weight training) can also be achieved with BWF. This, like many wide, sweeping statements of its kind, is a sort of half-truth. BWF is an extremely useful and fun way of training.
+
+One of the big questions people often have is: "Can I get strong with BWF? Can I build muscle?".
+
+The answer is of course, yes. Ultimately, resistance is resistance. Your body cannot tell whether the hard thing you are making it do is coming from an external weight, or your own body. All you need to do to prove this is to look at the endless number of people on this sub, on youtube, and on instagram that train purely (or at least mostly) with bodyweight that are very strong and have great physiques. Not only that, but for a modest gain in strength and muscle that most people will be looking for, BWF is more than enough.
+
+However, BWF will never be/exactly as good as weight training/for getting stronger and gaining muscle, which will be relevant to those who have somewhat loftier strength and muscle gain related goals, purely because of a few reasons:
+
+-----
+
+*Limit #1: The Convenience of Incremental Progressive Overload*
+
+With weight training, you can incrementally adjust the difficulty of an exercise by very small amounts (down to the difference of 1kg or even 0.5kg in some cases) which makes it much easier to progressively overload, and tailor the intensity of exercises specifically to exactly what you want.
+
+With bodyweight training, the jumps in difficulty between different exercises are much larger and so can't be individually micromanaged as well, and a great deal of rep progression must occur in order to bridge the gap between progressions. This is, generally speaking, a 'clumsier' way of going about it.
+
+*Limit #2: Training with Leverages*
+
+We've established that you only weigh so much, and the way you get around that is by playing with leverages. Well that's a great workaround for a time, but once you advance to a certain level of strength, continuing to manipulate leverages any further begins to create a more than proportional strain on the passive connective tissues in most cases. This means that the ceiling/limiter to your progress will not be your muscular strength or size, but rather the integrity and strength of your tendons. This means after a certain level of strength, in order to keep progressing, your body won't really need more muscle, it will need stronger tendons. And that will slow your progress considerably because tendons take about (this is an estimate from memory, someone give me a citation on this!) 6-12 times longer to heal/build up than muscle does.
+
+*Limit #3: Not as much scope for isolations in BWF*
+
+Isolation training refers to exercises that only work one joint/muscle at a time. Compound exercises are exercises that work multiple joints/muscles at a time. Every exercise you currently do in this program is a compound exercise, and relatively few isolation exercises exist in BWF. Of those that do exist, they suffer from the same issues outlined in #1 and #2 above, but perhaps moreso.
+
+In weight training programs, Isolations usually go at the end of a workout once you have already significantly worked yourself with compounds, to add extra stimulus to the muscles without as much fatigue and wear on the body as adding more compounds would do. You can think of isolations as the frosting on the cake. Cake is still good on its own, but with frosting its a lot better.
+
+While you can obviously get stronger, and build muscle without isolations, many would say you are seriously missing out by not including them.
+
+--
+
+All 3 limits above considered, you will find that if you have lofty goals for strength and muscle gain, at some point you will have to move on from pure-BWF in order to keep going up. That does not mean abandoning BWF completely, it just means you will have to start using weights*/as well/*, at the very least. Whether that means using weights to make your BWF exercises harder, or starting to do more traditional dumbbell and/or barbell exercises, that will be up to you, and you can cross that bridge when you come to it.
+
+*Not-Limit #4: The above limits probably don't matter for most of you reading!*
+
+As I'm sure you've picked up in the wording of many of the above points, these limitations only really apply at the higher level of progression, once you've been doing it for probably a couple of years if you still happen to have ambitions to continue getting bigger and stronger than you have already achieved by that point.
+
+For most people who just want to be generally fit and strong, none of the above limits are barriers to you really at all! Its just important for me to outline them so as to set up some healthy expectations.
+
+-----
+
+Ok now that I've seriously bummed you out by telling you all the ways that BWF might not be the best thing in the whole universe, now let's go over all the reasons BWF is actually great anyway!
+
+*Benefit #1: It can be done anywhere*
+
+This is a huge draw for a lot of people. With such minimal equipment requirements, the number of places you can work out expands massively from "the gym" to "anywhere I can hang some gymnastics rings to do my pull-ups and rows!". From big trees in the park, a swingset in your back yard, some scaffolding, a children's playpark, or (most popularly) inside your house, BWF is super versatile in this way!
+
+*Benefit #2: It's great for beginners*
+
+Building off the back of the last point, being able to work out at home can be really nice for beginners who may find the gym intimidating. Being able to learn things in your room is great if you happen to have anxiety about these things, because there's no feeling 'out of place' or like you're being watched as is sometime common among newcomers to the gym.
+
+*Benefit #3: It can be really cheap! (Or even free)*
+
+Outside of the initial costs required to buy a pull-up bar, maybe some gymnastics rings, BWF requires no gym membership! Those saved dollars add up month by month, especially if the only gyms around you have very high membership fees.
+
+*Benefit #4: It can save you time!*
+
+If you're training from home, when you're done with your workout, it takes you 0 minutes and 0 seconds to get home after your workout! Compared to a potentially long commute to and from the gym, depending on where you live and how close one is to you, this can be a huge time saver. For people with very busy schedules, that can be make or break when it comes to being able to work-out at all.
+
+*Benefit #5: It can be a more fun, varied and novel way of training!*
+
+The system of different exercise progressions as you get stronger ensures that you're not always doing the same exercises forever, adding slightly more weight every session, week, or month until the day you die. BWF will involve you learning loads of different exercises over time as you get stronger. Discovering new skills, mobility, and balance that your body has/can develop is super enjoyable and motivating. For those that like to have variety in their workouts, this will be a huge benefit to keep things interesting.
+
+*Benefit #6: It can be a cool in-road to different physical hobbies!*
+
+The basic skillsets you learn by doing BWF often lead into other interests! Gymnastics, Circus skills, tricking, yoga, acro-yoga, parkour and much more are much easier to get into when you have a solid foundation of bodyweight strength. Especially if you've already started learning relevant skills! (Hint hint, Point #5).
+
+-----
+
+Hopefully this has given you a balanced account of the limits and possibilities of BWF. One of the reasons for explaining this to you is to provide some context about the other 4 programs to which the Primer leads into.
+
+Within the scope of training in BWF without approaching the more specialised and niche levels of progression with leverages as mentioned in Limit #2, is this program,*The BWF Primer*, and it's intended next step,*The BWF Strength Foundation*Routine. (More about all this in the initial announcement last year, if you missed it.)
+
+Upon graduation from BWF Strength Foundations, you will note that the possible way forward diverges into three paths:
+
+1. The Gymnastic Strength Training (GST) Specialisation Routine
+2. The Weighted BWF Routine
+3. The BWF/Gym Hybrid Routine.
+
+These three programs all work around the above listed limitations to allow for continued progression.
+
+The first program dives head first into the more advanced leverage related skills at the pinnacle of BWF, shifting the goal from simply improving strength and muscle growth, to a more specialised and niche skill based approach. This will be for individuals looking to learn skills and tricks, or perhaps improve their performance in areas like street workout, gymnastics, circus, dance, etc.
+
+The other two are necessary adaptations to include weight training so as to continue a more purely strength and/or muscle gain goal based approach.
+
+This is a bit of a look ahead for you now, as you are only just now starting the full BWF Primer routine as of the start of next week, but its good to be informed!
+
+** Workout #13:
+| Exercise              | Sets/Reps | Rest |
+|-----------------------+-----------+------|
+| Birddogs              | 3x10s     | 60s  |
+| Deadbugs              | 3x15s     | 60s  |
+| Squats                | 2x9       | 60s  |
+| Glute Bridges         | 2x11      | 60s  |
+| Rows/Reverse Push-ups | *2x12*    | 60s  |
+| Push-ups              | *2x12*    | 60s  |
+
+** Ok, I did it!
+Congratulations!
+
+If you'd like, we'd love to hear your thoughts about your workout in the comments, as well as any questions you have about the concepts or forms you learned today.
+
+Alternatively, we've set up a new 'beginners zone' in our communities' discord server, so you can come chat with other new exercisers in a friendly environment, with friendly helpers with experience with exercise that have volunteered to answer any questions you may have!
+
+[[https://discord.gg/5MsaChT3YF]]
+
+* Day 14
+Day 14 (Today!)
+
+Hey folks! If you've made it this far, congratulations! You've just done 2 absolutely jam packed weeks and hopefully learned a lot about some fundamental exercises and theory about training!
+
+This is your second rest day this week, so today we'll be doing:
+
+- Nothing,
+
+- Some more nothing!
+
+** Today's Learning: Nothing. You've earned a break!
+Simply bask in your achievement.
+
+Or, If you missed anything this week reading-wise, today would be the day to go back and read (or re-read!) that.
+
+** Workout #14:
+
+
+Rest Day.
+
+
+
+-----
+
+** Final Remarks, and What to Do Moving Forward
+So now that you've completed the 'Build-Up' phase of the Primer routine, you can move on to the normal, full capacity BWF primer.
+
+This means now you are going to be only training 3x per week, but you'll be doing 3 sets of every exercise instead of 2, and you're finally going to start progressing to harder exercises once you reach the top rep range of an exercise!
+
+For Clarity, this means your training days will look like this:
+
+| Exercise                             |                                            Sets/Reps | Rest   |
+|--------------------------------------+------------------------------------------------------+--------|
+| [[https://www.nick-e.com/bird-dog][Birddog Progression]]                  | 3x6-10 reps each side (or 3x10-20s for Static holds) | 60-90s |
+| [[https://www.nick-e.com/deadbug/][Deadbug Progression]]                  | 3x6-10 reps each side (or 3x10-20s for Static holds) | 60-90s |
+| [[https://www.nick-e.com/push-up/][Push-up Progression]]                  |                                               3x5-12 | 60-90s |
+| [[https://www.nick-e.com/row/][Rows]](Or[[https://www.nick-e.com/reverse-push-ups][Reverse Push-ups]]) Progression |                                               3x5-12 | 60-90s |
+| [[https://www.nick-e.com/squat/][Squat Progression]]                    |                                               3x8-15 | 60-90s |
+| [[https://www.nick-e.com/glutebridge/][Glute Bridge Progression]]             |                                               3x8-15 | 60-90s |
+
+With the rep ranges (e.g. 3x5-12) meaning you start your first session with the first number (e.g. 5 reps) and every session you will try to increase that by one rep (or 2-3s), until you get to the second number (e.g. 12) at which point you will move up in progression to a harder exercise, and start back at 5 reps again!
+
+This will be performed 3x a week rather than 6x a week, so if you want examples of what schedule that may look like, go back and look at[[https://www.reddit.com/r/bodyweightfitness/comments/ksiox7/bwf_primer_buildup_community_event_day_7/][Day 7]]when we covered this very topic!
+
+To read the full details of the program, go back and look at the technical outline posted on Christmas:
+
+[[https://www.reddit.com/r/bodyweightfitness/comments/kk5pp1/happy_holidays_rbwf_our_gift_to_you_the_bwf/]]
+
+-----
+
+Heres to a year of getting and staying fit, and taking care of ourselves.
+
+Cheers,
+
+Nick-E

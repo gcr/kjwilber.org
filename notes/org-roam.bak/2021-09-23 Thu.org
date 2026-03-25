@@ -1,0 +1,68 @@
+#+CATEGORY: day
+
+* WACV reviews: 991
+** Summary (concise!)
+This paper is about "model inversion," the practice of recovering data that could have been used in the training set. Unlike other work, this paper shows that attempting to invert multiple correlated models at once can lead to better reconstructions of plausible training data.
+
+** Strengths
+I think this is an interesting and important domain! The thought of attacking multiple correlated models at once strikes me as quite insightful, as some large companies frequently re-train and release their models periodically.
+
+I also like the auxiliary experiments that demonstrate class activation correlations (Fig. 3); that preemptively addresses one of my questions about how to handle the case where classes do not perfectly overlap from model to model.
+
+The paper is easy to understand, well-written, and includes lots of interesting experiments that help prove the authors' main points.
+
+** Weaknesses
+My biggest concern about this work is its positioning. The provided technique does not actually reconstruct the training data that was used during training; rather, it generates *plausible* data that *could have been* used to train the MUA. One can't use this technique to, say, test whether my private pictures were used improperly or extract copyrighted material out of the model or determine whether an academic dataset was used to train a commercial model, for example. We pre-suppose that we have access to the raw logits for every dimension of the classification output, but commercial models typically are based on metric learning and use nearest neighbors within embeddings rather than generating classification outputs.
+
+Crucially, I wished this work measured how similar the generated data is to the *actual* training data that was used; it could be completely different and we have no way of knowing. The paper briefly hints on some mysterious experiments that could show this (measuring kNN distances and feature distances) in 691. I think these results should be expanded. Shouldn't these experiments be flagship results for a paper positioned this way?
+
+My second concern is about the notation. The word "ensemble" is overloaded to both mean "a MUA that itself uses ensembles of several models" and "a series of similar, non-independent models that are accessible individually." This is highlighted explicitly in lines 313-325, but it's so crucial to the piece that it should probably be mentioned earlier, e.g. in the introduction. I'd suggest that the authors pick something else to call it that better differentiates from the other meaning. Perhaps "multiple-model inversion" or "inversion of a collection of models" or something.
+
+The rest of my concerns are nitpicks.
+
+- Fig 4: it's odd to me that all the examples look identical for the output in the "OH & MR loss" model under the data-free setting. This feels like the common mode collapse problem that plagues GAN training. If nothing is done to make sure that generated outputs have some broad variety, I wonder if the accuracy for all the other experiments could be artificially higher than they should be since all outputs may look identical to the evaluation network.
+
+- Fig. 6: I think the dependent variable for this experiment doesn't make much sense to me. This experiment shows that learning from more models sampled from a fixed pool of 200 models improves performance, but I think it would make more sense to show how performance varies *as a function of the model pool size*. I'm guessing that FMS only shows improvement when you have a very large pool. When should one stop collecting models? These experiments can't tell you that.
+
+- The paragraph on farthest model sampling should include some more details on how it is integrated with the model's training process. Does this determine which MUAs to sample from the pool? If so, I suggest changing "points" on L394 to "models" to clarify, for example.
+
+- The work motivates the $L_{OH}$ term in their loss function (4) as desiring the model to have "sharp outputs". Have the authors considered using softmax with temperature, which allows researchers to tune the amount of saturation explicitly?
+
+- Federated Learning is teased as a motivating example in 132, but the work doesn't pull on that thread. You got my hopes up!
+
+
+** Justification
+This paper is extraordinarily promising! But it suffers from positioning that doesn't quite hit the mark in my opinion. For instance, I was expecting this work to show that the recovered inputs *were* used in the training set, but the experiments only show that the input data is *plausible*. Is the goal to recover what the training classes could have looked like or is it to recover actual training data? I think the first goal is more powerful, but is not the focus.
+
+
+* LUNA paper
+** Summary
+This paper is about long-tailed open-set recognition, specifically how to create models that can deal well with very heavily unbalanced (long-tailed) datasets where not all classes are known at test time. Good models under this setting must be robust to training set imbalance without being so overconfident in their decisions that they incorrectly discriminate novel classes.
+
+To do this, this work proposes
+1. a new loss function for metric learning that weights embedding similarity in accordance with class frequency;
+2. a metric that captures sample novelty by estimating the density of the clusters close to it
+
+** Strengths
+I like this domain. Open-set recognition is not studied enough and I appreciate the thought of combining techniques for long-tailed datasets (eg. focal loss etc).
+
+I also really like the marine life dataset the authors collected to demonstrate their approach.
+
+The experiments are quite broad and demonstrate that the proposed weighted loss and outlier metric approaches work well and complement each other.
+
+** Weaknesses
+- Nitpick: looks like this resubmission still contains "ICCV" on the template... :)
+
+Overall, the proposed method is competitive and seems to work well. However in my opinion, it feels contrived. Some of this is due to the explanation of the method, which I feel should be reworked (details below), but some of this is due to the method feeling "unprincipled" to me. This work makes several assumptions about the structure of the overall cluster structure and makes other data-specific assumptions that need to be chosen as hyperparameters.
+
+- Assumptions about cluster structure: The LUMA metric considers three classes of points: core points, boundary points, and second-boundary points that come from the second-closest cluster. Why is the second-closest cluster informative? Would it make sense to include measurements from several similar clusters? In high-dimensional spaces, there may frequently be many clusters roughly equidistant from an arbitrary point.
+- Hyperparameters: I'm wondering about the value for k used in the local outlier factor (L317) and the value for η used to distinguish core and boundary points (L350). What values were chosen, how were they picked, and how sensitive is the method to these choices?
+- Unprincipled: I feel like this technique would make more sense if it were based on some probabilistic notion of point/cluster membership, e.g. kernel density estimates under a Gaussian prior, for example.
+
+Some parts of the explanation for LUMA were hard to understand and could have caused the above gut reaction. For instance:
+
+- L363-365 says that a point with density greater than the density of other points in its second boundary is likely to be a novel class. I'm not convinced this is true. As written, L351 defines this "second boundary" to encompass all points in the second-closest cluster, which presumably includes points in the second cluster's core and boundary regions as well. Second-closest clusters could be arbitrarily dense; indeed, Figure 4 shows several examples. I'm not sure what this density tells you about likelihood of being in a novel class.
+
+- What's the intuition behind the factors, COF, BOF, and sBOF? I'm not sure how to think about these three values, and clearer writing could really help here. Their introduction near L366, introduced as probabilities, glosses over their purpose quite quickly. L684 and the conclusion both offer some intuition, but send the reader conflicting messages (L693 implies they are like "distances," L792 speaks of them as "densities," L366 refers to them as "probabilities" before characterizing them as "metrics" in L388, and they are called "factors" overall). Perhaps a different word than "factor" would better indicate their intended use.
+
+- Generalizing the above, I suggest making a pass for consistent language. Some parts of the paper speak of distance and other parts speak of density, and there are many reciprocals in the equations to convert between these notions, eg. in (7), (8), (9). Indeed, (8) and (9) include lots of single-line \displaymath fractions, which tripped me up quite badly.

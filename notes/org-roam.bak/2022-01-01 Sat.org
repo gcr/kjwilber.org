@@ -1,0 +1,178 @@
+#+CATEGORY: day
+
+* TODO Trainer Kimmy's Food Plan
+This week's objectives:
+
+1. [X] *Consistent schedule:* eat a substantial meal at consistent times. For this first week, I can eat whatever I like.
+  |           | Scheduled | Actual time  | What?                 |
+  | Breakfast | 10am      | 10am exactly | omelette, fries, hash |
+  | Lunch     | 12pm      | 12am         | yogurt                |
+  | Dinner    | 4pm       | about 5pm    | pep pizza, bolognaise |
+
+2. [X] *Limited snacks:* Outside my meals, I can eat as much tea/water or veggies as I like.
+
+3. [ ] *Calories:* All calories are logged in LoseIt and I'm not in the red.
+
+*** Why these goals?
+Doing this *makes my choices ahead of time.* No need to agonize about /when/ to eat; I've already decided. And I'm sure my imagination will gear me up for /what/ to eat.
+
+At the same time, I want this to *feel like a challenge* enough to get a sense of accomplishment when I'm able to do this
+
+*** Non-goals
+- Portion control
+- Adjusting actual meal content (consider slow-carb or keto-like)
+
+** Things to be conscious of (check when i notice them)
+- [ ] *Overthinking:* I don't want to start out controlling /what/ I eat just yet. My goal this week is consistency. That means I'll get out the candy and save it for the next meal time!
+- [ ] *Moments of hunger:* when my tummy feels rumbly or sick to my stomach
+  - Failure plan: when I notice this, immediately drink some cold water.
+- [ ] *"That wasn't so bad"*: when I'm able to pull out of a dive and it was easier than I expected.
+- [ ] *Schedule isn't working?* Revise as needed.
+
+** Thoughts
+
+* srb2kart
+
+ 94%] Building C object src/sdl/CMakeFiles/SRB2SDL2.dir/__/hardware/hw_md3load.c.o
+[ 95%] Building C object src/sdl/CMakeFiles/SRB2SDL2.dir/__/hardware/hw_model.c.o
+[ 96%] Building C object src/sdl/CMakeFiles/SRB2SDL2.dir/__/hardware/hw_trick.c.o
+[ 97%] Building C object src/sdl/CMakeFiles/SRB2SDL2.dir/__/hardware/u_list.c.o
+[ 97%] Building C object src/sdl/CMakeFiles/SRB2SDL2.dir/__/hardware/r_opengl/r_opengl.c.o
+[ 98%] Building C object src/sdl/CMakeFiles/SRB2SDL2.dir/macosx/mac_alert.c.o
+[ 99%] Building C object src/sdl/CMakeFiles/SRB2SDL2.dir/macosx/mac_resources.c.o
+Copying OS X content bin/SRB2SDL2.app/Contents/Resources/Srb2mac.icns
+[100%] Linking C executable ../../bin/SRB2SDL2.app/Contents/MacOS/SRB2SDL2
+[100%] Built target SRB2SDL2
+Compiled for SDL version: 2.0.18
+Linked with SDL version: 2.0.18
+Setting up SRB2Kart...
+
+
+Sonic Robo Blast 2 Kart
+Copyright (C) 1998-2018 by Kart Krew & STJr
+
+This program comes with ABSOLUTELY NO WARRANTY.
+
+This is free software, and you are welcome to redistribute it
+and/or modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2 of
+the License, or (at your option) any later version.
+See the 'LICENSE.txt' file for details.
+
+Sonic the Hedgehog and related characters are trademarks of SEGA.
+We do not claim ownership of SEGA's intellectual property used
+in this program.
+
+Looking for WADs in: SRB2WADDIR,.,HOME/srb2kart
+ERROR: Unable to register protocols. Your system doesn't seem to have freedesktop.
+Z_Init(): Init zone memory allocation daemon.
+System memory: 48MB - Free: 48MB
+I_StartupTimer()...
+W_InitMultipleFiles(): Adding IWAD and main PWADs.
+Added file /Users/kimmy/srb2kart/srb2.srb (6214 lumps)
+Loading main config from /Users/kimmy/srb2kart/srb2.srb
+Added file /Users/kimmy/srb2kart/gfx.kart (1804 lumps)
+Added file /Users/kimmy/srb2kart/textures.kart (4070 lumps)
+Added file /Users/kimmy/srb2kart/chars.kart (526 lumps)
+Added file /Users/kimmy/srb2kart/maps.kart (1684 lumps)
+Loading SOC from /Users/kimmy/srb2kart/maps.kart|SOC_MAIN
+Added file /Users/kimmy/srb2kart/patch.kart (1022 lumps)
+Loading main config from /Users/kimmy/srb2kart/patch.kart
+Added file /Users/kimmy/srb2kart/sounds.kart (668 lumps)
+Added file /Users/kimmy/srb2kart/music.kart (118 lumps)
+I_StartupGraphics()...
+Using last known renderer: opengl
+NOTE: Under SDL2, all modes are supported on all platforms.
+Under opengl, fullscreen only supports native desktop resolution.
+Under software, the mode is stretched up to desktop resolution.
+ 0: 1920x1200
+ 1: 1920x1080
+ 2: 1680x1050
+ 3: 1600x1200
+ 4: 1600x900
+ 5: 1366x768
+ 6: 1440x900
+ 7: 1280x1024
+ 8: 1280x960
+ 9: 1280x800
+10: 1280x720
+11: 1152x864
+12: 1024x768
+13: 800x600
+14: 640x480
+15: 640x400
+16: 320x240
+17: 320x200
+HWR_Startup()...
+InitMD2()...
+Error while loading mdls.dat: No such file or directory
+CPU Info: 486: 0, 586: 0, MMX: 0, 3DNow: 0, MMXExt: 0, SSE2: 0
+HU_Init(): Setting up heads up display.
+Number of console HUD lines is now 5
+I_InitJoystick()...
+executing /Users/kimmy/srb2kart/kartconfig.cfg
+Default resolution: 1280 x 800 (8 bits)
+M_Init(): Init miscellaneous info.
+R_Init(): Init SRB2 refresh daemon.
+R_LoadTextures()...
+P_InitPicAnims()...
+R_InitSprites()...
+srb2.srb added 2975 frames in 232 sprites
+gfx.kart added 1030 frames in 148 sprites
+chars.kart added 87 frames in 1 sprites
+patch.kart added 5 frames in 2 sprites
+Sorting skin list (0)...
+Sorting skin list (0)...
+Sorting skin list (0)...
+Added skin 'tails'
+Added skin 'knuckles'
+Added skin 'eggman'
+Added skin 'metalsonic'
+Sorting skin list (0)...
+Sorting skin list (0)...
+Sorting skin list (0)...
+Sorting skin list (0)...
+Sorting skin list (0)...
+R_InitColormaps()...
+S_InitSfxChannels(): Setting up sound channels.
+ST_Init(): Init status bar.
+D_CheckNetGame(): Checking network game status.
+executing /Users/kimmy/srb2kart/kartexec.cfg
+Entering main game loop...
+===========================================================================
+                   We hope you enjoy this game as
+                     much as we did making it!
+===========================================================================
+SRB2Kart v1.3 (Moe Mansion) (Jan  1 2022 17:45:03 0fb20af0)
+SDL macOS 64-bit
+HMS: connecting 'https://ms.kartkrew.org/ms/api/games/SRB2Kart/version?v=2'...
+HMS: connecting 'https://ms.kartkrew.org/ms/api/games/SRB2Kart/7/servers?v=2'...
+Binding to 0.0.0.0
+Network system buffer: 768Kb
+Contacting the server...
+Connecting to: [US/NY] mocha's coffee shop
+Gametype: Race
+Version: 1.3
+Downloading KRB_PlomPack-v2-3.pk3 from https://source.foxk.art/KGN/
+Finished downloading KRB_PlomPack-v2-3.pk3
+Added file /Users/kimmy/srb2kart/DOWNLOAD/KL_Acrobasics-v1.pk3 (79 lumps)
+Loading Lua script from /Users/kimmy/srb2kart/DOWNLOAD/KL_Acrobasics-v1.pk3|Lua/LUA_ACROBASICS
+Pardon me while I initialize the Lua scripting interface...
+Sound sfx_tric allocated.
+Sound sfx_trice allocated.
+Sound sfx_acgr0 allocated.
+Sound sfx_acgr1 allocated.
+Sound sfx_acgr2 allocated.
+Sound sfx_acgr3 allocated.
+Sound sfx_acgr4 allocated.
+Sound sfx_acgr5 allocated.
+Sound sfx_acgd0 allocated.
+Sound sfx_acgd1 allocated.
+Sound sfx_acgd2 allocated.
+Sound sfx_acgd3 allocated.
+Sound sfx_acgd4 allocated.
+Sound sfx_acgd5 allocated.
+as_textdebug set to Off
+Added command "as_trickbtn"
+* Acrobasics v1, by Angular. Load successful! Please spin responsibly. *
+/Users/kimmy/srb2kart/DOWNLOAD/KL_EggPanic-v1.1e.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KL_HOSTMOD_V16.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KL_MiniRankingPlus-v3.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/hyuu.cc/KL_Slipstream-v3.lua /Users/kimmy/srb2kart/DOWNLOAD/KL_kartmp-v1.5.pk3 /Users/kimmy/srb2kart/DOWNLOAD/XL_JuggysJugOfTools_v0.6.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD-penelope/kl_hitfeed-v2.2.pk3 /Users/kimmy/srb2kart/bonuschars.kart /Users/kimmy/srb2kart/DOWNLOAD/KCL_FPChars_v2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_00_SG8_v1.1.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_3_Castrol_Celica_v1.0.5.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_AosthRobotnik-v1.2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_BLJ-V1.0.pk3 /Users/kimmy/srb2kart/DOWNLOAD-penelope/KC_Bandana_Dee_V2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Bowsette_v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Bunnie.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_CDSonic_v1.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_Carrotia.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Chili_Dogs-v1.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_CoffeeShopModSquad_V1.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_CurlyBrace.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_Daisy_v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_DaytonaChibiHornet_V2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_DiC_Tails-v1.0.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_DoodleSunset.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_Eevee.wad /Users/kimmy/srb2kart/DOWNLOAD-penelope/KC_Eggrobo_v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_EliteAgentRouge-v1.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Emerl-R1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Falco_v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD-penelope/KC_Fang_v1.3.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Gordon_Freeman_V1.wad /Users/kimmy/srb2kart/DOWNLOAD/hyuu.cc/KC_Heavy_v1.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_Honey-v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_KartGhost_v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD-penelope/KC_King_DeDeDe.pk3 /Users/kimmy/srb2kart/DOWNLOAD-penelope/KC_Kirby_V2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Klonoa_lunatea-v4.wad /Users/kimmy/srb2kart/DOWNLOAD/hyuu.cc/KC_LD-Tangles-v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD-penelope/KC_Majima_v1.0.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_MaoMao_v2.wad /Users/kimmy/srb2kart/DOWNLOAD-penelope/KC_Meta_Knight_V2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_MiniCars-v1.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Mocha_v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD-penelope/KC_ModernEggman_v1.0.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_MotorsportAmy_v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Nicole.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_OrbotCubot-v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Peach_v1.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_PepperCat.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Quote.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_Rosy_V2.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Sally.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Shantae_v3.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_SuperLuigi_compat.pk3 /Users/kimmy/srb2kart/DOWNLOAD-penelope/KC_SuperMario.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_TerminalMontageParodyPack.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Terryv1.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_ToeiSonic_V2.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_Vanilla.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_VirtuaRacingChars_V11.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_WarpStarKirby_v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_Whisper_v1.2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_angel-chao-v2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_darren-0.3.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_devil-chao-v2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/hyuu.cc/KC_fox_V2.wad /Users/kimmy/srb2kart/DOWNLOAD/KC_light-chao-v2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KC_wolf_V2.5.wad /Users/kimmy/srb2kart/DOWNLOAD/kc_Chengi_ModernSonic_v3.pk3 /Users/kimmy/srb2kart/DOWNLOAD/kc_Pikachu.wad /Users/kimmy/srb2kart/DOWNLOAD/kc_yoshi_v1.01.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KRBL_MelonPack-v6.3.pk3 /Users/kimmy/srb2kart/DOWNLOAD/hyuu.cc/KRBL_omegatracks-v4.0.2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KRB_PlomPack-v2-3.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KRL_3-7speedway_V4.0.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD-penelope/KRL_Aether_Pack_v2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KRL_Bowlers_Pack_V1.9.9.pk3 /Users/kimmy/srb2kart/DOWNLOAD-2/KRL_IvoIndustries-v10.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KRL_MarshMayhem_v1.3.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KRL_Masters_v2.4.pk3 /Users/kimmy/srb2kart/DOWNLOAD/hyuu.cc/KRL_RA_Extended-v3.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/hyuu.cc/KRL_SMKRemix-v1.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KRL_SparkCup_V2_65.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KR_CoffeeCup_V3.pk3 /Users/kimmy/srb2kart/DOWNLOAD-penelope/KR_CookieCountry_v1.5.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KR_Cotopack_v1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/hyuu.cc/KR_Dinosaur_Canyon_V01.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KR_HilltopPeaks_V2.1.wad /Users/kimmy/srb2kart/DOWNLOAD-penelope/KR_RetroRacersPack_V4.2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KR_SMKElectricBoogaloo-v5.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KR_jellycup_v2.01.pk3 /Users/kimmy/srb2kart/DOWNLOAD/kr_CTAP-v7a.pk3 /Users/kimmy/srb2kart/DOWNLOAD/kr_DGardens_v2.0.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD/kr_kartmania_v2.3.1.pk3 /Users/kimmy/srb2kart/DOWNLOAD-penelope/krl_NightmarePack_v4.pk3 /Users/kimmy/srb2kart/DOWNLOAD/krl_mupak_v13.pk3 /Users/kimmy/srb2kart/DOWNLOAD/KL_EliminationR1_NVJR_475_RAS-005.wad /Users/kimmy/srb2kart/DOWNLOAD/MUS_CoffeeShopMusic_V2.2.pk3 /Users/kimmy/srb2kart/DOWNLOAD/coffeeshoptweaks_v1.0.soc /Users/kimmy/srb2kart/DOWNLOAD-penelope/kl_DynMusic-v3.wad

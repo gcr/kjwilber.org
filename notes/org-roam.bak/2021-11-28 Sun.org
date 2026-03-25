@@ -1,0 +1,59 @@
+#+CATEGORY: day
+
+
+* Code Signing
+
+Consider a simple file like:
+
+#+begin_src c
+#include <stdio.h>
+
+int main(int argc, char **argv) {
+    printf("Hello world!\n");
+    return 0;
+}
+#+end_src
+
+We can then compile it for several different architectures:
+- *arm64*, the default:
+  =cc main.c -o a.out.arm64=
+- *x86_64*, which you don't need any special crosscompiler tools for:
+  =cc -arch x86_64 main.c -o a.out.x86_64=
+- a *universal* ("fat") binary:
+  =lipo a.out.arm64 a.out.x86_64 -create -output a.out.universal=
+
+M1 will run each of these out of the box!
+#+begin_src bash
+$ for i in a.*; ./$i; end
+Hello world!
+Hello world!
+Hello world!
+#+end_src
+
+** Code signatures
+- By default, *the linker will sign arm64 binaries with an ad-hoc signature* without any speciel requests:
+
+  #+begin_src bash
+    $ codesign -dv --verbose=4 ./a.out.arm64
+    ...
+    CodeDirectory v=20400 size=388 flags=0x20002(adhoc,linker-signed) hashes=9+0 location=embedded
+    ...
+  #+end_src
+
+- This is because *M1 macs will not run unsigned arm64 binaries.* You can't change this - apps will get killed by the kernel without a valid signature! We can strip the signature and see what happens:
+
+  #+begin_src bash
+    $ codesign --remove-signature ./a.out.arm64
+    $ codesign -dv --verbose=4 ./a.out.arm64
+    ./a.out.arm64: code object is not signed at all
+    $ ./a.out.arm64
+    fish: Job 1, './a.out.arm64' terminated by signal SIGKILL (Forced quit)
+  #+end_src
+
+- However, *M1 macs will run x86_64 code without a signature* by default.
+
+  #+begin_src bash
+    $ codesign --remove-signature ./a.out.x86_64
+    $ ./a.out.x86_64
+    Hello world!
+  #+end_src

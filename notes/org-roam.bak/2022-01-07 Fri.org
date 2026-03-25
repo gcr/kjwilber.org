@@ -1,0 +1,147 @@
+#+CATEGORY: day
+
+feeling "off" today, residual anxiety from this morning's tummyache / pancreatitis scare?
+
+what will i be happy doing?
+
+* TODO REVIEW: Food plan
+** 2021 Dec 31 check-in
+*** Next goals:
+This week's objectives:
+1. *Consistent schedule:* eat a substantial meal at consistent times. For this first week, I can eat whatever I like.
+| Breakfast | 10am |
+| Lunch     | 1pm  |
+| Dinner    | 4pm  |
+2. *Limited snacks:* Outside my meals, I can eat as much tea/water or veggies as I like.
+3. *Calories:* All calories are logged in LoseIt and I'm not in the red.
+
+*** Why these goals?
+Doing this *makes my choices ahead of time.* No need to agonize about /when/ to eat; I've already decided. And I'm sure my imagination will gear me up for /what/ to eat.
+
+At the same time, I want this to *feel like a challenge* enough to get a sense of accomplishment when I'm able to do this
+
+*** Non-goals
+- Portion control
+- Adjusting actual meal content (consider slow-carb or keto-like)
+
+*** Things to be conscious of (check when i notice them)
+- [ ] *Overthinking:* I don't want to start out controlling /what/ I eat just yet. My goal this week is consistency. That means I'll get out the candy and save it for the next meal time!
+- [X] *Moments of hunger:* when my tummy feels rumbly or sick to my stomach
+  - Failure plan: when I notice this, immediately drink some cold water.
+- [X] *"That wasn't so bad"*: when I'm able to pull out of a dive and it was easier than I expected.
+- [ ] *Schedule isn't working?* Revise as needed.
+
+** 2022 Jan 7 check-in
+History:
+  |               | Scheduled | Actual time | What?                                   |
+  | Fri Breakfast | 10am      |       10:13 | Omelette, wrap,                         |
+  | Fri Lunch     | 12pm      |       12:43 | Subway protein bowl                     |
+  | Fri Dinner    | 4pm       |        4:59 | Turkey burg and pasketti                |
+  | Sat Breakfast | 10am      |       10:00 | omelette, fries, hash                   |
+  | Sat Lunch     | 12pm      |        12am | yogurt drink                            |
+  | Sat Dinner    | 4pm       |     about 5 | pep pizza, bolognaise                   |
+  | Sun Breakfast | 10am      |        9:55 | omelette, pastry                        |
+  | Sun Lunch     | 12pm      |       12:00 | jalapeno cheddar bagel w/ chicken salad |
+  | Sun Dinner    | 4pm       |        6ish | gummies,                                |
+
+- Tue, Breakfast :: between 10 and around 11:30
+- Tue, Lunch :: delayed because of the VATT++ meeting, will eat around 1pm. Ate around 1:30, feeling fairly hungry with a headache!
+- Tue, Dinner :: curry w/ fox, fairly late, eg 7pm
+- Wed, Breakfast :: had yogurt snack and a banana around 9:55
+- Wed, Lunch :: had subway a bit later than usual, eg around 1:45
+- Wed, Dinner :: stressed a bunch about this! at around 5:45 i had a subway salad and a turkey burger.
+- Wed notes :: i felt really awful in the evenings, with a sense of distance and wanting strong disconnection from my work. i eventually had some snacks (popcorners) after browsing around on doordash. (I didn’t purchase anything though! proud of that)
+- Thu, Breakfast :: had coffee at 9am, then an omelette at 10:15
+- Thu, Lunch :: steak! got distracted so i started lunch super late — around 2pm tbh. i didn’t even finish. will have the rest for dinner i think.
+- Thu, Dinner :: throughout 7pm or so, continued to nom on steak, potatoes, rice
+
+*** Additional notes (Fri, 2021-12-31)
+This morning in the shower I was kinda worried and felt *sick to my stomach,* feeling overwhelmed by the plan I'm making. What if it's too much? But then I *drank some water* and started planning this in my journal, and I'm feeling better.
+
+I think the time between breakfast and lunch is way too short, OR I think I overate for breakfast. Not hungry at all for lunch, eating a light-carb lunch anyway to stay consistent.
+
+Super late for lunch too, in part because I wasn't feeling so hungry and in part because I went shopping just before!
+
+For dinner I found I really wasn't that hungry! So much protein + salad before was really filling me up. But I ate anyway; I guess it worked out.
+
+*** How'd it go?
+Take a look at the [[https://www.loseit.com/#Insights][LoseIt Insights tab]].
+
+- What was my reasoning from last week? ::
+- Doing this *makes my choices ahead of time.* No need to agonize about /when/ to eat; I've already decided. And I'm sure my imagination will gear me up for /what/ to eat.
+- At the same time, I want this to *feel like a challenge* enough to get a sense of accomplishment when I'm able to do this
+
+- A past kimmy wrote that! Do I feel in my heart like she understands me and the challenges I went through? :: Absolutely. Deciding TO eat at certain times, and then not having to make a choice WHEN to eat, was really really nice.
+
+- What worked? :: i found it easy and pain-free to follow many aspects of this plan. in addition, even though i wasn't controlling WHAT i ate, i found myself wanting to make better choices anyway.
+
+- What didn't? :: The schedule feels weird. Some days I'm fairly hungry before breakfast; other days I'm not that hungry at all. Most days I feel like dinner is way too early. Not once was I able to eat dinner at 4pm as intended. However, I was able to stop eating snacks after dinner, and I think that's the insight that helped -- a feeling of "Done-ness for the Day" after dinner helps me relax.
+
+- What do I feel weird in my heart about? ::
+  at the end of my time <2022-01-07 Fri> i started getting stomachache and i'm worried about weirdness. my heart wonders if it's because of my eating changes?
+
+- How many of the flags was I able to notice? ::
+- Moments of hunger
+  - How I kept to the failure plan
+- "That wasn't so bad"
+- Did the schedule work?
+
+  I felt this a couple times, notably on Friday and again on Wednesday evening. I found it quite easy to recover. Rather than "shift towards" it and spiral, "shifting away" and distracting myself with something else is a fairly useful task.
+
+- What changes do I need to make next time? ::
+  I think it's best to bump dinner a little, e.g. "before 6pm." Overall though, this worked quite nicely for me and I'm fairly pleased with the results.
+
+- Next time, consider one of my previous non-goals. Are any of them appropriate? ::
+- Portion control
+- Adjusting actual meal content (consider slow-carb or keto-like)
+
+  I'm gonna stick with what I have, it's working alright for now. I'm pretty satisfied with what I have!
+
+
+** Next goals
+1. *Consistent schedule:* eat a substantial meal at consistent times, even if I don't feel like it. For this second week, I can eat whatever I like.
+   - Breakfast: 10am
+   - Lunch: 12pm
+   - Dinner: Between 4 and before 6
+
+2. *Limited snacks:* Outside my meals, I can eat as much tea, water, fruits, and veggies as I like.
+
+3. *Calories:* All calories are logged in LoseIt and I'm not in the red.
+
+Watch for:
+- *Overthinking:* I don't want to start out controlling /what/ I eat just yet. My goal this week is consistency. If it's not time for candy, just save it for my next meal!
+- *Moments of hunger:* when my tummy feels rumbly or sick to my stomach
+  - Failure plan: when I notice this, immediately drink some ice water!
+- *"That wasn't so bad"*: when I'm able to pull out of a dive and it was easier than I expected.
+- *Schedule isn't working?* Revise as needed.
+
+
+Non-goals:
+- Portion control
+- Adjusting actual meal content (consider slow-carb or keto-like)
+
+*** How'd it go?
+Take a look at the [[https://www.loseit.com/#Insights][LoseIt Insights tab]].
+
+- What was my reasoning from last week? ::
+
+- A past kimmy wrote that! Do I feel in my heart like she understands me and the challenges I went through? ::
+
+- What worked? ::
+
+- What didn't? ::
+
+- What do I feel weird in my heart about? ::
+
+- How many of the flags was I able to notice? ::
+- Moments of hunger
+  - How I kept to the failure plan
+- "That wasn't so bad"
+- Did the schedule work?
+
+
+- What changes do I need to make next time? ::
+
+- Next time, consider one of my previous non-goals. Are any of them appropriate? ::
+- Portion control
+- Adjusting actual meal content (consider slow-carb or keto-like)

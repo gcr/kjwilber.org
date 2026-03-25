@@ -1,0 +1,42 @@
+#+CATEGORY: day
+
+* Setting up my new macbook (move this to a new note !!)
+
+- Downloaded 1password from the app store and signed in to that, and Things
+
+** keyboard layout + ukulele keys + ergoemacs keys
+- [X] (Now part of dotfiles!)
+
+#+begin_src
+rsync -av burnish:Library/Keyboard\\\ Layouts ./Library
+#+end_src
+
+- Don't need to restart!
+
+
+** Fonts
+- [X] Make this part of dotfiles
+
+#+begin_src
+rsync -av burnish:Library/Fonts ./Library/
+#+end_src
+
+** Homebrew
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+
+*** List of installed packages
+brew install ansible autoconf automake awscli bogofilter boost broot brotli c-ares cmake coreutils curl direnv ffmpeg fish flac git gnupg gnutls handbrake htop hugo hunspell imagemagick ipfs jq katago lame libsvg libsvg-cairo lighttpd lua lua@5.1 minimal-racket mkvtoolnix msgpack msmtp nim nmap node notmuch offlineimap p7zip pandoc parallel pinentry pinentry-mac pkg-config pngpaste poppler pwgen qpdf qrencode rclone ripgrep rsync ruby sdl sdl2 sdl2_image sdl2_mixer sdl2_net sdl_image sdl_mixer sqlite svg2pdf tarsnap tmux weechat wget x264 x265 xapian xz youtube-dl zeromq anki bitwig-studio blender calibre dash discord flux gimp gitup godot google-chrome google-drive hammerspoon handbrake inkscape itch iterm2 katrain keybase mactex oscar signal vlc zeronet
+
+** emacs
+
+brew tap railwaycat/emacsmacport
+brew install emacs-mac
+ln -s /opt/homebrew/opt/emacs-mac/Emacs.app /Applications
+
+** make Dash sync thru dotfiles ?
+** trawl through settings
+** Dotfiles
+- [ ] I want a simple way to keep track of machines as branches
+** daypages

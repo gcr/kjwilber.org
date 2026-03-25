@@ -1,0 +1,7 @@
+#+CATEGORY: day
+
+cool! there are a couple ways i see this working. one is really the lasseiz-faire approach -- "i'm only providing site hosting, you do what you want with the content, credit yourself in the way that you feel comfy with," up to / including pointing the DNS to a repo you control or even giving you DNS records. orrr i'm happy to take care of the webdev stuff by adapting writing/content from like a google doc, or something else?
+
+i've earmarked like $500 or so for this project, not sure if that's too low a rate?
+
+it's weird, like -- this is a resource that i really want to exist but i also want to, like, not be in charge of it? cause it isn't *for* me in a sense? which honestly leaves me being kind of unsure what sort of support i should be providing. i just wanna pay cool peeps to write about their communityyyyyy

@@ -1,0 +1,30 @@
+#+CATEGORY: day
+#+CATEGORY: day
+
+# BAM, Version 1 (2017-05)
+- [Example docs](https://gist.github.com/gcr/c0e13bd205ed593f022ae0ad863e4ee2)
+
+- [Only crowd-labeled](https://bam-dataset.s3.amazonaws.com/version-1/20170509-behance-styles-crowd-only-xQ3gXol5UR.sqlite)
+- [1 million](https://bam-dataset.s3.amazonaws.com/version-1/20170509-behance-styles-1m-18UThu3ICM.sqlite)
+- [5 million](https://bam-dataset.s3.amazonaws.com/version-1/20170509-behance-styles-5m-7ASWZWUQFV.sqlite)
+- [2.2 million](https://bam-dataset.s3.amazonaws.com/version-1/20170509-behance-styles-2.2m-Nja9G.sqlite)
+- [10 million](https://bam-dataset.s3.amazonaws.com/version-1/20170509-behance-styles-10m-weOBZeA6WY.sqlite)
+- [20 million](https://bam-dataset.s3.amazonaws.com/version-1/20170509-behance-styles-20m-qDFwEs1QzE.sqlite)
+- [40 million](https://bam-dataset.s3.amazonaws.com/version-1/20170509-behance-styles-40m-9ldkq6ubVO.sqlite)
+- [Full](https://bam-dataset.s3.amazonaws.com/version-1/20170509-behance-styles-full-uQlccKK2QV.sqlite)
+
+# BAM, Version 2 (2017-12)
+Version 2 of the dataset is a superset of version 1. The schema is identical, including authorship / attribution information as well as licensing information.
+
+- [Example code (IPython notebook)](https://gist.github.com/gcr/188158785323bc5227c1cef87a0305b0)
+
+- Only images w/ crowd annotations
+    - [Metadata](https://bam-dataset.s3.amazonaws.com/version-2/R4OHZduT/20171214-behance-styles-crowd-only-R4OHZduT.sqlite.gz)
+    - [Cached Images (.tar)](https://bam-dataset.s3.amazonaws.com/version-2/R4OHZduT/20171214-behance-styles-crowd-only-images-R4OHZduT.tar)
+- 2 million
+    - [Metadata](https://bam-dataset.s3.amazonaws.com/version-2/lD9j4do8/20171214-behance-styles-2m-images-lD9j4do8.tar)
+    - [Cached images (.tar)](https://bam-dataset.s3.amazonaws.com/version-2/lD9j4do8/20171214-behance-styles-2m-lD9j4do8.sqlite.gz)
+- 3 million
+    - [Metadata](https://bam-dataset.s3.amazonaws.com/version-2/1YK8z6Yi/20171214-behance-styles-3m-1YK8z6Yi.sqlite.gz)
+    - [Cached images (.tar)](https://bam-dataset.s3.amazonaws.com/version-2/1YK8z6Yi/20171214-behance-styles-3m-images-1YK8z6Yi.tar)
+- [Full (metadata only)](https://bam-dataset.s3.amazonaws.com/version-2/2ZgB9Vzh/20171214-behance-styles-full-2ZgB9Vzh.sqlite.gz)

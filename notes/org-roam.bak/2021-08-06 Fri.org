@@ -1,0 +1,11 @@
+#+CATEGORY: day
+
+your narratives idea is super interesting to me! wanted to raise some previous work that might interest you.
+
+- "debatepedia", a now-defunct catalog of US political opinions with categorized arguments for and against for various positions. Not quite narratives, but they do suggest some kind of ontology. https://web.archive.org/web/20210218210204/http://debatepedia.idebate.org/en/index.php/Welcome_to_Debatepedia%21
+
+- venturing into the political "deradicalization / changing peoples' mind" area, see https://www.reddit.com/r/changemyview/ and, especially related, "Street Epistemology" (see https://streetepistemology.com/, or examples on the subreddit https://www.reddit.com/r/StreetEpistemology/); it's a structured practice of having discussions and doing listening in ways that make discussion annd change possible by respecting peoples' identity and understanding their beliefs
+
+- examples of other communities trying to engage in deradicalization:  https://www.reddit.com/r/FoxBrain/, https://www.reddit.com/r/QAnonCasualties/
+
+my "Tarot Cards of Tech" deck also has a prophetic warning: if cambridge analytica had had access to these learned representations, i bet they would have been much more effective

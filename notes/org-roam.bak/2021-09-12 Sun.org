@@ -1,0 +1,29 @@
+#+CATEGORY: day
+fetch("https://static.absurd.family/Videos/Movies/The%20Lord%20of%20the%20Rings%20The%20Fellowship%20of%20the%20Ring%20%282001%29/", {
+  "headers": {
+    "sec-ch-ua": "\"Chromium\";v=\"92\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"92\"",
+    "sec-ch-ua-mobile": "?0",
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://static.absurd.family/Videos/Movies/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+});
+
+
+
+fetch("https://static.absurd.family/Videos/Movies/The%20Lord%20of%20the%20Rings%20The%20Fellowship%20of%20the%20Ring%20%282001%29/", {
+  "headers": {
+    "sec-ch-ua": "\"Chromium\";v=\"92\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"92\"",
+    "sec-ch-ua-mobile": "?0",
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://static.absurd.family/Videos/Movies/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+});

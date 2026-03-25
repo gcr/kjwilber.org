@@ -1,0 +1,2753 @@
+#+CATEGORY: day
+
+* All my chrome tabs!
+
+https://rubyconf.org/program
+https://colab.research.google.com/drive/1seie8v1vFwk_rgKy1_N6YMXm7n7CqkXJ#scrollTo=Z9NJeoebUnWk
+https://docs.google.com/spreadsheets/d/1ltrxMploOb4i9GVsIbKg8p6-TRxc7SaXPvLw5mfhgks/edit#gid=357152206
+https://news.ycombinator.com/item?id=28672617
+https://medium.com/re-write/i-am-a-graduate-student-with-adhd-a63beae3063f
+https://www.npr.org/2021/08/18/1027159166/best-books-science-fiction-fantasy-past-decade#feelgood
+https://store.steampowered.com/app/1574250/SPOOKWARE/
+https://www.google.com/search?q=Amulet+by+Kazu+Kibuishi&rlz=1C5CHFA_enUS881US881&oq=Amulet+by+Kazu+Kibuishi&aqs=chrome..69i57.257j0j7&sourceid=chrome&ie=UTF-8
+https://blog.tecosaur.com/tmio/2021-07-31-citations.html
+https://news.ycombinator.com/item?id=28709520
+https://twitter.com/christinelove/status/1443384480484446208
+https://colab.research.google.com/drive/192wVlKrNcpyfmqG87Xr1oQVd9nKHcN39?usp=drive_fs#scrollTo=Z9NJeoebUnWk
+https://drive.google.com/drive/u/0/my-drive
+https://drive.google.com/drive/u/1/my-drive
+https://docs.google.com/forms/d/1jfXagum38okAse2bGGAsAYAe_4QDL15yynfByN7Fa9c/edit
+https://en.wikipedia.org/wiki/Harry_Allen_(trans_man)
+https://en.wikipedia.org/wiki/Horse_training
+https://en.wikipedia.org/wiki/Stevedore
+https://en.wikipedia.org/wiki/Cornerman
+https://www.reddit.com/r/adhdwomen/comments/q0s7f6/ive_definitely_experienced_something_like_this/
+https://www.syncfusion.com/succinctly-free-ebooks/pdf/building-a-pdf
+https://github.com/pikepdf/pikepdf/issues/259
+https://www.dharmawheel.net/viewtopic.php?t=20176
+https://nikkeiwest.com/bay-area-man-combines-wisdom-and-buddhist-thought-to-ease-hardships-for-people/
+https://parade.com/717349/parade/can-a-meeting-of-modern-science-and-ancient-wisdom-solve-problems-like-adhd-and-alzheimers/
+https://www.additudemag.com/how-to-meditate-for-adhd-symptoms/
+https://www.reddit.com/r/Buddhism/comments/1xntqy/adhd_and_meditation/
+https://www.reddit.com/r/Buddhism/comments/97kf43/is_meditating_on_adhd_meds_cheating/
+https://www.reddit.com/r/Buddhism/comments/bvo40i/i_have_adhd_and_practice_buddhism_everyone_tells/
+https://www.reddit.com/r/Buddhism/comments/2jyakl/adhd_and_mindfulness/
+https://mangadex.org/chapter/95c1abd8-673b-499a-b1b5-20bffdc551e6/5
+https://www.youtube.com/watch?v=9IKdWuSLz9w
+https://soundcloud.com/enm/sets/rhodz-dream-fiction-ep-1?ref=clipboard&p=a&c=0&si=a92d09ee465048c4872c78ba73eb8976&utm_campaign=social_sharing&utm_medium=text&utm_source=clipboard
+https://soundcloud.com/mdlmmusic/sets/maximal?ref=clipboard&p=a&c=0&si=6af861dc0f6244cabb86b7ce5fc37615&utm_campaign=social_sharing&utm_medium=text&utm_source=clipboard
+https://news.ycombinator.com/item?id=28979740
+https://docs.google.com/document/d/1-6n91d_6dDK_-TpT_QsQHidWYnEW2vXuHxU7xWmzAbk/edit#heading=h.fw7da3t8040q
+https://medium.com/@kuraine/what-software-do-you-use-ceacbf0f5665
+https://www.bloomberg.com/news/articles/2021-11-04/labor-shortage-ups-union-drivers-give-delivery-service-edge-over-fedex-fdx?utm_source=twitter&utm_medium=social&utm_campaign=socialflow-organic&utm_content=markets&cmpid%3D=socialflow-twitter-markets&sref=vuYGislZ
+https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/
+https://www.bookshare.org/search?keyword=Ancillary+Justice
+https://www.bookshare.org/browse/book/4084164?returnPath=L3NlYXJjaD9tb2R1bGVOYW1lPXB1YmxpYyZrZXl3b3JkPUFuY2lsbGFyeSBKdXN0aWNl
+https://www.reddit.com/r/proceduralgeneration/
+https://www.reddit.com/r/mapmaking/
+https://www.reddit.com/r/FantasyMaps/
+https://support.apple.com/en-us/HT208718
+https://www.lifewire.com/connect-airpods-to-macbook-air-5188769
+https://twitter.com/mattbc/status/1458092647118163975
+
+* Workona workspace export
+
+Workspaces:
+  0:
+    title: 💆🏻‍♀️ Massage
+    tabs:
+      0:
+        title: 21 Things You Can Do to Get the Best Massage You've Ever Had
+        url: https://theascent.pub/21-things-you-can-do-to-get-the-best-massage-youve-ever-had-429fa68eae60
+      1:
+        title: What is your role during a massage? – Mind-Body Continuum – Medium
+        url: https://medium.com/@susangorecki/what-is-your-role-during-a-massage-b2b31b5948b8
+      2:
+        title: What To Do Before Your Massage Appointment. – Mind-Body Continuum – Medium
+        url: https://medium.com/@susangorecki/what-to-do-before-your-massage-appointment-faa0f3289370
+      3:
+        title: Why you should never call a massage therapist ‘masseuse’
+        url: https://medium.com/zeel/why-you-should-never-call-a-massage-therapist-masseuse-46e0c6fd2229
+      4:
+        title: What you should (and shouldn’t!) do after a massage treatment.
+        url: https://medium.com/@susangorecki/what-you-should-and-shouldnt-do-after-a-massage-treatment-4deb8487b157
+      5:
+        title: how to give a massage - YouTube
+        url: https://www.youtube.com/results?search_query=how+to+give+a+massage&page=&utm_source=opensearch
+      6:
+        title: intro to massage - YouTube
+        url: https://www.youtube.com/results?search_query=intro+to+massage&page=&utm_source=opensearch
+      7:
+        title: massage intro - Google Search
+        url: https://www.google.com/search?q=massage+intro&rlz=1C5CHFA_enUS799US799&oq=massage+intro&aqs=chrome..69i57j69i60j0l4.1277j0j1&sourceid=chrome&ie=UTF-8
+      8:
+        title: The Complete Introduction to Massage Therapy | Fit Travels
+        url: http://travelwellmagazine.com/2014/11/complete-introduction-massage-therapy-beginners/
+      9:
+        title: hobbyist massage intro - Google Search
+        url: https://www.google.com/search?q=hobbyist+massage+intro&rlz=1C5CHFA_enUS799US799&oq=hobbyist+massage+intro&aqs=chrome..69i57j33.2323j0j1&sourceid=chrome&ie=UTF-8
+      10:
+        title: Discover A Hobby - Ultimate Directory for Finding and Learning New Hobbies!!
+        url: http://discoverahobby.com/learn/Massage
+      11:
+        title: Can I learn to massage without turning it into a profession? Just as an amateur's hobby? - Quora
+        url: https://www.quora.com/Can-I-learn-to-massage-without-turning-it-into-a-profession-Just-as-an-amateurs-hobby
+      12:
+        title: I am a rub and tug massage parlour hobbyist. AMA : AskRedditAfterDark
+        url: https://www.reddit.com/r/AskRedditAfterDark/comments/8qc4gy/i_am_a_rub_and_tug_massage_parlour_hobbyist_ama/
+      13:
+        title: Introduction to Massage | MassageTherapy.com
+        url: https://www.massagetherapy.com/introduction-massage
+      14:
+        title: chinese massage - Google Search
+        url: https://www.google.com/search?rlz=1C5CHFA_enUS799US799&ei=8kjnXKqWBIG1ggfk27DwDw&q=chinese+massage&oq=chinese+massage&gs_l=psy-ab.3..0l10.14013.15641..19142...0.0..0.189.1316.12j3......0....1..gws-wiz.......35i39j0i67j0i131j0i10i67.c0Jg0dpzQz4
+      15:
+        title: Qigong - Wikipedia
+        url: https://en.wikipedia.org/wiki/Qigong
+      16:
+        title: julia tudor - Google Search
+        url: https://www.google.com/search?q=julia+tudor&rlz=1C5CHFA_enUS799US799&oq=julia+tudor&aqs=chrome..69i57j35i39.1320j0j1&sourceid=chrome&ie=UTF-8
+      17:
+        title: (11) Connect Wellness - About
+        url: https://www.facebook.com/pg/Connect-Wellness-138706656209796/about/?ref=page_internal
+      18:
+        title: A critical evaluation of the trigger point phenomenon
+        url: https://bodyinmind.org/trigger-point-evaluation/?fbclid=IwAR3Ym2wsfId-O5ZeAattyNSZ-ZKI-bCNvQxdYcxe_WOCxY8SJ051NWbm8dE
+      19:
+        title: Travell, Simons and Cargo Cult Science – The Fibromyalgia Perplex
+        url: http://www.fmperplex.com/2013/02/14/travell-simons-and-cargo-cult-science/?fbclid=IwAR398v1rDHrwOhZSAUwmbIF2kY6SMiSwsBfP_AJA_cZuCsIFt7KQuVvIXnY
+      20:
+        title: Trigger Point Doubts: Do “Muscle Knots” Exist?
+        url: https://www.painscience.com/articles/trigger-point-doubts.php?fbclid=IwAR2r67BMw4ouDHynZHfR4U6md5BX5c5Rv1PF4fj3xShiCCHSAqY43k5H50k
+      21:
+        title: Links to resources - Dermo NEURO MODULATIng
+        url: http://www.dermoneuromodulation.com/links-to-resources.html
+      22:
+        title: Massage and Bodywork Magazine for the Visually Impaired
+        url: https://www.abmp.com/textonlymags/article.php?article=655
+  1:
+    title: CVPR paper stamping
+    tabs:
+      0:
+        title: WACV 2020 - Google Drive
+        url: https://drive.google.com/drive/u/0/folders/1oNmeaV7teWixe9lPuSMde_rrG5c7agul
+      1:
+        title: WACV2020 main conference paper stamping.ipynb - Colaboratory
+        url: https://colab.research.google.com/drive/1UxhmbetJe0KE_gemMe-8tMCRAiaxeZ6e#scrollTo=5JK49qgVXXaE
+      2:
+        title: WACV2020 workshop paper stamping.ipynb - Colaboratory
+        url: https://colab.research.google.com/drive/1bZPfVMO0cweGIPU176yMsBjOQFz4an58#scrollTo=5JK49qgVXXaE
+    resources:
+      0:
+        title: CVPR 2020
+        url: https://drive.google.com/drive/folders/1_-j2esG8JVp630Y1fq_ftXiRneH4HXWQ
+  2:
+    title: Dresden Codak
+    tabs:
+      0:
+        title: Dresden Codak (@dresdencodak) | Twitter
+        url: https://twitter.com/dresdencodak
+      1:
+        title: A. Diaz 💀🔥 on Twitter: "These are facts: the best Batgirl is Cassandra Cain, the best Spider-Man is Miguel O'Hara, the best Green Lantern is Kyle Raynor, and the best Thor is the Frog of Thunder… https://t.co/XEEIq9XWWe"
+        url: https://twitter.com/DoctorPizzaMD/status/1104920935897825280
+      2:
+        title: DS #89 Sneak Peep Part Deep | Aaron Diaz on Patreon
+        url: https://www.patreon.com/posts/ds-89-sneak-peep-24986801?utm_medium=social&utm_source=twitter&utm_campaign=postshare
+      3:
+        title: Aaron Diaz is creating Comics | Patreon
+        url: https://www.patreon.com/dresdencodak
+      4:
+        title: Dresden Codak on Twitter: "Well this is just the best… "
+        url: https://twitter.com/dresdencodak/status/1096177139009781761
+      5:
+        title: Emmy Cicierega (@EmmyCic) | Twitter
+        url: https://twitter.com/EmmyCic
+      6:
+        title: Emmy Cicierega
+        url: https://emmyc.tumblr.com/
+      7:
+        title: Danielle Corsetto TCAF 289 (@dcorsetto) | Twitter
+        url: https://twitter.com/dcorsetto
+      8:
+        title: A. Diaz 💀🔥 on Twitter: "If you hated Love, Death & Robots, I suggest Robot Carnival (1987), a anthology with wonderful stories told by some of the greatest animators of all time.… https://t.co/EeLa750dbb"
+        url: https://twitter.com/DoctorPizzaMD/status/1111717623543128064
+      9:
+        title: Dresden Codak on Twitter: "An excellent review of Alita that touches on a lot of the gender themes I found so striking in the film https://t.co/UQSRuS9sf1"
+        url: https://twitter.com/dresdencodak/status/1109226799269965824
+      10:
+        title: Dresden Codak on Twitter: "(My pronouns are he/him, they/them)"
+        url: https://twitter.com/dresdencodak/status/1107737037942095872
+      11:
+        title: Dresden Codak on Twitter: "Hi folks, because I think representation like this is important, here's me coming out as genderqueer/non-binary. Of course if I had ever read my own comic, I think I would have noticed a little sooner.… https://t.co/lozutHDvOm"
+        url: https://twitter.com/dresdencodak/status/1107723619478560774
+      12:
+        title: A Thinking Ape’s Critique of Trans-Simianism (repost) – Dresden Codak
+        url: http://dresdencodak.com/2009/05/15/a-thinking-apes-critique-of-trans-simianism-repost/
+      13:
+        title: Lantern Season – Dresden Codak
+        url: http://dresdencodak.com/2009/12/16/lantern-season/
+      14:
+        title: Dark Science #01 – The Collected Works of Shakespeare: the Movie – Dresden Codak
+        url: http://dresdencodak.com/2010/06/03/dark-science-01/
+      15:
+        title: Hob #1 – Pom – Dresden Codak
+        url: http://dresdencodak.com/2007/02/08/pom/
+      16:
+        title: site:medium.com dresden codak - Google Search
+        url: https://www.google.com/search?q=site%3Amedium.com+dresden+codak&rlz=1C5CHFA_enUS842US843&oq=site%3Amedium.com+dresden+codak&aqs=chrome..69i57j69i58.16504j0j1&sourceid=chrome&ie=UTF-8
+  3:
+    title: 💪 Fitness
+    tabs:
+      0:
+        title: Get Your First Pull-up or Chin-up! 30-Day Pull up Progression | Nerd Fitness
+        url: https://www.nerdfitness.com/blog/do-a-pull-up/
+      1:
+        title: Why Can't I Lose Weight? (What No One Else Will Tell You) | Nerd Fitness
+        url: https://www.nerdfitness.com/blog/why-cant-i-lose-weight-heres-the-truth/
+      2:
+        title: Training Considerations for the Trans Athlete
+        url: https://www.gains.af/blog/trans-athletes
+      3:
+        title: [Progression] - 3 months on the Recommended Routine : bodyweightfitness
+        url: https://www.reddit.com/r/bodyweightfitness/comments/i1f8xg/progression_3_months_on_the_recommended_routine/
+      4:
+        title: Anyone else hit information overload? : bodyweightfitness
+        url: https://www.reddit.com/r/bodyweightfitness/comments/i1gw44/anyone_else_hit_information_overload/
+      5:
+        title: Unexpected Consequence of Healthier Eating : loseit
+        url: https://www.reddit.com/r/loseit/comments/i2bnux/unexpected_consequence_of_healthier_eating/
+      6:
+        title: I eat until I’m physically ill because I’m lonely and don’t know how else to drown out the loneliness : loseit
+        url: https://www.reddit.com/r/loseit/comments/ijg3q1/i_eat_until_im_physically_ill_because_im_lonely/
+      7:
+        title: Better to go slow than to go backwards : loseit
+        url: https://www.reddit.com/r/loseit/comments/ijw9eo/better_to_go_slow_than_to_go_backwards/
+      8:
+        title: adult adhd weight loss - Google Search
+        url: https://www.google.com/search?q=adult+adhd+weight+loss&rlz=1C5CHFA_enUS881US881&oq=adult+adhd+weight+loss&aqs=chrome..69i57.5711j0j9&sourceid=chrome&ie=UTF-8
+      9:
+        title: ADHD and Overeating: How to Stop Binge Eating When Bored
+        url: https://www.additudemag.com/adhd-and-obesity-how-to-end-binge-eating/
+      10:
+        title: Are You What You Eat? The Best ADHD Diet | Dana Rayburn ADHD coach
+        url: https://danarayburn.com/are-you-what-you-eat-the-best-add-adhd-diet/
+      11:
+        title: index - loseit
+        url: https://www.reddit.com/r/loseit/wiki/index#wiki_quick_start_guide
+      12:
+        title: Easy Meals | Nerd Fitness
+        url: https://www.nerdfitness.com/category/easy-meals/
+      13:
+        title: 10 Minutes of Prep: 10 Amazing Meals | Nerd Fitness
+        url: https://www.nerdfitness.com/blog/10-meals/
+    resources:
+      0:
+        title: Black Iron Beast - Starting Strength
+        url: https://blackironbeast.com/starting-strength
+      1:
+        title: S&S for the tactical athlete | StrongFirst Forum
+        url: https://www.strongfirst.com/community/threads/s-s-for-the-tactical-athlete.9194/
+      2:
+        title: (12) Autumn Ivy on Twitter: "Updated fitness thread of old questions for new followers looking for basic advice! ^0^ please remember I am not a professional PT or Nutritionist.. and can only advise what has worked for me! Be patient, be consistent and be SAFE! You've got this! https://t.co/UF8Y2XwI35" / Twitter
+        url: https://twitter.com/xXAutumnIvyXx/status/1124823542510391300
+      3:
+        title: Ultimate Protein Shake Guide: How to Use Protein Powder 101 | Nerd Fitness
+        url: https://www.nerdfitness.com/blog/protein-shakes-for-newbies-what-to-buy-when-to-drink/
+      4:
+        title: How to Lose Fat and Gain Muscle (At the Very Same Time) | Nerd Fitness
+        url: https://www.nerdfitness.com/blog/lose-weight-and-build-muscle-or-do-one-then-the-other/?Id=2997772&utm_source=rebellion&utm_medium=email&utm_term=guides_to_build_muscle&utm_content=button&utm_campaign=blog_blast&inf_contact_key=159dbc39334e5fd6d14ecd8e945a3ce72294a318289bad97137125bd69e8bd38
+      5:
+        title: Beginner/Really Need Some Direction : tacticalbarbell
+        url: https://www.reddit.com/r/tacticalbarbell/comments/4gvann/beginnerreally_need_some_direction/
+      6:
+        title: bouldering grip strength - Google Search
+        url: https://www.google.com/search?q=bouldering+grip+strength&rlz=1C5CHFA_enUS842US843&oq=bouldering+grip+strength&aqs=chrome..69i57j0l4.4909j0j0&sourceid=chrome&ie=UTF-8
+      7:
+        title: The ultimate guide to Starting Strength
+        url: https://www.athlegan.com/starting-strength
+      8:
+        title: Ultimate Push-up Guide: Do A Push Up With Proper Form | Nerd Fitness
+        url: https://www.nerdfitness.com/blog/proper-push-up/?&Id=2997772&utm_source=rebellion&utm_medium=email&utm_term=pull-up&utm_content=text&utm_campaign=blog_blast&inf_contact_key=2344c645ef57c90bc4b145314fd5826176f2a36d5c9f30736335e3c4f3607839
+      9:
+        title: Simple and sinister : tacticalbarbell
+        url: https://www.reddit.com/r/tacticalbarbell/comments/4eh0ke/simple_and_sinister/
+      10:
+        title: The Best Exercises For Rock Climbing - The Adventure Junkies
+        url: https://www.theadventurejunkies.com/best-exercises-for-rock-climbing/
+      11:
+        title: 3 Flaws in The Couch to 5K Running Plan (And a Better Plan)
+        url: https://www.healthynomics.com/couch-to-5k-running-plan-alternative/
+      12:
+        title: How to Choose the Best Rock Climbing Shoes | REI Expert Advice
+        url: https://www.rei.com/learn/expert-advice/rock-shoes.html
+      13:
+        title: Intro to Climbing (ASL Available) — The Cliffs at LIC
+        url: https://lic.thecliffsclimbing.com/classes/intro-to-climbing1
+      14:
+        title: I'm so slow and can't get faster : C25K
+        url: https://www.reddit.com/r/C25K/comments/3lfjob/im_so_slow_and_cant_get_faster/
+      15:
+        title: Gym Climbing Basics: Indoor Climbing for Beginners | REI Expert Advice
+        url: https://www.rei.com/learn/expert-advice/indoor-climbing.html
+      16:
+        title: I feel so slow. : C25K
+        url: https://www.reddit.com/r/C25K/comments/3c0cwv/i_feel_so_slow/
+      17:
+        title: Fitness for Women and Non-binary Folx!
+        url: https://www.reddit.com/r/xxfitness/
+      18:
+        title: CES: Can a Gyroscope Ball Really Cure Wrist Pain? (Video) - Slashdot
+        url: https://science.slashdot.org/story/13/01/15/1824231/ces-can-a-gyroscope-ball-really-cure-wrist-pain-video
+      19:
+        title: C25K - Running too slow? : running
+        url: https://www.reddit.com/r/running/comments/4nxa3y/c25k_running_too_slow/
+      20:
+        title: Amazon.com: Yusam Auto-Start Wrist Trainer Wrist Ball Exerciser Wrist Arm Strengthener Workout Toy Spinner Gyroscope Ball: Sports & Outdoors
+        url: https://www.amazon.com/Yusam-Auto-Start-Exerciser-Powerball-Strengthener/dp/B077Z7N6FP
+      21:
+        title: Get Your First Pull-up or Chin-up! 30-Day Pull up Progression | Nerd Fitness
+        url: https://www.nerdfitness.com/blog/do-a-pull-up/
+      22:
+        title: (12) Autumn Ivy on Twitter: "These bathroom selfies are getting ridiculous. But here you go. https://t.co/UeddIlY60c" / Twitter
+        url: https://twitter.com/xXAutumnIvyXx/status/1123311264501882880
+      23:
+        title: Intro to Climbing | Get Started Climbing at Brooklyn Boulders
+        url: https://brooklynboulders.com/intro-to-climbing/
+      24:
+        title: Get Your First Pull-up or Chin-up! 30-Day Pull up Progression | Nerd Fitness
+        url: https://www.nerdfitness.com/blog/do-a-pull-up/?&Id=2997772&utm_source=rebellion&utm_medium=email&utm_term=pull-up&utm_content=button&utm_campaign=blog_blast&inf_contact_key=7f3c47f3b590cfbecb87a2458e1090e0459d0255b16dfcaa9646d76d6fbd43e1
+      25:
+        title: starting a gyro ball without the ripcord - Google Search
+        url: https://www.google.com/search?q=starting+a+gyro+ball+without+the+ripcord&rlz=1C5CHFA_enUS842US843&oq=starting+a+gyro+ball+without+the+ripcord&aqs=chrome..69i57j69i61j69i60l4.4662j0j0&sourceid=chrome&ie=UTF-8
+      26:
+        title: Base Training: A Guide to Your Foundation to Running : running
+        url: https://www.reddit.com/r/running/comments/3bckeh/base_training_a_guide_to_your_foundation_to/
+      27:
+        title: As a beginner, how do you integrate strength training? : C25K
+        url: https://www.reddit.com/r/C25K/comments/3b8lru/as_a_beginner_how_do_you_integrate_strength/
+      28:
+        title: Bodyweight Strength Training AND C25K? - Rebel Army Base Camp - Nerd Fitness Rebellion
+        url: https://rebellion.nerdfitness.com/index.php?/topic/31900-bodyweight-strength-training-and-c25k/
+      29:
+        title: how to get good at climbing - Google Search
+        url: https://www.google.com/search?q=how+to+get+good+at+climbing&rlz=1C5CHFA_enUS842US843&oq=how+to+get+good+at+climbing&aqs=chrome..69i57j0l5.4219j0j0&sourceid=chrome&ie=UTF-8
+      30:
+        title: How slow is too slow? : C25K
+        url: https://www.reddit.com/r/C25K/comments/7avsk7/how_slow_is_too_slow/
+      31:
+        title: How to Start Eating Healthy (Without Giving Up Food You Love) | Nerd Fitness
+        url: https://www.nerdfitness.com/blog/healthy-eating/?&Id=2997772&utm_source=rebellion&utm_medium=email&utm_term=pull-up&utm_content=text&utm_campaign=blog_blast&inf_contact_key=7f3c47f3b590cfbecb87a2458e1090e0b51161ba063939a3213f94f46454e7e9
+      32:
+        title: Powerball® | Store - Autostart Classic
+        url: https://powerballs.com/shop/powerball-280-autostart-classic
+      33:
+        title: Getting started as an overweight beginner - TacticalBarbell.com
+        url: http://tacticalbarbell.com/forum/viewtopic.php?t=1033
+      34:
+        title: How to Finger Start your Powerball | Powerball
+        url: https://powerballs.com/finger-starting-powerball/
+      35:
+        title: Gyro Ball Exercises | Livestrong.com
+        url: https://www.livestrong.com/article/187332-gyro-ball-exercises/
+      36:
+        title: Intro to Climbing Movement with FrictionLabs Pro Dan Mirsky
+        url: https://frictionlabs.com/blog/intro-to-climbing-movement-with-frictionlabs-pro-dan-mirsky
+      37:
+        title: Novice Lifters, Start Here!
+        url: https://www.bodybuilding.com/fun/novice-lifters-start-here.html
+      38:
+        title: How to Do an Inverted Row (Bodyweight Rows): Ultimate Guide | Nerd Fitness
+        url: https://www.nerdfitness.com/blog/inverted-row-are-you-missing-out-on-this-great-exercise/
+      39:
+        title: How to Build Muscle as a Woman (Workouts and Diet) | Nerd Fitness
+        url: https://www.nerdfitness.com/blog/how-to-build-muscle-as-a-woman-the-ultimate-guide-for-gaining-weight-the-right-way/?Id=2997772&utm_source=rebellion&utm_medium=email&utm_term=guides_to_build_muscle&utm_content=button&utm_campaign=blog_blast&inf_contact_key=159dbc39334e5fd6d14ecd8e945a3ce7850050e7915f41da51043c293c2d487f
+    notes:
+      0:
+        title:
+  4:
+    title: WACV2020 publication chair shenanigans
+    tabs:
+      0:
+        title: IEEE eCopyright Registration
+        url: https://conferences.ieee.org/ecfregform/ecfreport/NTAzMjFtY2U
+      1:
+        title: Conference Publication Electronic Upload
+        url: https://mft.ieee.org/conferences_events/ConfPubFileUploadUI/
+      2:
+        title: https://ecopyright.ieee.org/copyrights/login
+        url: https://ecopyright.ieee.org/copyrights/login
+      3:
+        title: CameraReadyPapers - Google Sheets
+        url: https://docs.google.com/spreadsheets/d/18tG_g30hUI_DVWAt4KgFz2ino8uaV7gokxYZyiHpy1I/edit#gid=1703731799
+      4:
+        title: IEEE eCopyright Registration
+        url: https://conferences.ieee.org/ecfregform/ecfreport/NTAzMjFtY2U
+      5:
+        title: WACV2020 workshop paper stamping.ipynb - Colaboratory
+        url: https://colab.research.google.com/drive/1bZPfVMO0cweGIPU176yMsBjOQFz4an58#scrollTo=3GvdrniOK4xL
+      6:
+        title: IEEE - IEEE Publishing Technology Resources
+        url: https://www.ieee.org/publications/services/services-resources.html
+      7:
+        title: Conference Publication Electronic Upload
+        url: https://mft.ieee.org/conferences_events/ConfPubFileUploadUI/
+      8:
+        title: 50321 front matter - Google Docs
+        url: https://docs.google.com/document/d/16i5KgHwW3_NZqBindiq82gyXK8KGzNkqvhgs6tHzA70/edit#
+    resources:
+      0:
+        title: WACV 2020 Program
+        url: https://docs.google.com/spreadsheets/d/1Mi5rWhMjArHV0Gjlyq0v-VK6UmGsit1_4S2w7U2Mrds/edit#gid=374485322
+      1:
+        title: WACV 2020 Workshop camera-ready paper collection (Responses)
+        url: https://docs.google.com/spreadsheets/d/1Y1AKCVMceszNqc42-SVd7VLl7Zr6DGbOW56xMmODwHI/edit#gid=1583477290
+      2:
+        title: CameraReadyPapers
+        url: https://docs.google.com/spreadsheets/d/18tG_g30hUI_DVWAt4KgFz2ino8uaV7gokxYZyiHpy1I/edit#gid=1703731799
+      3:
+        title: WACV 2020 Workshop camera-ready paper collection
+        url: https://docs.google.com/forms/d/1-JhSiC8d8IjWtzRxFxgMdaZnUNgab5m5L1tP6-O1myk
+      4:
+        title: Workshop room assignments
+        description:
+        url: https://docs.google.com/spreadsheets/d/17B9-LA8SRk6g4tZtB_9oisj1yi-fjF7ZYmFsvdq1t5Y/edit#gid=277039548
+      5:
+        title: WACV 2020 final event schedule set with av
+        url: https://docs.google.com/spreadsheets/d/1YgJfraaxZzC46YODQCsHswW_DCgcuxwY0zO36eDo8Mg/edit?usp=drive_web&ouid=101821151204656669127
+      6:
+        title: WACV Program Proposals
+        url: http://wacv20.wacv.net/wp-content/uploads/2020/01/WACV_2020_Program_At_A_Glance.pdf
+  5:
+    title: Pay bills
+    resources:
+      0:
+        title: https://www.coned.com/en
+        url: https://www.coned.com/en
+      1:
+        title: https://www.spectrum.com/
+        url: https://www.spectrum.com/
+      2:
+        title: https://www.digitalocean.com/
+        url: https://www.digitalocean.com/
+      3:
+        title: https://www.tarsnap.com/
+        url: https://www.tarsnap.com/
+      4:
+        title: Login | Property Matrix
+        url: https://www.propertymatrix.com/sign_in
+      5:
+        title: https://www.usbank.com/index.html
+        url: https://www.usbank.com/index.html
+      6:
+        title: https://www.chase.com/
+        url: https://www.chase.com/
+      7:
+        title: Budget
+        url: https://docs.google.com/spreadsheets/d/1mwXGqHcX_ov_pi10p3p0tqdbN8bgey-KRtwBaT3yyqY/edit#gid=0
+    notes:
+      0:
+        title:
+  6:
+    title: Cosplay
+    tabs:
+      0:
+        title: How to get into cosplay - Google Search
+        url: https://www.google.com/search?q=How+to+get+into+cosplay&rlz=1C5CHFA_enUS842US843&oq=How+to+get+into+cosplay&aqs=chrome..69i57j0l5.2191j0j1&sourceid=chrome&ie=UTF-8
+      1:
+        title: Do's and Don'ts of Beginner Cosplay - Black Nerd Problems
+        url: https://blacknerdproblems.com/dos-and-donts-of-beginner-cosplay/
+      2:
+        title: Cosplay 1.01 - A Beginner's Introduction To Cosplay
+        url: https://observationdeck.kinja.com/cosplay-1-01-a-beginners-introduction-to-cosplay-1632337814
+      3:
+        title: Make your first cosplay steps! - KamuiCosplay
+        url: https://www.kamuicosplay.com/2012/10/16/make-your-first-cosplay-steps/
+    notes:
+      0:
+        title:
+  7:
+    title: 🎏 Glitch
+    tabs:
+      0:
+        title: Glitch Employee Handbook
+        url: https://handbook.glitch.me/#welcome
+      1:
+        title: It’s possible to build a big, important tech company that is ethical, too
+        url: https://medium.com/glitch/its-possible-to-build-a-big-important-tech-company-that-is-ethical-too-241bda7301f
+      2:
+        title: Submission systems
+        url: https://www.elsevier.com/editors/submission-systems#ees-for-authors
+      3:
+        title: How do I add a custom domain or a CNAME or A record for my custom domain?
+        url: https://glitch.com/help/custom-domain/
+      4:
+        title: What technical restrictions are in place?
+        url: http://help-center.glitch.me/help/restrictions/
+      5:
+        title: What to do with a project once you finish? - General - The freeCodeCamp Forum
+        url: https://www.freecodecamp.org/forum/t/what-to-do-with-a-project-once-you-finish/269091
+      6:
+        title: glitch to github - Google Search
+        url: https://www.google.com/search?q=glitch+to+github&rlz=1C5CHFA_enUS842US843&oq=glitch+to+github&aqs=chrome..69i57j0l2j35i39l2j0.1534j0j4&sourceid=chrome&ie=UTF-8
+      7:
+        title: New Experiment: Glitch Office Hours! - Announcements - Glitch Support
+        url: https://support.glitch.com/t/new-experiment-glitch-office-hours/6750
+      8:
+        title: glitch git - Google Search
+        url: https://www.google.com/search?q=glitch+git&rlz=1C5CHFA_enUS842US843&oq=glitch+git&aqs=chrome..69i57j0j69i60j0l3.1273j0j1&sourceid=chrome&ie=UTF-8
+      9:
+        title: Import Any of Your Code to Glitch! - Glitch - Medium
+        url: https://medium.com/glitch/import-code-from-anywhere-83fb60ea4875
+      10:
+        title: Made by Melody
+        url: https://melody.dev/
+  8:
+    title: Charmed class
+    tabs:
+      0:
+        title: Uncon Schedule - Google Sheets
+        url: https://docs.google.com/spreadsheets/d/1HSuTucE2UUYjIi2rnmQH52yZyVUezw7AClQkwAb11mU/edit#gid=0
+      1:
+        title: Limbic system - Wikipedia
+        url: https://en.wikipedia.org/wiki/Limbic_system
+      2:
+        title: Communities of Care | Dating Tips for the Feminist Man
+        url: https://norasamaran.com/category/communities-of-care/
+      3:
+        title: couple-soothing1.jpg (700×525)
+        url: https://datingtipsforthefeministman.files.wordpress.com/2016/02/couple-soothing1.jpg
+      4:
+        title: puuung (@puuung1) • Instagram photos and videos
+        url: https://www.instagram.com/puuung1/?hl=en
+  9:
+    title: 🕯 Candlemaking!
+    tabs:
+      0:
+        title: HOW TO Make Awesome Candles for a Few Dollars - YouTube
+        url: https://www.youtube.com/watch?v=Tgkxo6GginA
+      1:
+        title: How to Make Homemade Candles: 14 Steps (with Pictures) - wikiHow
+        url: https://m.wikihow.com/Make-Homemade-Candles
+      2:
+        title: Buy Candle Making Supplies Online - Wax, Wicks, Fragrances, Scents, Equipment | Candlewic
+        url: https://www.candlewic.com/
+      3:
+        title: Candle Equipment | Candlewic
+        url: https://www.candlewic.com/candle-making/candle-equipment/candle-equipment/page.aspx?id=1386
+      4:
+        title: candle shaping wax - Google Search
+        url: https://www.google.com/search?q=candle+shaping+wax&rlz=1C5CHFA_enUS842US843&oq=candle+shaping+wax&aqs=chrome..69i57j0.2091j0j1&sourceid=chrome&ie=UTF-8
+      5:
+        title: How to Make Cool DIY Candle Molds! - YouTube
+        url: https://www.youtube.com/watch?v=LgHTBTvySug
+      6:
+        title: CandleScience - Candle Making Supplies | Soy Wax, Candle Fragrance Oils, Candle Jars and more! - CandleScience
+        url: https://www.candlescience.com/learning/wax-guide
+      7:
+        title: (13) Facebook
+        url: https://www.facebook.com/
+      8:
+        title: How can I navigate Facebook with keyboard shortcuts? | Facebook Help Center
+        url: https://www.facebook.com/help/156151771119453
+  10:
+    title: 🧗🏼‍♀️ OC work
+    tabs:
+      0:
+        title: everyone@union.groups.io | View Event
+        url: https://union.groups.io/g/everyone/viewevent?eventid=918306&calstart=2020-09-24
+      1:
+        title: Dropbox
+        url: https://www.dropbox.com/scl/fi/4qqmziyxs8h327nxafuqp/2020-09-26-National-Sync-Call.paper?dl=0&rlkey=uwhau8tn68jwtf6a6ckkd6s82
+      2:
+        title: OC contacts (spicy): All People - Airtable
+        url: https://airtable.com/tbl33urV2jXohTZU0/viwJA2cyf44PYJXtU/rec8y7UNgrJs31Ao8?blocks=hide
+      3:
+        title: Dropbox
+        url: https://www.dropbox.com/scl/fi/yymor99tzo5okuxvkfssh/-Meeting-minutes.paper?dl=0&rlkey=nitparg7pgwkj7kaxozm3h2y1
+      4:
+        title: Campaign Management: People - Airtable
+        url: https://airtable.com/tbl7WjbQFTLiiOcNX/viwNtRWtSESJZEamR?blocks=hide
+      5:
+        title: Antiracism Outreach Primer
+        url: https://www.dropbox.com/scl/fi/occjyjeyvsfv5zgof9myb/Antiracism-Outreach-Primer.paper?dl=0&rlkey=08u3bpff7qdtwu9cqdnwqowvd
+      6:
+        title: Googlers Against Racism Outreach Asks
+        url: https://www.dropbox.com/scl/fi/swha2yieuenz61nn1uwdm/Googlers-Against-Racism-Outreach-Asks.paper?dl=0&rlkey=ljptb8v26zc8v5v2bdt5ef7ta
+      7:
+        title: Antiracism 1:1s Flowchart
+        url: https://www.dropbox.com/scl/fi/n1qk02gy01inx6vnzl6ai/Antiracism-1_1s-Flowchart.paper?dl=0&rlkey=b9iyy9xb6arzw8isbefkbozdg
+      8:
+        title: googlers-against-racism@aoc.groups.io | Local Action on #DefundThePolice in Cambridge, MA
+        url: https://aoc.groups.io/g/googlers-against-racism/topic/74838840#17
+      9:
+        title: NYC GWOC - Dropbox
+        url: https://www.dropbox.com/home/NYC%20GWOC
+      10:
+        title: Sci-Hub | A text analytics framework for understanding the relationships among host self-description, trust perception and purchase behavior on Airbnb. Decision Support Systems, 113288 | 10.1016/j.dss.2020.113288
+        url: https://sci-hub.tw/10.1016/j.dss.2020.113288#
+      11:
+        title: No Shortcuts: Organizing for Power in the New Gilded Age - Kindle edition by McAlevey, Jane F.. Politics & Social Sciences Kindle eBooks @ Amazon.com.
+        url: https://www.amazon.com/No-Shortcuts-Organizing-Power-Gilded-ebook-dp-B01LT4MW4W/dp/B01LT4MW4W/ref=mt_kindle?_encoding=UTF8&me=&qid=
+      12:
+        title: Investigations at Google
+        url: https://www.dropbox.com/scl/fi/c8ae36083hlrranmcnear/Investigations-at-Google.paper?dl=0&rlkey=d91fuad6qn5zpco2fg8mkrzl4
+      13:
+        title: 2020-07-06 Sync Agenda
+        url: https://www.dropbox.com/scl/fi/28fuzgli87wvnezor6h1e/2020-07-06-Sync-Agenda.paper?dl=0&rlkey=kczejcypz9w68emaaa021rwd9
+      14:
+        title: Shared - Dropbox
+        url: https://www.dropbox.com/share/recents
+      15:
+        title: National Sync Call - Dropbox
+        url: https://www.dropbox.com/home/Cross-Office%20Call/National%20Sync%20Call
+      16:
+        title: 2020 National Sync Call Template
+        url: https://www.dropbox.com/scl/fi/fibjrsgaudw6s4glocodm/2020-National-Sync-Call-Template.papert?dl=0&rlkey=teyc3nt3vc7foz07oeouf0zs5
+      17:
+        title: 2020-07-11 National Sync Call
+        url: https://www.dropbox.com/scl/fi/1clkg3o06mnndyxo1fe3n/2020-07-11-National-Sync-Call.paper?dl=0&rlkey=ms45urd8m2n0j45opr1slezvs
+      18:
+        title: GooAntiRa Outreach
+        url: https://script.google.com/a/kjwilber.org/d/16QWhkbpSlaA0dPgCpDWdcx6I8l1vrlHv3ruOouyj64ym_WrUOU16uuL_/edit
+      19:
+        title: Home – Dropbox Paper
+        url: https://paper.dropbox.com/
+      20:
+        title: Current union structure
+        url: https://www.dropbox.com/scl/fi/ip4vj050fwjy1bw4i77wm/Current-union-structure.paper?dl=0&rlkey=3tr153d0jxboipqclp0mgp3ta
+      21:
+        title: Dropbox
+        url: https://www.dropbox.com/scl/fi/4fkuk51ccxpwd5udutip0/Bylaws-Draft.paper?dl=0&rlkey=yfto4grazvaqiqi3ifj0ehkra
+      22:
+        title: Antiracism Outreach Primer
+        url: https://www.dropbox.com/scl/fi/occjyjeyvsfv5zgof9myb/Antiracism-Outreach-Primer.paper?dl=0&rlkey=08u3bpff7qdtwu9cqdnwqowvd
+      23:
+        title: Dropbox
+        url: https://www.dropbox.com/h
+      24:
+        title: 2020-10-10 National Sync Call
+        url: https://www.dropbox.com/scl/fi/9ldoq76dmi812tnaw2pjo/2020-10-10-National-Sync-Call.paper?dl=0&rlkey=ycnkwdtjs6se7fogz7l0ne31m
+      25:
+        title: Antiracism 1:1s Flowchart
+        url: https://www.dropbox.com/scl/fi/n1qk02gy01inx6vnzl6ai/Antiracism-1_1s-Flowchart.paper?dl=0&rlkey=b9iyy9xb6arzw8isbefkbozdg
+      26:
+        title: 1:1s Primer
+        url: https://www.dropbox.com/scl/fi/got19dlyh0o5oqct3gxms/1_1s-Primer.paper?dl=0&rlkey=fnbx63qxio81s58gd57k1vo9f
+    resources:
+      0:
+        title: OC Dropbox
+        description:
+        url: https://www.dropbox.com/home/NYC%20GWOC
+      1:
+        title: OC Correspondence
+        description:
+        url: https://mail.google.com/mail/u/0/#label/dumpster-flume
+      2:
+        title: OC contacts (spicy)
+        url: https://airtable.com/tbl33urV2jXohTZU0/viwEVld5XbUvt5e26?blocks=
+      3:
+        title: Meeting minutes
+        url: https://www.dropbox.com/scl/fi/yymor99tzo5okuxvkfssh/-Meeting-minutes.paper?dl=0&rlkey=sazfj824b0ao9wwb1vxwdd0lq
+      4:
+        title: 1:1s Primer
+        url: https://www.dropbox.com/scl/fi/got19dlyh0o5oqct3gxms/1_1s-Primer.paper?dl=0&noDesktopRedirect=1&open_id=server-b6e413b0-3266-4d6a-9fd0-9656a18fc115&parent_frame_referrer=&rlkey=fnbx63qxio81s58gd57k1vo9f
+    notes:
+      0:
+        title:
+  11:
+    title: 📖 Reading
+    tabs:
+      0:
+        title: Pocket - My List
+        url: https://app.getpocket.com/
+      1:
+        title: Mobilize! Dynamic Joint Mobility Drills
+        url: https://www.painscience.com/articles/mobilizing.php
+      2:
+        title: The rise of American authoritarianism - Vox
+        url: https://www.vox.com/2016/3/1/11127424/trump-authoritarianism
+      3:
+        title: The Dialectical Behavior Therapy Skills Workbook
+        url: https://adoeci.com/sites/default/files/grupos/dbt-skills-workbook.pdf
+      4:
+        title: where does entropy in information theory come from? - Google Search
+        url: https://www.google.com/search?q=where+does+entropy+in+information+theory+come+from%3F&rlz=1C5CHFA_enUS842US843&oq=where+does+entropy+in+information+theory+come+from%3F&aqs=chrome..69i57.5393j0j1&sourceid=chrome&ie=UTF-8
+      5:
+        title: why is information gain a good loss to use when modeling probability distributions? - Google Search
+        url: https://www.google.com/search?q=why+is+information+gain+a+good+loss+to+use+when+modeling+probability+distributions%3F&rlz=1C5CHFA_enUS842US843&oq=why+is+information+gain+a+good+loss+to+use+when+modeling+probability+distributions%3F&aqs=chrome..69i57.12472j0j1&sourceid=chrome&ie=UTF-8
+      6:
+        title: history of the gaussian distribution - Google Search
+        url: https://www.google.com/search?q=history+of+the+gaussian+distribution&rlz=1C5CHFA_enUS842US843&oq=history+of+the+gaussian&aqs=chrome.0.0j69i57j0l4.2383j0j1&sourceid=chrome&ie=UTF-8
+      7:
+        title: qsp_chapter10-plank.pdf
+        url: https://edisciplinas.usp.br/pluginfile.php/48089/course/section/16461/qsp_chapter10-plank.pdf
+      8:
+        title: A Discussion of 'Adversarial Examples Are Not Bugs, They Are Features'
+        url: https://distill.pub/2019/advex-bugs-discussion/
+      9:
+        title: A Visual Exploration of Gaussian Processes
+        url: https://distill.pub/2019/visual-exploration-gaussian-processes/
+      10:
+        title: Visualizing memorization in RNNs
+        url: https://distill.pub/2019/memorization-in-rnns/
+      11:
+        title: Activation Atlas
+        url: https://distill.pub/2019/activation-atlas/
+      12:
+        title: Amazon.com: The People's Republic of the Disappeared: Stories from inside China's system for enforced disappearances eBook: Michael Caster, Teng Biao: Kindle Store
+        url: https://www.amazon.com/Peoples-Republic-Disappeared-enforced-disappearances-ebook/dp/B0779CPPQZ
+      13:
+        title: reverse dependency injection - Google Search
+        url: https://www.google.com/search?q=reverse+dependency+injection&rlz=1C5CHFA_enUS842US843&oq=reverse+dependency+injection&aqs=chrome.0.0j69i57.3674j0j0&sourceid=chrome&ie=UTF-8
+      14:
+        title: Dependency Injection Is NOT The Same As The Dependency Inversion Principle · Los Techies
+        url: https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/
+      15:
+        title: The Capsule Wardrobe: How to Reduce Your Closet to 37 Pieces | Who What Wear
+        url: https://www.whowhatwear.com/how-to-capsule-wardrobe
+      16:
+        title: Design docs - A design doc - Malte Ubl - Medium
+        url: https://medium.com/dev-channel/design-docs-a-design-doc-a152f4484c6b
+      17:
+        title: (PDF) Anti-intelligence: A Marxist critique of the smart city | Kevin Rogan - Academia.edu
+        url: https://www.academia.edu/39125907/Anti-intelligence_A_Marxist_critique_of_the_smart_city
+    notes:
+      0:
+        title:
+  12:
+    title: protest OTG support
+    tabs:
+      0:
+        title: scanmap
+        url: https://scanmap.mobi/NY/
+      1:
+        title: 🐷💩📻
+        url: https://nypd.radio12.org/
+    notes:
+      0:
+        title:
+  13:
+    title: 🌸 weekend shitposting
+    color: green
+    tabs:
+      0:
+        title: Why Pearl Is Better Off Without Rose
+        url: http://archive.is/vGXwP
+      1:
+        title: The Silicon Valley Economy Is Here. And It’s a Nightmare. | The New Republic
+        url: https://newrepublic.com/article/156202/silicon-valley-economy-here-its-nightmare
+      2:
+        title: 'The Sonata' Review: A Simple Yet Haunting Tale of Family, Fate, and Pain
+        url: https://filmschoolrejects.com/the-sonata-review/?utm_term=Autofeed&utm_medium=social&utm_source=Twitter#Echobox=1579354563
+      3:
+        title: intro to tabletop story games - Google Search
+        url: https://www.google.com/search?rlz=1C5CHFA_enUS881US881&sxsrf=ACYBGNSPwkm9uMitQJE_GUlnB8P6A4yH5w%3A1578936281329&ei=2accXrLkE42vggenu5bIAg&q=intro+to+tabletop+story+games&oq=intro+to+tabletop+story+games&gs_l=psy-ab.3...1284475.1285314..1285370...0.2..0.127.737.7j1......0....1..gws-wiz.......0i71.3_blU6MEpLE&ved=0ahUKEwjytK-BjIHnAhWNl-AKHaedBSkQ4dUDCAs&uact=5
+      4:
+        title: Hush by Clarity
+        url: https://www.tgstorytime.com/viewstory.php?sid=3764
+      5:
+        title: Perfect Harmony by Clarity
+        url: https://www.tgstorytime.com/viewstory.php?sid=4126
+      6:
+        title: A Winter Trip's Twist by AshleyAllison
+        url: https://www.tgstorytime.com/viewstory.php?sid=3634
+      7:
+        title: Hisashi Eguchi (author of Stop! Hibari-kun) on why he prefers drawing women : traaaaaaannnnnnnnnns
+        url: https://www.reddit.com/r/traaaaaaannnnnnnnnns/comments/ep0kdp/hisashi_eguchi_author_of_stop_hibarikun_on_why_he/
+      8:
+        title: (10) Hootin N. Holleren on Twitter: "ICYMI: we just uploaded THE PEOPLE’S PHILADELPHIA COOKBOOK (1976), made in cooperation with the Black Panther Party, United Farm Workers, Disabled in Action, Lesbian Hotline, Puerto Rico Socialist Party, Prisoners’ Rights Council &amp; more https://t.co/G1YTT3Q2l4 #twitterstorians https://t.co/aJsFJu6Lkn" / Twitter
+        url: https://twitter.com/mckellogs/status/1215832616760500225
+      9:
+        title: The People's Philadelphia Cookbook with Resource Guide to Philadelphia's Ethnic Foods : Doley, Ann; Drake, Eliza; Glick, Judy; Goldin, Carol; Krauss, Helga; Michaud, Duffy; Portnoy, Dina; Quinn, Jim; Philadelphia People's Fund Membership : Free Download, Borrow, and Streaming : Internet Archive
+        url: https://archive.org/details/the-peoples-philadelphia-cookbook/page/n2
+      10:
+        title: AI Weirdness • My Book
+        url: https://aiweirdness.com/books
+      11:
+        title: Opinion | We Shouldn’t Bother the Feral Scooters of Central Park
+        url: https://www.nytimes.com/2019/11/04/opinion/future-scooters-central-park.html?fbclid=IwAR1tDgpXYsNCVfBs180qN1Ga1b6AsnBwiJjE9JslcGUBPvqS-aai1cKLZ60
+      12:
+        title: (17) ★ Alice D ★ (@AmyZenunim) / Twitter
+        url: https://twitter.com/AmyZenunim
+      13:
+        title: The Discouraged Suitor - Econlib
+        url: https://www.econlib.org/the-discouraged-suitor/
+      14:
+        title: Getting started on slow carb - Google Docs
+        url: https://docs.google.com/document/d/1bb1EWGiOuNjnUCDYHzih0NlBRwYzpf6fqaHkFMDJg3k/edit
+      15:
+        title: StrikerS Has ProblemS
+        url: http://archive.is/ZuVYX
+      16:
+        title: Go F*** Someone – Put A Number On It!
+        url: https://putanumonit.com/2020/01/13/go-f-someone/
+      17:
+        title: The 4-Hour Body - Google Play
+        url: https://play.google.com/books/reader?id=drGJJQAAAEAJ&pg=GBS.PA21
+      18:
+        title: (16) Studio Élan ⚢ (@vnstudioelan) / Twitter
+        url: https://twitter.com/vnstudioelan
+      19:
+        title: Studio Élan Official Website
+        url: https://vnstudioelan.com/
+      20:
+        title: Studio Élan is creating Yuri Visual Novels, Comics, Short Stories + More | Patreon
+        url: https://www.patreon.com/vnstudioelan
+      21:
+        title: Reformer: The Efficient Transformer | OpenReview
+        url: https://openreview.net/forum?id=rkgNKkHtvB#googlebrain
+      22:
+        title: [1901.10430] Pay Less Attention with Lightweight and Dynamic Convolutions
+        url: https://arxiv.org/abs/1901.10430#facebook
+      23:
+        title: [1904.10509] Generating Long Sequences with Sparse Transformers
+        url: https://arxiv.org/abs/1904.10509#openai
+      24:
+        title: The Best Ambient Releases of 2019 | Bandcamp Daily
+        url: https://daily.bandcamp.com/best-of-2019/the-best-ambient-releases-of-2019
+      25:
+        title: distillation.pdf
+        url: https://www.cs.toronto.edu/~hinton/absps/distillation.pdf
+      26:
+        title: UNITER: Learning UNiversal Image-TExt Representations – arXiv Vanity
+        url: https://www.arxiv-vanity.com/papers/1909.11740/
+      27:
+        title: undoing the pain - Google Docs
+        url: https://docs.google.com/document/d/1lR4NWLlCbBAxrXdRiVn82zC3iiF7fATPtVnPA2C1TwU/preview
+      28:
+        title: High Tech, Low Pay [Sam Marcy]
+        url: https://www.marxists.org/history/etol/writers/marcy/hightech/index.html
+      29:
+        title: "I got told what to call this poem by my male colleague" | MetaFilter
+        url: https://www.metafilter.com/179915/I-got-told-what-to-call-this-poem-by-my-male-colleague
+      30:
+        title: Resilience or Fuck You Neoliberalism – a strike poem | Thinking in the Open
+        url: https://blogs.cardiff.ac.uk/rsrc/2018/04/29/resilience-or-fuck-you-neoliberalism-a-strike-poem/
+      31:
+        title: Latest news | Thinking in the Open
+        url: https://blogs.cardiff.ac.uk/rsrc/latest-news/
+      32:
+        title: market socialism/inclusive prosperity | MetaFilter
+        url: https://www.metafilter.com/183552/market-socialism-inclusive-prosperity
+      33:
+        title: The Secret Code of Capital and the Origin of Wealth Inequality -
+        url: https://promarket.org/the-secret-code-of-capital-and-the-origin-of-wealth-inequality/
+      34:
+        title: Lights uke tabs and chords
+        url: https://www.ukulele-tabs.com/uke-songs/Lights-uke-tabs.html
+      35:
+        title: Banner Uke tab by Lights
+        url: https://www.ukulele-tabs.com/uke-songs/lights/banner-uke-tab-27403.html
+      36:
+        title: Heavy Brother Uke tab by Lights
+        url: https://www.ukulele-tabs.com/uke-songs/lights/heavy-brother-uke-tab-27406.html
+      37:
+        title: I Owe You One Uke tab by Lights
+        url: https://www.ukulele-tabs.com/uke-songs/lights/i-owe-you-one-uke-tab-27407.html
+      38:
+        title: rebecca sugar ukulele - Google Search
+        url: https://www.google.com/search?rlz=1C5CHFA_enUS881US881&sxsrf=ACYBGNT6KZeqPqcS7ZTlw1CL1mNDNwvATQ%3A1578289228945&ei=TMgSXvOqOY6-ggeyqKiIBQ&q=rebecca+sugar+ukulele&oq=rebecca+sugar+&gs_l=psy-ab.3.0.0i67j0l7j0i67j0.28831.31172..32114...0.2..0.160.1224.11j3......0....1..gws-wiz.......0i71j35i39j0i273j0i131j0i131i20i263j0i131i273._d-cSk6f2vs
+      39:
+        title: Meet a Future Seattle Music Superstar - Features - The Stranger
+        url: https://www.thestranger.com/features/2018/11/21/35923307/a-queer-ukulele-strumming-harmonica-blowing-beatboxer-is-about-to-blow-up-the-music-scene
+      40:
+        title: (26) jazz chords ukulele - YouTube
+        url: https://www.youtube.com/results?search_query=jazz+chords+ukulele&page=&utm_source=opensearch
+      41:
+        title: (14) [HD] Rebecca Sugar Vocal Range (B2 - E5) - YouTube
+        url: https://www.youtube.com/watch?v=lSG05h1An0Y
+      42:
+        title: (14) how to practice vibrato - YouTube
+        url: https://www.youtube.com/results?search_query=how+to+practice+vibrato&page=&utm_source=opensearch
+      43:
+        title: ukulele G6 - Google Search
+        url: https://www.google.com/search?q=ukulele+G6&rlz=1C5CHFA_enUS881US881&oq=ukulele+G6&aqs=chrome..69i57j0l4j69i60l3.2348j0j1&sourceid=chrome&ie=UTF-8
+      44:
+        title: (21) rebuild differences - YouTube
+        url: https://www.youtube.com/results?search_query=rebuild+differences&page=&utm_source=opensearch
+      45:
+        title: (1) Mayday Space | Facebook
+        url: https://www.facebook.com/MaydaySpace/
+      46:
+        title: NY trans bodybuilding federation - Google Search
+        url: https://www.google.com/search?rlz=1C5CHFA_enUS881US881&biw=1440&bih=821&sxsrf=ACYBGNSsjpGJ-qmGUgEJOtxajfybNgvp4g%3A1578668496568&ei=0JEYXoijIq-xggfbgav4Cw&q=NY+trans+bodybuilding+federation&oq=NY+trans+bodybuilding+federation&gs_l=psy-ab.3..0i22i30.3967.9318..9543...2.2..1.471.4364.6j26j1j0j1......0....1..gws-wiz.......0i71j35i39j0i131j0j0i273j0i10j38j33i299.b9WARZJFC_U&ved=0ahUKEwiIy9K3pvnmAhWvmOAKHdvACr8Q4dUDCAs&uact=5
+      47:
+        title: (20) Home / Twitter
+        url: https://twitter.com/NYTBF_INFO/status/1204006964684054528/photo/3
+      48:
+        title: NYTBF - Be In The Audience
+        url: https://www.nytbf.info/be-in-the-audience.html
+      49:
+        title: NYTBF - About The Founder
+        url: https://www.nytbf.info/about-us/about-the-founder.html#
+      50:
+        title: (26) UKULELE JAZZ CHORD LESSON - YouTube
+        url: https://www.youtube.com/watch?v=cfGOZhYm7m8
+      51:
+        title: COUNTRY QUEERS : a multimedia oral history project documenting the diverse experiences of rural and small town LGBTQIA folks in the U.S.A.
+        url: https://countryqueers.com/
+      52:
+        title: Clarkesworld Removes Isabel Fall’s Story | File 770
+        url: http://file770.com/clarkesworld-removes-isabel-falls-story/
+      53:
+        title: How Touhou Inspired Me To Live My Best Life
+        url: http://archive.is/OC6Z2
+    resources:
+      0:
+        title: The Vulpine Club
+        url: https://vulpine.club/web/statuses/101972756479201325
+      1:
+        title: Fiora Esoterica on Twitter: "TIL half the body's dopamine is produced in the gastrointestinal system ? ? ? ? ? ?https://t.co/mF7q2eW7Qv"
+        url: https://twitter.com/fioraesoterica/status/1106103031228071936
+      2:
+        title: Fiora @ photos!!! (@FioraAeterna) | Twitter
+        url: https://twitter.com/fioraaeterna
+  14:
+    title: Piano and deliberate practice
+    tabs:
+      0:
+        title: The Grandmaster in the Corner Office: What the Study of Chess Experts Teaches Us about Building a Remarkable Life - Study Hacks - Cal Newport
+        url: https://www.calnewport.com/blog/2010/01/06/the-grandmaster-in-the-corner-office-what-the-study-of-chess-experts-teaches-us-about-building-a-remarkable-life/
+      1:
+        title: Fundamentals of Piano Practice — Fundamentals of Piano Practice
+        url: https://fundamentals-of-piano-practice.readthedocs.io/
+      2:
+        title: Advice on Getting Better from an Accomplished Piano Player (2011) | Hacker News
+        url: https://news.ycombinator.com/item?id=20185854
+      3:
+        title: Ask HN: How can I get good at piano? | Hacker News
+        url: https://news.ycombinator.com/item?id=6802255
+    notes:
+      0:
+        title:
+  15:
+    title: 🎮 pico-8
+    tabs:
+      0:
+        title: Lexaloffle BBS ::
+        url: https://lexaloffle.com/bbs/?cat=7#sub=2
+      1:
+        title: Lexaloffle Games :: Games
+        url: https://www.lexaloffle.com/games.php?page=updates&key=fPElYxyxP1Kmz
+      2:
+        title: _why's Estate - The Little Coder's Predicament
+        url: https://viewsourcecode.org/why/hacking/theLittleCodersPredicament.html
+      3:
+        title: why the lucky stiff - Wikipedia
+        url: https://en.wikipedia.org/wiki/Why_the_lucky_stiff
+      4:
+        title: PICO-8 Fantasy Console
+        url: https://www.lexaloffle.com/pico-8.php?page=faq
+      5:
+        title: Pico-8 - Wikipedia
+        url: https://en.wikipedia.org/wiki/Pico-8
+      6:
+        title: PICO-8 Fantasy Console
+        url: https://www.lexaloffle.com/pico-8.php?page=resources
+      7:
+        title: Pico-8 Fanzine #1 by sectordub
+        url: https://sectordub.itch.io/pico-8-fanzine-1
+      8:
+        title: Download the latest indie games - itch.io
+        url: https://itch.io/
+      9:
+        title: PICO-8 Fantasy Game Console
+        url: https://www.reddit.com/r/pico8
+      10:
+        title: Fun mini tweetcart. Source code fits in a tweet with the description, hashtags and a shout-out :D : pico8
+        url: https://www.reddit.com/r/pico8/comments/bhcoj3/fun_mini_tweetcart_source_code_fits_in_a_tweet/
+  16:
+    title: Touhou
+    tabs:
+      0:
+        title: How do I get into the touhou series? : touhou
+        url: https://www.reddit.com/r/touhou/comments/523sox/how_do_i_get_into_the_touhou_series/
+      1:
+        title: Where/How should I get into TouHou : touhou
+        url: https://www.reddit.com/r/touhou/comments/93b85q/wherehow_should_i_get_into_touhou/
+      2:
+        title: The Newcomer's Guide to getting into Touhou and supporting ZUN : touhou
+        url: https://www.reddit.com/r/touhou/comments/hfpxif/the_newcomers_guide_to_getting_into_touhou_and/
+      3:
+        title: so you want to get into touhou - Google Search
+        url: https://www.google.com/search?q=so+you+want+to+get+into+touhou&rlz=1C5CHFA_enUS881US881&oq=so+you+want+to+get+into+touhou&aqs=chrome..69i57j46l2j69i65j69i60l4.3381j0j7&sourceid=chrome&ie=UTF-8
+      4:
+        title: ao3 touhou - Google Search
+        url: https://www.google.com/search?q=ao3+touhou&rlz=1C5CHFA_enUS881US881&oq=ao3+touhou&aqs=chrome.0.0i20i263j0l9.1790j0j7&sourceid=chrome&ie=UTF-8
+      5:
+        title: Touhou Stories - Wattpad
+        url: https://www.wattpad.com/stories/touhou
+      6:
+        title: touhouproject stories wattpad - Google Search
+        url: https://www.google.com/search?q=touhouproject+stories+wattpad&rlz=1C5CHFA_enUS881US881&oq=touhouproject+stories+wattpad&aqs=chrome..69i57j0i10j46i10i433j0i10l7.3217j0j7&sourceid=chrome&ie=UTF-8
+      7:
+        title: fanfiction.net touhou project - Google Search
+        url: https://www.google.com/search?q=fanfiction.net+touhou+project&rlz=1C5CHFA_enUS881US881&oq=fanfiction.net+touhou+project&aqs=chrome..69i57.2857j0j7&sourceid=chrome&ie=UTF-8
+      8:
+        title: How Do I Get Into Touhou Project?
+        url: https://magic.witchgirls.moe/2021/04/async-fairytale.html
+      9:
+        title: Quarter-life crisis - Wikipedia
+        url: https://en.wikipedia.org/wiki/Quarter-life_crisis
+      10:
+        title: Wild and Horned Hermit - Touhou Wiki - Characters, games, locations, and more
+        url: https://en.touhouwiki.net/wiki/Wild_and_Horned_Hermit
+      11:
+        title: Forbidden Scrollery - Touhou Wiki - Characters, games, locations, and more
+        url: https://en.touhouwiki.net/wiki/Forbidden_Scrollery
+      12:
+        title: Star's Otherworldly Magic Blog
+        url: https://magic.witchgirls.moe/
+      13:
+        title: How Touhou Inspired Me To Live My Best Life
+        url: https://magic.witchgirls.moe/2019/06/gay-girls-whom-danmaku.html
+      14:
+        title: Why Pearl Is Better Off Without Rose
+        url: https://magic.witchgirls.moe/2016/09/pearl-is-my-bae.html
+      15:
+        title: Touhou Luna Nights on Steam
+        url: https://store.steampowered.com/app/851100/Touhou_Luna_Nights/
+      16:
+        title: (177) touhou flash games - YouTube
+        url: https://www.youtube.com/results?search_query=touhou+flash+games
+      17:
+        title: are there specific touhou characters that can leave gensokyo? and what will happen if they did? : asktouhouscience
+        url: https://www.reddit.com/r/asktouhouscience/comments/m1qyhc/are_there_specific_touhou_characters_that_can/
+      18:
+        title: Why isn’t there something like a detention facility in gensokyo : asktouhouscience
+        url: https://www.reddit.com/r/asktouhouscience/comments/lqzmi3/why_isnt_there_something_like_a_detention/
+      19:
+        title: Gensokyo Strain : asktouhouscience
+        url: https://www.reddit.com/r/asktouhouscience/comments/lam5ky/gensokyo_strain/
+      20:
+        title: What would happen if Seija made an atom inside-out? : asktouhouscience
+        url: https://www.reddit.com/r/asktouhouscience/comments/779crj/what_would_happen_if_seija_made_an_atom_insideout/
+      21:
+        title: Suika has a magic gourd that can produce unlimited low-quality sake. Yuugi has a magic bowl that can turn low-quality sake into high-quality sake. Why did they ever stop hanging out? : asktouhouscience
+        url: https://www.reddit.com/r/asktouhouscience/comments/ip5qbg/suika_has_a_magic_gourd_that_can_produce/
+      22:
+        title: How many youkais live or at least sleep one night in the Hakurei Shrine? : asktouhouscience
+        url: https://www.reddit.com/r/asktouhouscience/comments/iqob62/how_many_youkais_live_or_at_least_sleep_one_night/
+      23:
+        title: why are most girls unmarried in gensokyo? : asktouhouscience
+        url: https://www.reddit.com/r/asktouhouscience/comments/jy5mn8/why_are_most_girls_unmarried_in_gensokyo/
+      24:
+        title: Are there any evil (main) characters in Touhou? : asktouhouscience
+        url: https://www.reddit.com/r/asktouhouscience/comments/kpz7ci/are_there_any_evil_main_characters_in_touhou/
+      25:
+        title: Touhoujerk
+        url: https://www.reddit.com/r/Touhoujerk/
+      26:
+        title: TH18 PUSSY OF GOOD LUCK
+        url: https://www.reddit.com/r/2hujerk/
+      27:
+        title: Tenshi master race (I second this statement)
+        url: https://www.reddit.com/r/Touhou_NSFW/
+      28:
+        title: (20+) Touhou Project AnimeNYC 2019 Official Meetup | Facebook
+        url: https://www.facebook.com/events/javits-center/touhou-project-animenyc-2019-official-meetup/494885817978880/
+      29:
+        title: NYC Touhou Meetup Group - Cosplay.com
+        url: https://cosplay.com/archive/thread/krvr71/nyc-touhou-meetup-group
+      30:
+        title: Fiora on Twitter: "every Touhou game https://t.co/gUWVhFKSCM" / Twitter
+        url: https://twitter.com/FioraAeterna/status/1384394218358018049
+      31:
+        title: https://twitter.com/FioraAeterna/status/1380204227293679618
+        url: https://twitter.com/FioraAeterna/status/1380204227293679618
+      32:
+        title: https://twitter.com/Talen_Lee/status/1109999861326180353
+        url: https://twitter.com/Talen_Lee/status/1109999861326180353
+      33:
+        title: https://twitter.com/Helios748/status/1020121062627979267
+        url: https://twitter.com/Helios748/status/1020121062627979267
+      34:
+        title: https://twitter.com/FioraAeterna/status/1380203503537156102
+        url: https://twitter.com/FioraAeterna/status/1380203503537156102
+      35:
+        title: https://twitter.com/FioraAeterna/status/1073002741994217472
+        url: https://twitter.com/FioraAeterna/status/1073002741994217472
+      36:
+        title: Fiora on Twitter: "@KrisenaComposes there is a specific thing about touhou that makes it particularly magic and special that i've never written about publicly or seen written about, and it goes something like this--" / Twitter
+        url: https://twitter.com/FioraAeterna/status/1380203144659890177
+      37:
+        title: (195) Gensou Skydrift | AspreyFM - YouTube
+        url: https://www.youtube.com/watch?v=3nNLen0AUQE
+      38:
+        title: (194) AspreyFM - YouTube
+        url: https://www.youtube.com/c/AspreyFM
+    notes:
+      0:
+        title:
+  17:
+    title: post-CVPR
+    tabs:
+      0:
+        title: undoing the pain - Google Docs
+        url: https://docs.google.com/document/d/1lR4NWLlCbBAxrXdRiVn82zC3iiF7fATPtVnPA2C1TwU/edit#heading=h.bwbs867nsfp9
+      1:
+        title: nca6.dvi
+        url: https://www.cs.toronto.edu/~hinton/absps/nca.pdf
+      2:
+        title: knuth_mathematical_writing.pdf
+        url: http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
+      3:
+        title: 1909.11740.pdf
+        url: https://arxiv.org/pdf/1909.11740.pdf
+      4:
+        title: distillation.pdf
+        url: https://www.cs.toronto.edu/~hinton/absps/distillation.pdf
+      5:
+        title: Slide 1
+        url: https://www.une.edu/sites/default/files/Reading-and-Annotating.pdf
+      6:
+        title: 1612.04426.pdf
+        url: https://arxiv.org/pdf/1612.04426.pdf
+      7:
+        title: [1609.07843] Pointer Sentinel Mixture Models
+        url: https://arxiv.org/abs/1609.07843
+  18:
+    title: 🔈 Music and sound
+    tabs:
+      0:
+        title: Get started with the Logic Pro main window - Logic Pro X
+        url: https://help.apple.com/logicpro/mac/10.4/#/lgcp2a07a994
+      1:
+        title: Logic Pro X: Quantize parameter values
+        url: https://support.apple.com/kb/PH13066?locale=en_US&viewlocale=en_US
+      2:
+        title: Logic Pro X: Advanced quantization parameters
+        url: https://support.apple.com/kb/PH13067?locale=en_US&viewlocale=en_US
+      3:
+        title: Creative Strategies for Electronic Music Producers | Making Music book by Ableton
+        url: https://makingmusic.ableton.com/
+      4:
+        title: OP-1 05-28-17 (I Need U) - YouTube
+        url: https://www.youtube.com/watch?v=7z4hoazra_g&app=desktop
+      5:
+        title: faq - GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/wiki/faq
+      6:
+        title: [meta] Tips and tricks 1: reduce background noise and boost volume using Audacity : gonewildaudio
+        url: https://www.reddit.com/r/gonewildaudio/comments/1i4lnd/meta_tips_and_tricks_1_reduce_background_noise/
+      7:
+        title: [meta] What sort of mic do you use? : gonewildaudio
+        url: https://www.reddit.com/r/gonewildaudio/comments/1zc1s3/meta_what_sort_of_mic_do_you_use/
+      8:
+        title: We're Listening
+        url: https://www.reddit.com/r/GonewildAudible/
+      9:
+        title: ♡ Welcome to GonewildAudible! ♡ [helpful links & info][discord][podcast][fun stuff] : GonewildAudible
+        url: https://www.reddit.com/r/GonewildAudible/comments/dzc43c/welcome_to_gonewildaudible_helpful_links/
+      10:
+        title: [Event] 🍬 Secret Candygram Exchange 🍬 [Audio Swap] : GonewildAudible
+        url: https://www.reddit.com/r/GonewildAudible/comments/etcz00/event_secret_candygram_exchange_audio_swap/
+      11:
+        title: [Script Offer] Beginner Scripts [A4A] : GWAScriptGuild
+        url: https://www.reddit.com/r/GWAScriptGuild/comments/7vmsfw/script_offer_beginner_scripts_a4a/
+      12:
+        title: [Meta] Newbie Performers; quick start-up guide : gonewildaudio
+        url: https://www.reddit.com/r/gonewildaudio/comments/4bgoun/meta_newbie_performers_quick_startup_guide/
+      13:
+        title: guides - GWAScriptGuild
+        url: https://www.reddit.com/r/GWAScriptGuild/wiki/guides
+      14:
+        title: What microphone do you use to record? And where do you do it? : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/2u0wki/what_microphone_do_you_use_to_record_and_where_do/
+      15:
+        title: What makes a good M4F audio? : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/am8mgf/what_makes_a_good_m4f_audio/
+      16:
+        title: index - GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/wiki/index
+      17:
+        title: verification - GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/wiki/verification
+      18:
+        title: [Info request] [question] Ladies, what do you want most from audios? : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/71my7b/info_request_question_ladies_what_do_you_want/
+      19:
+        title: Ladies, how do you feel about SI? : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/4jy5hs/ladies_how_do_you_feel_about_si/
+      20:
+        title: [Advice] about an [F4F] improv scene - what would you like to hear?! : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/baggzq/advice_about_an_f4f_improv_scene_what_would_you/
+      21:
+        title: [Discussion] What Kink Don't You Understand - Get It Explained Here! : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/3we49m/discussion_what_kink_dont_you_understand_get_it/
+      22:
+        title: [Question/Discussion] What do we all think of incest kink? : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/6fc9q8/questiondiscussion_what_do_we_all_think_of_incest/
+      23:
+        title: What makes a kink your kink? [Discussion] : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/7xdpv0/what_makes_a_kink_your_kink_discussion/
+      24:
+        title: What You Would Tell Someone Who's Been Kink-Shamed : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/3kasn3/what_you_would_tell_someone_whos_been_kinkshamed/
+      25:
+        title: The Performer's Guide to Improvement : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/9ywuph/the_performers_guide_to_improvement/
+      26:
+        title: Let's talk about [acting]! : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/7nllya/lets_talk_about_acting/?utm_source=share&utm_medium=web2x
+      27:
+        title: A Gentle Reminder: Upvotes Can’t Fix You : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/85mnva/a_gentle_reminder_upvotes_cant_fix_you/
+      28:
+        title: [META] Another Endless Thread update : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/cqdbzo/meta_another_endless_thread_update/
+      29:
+        title: The Ugly Truth of Posting Porn on the Internet : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/c9mdkd/the_ugly_truth_of_posting_porn_on_the_internet/
+      30:
+        title: Please be wary of non-GWA posters contacting you for use of your talent. : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/83zpa0/please_be_wary_of_nongwa_posters_contacting_you/
+      31:
+        title: The Performer's Guide to Improvement : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/9ywuph/the_performers_guide_to_improvement/
+      32:
+        title: New Male Performer's GWA Survival Guide : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/68coqv/new_male_performers_gwa_survival_guide/
+      33:
+        title: A brief word of encouragement to everyone who's shy, quiet or careful and have or would like to record something : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/53qqaq/a_brief_word_of_encouragement_to_everyone_whos/
+      34:
+        title: [F4A] Gotcha! SKITTY was caught! [AMA] [Answers] [1h+] : GWABackstage
+        url: https://www.reddit.com/r/GWABackstage/comments/b70ubx/f4a_gotcha_skitty_was_caught_ama_answers_1h/
+      35:
+        title: OMGyes.com - The Science of Women's Pleasure
+        url: https://www.omgyes.com/
+      36:
+        title: Fading in a loop in Logic Pro X.. Help! : LogicPro
+        url: https://www.reddit.com/r/LogicPro/comments/bmtpq2/fading_in_a_loop_in_logic_pro_x_help/
+      37:
+        title: Please explain crossfades to me :) - Logic Pro Help
+        url: https://www.logicprohelp.com/forum/viewtopic.php?t=132752
+      38:
+        title: Anastasia's motivation [idolmaster] : wholesomeyuri
+        url: https://www.reddit.com/r/wholesomeyuri/comments/ekzfn9/anastasias_motivation_idolmaster/fdf1vln/?context=8&depth=9
+      39:
+        title: Sallad Snake (u/Staten_och_Kapitalet) - Reddit
+        url: https://www.reddit.com/user/Staten_och_Kapitalet/
+      40:
+        title: Yuri is good for the soul
+        url: https://www.reddit.com/r/yurimemes/
+      41:
+        title: Pas - pixiv
+        url: https://www.pixiv.net/en/artworks/65971183
+  19:
+    title: ✝️ The Civil War as Theological Crisis
+    resources:
+      0:
+        title: The Civil War as a Theological Crisis - Google Play
+        url: https://play.google.com/books/reader?id=UpR6IgAAAEAJ&pg=GBS.PA56.w.0.0.0.3
+      1:
+        title: Civil War as Theological Crisis - Google Docs
+        url: https://docs.google.com/document/d/1neAR0Yb6IKomakUA2T--rDBUozrLdchfDryX7D5p2BM/edit#
+      2:
+        title: Messenger
+        url: https://www.messenger.com/t/2557442990990900
+  20:
+    title: org
+    tabs:
+      0:
+        title: Untitled document - Google Docs
+        url: https://docs.google.com/document/d/1fZoDarv-GHzvjIdX8lTItzfp6Kc093JNHUvw6sXdKvU/edit#
+      1:
+        title: REST Resource: documents  |  Google Docs API  |  Google Developers
+        url: https://developers.google.com/docs/api/reference/rest/v1/documents#Shading
+      2:
+        title: Requests  |  Google Docs API  |  Google Developers
+        url: https://developers.google.com/docs/api/reference/rest/v1/documents/request#Range
+      3:
+        title: The start of an EBNF grammer to parse org-mode docs · GitHub
+        url: https://gist.github.com/alexkehayias/634b7ea74b034ec22dc0ac127d6d01d1
+      4:
+        title: The start of an EBNF grammer to parse org-mode docs · GitHub
+        url: https://gist.github.com/alexkehayias/634b7ea74b034ec22dc0ac127d6d01d1
+      5:
+        title: Parsing in Python: all the tools and libraries you can use
+        url: https://tomassetti.me/parsing-in-python/#contextFree
+      6:
+        title: GitHub - lark-parser/lark: A modern parsing library for Python, implementing Earley & LALR(1) and an easy interface
+        url: https://github.com/lark-parser/lark
+      7:
+        title: lark/json_tutorial.md at master · lark-parser/lark · GitHub
+        url: https://github.com/lark-parser/lark/blob/master/docs/json_tutorial.md
+      8:
+        title: lark/common.lark at master · lark-parser/lark · GitHub
+        url: https://github.com/lark-parser/lark/blob/master/lark/grammars/common.lark
+      9:
+        title: tramp-hdfs/tramp-hdfs.el at master · raghavgautam/tramp-hdfs · GitHub
+        url: https://github.com/raghavgautam/tramp-hdfs/blob/master/tramp-hdfs.el
+  21:
+    title: 🎬 anime
+    tabs:
+      0:
+        title: Watch Ookami-san to Shichinin no Nakama-tachi - MyAnimeList.net
+        url: https://myanimelist.net/anime/7769/Ookami-san_to_Shichinin_no_Nakama-tachi/video
+      1:
+        title: Okami-san and Her Seven Companions - Okamisan - 1 - Okami-san and Her Otogi Bank Companions - YouTube
+        url: https://www.youtube.com/watch?v=vBHYlgRUuB0&has_verified=1
+      2:
+        title: Kino's Journey -the Beautiful World- the Animated Series - Watch on Crunchyroll
+        url: https://www.crunchyroll.com/kinos-journey-the-beautiful-world-the-animated-series
+      3:
+        title: Re:ZERO -Starting Life in Another World- - Watch on Crunchyroll
+        url: https://www.crunchyroll.com/rezero-starting-life-in-another-world-
+      4:
+        title: Anime Crimes Division - Watch on Crunchyroll
+        url: https://www.crunchyroll.com/anime-crimes-division
+      5:
+        title: Yuri Kuma Arashi - Google Search
+        url: https://www.google.com/search?q=Yuri+Kuma+Arashi&rlz=1C5CHFA_enUS842US843&oq=Yuri+Kuma+Arashi&aqs=chrome..69i57j69i60.271j0j1&sourceid=chrome&ie=UTF-8
+  22:
+    title: Go
+    tabs:
+      0:
+        title: Estimating The Score at Sensei's Library
+        url: https://senseis.xmp.net/?EstimatingTheScore
+    resources:
+      0:
+        title: Tsumego Hero
+        url: https://tsumego-hero.com/
+      1:
+        title: Beginner guide: "Who won?", or how to count the score at the end of the game : baduk
+        url: https://www.reddit.com/r/baduk/comments/afavex/beginner_guide_who_won_or_how_to_count_the_score/
+      2:
+        title: A static method for computing the score of a Go game.
+        url: https://www.oipaz.net/Carta.pdf
+      3:
+        title: Exercises for Beginners: Exercise 005
+        url: https://online-go.com/puzzle/2633
+      4:
+        title: Black to play
+        url: https://blacktoplay.com/?p=20
+      5:
+        title: GoKibitz: Move-by-move conversations about go games.
+        url: https://gokibitz.com/
+      6:
+        title: | Learn to Play Go
+        url: https://www.learn-go.net/
+      7:
+        title: How To Play Go - The Ko
+        url: https://www.pandanet.co.jp/English/learning_go/learning_go_8.html
+      8:
+        title: OGS
+        url: https://online-go.com/
+    notes:
+      0:
+        title:
+  23:
+    title: 17776
+    tabs:
+      0:
+        title: Outside Seward, Nebraska | What football will look like in the future
+        url: https://www.sbnation.com/a/17776-football/outside-seward-nebraska
+      1:
+        title: What football will look like in the future
+        url: https://www.sbnation.com/a/17776-football
+      2:
+        title: 17776 - Wikipedia
+        url: https://en.wikipedia.org/wiki/17776
+      3:
+        title: What football will look like in the future : printSF
+        url: https://www.reddit.com/r/printSF/comments/99g792/what_football_will_look_like_in_the_future/
+  24:
+    title: Moving to Google Cloud
+    tabs:
+      0:
+        title: Migrate to Google Cloud
+        url: https://www.notion.so/kjw/Migrate-to-Google-Cloud-880ff29252a94ec3b71a24ed5570eb3b
+      1:
+        title: Documents
+        url: https://drive.google.com/drive/u/0/folders/1EiV7bILWGuGi54i_Df4PGjCatmC0jUqj
+      2:
+        title: Home – bam-dataset – Google Cloud Platform
+        url: https://console.cloud.google.com/home/dashboard?project=bam-dataset-189703&folder=
+      3:
+        title: DigitalOcean - Default Project project
+        url: https://cloud.digitalocean.com/projects/87e828ff-0015-41ad-84b8-2eb1301ae85f/resources?i=b0452b
+      4:
+        title: Billing Management Console
+        url: https://console.aws.amazon.com/billing/home?region=us-east-1#/bills?year=2019&month=7
+      5:
+        title: halifax
+        url: https://remotedesktop.google.com/access/session/19006f40-6f93-cdeb-ba8a-335cb2872636
+      6:
+        title: My Drive
+        url: https://drive.google.com/drive/u/0/my-drive
+    notes:
+      0:
+        title:
+  25:
+    title: Indigeneous data soverignty (biodiversity and Project V)
+    tabs:
+      0:
+        title: Māui Hudson - Māori and Indigenous Studies: University of Waikato
+        url: https://www.waikato.ac.nz/fmis/about/staff/maui
+      1:
+        title: CARE Principles of Indigenous Data Governance — Global Indigenous Data Alliance
+        url: https://www.gida-global.org/care
+      2:
+        title: biocultural labels initiative - Google Search
+        url: https://www.google.com/search?q=biocultural+labels+initiative&rlz=1C5CHFA_enUS881US881&oq=biocultural+labels+initiative&aqs=chrome..69i57.4146j0j1&sourceid=chrome&ie=UTF-8
+  26:
+    title: 🧙🏻‍♀️ queer witch power
+    tabs:
+      0:
+        title: BECOMING DANGEROUS: Witchy Femmes, Queer Conjurers, and Magical Rebels on Summoning the Power to Resist - Google Play
+        url: https://play.google.com/books/reader?id=ApN6IgAAAEAJ&pg=GBS.PA8
+      1:
+        title: complaints and disorders - the sexual politics of sickness - Google Search
+        url: https://www.google.com/search?q=complaints+and+disorders+-+the+sexual+politics+of+sickness
+      2:
+        title: Amazon Sign-In
+        url: https://www.amazon.com/ap/signin?openid.assoc_handle=amzn_kweb&openid.return_to=https%3A%2F%2Fread.amazon.com%2F&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amzn_kcr&openid.assoc_handle=amzn_kweb&openid.mode=logout&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fap%2Fsignin%3Fopenid.assoc_handle%3Damzn_kweb%26openid.return_to%3Dhttps%253A%252F%252Fread.amazon.com%252F%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.identity%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26openid.claimed_id%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26pageId%3Damzn_kcr&
+      3:
+        title: IFS+First+Two+Chapters.pdf
+        url: https://static1.squarespace.com/static/5205b3d1e4b08b89e5d18f2a/t/5493746be4b0980f00a35dfb/1418949739064/IFS+First+Two+Chapters.pdf
+      4:
+        title: The Book on The Taboo against knowing who you are
+        url: https://psychonautwiki.org/w/images/d/da/The-book-on-the-taboo-against-knowing-who-you-are-by-Alan-Watts.pdf
+      5:
+        title: abrahamic angels - Google Search
+        url: https://www.google.com/search?q=abrahamic+angels&rlz=1C5CHFA_enUS842US843&oq=abrahamic+angels&aqs=chrome..69i57j0l4.2346j0j1&sourceid=chrome&ie=UTF-8
+      6:
+        title: how to make a book of magic - Google Search
+        url: https://www.google.com/search?q=how+to+make+a+book+of+magic&rlz=1C5CHFA_enUS842US843&oq=how+to+make+a+book+of+magic&aqs=chrome..69i57j0j69i60l4.3823j0j1&sourceid=chrome&ie=UTF-8
+    notes:
+      0:
+        title:
+  27:
+    title: mindfulness, trauma, drugs, religion, psychedelics
+    tabs:
+      0:
+        title: undoing the pain - Google Docs
+        url: https://docs.google.com/document/d/1lR4NWLlCbBAxrXdRiVn82zC3iiF7fATPtVnPA2C1TwU/edit?pli=1#heading=h.bwbs867nsfp9
+      1:
+        title: Help & Resources – The Aftercare Project
+        url: https://theaftercareproject.org/psychedelic-science-2017-resources/helpful-resources/
+      2:
+        title: Psychedelic Psychotherapy: A User-friendly Guide for Psychedelic Drug-assisted Psychotherapy: R. Coleman: 9780963009654: Amazon.com: Books
+        url: https://www.amazon.com/Psychedelic-Psychotherapy-User-friendly-Guide-Drug-assisted/dp/0963009656
+      3:
+        title: League for Spiritual Discovery - Wikipedia
+        url: https://en.wikipedia.org/wiki/League_for_Spiritual_Discovery
+      4:
+        title: MDMA solo - PDF time
+        url: https://ia601402.us.archive.org/15/items/mdmasolo/MDMA%20solo.pdf
+      5:
+        title: MDMA_Roadmap_To_Regulation-Digital-Copy-0512.pdf
+        url: https://usir.salford.ac.uk/id/eprint/56027/1/MDMA_Roadmap_To_Regulation-Digital-Copy-0512.pdf
+      6:
+        title: MDMA_Roadmap_To_Regulation-Digital-Copy-0512.pdf
+        url: https://beckleyfoundation.org/wp-content/uploads/2019/12/MDMA_Roadmap_To_Regulation-Digital-Copy-0512.pdf
+      7:
+        title: The Awakening Body | Shambhala
+        url: https://www.shambhala.com/the-awakening-body/
+      8:
+        title: Vividness | Vividness
+        url: https://vividness.live/
+      9:
+        title: https://twitter.com/pragueyerrr/status/1377699971596750853
+        url: https://twitter.com/pragueyerrr/status/1377699971596750853
+      10:
+        title: You-Are-Th-eOne-Ch-1-book.pdf
+        url: https://ifsca.ca/wp-content/uploads/You-Are-Th-eOne-Ch-1-book.pdf
+      11:
+        title: Why You Procrastinate (It Has Nothing to Do With Self-Control) - The New York Times
+        url: https://www.nytimes.com/2019/03/25/smarter-living/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html
+      12:
+        title: (116) Ultraspeaking - YouTube
+        url: https://www.youtube.com/c/Ultraspeaking/videos
+      13:
+        title: 25 vampire stories | Buddhism for Vampires
+        url: https://buddhism-for-vampires.com/25-vampire-stories
+      14:
+        title: Twilight of the isms | Vividness
+        url: https://vividness.live/twilight-of-the-isms
+      15:
+        title: Consumerism, Fundamentalism, and Buddhism | Vividness
+        url: https://vividness.live/consumerism-fundamentalism-new-age-and-buddhism
+      16:
+        title: The Big Three stance combinations | Meaningness
+        url: https://meaningness.com/big-three-stance-combinations
+      17:
+        title: Consumerism, Fundamentalism, and Buddhism | Vividness
+        url: https://vividness.live/consumerism-fundamentalism-new-age-and-buddhism#new-age
+      18:
+        title: Yes | Vividness
+        url: https://vividness.live/yes
+      19:
+        title: A Dzogchen-shaped hole in the culture | Vividness
+        url: https://vividness.live/a-dzogchen-shaped-hole-in-the-culture
+      20:
+        title: Next time you die | Buddhism for Vampires
+        url: https://buddhism-for-vampires.com/next-time-you-die
+      21:
+        title: vividness the mind illuminated - Google Search
+        url: https://www.google.com/search?q=vividness+the+mind+illuminated&rlz=1C5CHFA_enUS881US881&oq=vividness+the+mind+illuminated&aqs=chrome..69i57.6544j0j7&sourceid=chrome&ie=UTF-8
+      22:
+        title: Vividness | Vividness
+        url: https://vividness.live/
+      23:
+        title: (2) David Chapman on Twitter: "@Navertal Oh dear. Looking back at my ngondro page, I see that it could easily have been read as recommending TMI. That wasn’t my intention—I was mentioning it as an example rather than as a recommendation. I’ve revised the page to include an explicit recommendation against it. :(" / Twitter
+        url: https://twitter.com/Meaningness/status/1356060132065464323
+      24:
+        title: Some preliminaries: ngöndro | Vividness
+        url: https://vividness.live/some-preliminaries-ngondro#fn_mark_8
+      25:
+        title: “Ethics” is advertising | Vividness
+        url: https://vividness.live/buddhist-ethics-is-advertising
+      26:
+        title: What do you want Buddhism for? | Vividness
+        url: https://vividness.live/what-do-you-want-buddhism-for
+      27:
+        title: Chemical Imbalance | Slate Star Codex
+        url: https://slatestarcodex.com/2015/04/05/chemical-imbalance/
+      28:
+        title: Polemical Imbalance | Slate Star Codex
+        url: https://slatestarcodex.com/2015/04/18/polemical-imbalance/
+      29:
+        title: Aro - Learn Buddhist meditation
+        url: https://aromeditation.org/
+      30:
+        title: Site overview – Vajrayana Now
+        url: https://vajrayananow.com/site-overview/
+      31:
+        title: “Westerners can’t hack Vajrayana” – Vajrayana Now
+        url: https://vajrayananow.com/2013/10/04/westerners-cant-hack-vajrayana/
+      32:
+        title: The limited​ language of the no-self – Vajrayana Now
+        url: https://vajrayananow.com/2019/04/06/the-limited%e2%80%8b-language-of-the-no-self/
+      33:
+        title: Not all Buddhism is about liberation from suffering – Vajrayana Now
+        url: https://vajrayananow.com/2019/04/10/not-all-buddhism-is-about-liberation-from-suffering/
+      34:
+        title: Journaling a staged path – Vajrayana Now
+        url: https://vajrayananow.com/2019/06/01/journaling-a-staged-path/
+      35:
+        title: The Mind Illuminated, a journal: day 19 – Vajrayana Now
+        url: https://vajrayananow.com/2019/11/15/the-mind-illuminated-a-journal-day-19/
+      36:
+        title: Vajrayana, Engineering, and Jiu Jitsu, with Rin'dzin Pamo | Deconstructing Yourself
+        url: https://deconstructingyourself.com/rindzin-pamo.html
+      37:
+        title: Aro - Learn Buddhist meditation
+        url: https://aromeditation.org/
+    resources:
+      0:
+        title: undoing the pain
+        url: https://docs.google.com/document/d/1lR4NWLlCbBAxrXdRiVn82zC3iiF7fATPtVnPA2C1TwU
+    notes:
+      0:
+        title:
+  28:
+    title: religious trauma and New Life Church shootings
+    tabs:
+      0:
+        title: 2007 Colorado YWAM and New Life shootings - Wikipedia
+        url: https://en.wikipedia.org/wiki/2007_Colorado_YWAM_and_New_Life_shootings
+      1:
+        title: Matthew Murray | Murderpedia, the encyclopedia of murderers
+        url: https://murderpedia.org/male.M/m/murray-matthew.htm
+      2:
+        title: Matthew james murray (@MmurrayJames) / Twitter
+        url: https://twitter.com/mmurrayjames
+      3:
+        title: Colorado gunman scared co-workers 5 years ago, one says - CNN.com
+        url: http://www.cnn.com/2007/US/12/10/shooter.youth/
+      4:
+        title: WebCite query result
+        url: https://www.webcitation.org/5whIW9NEQ?url=http://www.cnn.com/2007/US/12/10/shooter.youth/
+      5:
+        title: Rocky Mountain News
+        url: https://rockymountainnews.com/news/2007/dec/10/cops-search-arapahoe-home/
+      6:
+        title: WebCite query result
+        url: https://www.webcitation.org/5whIWWUXq?url=http://www.rockymountainnews.com/news/2007/dec/10/cops-search-arapahoe-home/
+      7:
+        title: 9NEWS.com
+        url: https://www.9news.com/error/404?storyid=82548
+      8:
+        title: Gunman's Web writings warn of shootings | 9news.com
+        url: https://archive.is/20130116120725/http://www.9news.com/news/article.aspx?storyid=82548
+      9:
+        title: WebCite query result
+        url: https://www.webcitation.org/5whIXJRuH?url=http://www.foxnews.com/story/0,2933,316387,00.html
+      10:
+        title: Ordo Templi Orientis - Wikipedia
+        url: https://en.wikipedia.org/wiki/Ordo_Templi_Orientis
+      11:
+        title: Crying all alone in pain in the nightmare of christianity... - Ex Pentecostal Forums
+        url: https://www.tapatalk.com/groups/expentecostalforums/crying-all-alone-in-pain-in-the-nightmare-of-chris-t5019.html
+      12:
+        title: religious trauma syndrome - Google Search
+        url: https://www.google.com/search?q=religious+trauma+syndrome&rlz=1C5CHFA_enUS799US799&oq=religious+trauma+syndrome&aqs=chrome..69i57j0l5.2679j0j1&sourceid=chrome&ie=UTF-8
+      13:
+        title: Religious Trauma Syndrome: Trauma from Leaving Religion
+        url: https://www.babcp.com/review/RTS-Trauma-from-Leaving-Religion.aspx
+      14:
+        title: Religious Trauma Syndrome — Recovering from Religion
+        url: https://www.recoveringfromreligion.org/hotline-project-support/hotline-project-training/religious-trauma-syndrome
+      15:
+        title: Discovery Church Colorado - Home
+        url: https://www.facebook.com/discoverychurchcolorado/
+      16:
+        title: Need an Abortion? - National Network of Abortion Funds
+        url: https://abortionfunds.org/need-abortion/#funds
+      17:
+        title: Boulder Valley Women's Health Center: Reproductive & Sexual Health Care Center: Boulder, CO & Longmont, CO
+        url: https://www.boulderwomenshealth.org/
+      18:
+        title: https://www.womensfreedomfund.org
+        url: https://www.womensfreedomfund.org/
+      19:
+        title: Your Donation Matters - Boulder, CO & Longmont, CO: Boulder Valley Women's Health Center
+        url: https://www.boulderwomenshealth.org/contents/donate
+      20:
+        title: New Jersey Abortion Access Fund - New Jersey Abortion Access Fund
+        url: http://njaaf.weebly.com/
+      21:
+        title: Donate to NYAAF | New York Abortion Access Fund
+        url: https://www.nyaaf.org/donate/
+      22:
+        title: Donate Online Today
+        url: https://www.weareplannedparenthood.org/onlineactions/cOJVhOyrzkq4uBcxVekXFA2?unpubredirect=true&sourceid=1000065&affiliateID=091090
+      23:
+        title: ProtectX: We Need to Undo the Dangerous Title X Gag Rule | Planned Parenthood Federation of America Inc. and Planned Parenthood Action Fund, Inc.
+        url: https://www.istandwithpp.org/no-gag-rule
+      24:
+        title: Abortion Funds Are the "Radical Social Safety Net" Women Shouldn't Need — but Do
+        url: https://www.popsugar.com/news/What-Abortion-Funds-What-Do-Do-46309012
+      25:
+        title: Women seeking abortions turn to volunteer network for help - The Washington Post
+        url: https://www.washingtonpost.com/
+      26:
+        title: Need an Abortion? - National Network of Abortion Funds
+        url: https://abortionfunds.org/need-abortion/?emci=bea134e4-f0da-e911-b5e9-2818784d6d68&emdi=d6871323-78dc-e911-b5e9-2818784d6d68&ceid=6428727#funds
+  29:
+    title: 🇯🇵 Fox adventure planning
+    tabs:
+      0:
+        title: 🇯🇵 Japan trip 2020 - Google Docs
+        url: https://docs.google.com/document/d/1Ru_7kuV0Un80C_cYE6XGhgyKug_c9Hi5IbW4Cb9C4Kw/edit#heading=h.mvsgioikqukc
+      1:
+        title: Plan a Cycling Trip in Japan
+        url: https://www.tofugu.com/japan/plan-a-cycling-trip-in-japan/
+      2:
+        title: 2019-12 Ithaca trip - Google Docs
+        url: https://docs.google.com/document/d/1stWjPvblQMbTmeZxtLF50TlBE5VwJjIYozLNvdyiRBw/edit#
+      3:
+        title: Town of Newcomb :: Home
+        url: http://www.newcombny.com/
+  30:
+    title: marxism
+    tabs:
+      0:
+        title: transgender warriors leslie feinberg workers world - Google Search
+        url: https://www.google.com/search?rlz=1C5CHFA_enUS881US881&sxsrf=ALeKk03c4PjOTe43WDdvOQkcuzG5Cr3SoA%3A1585710553005&ei=2AWEXs77PIesytMPi-iL-Ak&q=transgender+warriors+leslie+feinberg+workers+world&oq=transgender+warriors+leslie+feinberg+workers+world&gs_lcp=CgZwc3ktYWIQAzIFCCEQoAEyBQghEKsCMgUIIRCrAjIFCCEQqwI6BAgjECc6BAgAEA06AggAOgUIABDNAjoGCAAQFhAeOggIIRAWEB0QHlCOf1jSkAFg45IBaABwAHgAgAGSAYgBpBGSAQUxMS4xMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwjOx-mRoMboAhUHlnIEHQv0Ap8Q4dUDCAs&uact=5
+      1:
+        title: Amazon.com: Transgender Warriors : Making History from Joan of Arc to Dennis Rodman (9780807079416): Feinberg, Leslie: Books
+        url: https://www.amazon.com/Transgender-Warriors-Making-History-Dennis/dp/0807079413
+      2:
+        title: Caliban and the Witch.pdf
+        url: https://libcom.org/files/Caliban%20and%20the%20Witch.pdf
+      3:
+        title: The Enclosure Act | History of Western Civilization II
+        url: https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-enclosure-act/
+      4:
+        title: Origins of the Family
+        url: https://www.marxists.org/archive/marx/works/1884/origin-family/index.htm
+      5:
+        title: Party for Socialism and Liberation - Wikipedia
+        url: https://en.wikipedia.org/wiki/Party_for_Socialism_and_Liberation
+      6:
+        title: trains run on time fascism - Google Search
+        url: https://www.google.com/search?rlz=1C5CHFA_enUS881US881&sxsrf=ALeKk02sx3zulGARv4Tue1pWQQXVPXHFkA%3A1587423648290&ei=oCmeXqOqEeqFytMP_uOCiAU&q=trains+run+on+time+fascism&oq=trains+run+on+time+fascism&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIIxAnOgQIABBDOggIABCDARCRAjoFCAAQkQI6BQgAEIMBOgoIABCDARAUEIcCOgIIADoECAAQAzoHCAAQFBCHAlDJXFjGd2CzfGgAcAB4AIABgwaIAZwzkgENMC40LjcuNy4xLjEuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwij-qf1jfjoAhXqgnIEHf6xAFEQ4dUDCAw&uact=5
+      7:
+        title: The Invisible Bridge | Bookshare
+        url: https://www.bookshare.org/browse/book/2853710/The%20Invisible%20Bridge
+  31:
+    title: ∑ Math study
+    tabs:
+      0:
+        title: Videos | A 2020 Vision of Linear Algebra | MIT OpenCourseWare
+        url: https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/videos/index.htm
+      1:
+        title: Part 2: The Big Picture of Linear Algebra | Videos | A 2020 Vision of Linear Algebra | MIT OpenCourseWare
+        url: https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/videos/the-big-picture-of-linear-algebra/
+  32:
+    title: Bouldering
+    tabs:
+      0:
+        title: bouldering - Google Search
+        url: https://www.google.com/search?q=bouldering&rlz=1C5CHFA_enUS799US799&oq=bouldering&aqs=chrome..69i57j0l5.1792j0j9&sourceid=chrome&ie=UTF-8
+      1:
+        title: Climbing
+        url: https://www.reddit.com/r/climbing/top/?t=year
+      2:
+        title: Friday New Climber Thread for August 23, 2019: Ask your questions in this thread please : climbing
+        url: https://www.reddit.com/r/climbing/comments/cudtmm/friday_new_climber_thread_for_august_23_2019_ask/
+      3:
+        title: Today my belay partner, best friend, and spouse (they are all the same person!) and I got to teach our daughters class about rock climbing. We had a blast! There were 24 kids in total, and they each got a chance to tie a super 8, hold some quick draws, and climb on the “wall”. : climbing
+        url: https://www.reddit.com/r/climbing/comments/cu6ikc/today_my_belay_partner_best_friend_and_spouse/
+      4:
+        title: Unbelayvable: The Process : climbing
+        url: https://www.reddit.com/r/climbing/comments/cuj2p6/unbelayvable_the_process/
+      5:
+        title: reddit: the front page of the internet
+        url: https://www.reddit.com/user/soupyhands/m/redditclimbing
+      6:
+        title: bouldering
+        url: https://www.reddit.com/r/bouldering/
+      7:
+        title: buildering: climbing where we shouldn't
+        url: https://www.reddit.com/r/buildering/
+      8:
+        title: climb harder - ideas and structured training to get better at climbing
+        url: https://www.reddit.com/r/climbharder/
+      9:
+        title: A place for the women+ climbing community!
+        url: https://www.reddit.com/r/climbergirls/
+      10:
+        title: The fastest growing community of amazing climbers
+        url: https://www.reddit.com/r/ClimbingCircleJerk/
+      11:
+        title: ClimbingPorn; SFW images of the vertical world
+        url: https://www.reddit.com/r/ClimbingPorn/
+      12:
+        title: Routesetters
+        url: https://www.reddit.com/r/Routesetters/
+      13:
+        title: Slackline: A community for all who enjoy the sport
+        url: https://www.reddit.com/r/Slackline/
+      14:
+        title: whats going on the the Recreation Capital of Canada
+        url: https://www.reddit.com/r/Squamish/
+      15:
+        title: Grip Training
+        url: https://www.reddit.com/r/GripTraining/
+      16:
+        title: 9 spotters. 0 shirts. : climbing
+        url: https://www.reddit.com/r/climbing/comments/b10xlq/9_spotters_0_shirts/
+      17:
+        title: Clever girl : toptalent
+        url: https://www.reddit.com/r/toptalent/comments/a3zi9f/clever_girl/
+      18:
+        title: kqxsm_1.jpg (1024×576)
+        url: https://cdn-b-east.streamable.com/image/kqxsm_1.jpg?token=tl4h0ZzIzayPfKujXdC0_w&expires=1541604960
+      19:
+        title: International Federation of Sport Climbing - YouTube
+        url: https://www.youtube.com/user/ifscchannel
+  33:
+    title: Machine learning sound ID
+    tabs:
+      0:
+        title: Bird Buddy: A Smart Bird Feeder by Bird Buddy — Kickstarter
+        url: https://www.kickstarter.com/projects/mybirdbuddy/bird-buddy-a-smart-bird-feeder?ref=enbfgr&utm_source=jellop&ja=z2aimakj&utm_term=001.ja&utm_content=Bird_buddy-CL09&utm_medium=facebook&fbclid=IwAR2ISV7YMNJGFP35O7X8CYEV30lnOTCmm84V_SeZ7YR7-pCcyZsKKu2Wrq8&utm_campaign=1610470349820.b4c8
+      1:
+        title: Hey Siri: An On-device DNN-powered Voice Trigger for Apple’s Personal Assistant - Apple Machine Learning Research
+        url: https://machinelearning.apple.com/research/hey-siri
+      2:
+        title: training imagenet on colab - Google Search
+        url: https://www.google.com/search?q=training+imagenet+on+colab&rlz=1C5CHFA_enUS881US881&oq=training+imagenet+on+colab&aqs=chrome..69i57j0l6j0i395l3.2601j1j7&sourceid=chrome&ie=UTF-8
+      3:
+        title: dynamic routing between capsules - Google Search
+        url: https://www.google.com/search?q=dynamic+routing+between+capsules&rlz=1C5CHFA_enUS881US881&oq=dynamic+routing+between+capsules&aqs=chrome.0.0l3j0i22i30i395l7.3841j1j7&sourceid=chrome&ie=UTF-8
+      4:
+        title: ICA - Google Search
+        url: https://www.google.com/search?q=ICA&rlz=1C5CHFA_enUS881US881&oq=ICA&aqs=chrome..69i57j46i131i433j0i67i433l2j0i67j0i67i433j0i67l2j0i131i433.777j1j7&sourceid=chrome&ie=UTF-8
+      5:
+        title: PANNs large scale pretrained audio neural networks - Google Search
+        url: https://www.google.com/search?q=PANNs+large+scale+pretrained+audio+neural+networks&rlz=1C5CHFA_enUS881US881&oq=PANNs+large+scale+pretrained+audio+neural+networks&aqs=chrome..69i57j0i22i30.6317j1j7&sourceid=chrome&ie=UTF-8
+      6:
+        title: audioset_tagging_cnn/models.py at master · qiuqiangkong/audioset_tagging_cnn
+        url: https://github.com/qiuqiangkong/audioset_tagging_cnn/blob/master/pytorch/models.py
+      7:
+        title: Bird vocalization - Wikipedia
+        url: https://en.wikipedia.org/wiki/Bird_vocalization#:~:text=The%20distinction%20between%20songs%20and,of%20a%20flock%20in%20contact.
+      8:
+        title: A Beginner’s Guide to Common Bird Sounds and What They Mean | Audubon
+        url: https://www.audubon.org/news/a-beginners-guide-common-bird-sounds-and-what-they-mean
+      9:
+        title: models/research/audioset/yamnet at master · tensorflow/models
+        url: https://github.com/tensorflow/models/tree/master/research/audioset/yamnet
+      10:
+        title: Hann function - Wikipedia
+        url: https://en.wikipedia.org/wiki/Hann_function
+      11:
+        title: You have new messages… 👀 | Visipedia | Slack
+        url: https://app.slack.com/client/T2LTQ6AHW/D2MECLT2B
+    notes:
+      0:
+        title:
+  34:
+    title: Wiseguy Hypnotherapy Course
+    tabs:
+      0:
+        title: Slack | fall_2020 | Wiseguy's Professional Certification Class
+        url: https://app.slack.com/client/T13D98E67/G018P1K5BV4
+      1:
+        title: 2020 Fall - Google Drive
+        url: https://drive.google.com/drive/u/0/folders/1GMs5mrOfKHSPzcpIGj96gtF2LFHSM9QR
+      2:
+        title: Kindle Cloud Reader
+        url: https://read.amazon.com/
+    resources:
+      0:
+        title: 2020 Fall
+        url: https://drive.google.com/drive/u/0/folders/1GMs5mrOfKHSPzcpIGj96gtF2LFHSM9QR
+      1:
+        title: https://us02web.zoom.us/j/89383945940?pwd=V05uODkvWWxrL3c1Y1pMMmo1UEZ2QT09
+        url: https://us02web.zoom.us/j/89383945940?pwd=V05uODkvWWxrL3c1Y1pMMmo1UEZ2QT09#success
+      2:
+        title: sleepyhead
+        url: https://app.slack.com/client/T13D98E67/D01AK0REA1F
+    notes:
+      0:
+        title:
+  35:
+    title: ✍🏻Writing skills
+    tabs:
+      0:
+        title: soft question - What are the benefits of writing vector inner products as $\langle u, v\rangle$ as opposed to $u^T v$? - MathOverflow
+        url: https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118
+      1:
+        title: Design Docs at Google
+        url: https://www.industrialempathy.com/posts/design-docs-at-google/
+      2:
+        title: It's time to start writing
+        url: https://alexnixon.github.io/2019/12/10/writing.html
+    notes:
+      0:
+        title:
+  36:
+    title: 🧧 Financial planning
+    tabs:
+      0:
+        title: You're now signed out | Simple
+        url: https://bank.simple.com/signed-out
+      1:
+        title: Getting Rich: from Zero to Hero in One Blog Post
+        url: https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/
+      2:
+        title: What is Stoicism and How Can it Turn your Life to Solid Gold?
+        url: https://www.mrmoneymustache.com/2011/10/02/what-is-stoicism-and-how-can-it-turn-your-life-to-solid-gold/
+      3:
+        title: Is it Convenient? Would I Enjoy it? Wrong Question.
+        url: https://www.mrmoneymustache.com/2012/09/18/is-it-convenient-would-i-enjoy-it-wrong-question/
+      4:
+        title: Meet Mr. Money Mustache
+        url: https://www.mrmoneymustache.com/2011/04/06/meet-mr-money-mustache/
+      5:
+        title: Are You Cleaning Out Your Own Wallet?
+        url: https://www.mrmoneymustache.com/2013/12/30/are-you-cleaning-out-your-own-wallet/
+      6:
+        title: A Millionaire is Made Ten Bucks at a Time
+        url: https://www.mrmoneymustache.com/2011/08/01/a-millionaire-is-made-ten-bucks-at-a-time/
+      7:
+        title: The Shockingly Simple Math Behind Early Retirement
+        url: https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/
+      8:
+        title: The 4% Rule: The Easy Answer to “How Much Do I Need for Retirement?”
+        url: https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/
+      9:
+        title: Killing your $1000 Grocery Bill
+        url: https://www.mrmoneymustache.com/2012/03/29/killing-your-1000-grocery-bill/
+      10:
+        title: MMM Classics
+        url: https://www.mrmoneymustache.com/category/mmm-classics/
+  37:
+    title: 🌅 Daily Morning Tasks
+    tabs:
+      0:
+        title: Lose It! - Home
+        url: https://loseit.com/
+      1:
+        title: Budget | Kimmy's Budget | YNAB
+        url: https://app.youneedabudget.com/aa0467a8-54d1-460d-b6d6-c2f49a65c8c9/budget/202103
+      2:
+        title: You're now signed out | Simple
+        url: https://bank.simple.com/signed-out
+      3:
+        title: BWF Primer Build-up Community Event: Day 8 : bodyweightfitness
+        url: https://www.reddit.com/r/bodyweightfitness/comments/kt7ucj/bwf_primer_buildup_community_event_day_8/
+      4:
+        title: Squats – Nick-E.com
+        url: https://www.nick-e.com/squat/
+      5:
+        title: Inverted Rows – Nick-E.com
+        url: https://www.nick-e.com/row/
+    notes:
+      0:
+        title:
+  38:
+    title: ropework
+    tabs:
+      0:
+        title: Lark's Head Single Column – Crash Restraint
+        url: https://crash-restraint.com/ties/19
+      1:
+        title: List of Ties – Crash Restraint
+        url: https://crash-restraint.com/ties
+      2:
+        title: Reverse Somerville Bowline – Crash Restraint
+        url: https://crash-restraint.com/ties/128
+      3:
+        title: Captured Overhand Cuff – Crash Restraint
+        url: https://crash-restraint.com/ties/225
+      4:
+        title: Collapsed Lark's Head Hair Tie – Crash Restraint
+        url: https://crash-restraint.com/ties/47
+      5:
+        title: Slipped Somerville Bowline – Crash Restraint
+        url: https://crash-restraint.com/ties/71
+      6:
+        title: Rope Material Selection – Crash Restraint
+        url: https://crash-restraint.com/ties/2#cotton
+      7:
+        title: Double Half Hitch Second Column – Crash Restraint
+        url: https://crash-restraint.com/ties/117
+  39:
+    title: SRB2Kart mods
+    tabs:
+      0:
+        title: Cloning a function in Lua
+        url: https://leafo.net/guides/function-cloning-in-lua.html
+      1:
+        title: Implementing setfenv in Lua 5.2, 5.3, and above
+        url: https://leafo.net/guides/setfenv-in-lua52-and-above.html
+  40:
+    title: 🦜 Bird calls
+    tabs:
+      0:
+        title: Rainey Park (Queens Co.) | eBird Hotspots | eBird
+        url: https://ebird.org/hotspot/L6563971
+      1:
+        title: European Starling - Media Search - eBird and Macaulay Library
+        url: https://ebird.org/media/catalog?taxonCode=eursta&mediaType=a&sort=rating_rank_desc&q=European%20Starling
+      2:
+        title: Binoculars and Beyond: Nine Tips for Beginning Bird Watchers | All About Birds All About Birds
+        url: https://www.allaboutbirds.org/news/binoculars-and-beyond-nine-tips-for-beginning-bird-watchers/
+      3:
+        title: Bird Song Hero
+        url: https://academy.allaboutbirds.org/features/bird-song-hero/bird-song-hero-tutorial
+      4:
+        title: Bird Song Hero
+        url: https://academy.allaboutbirds.org/features/bird-song-hero/bird-song-hero-tutorial
+      5:
+        title: Turn birds into Anki deck.ipynb - Colaboratory
+        url: https://colab.research.google.com/drive/1HCJX9YdmPW2uRV-8mFLRK6pjMisyZQTv#scrollTo=LzWcqWCvar3L
+      6:
+        title: northern mockingbird - YouTube
+        url: https://www.youtube.com/results?search_query=northern+mockingbird&page=&utm_source=opensearch
+      7:
+        title: What Does A Dawn Chorus of Bird Song "Look" Like? | All About Birds All About Birds
+        url: https://www.allaboutbirds.org/news/what-does-a-dawn-chorus-of-bird-song-look-like/
+      8:
+        title: Our Review: Best iPhone Apps for Learning Bird Songs | All About Birds All About Birds
+        url: https://www.allaboutbirds.org/news/our-review-best-iphone-apps-for-learning-bird-songs/
+      9:
+        title: European Starling Overview, All About Birds, Cornell Lab of Ornithology
+        url: https://www.allaboutbirds.org/guide/European_Starling
+      10:
+        title: 2015-10-11 Train on CUB-200-2011 extract NABirds sweet and bitter.ipynb - Google Drive
+        url: https://drive.google.com/file/d/1RLKUNcaMttKW6z1IH6u2WcrAbF4PWC8b/view
+      11:
+        title: 2015-10-11 Train on CUB-200-2011 extract NABirds sweet and bitter.ipynb - Colaboratory
+        url: https://colab.research.google.com/drive/1RLKUNcaMttKW6z1IH6u2WcrAbF4PWC8b
+      12:
+        title: Searching, PDF Reading & Note-Taking in Add Dialog - AnkiWeb
+        url: https://ankiweb.net/shared/info/1781298089
+      13:
+        title: Kimmy Team - Calendar - Week of April 12, 2020
+        url: https://calendar.google.com/calendar/r
+      14:
+        title: xeno-canto :: Sharing bird sounds from around the world
+        url: https://www.xeno-canto.org/
+      15:
+        title: BirdCLEF 2020 | ImageCLEF / LifeCLEF - Multimedia Retrieval in CLEF
+        url: https://www.imageclef.org/BirdCLEF2020
+      16:
+        title: Choosing recording gear – Macaulay Library
+        url: https://www.macaulaylibrary.org/resources/audio-recording-gear/
+      17:
+        title: Macaulay Library Audio Gear Review – Macaulay Library
+        url: https://www.macaulaylibrary.org/resources/audio-recording-gear/gear-review-2019/
+  41:
+    title: mindfulness, hypnosis, etc
+    tabs:
+      0:
+        title: Maria Theresia von Paradis - Wikipedia
+        url: https://en.wikipedia.org/wiki/Maria_Theresia_von_Paradis
+      1:
+        title: blanche whiwittman - Google Search
+        url: https://www.google.com/search?q=blanche+whiwittman&rlz=1C5CHFA_enUS881US881&oq=blanche+whiwittman&aqs=chrome..69i57j0l7.3113j0j1&sourceid=chrome&ie=UTF-8
+      2:
+        title: louise augustine gleizes - Google Search
+        url: https://www.google.com/search?q=louise+augustine+gleizes&rlz=1C5CHFA_enUS881US881&oq=louise+augustine+gleizes&aqs=chrome..69i57j0l2.4733j0j1&sourceid=chrome&ie=UTF-8
+      3:
+        title: The Secret Subject — Please post (or link to) your Charmed class notes?...
+        url: https://notthesecretsubject.tumblr.com/post/182209379586/please-post-or-link-to-your-charmed-class-notes
+      4:
+        title: Ella Enchanting | Free Listening on SoundCloud
+        url: https://soundcloud.com/ella-enchanting
+      5:
+        title: Self-Hypnosis - Relaxation Techniques | SkillsYouNeed
+        url: https://www.skillsyouneed.com/ps/self-hypnosis.html
+      6:
+        title: How to Perform Self Hypnosis (with Pictures) - wikiHow
+        url: https://www.wikihow.com/Perform-Self-Hypnosis
+      7:
+        title: LOOK HERE -> Check this thread before posting : hypnosis
+        url: https://www.reddit.com/r/hypnosis/comments/80fyjj/look_here_check_this_thread_before_posting/
+      8:
+        title: Erotic Hypnosis
+        url: https://www.reddit.com/r/EroticHypnosis/
+      9:
+        title: Weird sleep thing happened to me.. : hypnosis
+        url: https://www.reddit.com/r/hypnosis/comments/cg5gyk/weird_sleep_thing_happened_to_me/
+      10:
+        title: Random thoughts about hypnosis when I woke up this morning : hypnosis
+        url: https://www.reddit.com/r/hypnosis/comments/cg2kbd/random_thoughts_about_hypnosis_when_i_woke_up/
+      11:
+        title: How to do self hypnosis+stories : hypnosis
+        url: https://www.reddit.com/r/hypnosis/comments/cce0ie/how_to_do_self_hypnosisstories/
+      12:
+        title: Master Self Hypnosis in a weekend : hypnosis
+        url: https://www.reddit.com/r/hypnosis/comments/bvkymh/master_self_hypnosis_in_a_weekend/
+      13:
+        title: How to Teach Self Hypnosis to Autistic People : notdisneyvacation
+        url: https://www.reddit.com/r/notdisneyvacation/comments/a61ig7/how_to_teach_self_hypnosis_to_autistic_people/
+      14:
+        title: Ella Enchanting | Free Listening on SoundCloud
+        url: https://soundcloud.com/ella-enchanting
+    notes:
+      0:
+        title:
+  42:
+    title: ✏️ Drawing
+    tabs:
+      0:
+        title: Character Art School: Complete Character Drawing Course | Udemy
+        url: https://www.udemy.com/character-art-school-complete-character-drawing/learn/lecture/7321636#overview
+      1:
+        title: Official Tips & Tutorials | CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/official
+      2:
+        title: Learning the Basic Operations and Tools of Clip Studio [Getting Started with Clip Studio Paint #2] by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/articles/1248
+      3:
+        title: TIPS overview for [[iPad] Learn the basics of CLIP STUDIO PAINT] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/12
+      4:
+        title: Making Your First Illustration in Clip Studio Paint [Clip Studio Paint Beginners Tutorial #1] by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/articles/1250
+      5:
+        title: TIPS overview for [Drawing an Illustration: Basic Guide] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/9
+      6:
+        title: TIPS overview for [Drawing an Illustration: Advanced Guide] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/10
+      7:
+        title: TIPS overview for [Making Your First Digital Comic] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/127
+      8:
+        title: TIPS overview for [Monochrome Manga Guide [PRO/EX]] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/1
+      9:
+        title: TIPS overview for [Color Manga Guide [PRO/EX]] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/3
+      10:
+        title: Freely adjusting the line! Draw on a vector layer [Recommended Clip Studio Paint functions to test out #3] by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/articles/1255
+      11:
+        title: Use 3D drawing figures to draw challenging poses! [Recommended Clip Studio Paint functions to test out #8] by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/articles/1260
+      12:
+        title: TIPS overview for [Professional illustration process: Seiji YOSHIDA] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/110
+      13:
+        title: Painting hair with a glossy effect [Drawing Tutorials by Palmie #1] by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/articles/1223
+      14:
+        title: TIPS overview for [Speech balloons/text] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/65
+      15:
+        title: TIPS overview for [Manga tones] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/13
+      16:
+        title: TIPS overview for [Manga borders/frames] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/24
+      17:
+        title: TIPS overview for [Figures/effect lines] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/84
+      18:
+        title: TIPS overview for [Let's make materials!] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/7
+      19:
+        title: TIPS overview for [3D controls] series by ClipStudioOfficial - CLIP STUDIO TIPS
+        url: https://tips.clip-studio.com/en-us/series/55
+  43:
+    title: 👩🏻‍🎤 Music
+    tabs:
+      0:
+        title: Celeste: Farewell (Original Soundtrack) | Lena Raine
+        url: https://radicaldreamland.bandcamp.com/album/celeste-farewell-original-soundtrack
+      1:
+        title: Poké & Chill | GameChops
+        url: https://music.gamechops.com/album/pok-chill
+      2:
+        title: Chicory: An Afternoon in Luncheon | Lena Raine
+        url: https://radicaldreamland.bandcamp.com/album/chicory-an-afternoon-in-luncheon
+      3:
+        title: Chicory: A Colorful Tale by Greg Lobanov — Kickstarter
+        url: https://www.kickstarter.com/projects/greglobanov/chicory-a-colorful-tale
+      4:
+        title: ZED (Original Game Soundtrack) | Materia Collective
+        url: https://materiacollective.bandcamp.com/album/zed-original-game-soundtrack
+      5:
+        title: musicForProgramming("53: Beb Welten");
+        url: http://musicforprogramming.net/?fiftythree
+      6:
+        title: A STRANGELY ISOLATED PLACE
+        url: http://www.astrangelyisolatedplace.com/
+  44:
+    title: '
+    notes:
+      0:
+        title:
+  45:
+    title: TMIAG resources
+  46:
+    title: newsdive
+    tabs:
+      0:
+        title: Tech Support
+        url: https://techsupport.substack.com/archive?sort=new
+      1:
+        title: Issue #14: is SF over? - Tech Support
+        url: https://techsupport.substack.com/p/issue-14-is-sf-over
+      2:
+        title: Google’s internal activism is spreading across tech companies - The Verge
+        url: https://www.theverge.com/interface/2019/8/14/20804403/google-walkout-legacy-activism-microsoft-amazon
+      3:
+        title: How the Google employee walkout turned tech workers into activists - Los Angeles Times
+        url: https://www.latimes.com/business/technology/story/2019-11-06/google-employee-walkout-tech-industry-activism
+      4:
+        title: Is Google a Good Place to Work as a Trans Person?
+        url: https://www.tribecca.dev/post/is-google-a-good-place-to-work-as-a-trans-person
+      5:
+        title: Liz Fong-Jones (方禮真) on Twitter: "With all due respect, Dr. Schmidt, why kiss the ring? The amount of Wall Street influence is wretched cc @Pinboard @TechSolidarity https://t.co/vtAxshCwMQ" / Twitter
+        url: https://twitter.com/lizthegrey/status/819641822125453312
+      6:
+        title: https://twitter.com/i/events/1358200430401060865
+        url: https://twitter.com/i/events/1358200430401060865
+      7:
+        title: (3) Brian Fitzpatrick on Twitter: "I just published “How to Ask a Busy Executive for Anything” https://t.co/Zst5yS7s95" / Twitter
+        url: https://twitter.com/therealfitz/status/973608347072188416
+      8:
+        title: How to Ask a Busy Executive for Anything | by Brian Fitzpatrick | Medium
+        url: https://medium.com/@therealfitz/how-to-ask-a-busy-executive-for-anything-e40291ebf066
+      9:
+        title: Post-Tech Radio Pre-Appearance Questionnaire
+        url: https://form.jotform.com/210248083207044
+      10:
+        title: Post-Tech Radio Guest Experience Questionnaire
+        url: https://form.jotform.com/210286842285156
+      11:
+        title: Glitch + AWU solidarity - When2meet
+        url: https://www.when2meet.com/?10955651-WLuYy
+      12:
+        title: https://twitter.com/crschmidt/status/1357439888191328256
+        url: https://twitter.com/crschmidt/status/1357439888191328256
+      13:
+        title: Merlin Sound ID Research - Google Drive
+        url: https://drive.google.com/drive/folders/1ppsTYL9Tl2l9WIiDX_KDdOemXNxz_fIA
+      14:
+        title: #BGSDlist is back! | Milkfed Criminal Masterminds
+        url: https://milkfed.us/events/bgsdlist-is-back/
+      15:
+        title: https://twitter.com/kessjrause/status/1356852894889172992
+        url: https://twitter.com/kessjrause/status/1356852894889172992
+      16:
+        title: Quarterly topics - Org-roam
+        url: https://org-roam.discourse.group/top/quarterly
+      17:
+        title: Roam Research: Why I Love It and How I Use It - Nat Eliason
+        url: https://www.nateliason.com/blog/roam
+      18:
+        title: How to Take Better Notes Using Roam Research | by Blake Reichmann | Medium
+        url: https://blakereichmann.medium.com/take-better-notes-roam-research-b02a1908cbd5
+      19:
+        title: How to use Roam Research: a tool for metacognition - Ness Labs
+        url: https://nesslabs.com/roam-research
+      20:
+        title: Roam Research: Why I Love It and How I Use It - Nat Eliason
+        url: https://www.nateliason.com/blog/roam#crm
+      21:
+        title: Using the Mapping API (The Org Manual)
+        url: https://orgmode.org/manual/Using-the-Mapping-API.html
+      22:
+        title: Glitch + AWU solidarity - When2meet
+        url: https://www.when2meet.com/?10955651-WLuYy
+      23:
+        title: Blue- and Yellow-Tinted Choices - LessWrong
+        url: https://www.lesswrong.com/posts/kjArXFinD3deRZNRu/blue-and-yellow-tinted-choices
+      24:
+        title: A 'Practice of Rationality' Sequence? - LessWrong
+        url: https://www.lesswrong.com/posts/wccxMtZdEvHzLRNTZ/a-practice-of-rationality-sequence
+      25:
+        title: Leaving LessWrong for a more rational life - LessWrong
+        url: https://www.lesswrong.com/posts/Ld9dFLuGg7wTh4CdX/leaving-lesswrong-for-a-more-rational-life
+      26:
+        title: How to Agitate Politically Without Jeopardizing Your Job
+        url: https://lifehacker.com/how-to-agitate-politically-without-jeopardizing-your-jo-1795468846
+      27:
+        title: On the Role of Agitation and Propaganda
+        url: https://www.marxists.org/history/erol/ncm-8/rcp-agit-prop.htm
+      28:
+        title: Anti-Soviet agitation - Wikipedia
+        url: https://en.wikipedia.org/wiki/Anti-Soviet_agitation
+      29:
+        title: Netflix's Annual Reports (10-Ks) used to be a work of art. What happened? | Hacker News
+        url: https://news.ycombinator.com/item?id=26043294
+      30:
+        title: Mt. Gox demise as told by a Bitcoin insider | Hacker News
+        url: https://news.ycombinator.com/item?id=26042793
+      31:
+        title: Spyder – a free and open source scientific environment written in Python | Hacker News
+        url: https://news.ycombinator.com/item?id=26040234
+      32:
+        title: Modifying Telegram's “People Nearby” feature to pinpoint people's homes | Hacker News
+        url: https://news.ycombinator.com/item?id=26036613
+      33:
+        title: 8 Bits Are Enough for a Version Number | Hacker News
+        url: https://news.ycombinator.com/item?id=26037687
+      34:
+        title: Show HN: QuikPub – Write, Publish and Share rich text via short URLs | Hacker News
+        url: https://news.ycombinator.com/item?id=26035551
+      35:
+        title: Write, Publish and Share in Seconds with QuikPub
+        url: https://quikpub.co/
+      36:
+        title: When I make a deck a sub-deck, the number of new cards changes. / Anki Archive / Discussion Area - AnkiMobile/AnkiWeb Support
+        url: https://anki.tenderapp.com/discussions/ankidesktop/8605-when-i-make-a-deck-a-sub-deck-the-number-of-new-cards-changes#comment_34036393
+      37:
+        title: polar reader - Google Search
+        url: https://www.google.com/search?q=polar+reader&rlz=1C5CHFA_enUS881US881&oq=polar+reader&aqs=chrome..69i57j0i22i30l9.2980j0j7&sourceid=chrome&ie=UTF-8
+      38:
+        title: Orbit
+        url: https://withorbit.com/
+      39:
+        title: Why books donʼt work | Andy Matuschak
+        url: https://andymatuschak.org/books/
+      40:
+        title: Timeful Texts
+        url: https://numinous.productions/timeful/
+      41:
+        title: How can I get the source directory of a Bash script from within the script itself? - Stack Overflow
+        url: https://stackoverflow.com/questions/59895/how-can-i-get-the-source-directory-of-a-bash-script-from-within-the-script-itsel
+      42:
+        title: Git - Git Hooks
+        url: https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
+      43:
+        title: Deploy keys
+        url: https://github.com/gcr/Worksync/settings/keys
+      44:
+        title: org-roam/org-roam.el at master · org-roam/org-roam
+        url: https://github.com/org-roam/org-roam/blob/master/org-roam.el
+      45:
+        title: What does it feel like to work with 10,000 notes in Org-roam: Benchmarking Org-roam's search methods - Development - Org-roam
+        url: https://org-roam.discourse.group/t/what-does-it-feel-like-to-work-with-10-000-notes-in-org-roam-benchmarking-org-roams-search-methods/227
+      46:
+        title: What does it feel like to work with 10,000 notes in Org-roam: Benchmarking Org-roam's search methods - Development - Org-roam
+        url: https://org-roam.discourse.group/t/what-does-it-feel-like-to-work-with-10-000-notes-in-org-roam-benchmarking-org-roams-search-methods/227
+      47:
+        title: timestamps - Compare two file modification dates - Unix & Linux Stack Exchange
+        url: https://unix.stackexchange.com/questions/372857/compare-two-file-modification-dates
+      48:
+        title: Helm or ivy? : emacs
+        url: https://www.reddit.com/r/emacs/comments/51lqn9/helm_or_ivy/
+      49:
+        title: Ivy to Helm
+        url: https://archive.casouri.cat/note/2018/ivy-to-helm/index.html#:~:text=Helm%20uses%20window%20or%20a,the%20bottom%20of%20the%20frame.
+      50:
+        title: Why do you use Helm over Ivy? : emacs
+        url: https://www.reddit.com/r/emacs/comments/axzpu2/why_do_you_use_helm_over_ivy/
+      51:
+        title: Ido vs helm vs ivy? Which is ones are the best? : emacs
+        url: https://www.reddit.com/r/emacs/comments/c0gt96/ido_vs_helm_vs_ivy_which_is_ones_are_the_best/
+      52:
+        title: S2E2: How Low Can TPUSA Go? (feat. Seven Surack) by Newsdive • A podcast on Anchor
+        url: https://anchor.fm/newsdive/episodes/S2E2-How-Low-Can-TPUSA-Go--feat--Seven-Surack-eotmkc
+      53:
+        title: The Feminine Physique: On Women's Bodybuilding | Hacker News
+        url: https://news.ycombinator.com/item?id=26056934
+      54:
+        title: (30) Fundamentals of Marx: Dialectics - YouTube
+        url: https://www.youtube.com/watch?v=GNHzVeC7jeY&feature=youtu.be
+      55:
+        title: lazyblorg ID links - Google Search
+        url: https://www.google.com/search?safe=active&rlz=1C5CHFA_enUS881US881&ei=EGchYIL-Du6f_QamoIJ4&q=lazyblorg+ID+links&oq=lazyblorg+ID+links&gs_lcp=CgZwc3ktYWIQAzoHCAAQRxCwAzoECAAQDToGCAAQDRAeOgcIIRAKEKABOgUIIRCrAlDGIFjaLGCnL2gBcAJ4AoABgQOIAdATkgEHMC40LjMuM5gBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwiCxv722truAhXuT98KHSaQAA8Q4dUDCA0&uact=5
+      56:
+        title: novoid/lazyblorg: Blogging with Org-mode for very lazy people
+        url: https://github.com/novoid/lazyblorg
+    notes:
+      0:
+        title:
+  47:
+    title: scifi
+    tabs:
+      0:
+        title: Kindle Cloud Reader
+        url: https://read.amazon.com/?asin=B0778NSNLK
+      1:
+        title: Starfish by Peter Watts
+        url: https://rifters.com/real/STARFISH.htm
+      2:
+        title: Maelstrom by Peter Watts
+        url: https://rifters.com/real/MAELSTROM.htm
+      3:
+        title: Behemoth by Peter Watts
+        url: https://rifters.com/real/Behemoth.htm
+      4:
+        title: Sunflower Cycle Series by Peter Watts | Goodreads
+        url: https://www.goodreads.com/series/168556-sunflower-cycle
+      5:
+        title: The Long Way to a Small, Angry Planet (Wayfarers): Becky Chambers: 9780062444134: Amazon.com: Books
+        url: https://www.amazon.com/Long-Small-Angry-Planet-Wayfarers/dp/0062444131/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=phoff9001-20&linkId=cd69f94713f1ea9438ac0e744579c3e6&language=en_US
+      6:
+        title: [SPOILERS] Discussion of 'The Freeze-Frame Revolution' by Peter Watts (and its hidden message) : printSF
+        url: https://www.reddit.com/r/printSF/comments/8omjxm/spoilers_discussion_of_the_freezeframe_revolution/
+      7:
+        title: Araneus
+        url: https://rifters.com/Eriophora-Root-Archive-Log-Ahzmundin--frag/derelict.htm
+      8:
+        title: The Tea Master and the Detective | Bookshare
+        url: https://www.bookshare.org/browse/book/2072264?returnPath=L3NlYXJjaD9tb2R1bGVOYW1lPXB1YmxpYyZrZXl3b3JkPVRoZSBUZWEgTWFzdGVyIGFuZCB0aGUgRGV0ZWN0aXZl
+      9:
+        title: Medusa Uploaded | Bookshare
+        url: https://www.bookshare.org/browse/book/2068837?returnPath=L3NlYXJjaD9tb2R1bGVOYW1lPXB1YmxpYyZrZXl3b3JkPW1lZHVzYSB1cGxvYWRlZA%3D%3D
+      10:
+        title: Amazon.com: The Tea Master and the Detective
+        url: https://www.amazon.com/s?k=The+Tea+Master+and+the+Detective&ref=nb_sb_noss_2
+      11:
+        title: Thank You
+        url: https://www.amazon.com/kindle-dbs/thankYouPage?_encoding=UTF8&a=A0771605TTNISTYWIBNR&accessorCustomerId=&action=&addNarration=0&asin=B07B9NR661&audibleAsin=&audibleOurPrice=&badDebtOrders=&cor=US&displayedPrice=4.99&eoi=ABP14PRP6U23T&giftSentNow=&groupId=&hasPromotion=false&homeMarketplaceId=ATVPDKIKX0DER&isEbookShared=0&isExtendedMarketplace=&isSeriesPurchase=0&noDevicePurchaseAllowed=&o=D01-1369961-9165040&offerListingID=tKj52YUHaXFG4ejV2L2hNq6F2SZXi1mdTdK3kLgj3b8Lap1ZpPWmunMG50CYagNqh1cbS3Zuu3vTUA1eamZwvF%252FIkiuEnHe72Swth26CPIVMQhBba3LizVio%252FKr633onNZD84Z26MwyANYAecr2MShUp3bU8%252BxJE&orderConfirmationTime=&originSessionId=&paymentInstrumentType=&paymentPlanID=&pointsEarned=&ppAuthorizationRequired=&rateQuoteID=&redirectionBankName=&returnToPage=%2Fkindle-dbs%2FthankYouPage&selectedPriceName=&seriesFirstChildAsin=&subtype=STANDARD
+      12:
+        title: A Big Ship at the Edge of the Universe | Bookshare
+        url: https://www.bookshare.org/browse/book/2691785?returnPath=L3NlYXJjaD9tb2R1bGVOYW1lPXB1YmxpYyZrZXl3b3JkPUEgQmlnIFNoaXAgYXQgdGhlIEVkZ2Ugb2YgdGhlIFVuaXZlcnNl
+    notes:
+      0:
+        title:
+  48:
+    title: Intuitive Eating
+    tabs:
+      0:
+        title: Intuitive eating journal
+        url: https://docs.google.com/document/d/1Rs7xvRXpXh97w4ecweJQDjfWaCYkNvna53785FaG44c/edit#
+      1:
+        title: Kindle Cloud Reader
+        url: https://read.amazon.com/
+      2:
+        title: Diary cards - Google Sheets
+        url: https://docs.google.com/spreadsheets/d/1ev14xupxV_CeZgqaR-2zCI4nRi333wUweIGNs3K93vM/edit#gid=0
+    resources:
+      0:
+        title: I am a Registered Dietitian and Founder of LK Nutrition, a non-diet nutrition counseling practice in NYC
+        url: https://elpha.com/posts/ar1d2mrk/i-am-a-registered-dietitian-and-founder-of-lk-nutrition-a-non-diet-nutrition-counseling-practice-in-nyc-lindsay-krasna
+      1:
+        title: Intuitive eating journal - Google Docs
+        url: https://docs.google.com/document/d/1Rs7xvRXpXh97w4ecweJQDjfWaCYkNvna53785FaG44c/edit#
+      2:
+        title: Articles | Intuitive Eating
+        url: https://www.intuitiveeating.org/resources/articles/
+      3:
+        title: Kindle Cloud Reader
+        url: https://read.amazon.com/
+      4:
+        title: 10 Principles of Intuitive Eating | Intuitive Eating
+        url: https://www.intuitiveeating.org/10-principles-of-intuitive-eating/
+      5:
+        title: Intuitive Eating: The Diet That Tells You to Quit Dieting - The Atlantic
+        url: https://www.theatlantic.com/health/archive/2019/02/intuitive-eating/583357/
+      6:
+        title: Psychologist Jennifer Taitz's Timely Antidote to Emotional Eating | HuffPost Life
+        url: https://www.huffpost.com/entry/emotional-eating_b_2044738?guccounter=1
+      7:
+        title: 7 Things I Learned During My First Week of Intuitive Eating
+        url: https://www.healthline.com/health/my-first-week-of-intuitive-eating#1
+      8:
+        title: What Does Intuitive Eating Mean? | National Eating Disorders Association
+        url: https://www.nationaleatingdisorders.org/blog/what-does-intuitive-eating-mean
+      9:
+        title: A Quick Guide to Intuitive Eating
+        url: https://www.healthline.com/nutrition/quick-guide-intuitive-eating#section1
+      10:
+        title: How to Get Over Your Sugar Addiction | Psychology Today
+        url: https://www.psychologytoday.com/us/blog/shrink/201209/how-get-over-your-sugar-addiction
+      11:
+        title: Diary cards - Google Sheets
+        url: https://docs.google.com/spreadsheets/d/1ev14xupxV_CeZgqaR-2zCI4nRi333wUweIGNs3K93vM/edit
+      12:
+        title: Sugar Addiction - How to Stop Eating Sugar
+        url: https://www.elle.com/beauty/health-fitness/advice/a2502/sugar-addiction/
+      13:
+        title: What Is Intuitive Eating and How Is It Different From Mindful Eating?
+        url: https://alissarumsey.com/intuitive-eating/what-is-intuitive-eating/
+  49:
+    title: 👗 Fashion
+    tabs:
+      0:
+        title: Your AliExpress Shopping Cart - Buy Directly From China
+        url: https://shoppingcart.aliexpress.com/order/payOnlineSuccess.htm?orderIds=103851260357332&paymentMethod=&accountNo=undefined&countryCode=undefined&mobileNo=undefined&paymentCode=undefined&barcode=undefined&email=undefined&imageUrl=undefined
+      1:
+        title: Gloves | For Fingers As Stylish As Your Toes | Sock Dreams
+        url: https://www.sockdreams.com/accessories/gloves.html
+      2:
+        title: HIIDE
+        url: https://hiide.com/
+      3:
+        title: Svaha USA
+        url: https://svahausa.com/
+      4:
+        title: Maya Kern's Store – Just a little store for my merchandise!
+        url: https://store.mayakern.com/
+      5:
+        title: Melody Sage (@mzmelodymagic) • Instagram photos and videos
+        url: https://www.instagram.com/mzmelodymagic/?igshid=uyeds8pinjm6
+      6:
+        title: Elyse Dress | Black – HIIDE
+        url: https://hiide.com/collections/clothing/products/elyse-dress-black
+      7:
+        title: Access Denied
+        url: https://docs.google.com/document/d/1mjeuVmZjBitDkKtcH9wh03k-_uCfQ4KNrBaNWAoMZpQ/edit#heading=h.ndevfo1o0vyc
+      8:
+        title: Damascus Apparel - Ascend Together
+        url: https://damascusapparel.com/
+      9:
+        title: Corporette.com - A work fashion blog offering fashion, lifestyle, and career advice for overachieving chicks
+        url: https://corporette.com/
+      10:
+        title: Universal Standard
+        url: https://www.universalstandard.com/
+      11:
+        title: Y2K Aesthetic Institute
+        url: https://y2kaestheticinstitute.tumblr.com/
+      12:
+        title: LeoLines by LeoLines on Etsy
+        url: https://www.etsy.com/shop/leolines
+      13:
+        title: LASHINBANG STORES | らしんばん
+        url: https://www.lashinbang.com/special/1748/
+      14:
+        title: Shop Women's Shorts Online | Cute Casual & Basic Shorts | YesStyle
+        url: https://www.yesstyle.com/en/women-shorts/list.html/bcc.14092_bpt.46#/sb=136&s=10&l=1&snt=3&bcc=14092&pn=2&bt=37&bpt=46
+      15:
+        title: Buy Sisyphi Cropped Short-Sleeve T-Shirt / Asymmetric Hem Pleated Skirt | YesStyle
+        url: https://www.yesstyle.com/en/sisyphi-cropped-short-sleeve-t-shirt-asymmetric-hem-pleated-skirt/info.html/pid.1075043539
+      16:
+        title: Buy CHATNOIRE Inset Shorts A-Line Skirt | YesStyle
+        url: https://www.yesstyle.com/en/chatnoire-inset-shorts-a-line-skirt/info.html/pid.1073020167
+      17:
+        title: Buy Moon City Faux Wrap Mini Skirt | YesStyle
+        url: https://www.yesstyle.com/en/moon-city-faux-wrap-mini-skirt/info.html/pid.1066467613
+      18:
+        title: Buy LINSI Short-Sleeve Crop Top / Plaid Mini Skirt / Cutout Shorts / Chained Belt | YesStyle
+        url: https://www.yesstyle.com/en/linsi-short-sleeve-crop-top-plaid-mini-skirt-cutout-shorts-chained/info.html/pid.1067604914
+      19:
+        title: Manga Short-Sleeve Graphic T-Shirts | UNIQLO US
+        url: https://www.uniqlo.com/us/en/ut-graphic-tees/manga
+      20:
+        title: Your Amazon.com
+        url: https://www.amazon.com/gp/yourstore/home?ref_=nav_cs_ys
+  50:
+    title: Anki
+    tabs:
+      0:
+        title: SuperMemo.com
+        url: https://www.supermemo.com/en/archives1990-2015/articles/20rules
+      1:
+        title: Quantum Country
+        url: https://quantum.country/
+      2:
+        title: Theoretical aspects of learning
+        url: http://super-memory.com/articles/theory.htm
+      3:
+        title: Anki 2.1.35 Changelog : Anki
+        url: https://www.reddit.com/r/Anki/comments/j4605l/anki_2135_changelog/
+      4:
+        title: Anki as Learning Superpower: Computer Science Edition | G Research
+        url: https://www.gresearch.co.uk/article/anki-as-learning-superpower-computer-science-edition/
+      5:
+        title: Has anybody else been getting server busy a lot lately? : Anki
+        url: https://www.reddit.com/r/Anki/comments/kv8y8r/has_anybody_else_been_getting_server_busy_a_lot/
+      6:
+        title: Any way to use a shortcut for preformatted text / code : Anki
+        url: https://www.reddit.com/r/Anki/comments/kvtghk/any_way_to_use_a_shortcut_for_preformatted_text/
+    notes:
+      0:
+        title:
+  51:
+    title: Union history
+    tabs:
+      0:
+        title: American Federation of Labor - Wikipedia
+        url: https://en.wikipedia.org/wiki/American_Federation_of_Labor#:~:text=The%20American%20Federation%20of%20Labor,Labor%2C%20a%20national%20labor%20union.
+      1:
+        title: Samuel Gompers - Wikipedia
+        url: https://en.wikipedia.org/wiki/Samuel_Gompers
+      2:
+        title: Industrial Workers of the World philosophy and tactics - Wikipedia
+        url: https://en.wikipedia.org/wiki/Industrial_Workers_of_the_World_philosophy_and_tactics#:~:text=The%20Industrial%20Workers%20of%20the,Federation%20of%20Labor%20(AFL).
+      3:
+        title: Trade Union Educational League - Wikipedia
+        url: https://en.wikipedia.org/wiki/Trade_Union_Educational_League
+      4:
+        title: History of the Industrial Workers of the World - Wikipedia
+        url: https://en.wikipedia.org/wiki/History_of_the_Industrial_Workers_of_the_World
+      5:
+        title: Workers' International Industrial Union - Wikipedia
+        url: https://en.wikipedia.org/wiki/Workers%27_International_Industrial_Union
+      6:
+        title: Congress of Industrial Organizations - Wikipedia
+        url: https://en.wikipedia.org/wiki/Congress_of_Industrial_Organizations
+      7:
+        title: Socialist Trade and Labor Alliance - Wikipedia
+        url: https://en.wikipedia.org/wiki/Socialist_Trade_and_Labor_Alliance
+    notes:
+      0:
+        title:
+  52:
+    title: 💬 Comms
+    tabs:
+      0:
+        title: Telegram Web
+        url: https://web.telegram.org/#/im?p=@Faeylayn
+      1:
+        title: #announcements
+        url: https://discord.com/channels/382683482129825799/537138066721210385
+      2:
+        title: Mary messaged you
+        url: https://www.messenger.com/t/100010723381833
+      3:
+        title: Slack | * Slackbot | LGBTQ in Tech
+        url: https://app.slack.com/client/T0383959N/D69716MS9/thread/G9BCADTTQ-1595871937.322300
+      4:
+        title: Redirecting... | LGBTQ in Tech Slack
+        url: https://lgbt.slack.com/archives/C03P8T3VC/p1595678480435900
+      5:
+        title: Slack | ! general | Visipedia | 1 new item
+        url: https://app.slack.com/client/T2LTQ6AHW/C2LU1G257
+      6:
+        title: Slack | * job-career | Women In Tech
+        url: https://app.slack.com/client/T03JF8CDH/C2T0648KF?cdn_fallback=2
+      7:
+        title: Slack | ! Mentions & reactions | Cornell Tech | 5 new items
+        url: https://app.slack.com/client/T2CM9H6G2/activity-page
+      8:
+        title: The Vulpine Club
+        url: https://vulpine.club/web/statuses/103958036387941766
+      9:
+        title: Slack
+        url: https://app.slack.com/client/T045F8VBW/D04DW53KC
+    resources:
+      0:
+        title: Telegram Web
+        url: https://web.telegram.org/#/im?p=g183218691
+      1:
+        title: The Vulpine Club
+        url: https://vulpine.club/web/accounts/1
+      2:
+        title: Messages for web
+        url: https://messages.google.com/web/conversations/19
+      3:
+        title: Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+        url: https://www.notion.so/kjw/Kimmy-394ab649dc13446e873c454d08ac713d
+      4:
+        title: Messenger
+        url: https://www.messenger.com/t/100006686774268
+      5:
+        title: Slack | Unread Messages | SE(3)
+        url: https://app.slack.com/client/T045F8VBW/unreads
+      6:
+        title: Slack | * Unread Messages | Cornell Tech
+        url: https://app.slack.com/client/T2CM9H6G2/unreads
+      7:
+        title: Slack | Unread Messages | Tech Workers Coalition
+        url: https://app.slack.com/client/T0M2JM76F/unreads
+      8:
+        title: New on Elpha: where women in tech talk candidly online
+        url: https://elpha.com/top
+      9:
+        title: Slack | * admin-announcements | Women In Tech
+        url: https://app.slack.com/client/T03JF8CDH/C03JF8CET
+      10:
+        title: Kimmy and fox · Splitwise
+        url: https://secure.splitwise.com/#/groups/15424167
+      11:
+        title: Discord
+        url: https://discordapp.com/channels/@me/600723165261463579
+      12:
+        title: Inbox (5) - kimmy@kjwilber.org - Kimmy Team Mail
+        url: https://mail.google.com/mail/u/0/?zx=fazvneemy04t#inbox
+      13:
+        title: Slack | * Unread Messages | Cornell CIS
+        url: https://app.slack.com/client/T04T7B1ST/unreads
+      14:
+        title: Slack | Unread Messages | LGBTQ in Tech
+        url: https://app.slack.com/client/T0383959N/unreads?cdn_fallback=2
+    notes:
+      0:
+        title:
+  53:
+    title: 🍳 Cooking
+    tabs:
+      0:
+        title: (Made) Omelette with Sausage
+        url: https://www.notion.so/kjw/Made-Omelette-with-Sausage-490d30dd887643fb80177f3fea875ce2
+      1:
+        title: Alex's Recipes - Google Docs
+        url: https://docs.google.com/document/d/1aeKIhMv-ZTpsAf_b1BpxVeIsegNnzAWqPRnGPe1XM-A/edit#heading=h.dgfchf7s2y58
+      2:
+        title: (8) Joshua Weissman - YouTube
+        url: https://www.youtube.com/channel/UChBEbMKI1eCcejTtmI32UEw
+      3:
+        title: https://www.reddit.com/r/Cooking/comments/8ni13q/your_favorite_cooking_appliances/
+        url: https://www.reddit.com/r/Cooking/comments/8ni13q/your_favorite_cooking_appliances/
+      4:
+        title: Before Going Wild With Fancy Seasonings, Learn How to Salt and Pepper Correctly First : Cooking
+        url: https://www.reddit.com/r/Cooking/comments/8nmejm/before_going_wild_with_fancy_seasonings_learn_how/
+      5:
+        title: So, after I made a post on r/eatcheapandhealthy yesterday, I realised I'm not the only depressed person struggling to eat properly. So, I've started a blog of super cheap, healthy meals that require no cooking and only 2-5 minutes of prep time. It's called "Fuck It, I'm Not Cooking". : Cooking
+        url: https://www.reddit.com/r/Cooking/comments/77dj0x/so_after_i_made_a_post_on_reatcheapandhealthy/
+      6:
+        title: https://www.reddit.com/r/Cooking/comments/7ae58u/get_your_turkey_out_to_thaw_if_its_200lbs_or_more/
+        url: https://www.reddit.com/r/Cooking/comments/7ae58u/get_your_turkey_out_to_thaw_if_its_200lbs_or_more/
+      7:
+        title: What’s your “I’ll never tell” cooking secret? : Cooking
+        url: https://www.reddit.com/r/Cooking/comments/brhllr/whats_your_ill_never_tell_cooking_secret/
+      8:
+        title: https://www.reddit.com/r/Cooking/comments/b84g4q/whats_that_one_food_you_just_fing_hate/
+        url: https://www.reddit.com/r/Cooking/comments/b84g4q/whats_that_one_food_you_just_fing_hate/
+      9:
+        title: https://www.reddit.com/r/Cooking/comments/925io0/this_is_your_476_pound_turkey_thaw_reminder/
+        url: https://www.reddit.com/r/Cooking/comments/925io0/this_is_your_476_pound_turkey_thaw_reminder/
+      10:
+        title: https://www.reddit.com/r/Cooking/comments/5km607/as_if_2016_couldnt_get_any_worse_i_just_saw_a/
+        url: https://www.reddit.com/r/Cooking/comments/5km607/as_if_2016_couldnt_get_any_worse_i_just_saw_a/
+      11:
+        title: https://www.reddit.com/r/Cooking/comments/a9uyri/what_food_do_you_consciously_prepare_wrong/
+        url: https://www.reddit.com/r/Cooking/comments/a9uyri/what_food_do_you_consciously_prepare_wrong/
+      12:
+        title: Porn Spare Ribs : Cooking
+        url: https://www.reddit.com/r/Cooking/comments/90jgki/porn_spare_ribs/
+      13:
+        title: What's the worst/oddest "secret" ingredient you've had the pleasure/horror of experiencing? : Cooking
+        url: https://www.reddit.com/r/Cooking/comments/booij8/whats_the_worstoddest_secret_ingredient_youve_had/
+      14:
+        title: 10 Ways to Make Street Food at Home - Recipes from NYT Cooking
+        url: https://cooking.nytimes.com/68861692-nyt-cooking/2304568-10-ways-to-make-street-food-at-home
+      15:
+        title: 39 Bright and Beautiful Summer Pastas - Recipes from NYT Cooking
+        url: https://cooking.nytimes.com/68861692-nyt-cooking/1335039-39-bright-and-beautiful-summer-pastas
+      16:
+        title: The Starving Student’s Guide to Cooking For Yourself | MIT Admissions
+        url: https://mitadmissions.org/blogs/entry/the-starving-students-guide-to-cooking-for-yourself/
+      17:
+        title: 15 Classic Dishes That Every Adult Should Know How To Make | SELF
+        url: https://www.self.com/story/15-classic-dishes-that-every-adult-should-know-how-to-make
+      18:
+        title: The Easiest Way to Make Cake in a Mug - wikiHow
+        url: https://www.wikihow.com/Make-Cake-in-a-Mug
+      19:
+        title: The Recipes You Need to Know How to Cook | Bon Appetit
+        url: https://www.bonappetit.com/best
+      20:
+        title: Chefs of reddit, what's your number one useful cooking tip? : AskReddit
+        url: https://www.reddit.com/r/AskReddit/comments/5s70ly/chefs_of_reddit_whats_your_number_one_useful/
+      21:
+        title: Salt Expert Guesses Cheap vs Expensive Salt | Price Points | Epicurious - YouTube
+        url: https://www.youtube.com/watch?v=3HjddSn3vK0&t=12s
+      22:
+        title: (8) Pickle Expert Guesses Cheap vs Expensive Pickles | Price Points | Epicurious - YouTube
+        url: https://www.youtube.com/watch?v=LBMhHbkXcuU
+      23:
+        title: You Suck At Cooking - YouTube
+        url: https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w/videos
+      24:
+        title: How To Cook Eggs In Stainless Steel Cookware - Food Above Gold
+        url: https://www.foodabovegold.com/how-to-cook-eggs-in-stainless-steel/
+      25:
+        title: reddit: the front page of the internet
+        url: https://www.reddit.com/r/1200isplenty/wiki/faq#wiki_should_i_eat_back_my_exercise_calories.3F
+      26:
+        title: Eating healthy on a cheap budget
+        url: https://www.reddit.com/r/EatCheapAndHealthy/
+      27:
+        title: VisualKcal: a place for pocrescophobics.
+        url: https://www.reddit.com/r/VisualKcal/
+      28:
+        title: 100 Calories of Various Food. Source: http://www.workingagainstgravity.com/blog/category/100%20Calories%20in%20100%20Ways/ - Album on Imgur
+        url: https://imgur.com/a/lakAV
+  54:
+    title: LGBTQ law
+    tabs:
+      0:
+        title: Laws and Sausages - Lesson Twelve: Part 2
+        url: https://lawsandsausagescomic.com/comic/1202
+      1:
+        title: IROQUOIS CONSTITUTION: A FORERUNNER TO COLONISTS' DEMOCRATIC PRINCIPLES - The New York Times
+        url: https://www.nytimes.com/1987/06/28/us/iroquois-constitution-a-forerunner-to-colonists-democratic-principles.html
+      2:
+        title: How an Iroquois Chief Helped Write the U.S. Constitution
+        url: https://www.thedailybeast.com/how-an-iroquois-chief-helped-write-the-us-constitution
+      3:
+        title: How the Iroquois Great Law of Peace Shaped U.S. Democracy | Native America
+        url: https://www.pbs.org/native-america/blogs/native-voices/how-the-iroquois-great-law-of-peace-shaped-us-democracy/
+      4:
+        title: Argument Transcripts
+        url: https://www.supremecourt.gov/oral_arguments/argument_transcript/2019
+      5:
+        title: Search - Supreme Court of the United States
+        url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/18-107.html
+      6:
+        title: 20190703161737460_18-107 Law and History Professors Amicus Curiae.pdf
+        url: https://www.supremecourt.gov/DocketPDF/18/18-107/107144/20190703161737460_18-107%20Law%20and%20History%20Professors%20Amicus%20Curiae.pdf
+      7:
+        title: Brief of Historians as Amici Curiae In Support of Employees
+        url: https://www.supremecourt.gov/DocketPDF/18/18-107/107152/20190703162401867_Title%20VII%20Historians%20Brief%20PDFA.pdf
+      8:
+        title: The Vulpine Club
+        url: https://vulpine.club/web/accounts/118065
+  55:
+    title: Queer Theology
+    tabs:
+      0:
+        title: Already Free | Bookshare
+        url: https://www.bookshare.org/browse/book/1708521?returnPath=L3NlYXJjaD9tb2R1bGVOYW1lPXB1YmxpYyZrZXl3b3JkPWFscmVhZHkgZnJlZQ
+      1:
+        title: My friend made a pretty funny SRB2 Kart video of us all messing around : SRB2Kart
+        url: https://www.reddit.com/r/SRB2Kart/comments/h8uxjx/my_friend_made_a_pretty_funny_srb2_kart_video_of/
+      2:
+        title: visual c25k - Google Search
+        url: https://www.google.com/search?q=visual+c25k&safe=active&rlz=1C5CHFA_enUS881US881&sxsrf=ALeKk014l007CecnU9zFCkSvBXJ7CBJ-Mg:1592865792055&tbm=isch&source=iu&ictx=1&fir=2wnU9YJXZOnoQM%253A%252Cwll4n7rxeSZ4EM%252C_&vet=1&usg=AI4_-kTmSIBTPq7oNGbNul7fS3UKvx6ZCQ&sa=X&ved=2ahUKEwi-7Na9v5bqAhVWoHIEHRzNDMgQ9QEwAHoECAoQEA&biw=576&bih=328&dpr=5#imgrc=2wnU9YJXZOnoQM:
+      3:
+        title: Visual C25K : C25K
+        url: https://www.reddit.com/r/C25K/comments/kr5va/visual_c25k/
+      4:
+        title: Nonviolent Communication: A Language of Life - Google Play
+        url: https://play.google.com/books/reader?id=55N6IgAAAEAJ&pg=GBS.PA52
+      5:
+        title: Attached - Google Play
+        url: https://play.google.com/books/reader?id=45J6IgAAAEAJ&pg=GBS.PA16
+      6:
+        title: threejs change attribute size - Google Search
+        url: https://www.google.com/search?q=threejs+change+attribute+size&rlz=1C5CHFA_enUS881US881&oq=threejs+change+attribute+size&aqs=chrome..69i57j0l3j69i60l4.4481j0j1&sourceid=chrome&ie=UTF-8
+      7:
+        title: Yotan Autolangi - Google Search
+        url: https://www.google.com/search?q=Yotan+Autolangi&rlz=1C5CHFA_enUS881US881&oq=Yotan+Autolangi&aqs=chrome..69i57j46j0l3j46j0l2.2218j0j1&sourceid=chrome&ie=UTF-8
+My Tasks: {}

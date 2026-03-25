@@ -1,0 +1,35 @@
+#+CATEGORY: day
+
+
+* CVPR review: AdaptMatch
+** Summary. In 5-7 sentences, describe the key ideas, experimental or theoretical results, and their significance.
+** Strengths. Consider the significance of key ideas, experimental or theoretical validation, writing quality, data contribution. Explain clearly why these aspects of the paper are valuable. Short bullet lists do NOT suffice.
+** Weaknesses. Consider the significance of key ideas, experimental or theoretical validation, writing quality, data contribution. Clearly explain why these are weak aspects of the paper, e.g. why a specific prior work has already demonstrated the key contributions, or why the experiments are insufficient to validate the claims, etc. Short bullet lists do NOT suffice.
+** Justification of rating. What are the most important factors in your rating?
+** Limitations and Societal Impact. Have the authors adequately addressed the limitations and potential negative societal impact of their work? Discuss any serious ethical/privacy/transparency/fairness concerns here. Also discuss if there are important limitations that are not apparent from the paper.
+
+* CVPR review: Rethinking resampling in imbalanced semisupervised learning.
+** Summary. In 5-7 sentences, describe the key ideas, experimental or theoretical results, and their significance.
+
+This work studies the issue of imbalanced label data during semi-supervised learning (SSL). When the unlabeled set has an imbalanced class distribution, techniques like resampling or rewighting come to mind. However, one key finding is that resampling can *hurt* performance of the extracted feature detector if applied at the wrong training stage. To get around this, the paper proposes decoupling the feature learning stage and the fine-tuning of the resulting classifier, and only resampling on the last stage of training.
+
+Much of this paper's space is devoted to a study of the effect of resampling. First, an "oracle" study is performed to show the effect of resampling the labeled and unlabeled data.
+
+
+** Strengths. Consider the significance of key ideas, experimental or theoretical validation, writing quality, data contribution. Explain clearly why these aspects of the paper are valuable. Short bullet lists do NOT suffice.
+This paper is very clearly written and well-motivated.
+
+I appreciate the focus on imbalanced datasets, as that's of critical societal importance. In real-world data where the label distribution is unknown, it's not realistic for SSL methods to naively assume a balanced label distribution, so it's nice to see this paper tackle that.
+
+This paper naturally needs to spend a lot of time motivating the intuition behind its findings. That's why I appreciate the very detailed ablation study of resampling that's used to motivate the main work. Papers like this tend to stick in one's mind for a while, a "small nugget" of important intuition that wasn't widely understood before.
+
+** Weaknesses. Consider the significance of key ideas, experimental or theoretical validation, writing quality, data contribution. Clearly explain why these are weak aspects of the paper, e.g. why a specific prior work has already demonstrated the key contributions, or why the experiments are insufficient to validate the claims, etc. Short bullet lists do NOT suffice.
+
+My biggest critique is that these results are only shown on CIFAR-10 / CIFAR-100. Frequently, seemingly-significant quirks of these datasets may not translate to other ones. I'd strongly encourage the authors to see whether the main results replicate on SVHN (other work commonly reports on this dataset in the SSL setting) or larger datasets like ImageNet or OpenImages (already quite long-tailed, but rarely reported for SSL)
+
+line 593 implies that using mean, random, and reverse sampling does not seem to alter performance. Doesn't this slightly contradict with the earlier paragraph that introduces findings from the supervised literature that resampling data can harm performance?
+
+I don't have other significant critiques.
+
+** Justification of rating. What are the most important factors in your rating?
+** Limitations and Societal Impact. Have the authors adequately addressed the limitations and potential negative societal impact of their work? Discuss any serious ethical/privacy/transparency/fairness concerns here. Also discuss if there are important limitations that are not apparent from the paper.

@@ -1,0 +1,139 @@
+#+CATEGORY: day
+
+* donut.c but it's in jq
+https://www.a1k0n.net/2011/07/20/donut-math.html
+
+** jq matrix multiply
+Super proud of this...
+Run the below with
+: jq -nf whatever.jq
+#+begin_src jq
+def mm($a;$b):
+    [$a|.[] as $aRow | [
+      $b|transpose|.[] as $bRow |
+      #"\($aRow) * \($bRow)" # need to do dot product here
+      #[$aRow, $bRow] | transpose |[.[] as [$ael,$bel] | $ael*$bel]|add
+
+      # Another way
+      reduce range($aRow|length) as $i (0; . + $aRow[$i]*$bRow[$i])
+    ]];
+
+mm(
+[[1, 0, 0],
+ [0, 1, 0],
+ [1, 0, 2]];
+[[1, 2, 3],
+ [4, 5, 6],
+ [7, 8, 9]])
+
+#+end_src
+
+** i did it! big source:
+#+BEGIN_SRC jq
+#range(-10;10;0.5) as $y | [range(-10;10;0.5) as $x |
+#"X"
+#]|join("")
+
+
+#[range(10)] | .[3,4,5] |= "."
+#| .["3","4"] |= "."
+
+
+
+30 as $screen_width |
+30 as $screen_height |
+
+0.07 as $theta_spacing |
+0.02 as $phi_spacing |
+1 as $R1 |
+2 as $R2 |
+7 as $K2 |
+
+# Calculate K1 based on screen size: the maximum x-distance occurs
+# roughly at the edge of the torus, which is at x=R1+R2, z=0.  we
+# want that to be displaced 3/8ths of the width of the screen, which
+# is 3/4th of the way from the center to the side of the screen.
+# screen_width*3/8 = K1*(R1+R2)/(K2+0)
+# screen_width*K2*3/(8*(R1+R2)) = K1
+($screen_width*$K2*3/(8*($R1+$R2))) as $K1 |
+
+def torus($A; $B):
+    ($A|cos) as $cosA | ($B|cos) as $cosB |
+    ($A|sin) as $sinA | ($B|sin) as $sinB |
+
+    # theta goes around the cross-sectional circle of a torus
+    range(0; 2*3.1415; 0.1) as $theta |
+      ($theta|cos) as $costheta |
+      ($theta|sin) as $sintheta |
+      # phi goes around the center of revolution of a torus
+      range(0; 2*3.1415; 0.05) as $phi |
+          ($phi|cos) as $cosphi |
+          ($phi|sin) as $sinphi |
+
+          ($R2 + $R1*$costheta) as $circlex |
+          ($R1 * $sintheta) as $circley |
+
+          {x: ($circlex*($cosB*$cosphi + $sinA*$sinB*$sinphi) - $circley*$cosA*$sinB),
+           y: ($circlex*($sinB*$cosphi - $sinA*$cosB*$sinphi) + $circley*$cosA*$cosB),
+           z: ($K2 + $cosA*$circlex*$sinphi + $circley*$sinA),
+           ooz: (1 / ($K2 + $cosA*$circlex*$sinphi + $circley*$sinA + 0.01)),
+           L: ($cosphi*$costheta*$sinB - $cosA*$costheta*$sinphi -
+           $sinA*$sintheta + $cosB*($cosA*$sintheta - $costheta*$sinA*$sinphi))
+          }
+    ;
+
+def render:
+    def _draw_point($dat; $pt):
+      ($screen_width/2 + $K1*$pt.ooz*$pt.x|floor) as $xp |
+      ($screen_height/2 - $K1*$pt.ooz*$pt.y|floor) as $yp |
+      if ($pt.L <= 0 or
+          $pt.ooz <= $dat.zbuffer[$yp][$xp]
+      ) then $dat else
+         {zbuffer: ($dat.zbuffer | .[$yp][$xp] = $pt.ooz),
+          output: ($dat.output | .[$yp][$xp] = (".,-~:;=!*#$@"[$pt.L*8:$pt.L*8])
+                  )
+         }
+      end
+      ;
+      reduce .[] as $point ({
+         output: [range($screen_height) | [range($screen_width)|" "]],
+         zbuffer: [range($screen_height) | [range($screen_width)|-9999]]
+      }; _draw_point(.; $point)) |
+      .output |.[] | join("")
+    ;
+
+
+foreach repeat(0) as $_ ({A: 1, B: 1}; {A: (.A+0.07), B: (.B+0.03)}; [torus(.A;.B)]|render)
+    #[torus(1.07;1.03)]|render
+
+#+END_SRC
+
+** minified:
+#+BEGIN_SRC shell
+                  jq -nr 'def R(A;B;C
+            ):range(A;B;C);def R(A):range
+          (A);30as$s|1as$R1|2as$R2|7as$K2|(
+        $s*$K2*3/(8*($R1+$R2)))as$K1|def t($A;$B
+     ):($A|cos)as$cA|($B|cos)as$cB|($A|sin)as$sA|($B
+    |sin)as$sB|R(0;2*3.1415;0.1)as$theta|($theta|cos
+    )as$ct|($theta|sin)as$st|R(0;2*3.1415;0.05)as$phi|
+   ($phi|cos)as$cp|($phi|sin)as$sp|($R2+$R1*$ct)as$cx|(
+   $R1*$st)as$cy|{x:($cx*($cB*$cp+$sA*$sB*$sp)-$cy*$cA*
+  $sB),y:($cx*($sB*$cp-$sA    *$cB*$sp)+$cy*$cA*$cB),z:(
+ $K2+$cA*$cx*$sp+$cy             *$sA),ooz:(1/($K2+$cA*
+$cx*$sp+$cy*$sA+0.01              )),L:($cp*$ct*$sB-$cA*
+$ct*$sp-$sA*$st+$cB*              ($cA*$st-$ct*$sA*$sp))};
+def r:def _d($dat;$pt             ):($s/2+$K1*$pt.ooz*
+$pt.x|floor)as$xp|($s             /2-$K1*$pt.ooz*$pt
+ .y|floor)as$yp|if($pt.L         <=0or $pt.ooz<=$dat
+  .z[$yp][$xp])then$dat else{z:($dat.z|.[$yp][$xp]=
+   $pt.ooz),o:($dat.o|.[$yp][$xp]=(".,-~:;=!*#$@"[
+   $pt.L*8:$pt.L*8]))}end;reduce.[]as$p({o:[R($s)|
+     [R($s)|" "]],z:[R($s)|[R($s)|0]]};_d(.;$p))|
+         .o|.[]|join("");foreach repeat(0)as$_
+           ({A:1,B:1};{A:(.A+0.07),B:(.B+
+                 0.03)};[t(.A;.B)]|r)'
+#+END_SRC
+** tiny:
+
+: jq -nr 'def R(A;B;C):range(A;B;C);def R(A):range(A);30as$s|1as$R1|2as$R2|7as$K2|($s*$K2*3/(8*($R1+$R2)))as$K1|def t($A;$B):($A|cos)as$cA|($B|cos)as$cB|($A|sin)as$sA|($B|sin)as$sB|R(0;2*3.1415;0.1)as$theta|($theta|cos)as$ct|($theta|sin)as$st|R(0;2*3.1415;0.05)as$phi|($phi|cos)as$cp|($phi|sin)as$sp|($R2+$R1*$ct)as$cx|($R1*$st)as$cy|{x:($cx*($cB*$cp+$sA*$sB*$sp)-$cy*$cA*$sB),y:($cx*($sB*$cp-$sA*$cB*$sp)+$cy*$cA*$cB),z:($K2+$cA*$cx*$sp+$cy*$sA),ooz:(1/($K2+$cA*$cx*$sp+$cy*$sA+0.01)),L:($cp*$ct*$sB-$cA*$ct*$sp-$sA*$st+$cB*($cA*$st-$ct*$sA*$sp))};def r:def _d($dat; $pt):($s/2+$K1*$pt.ooz*$pt.x|floor)as$xp|($s/2-$K1*$pt.ooz*$pt.y|floor)as$yp|if($pt.L<=0or $pt.ooz<=$dat.z[$yp][$xp])then$dat else{z:($dat.z|.[$yp][$xp]=$pt.ooz),o:($dat.o|.[$yp][$xp]=(".,-~:;=!*#$@"[$pt.L*8:$pt.L*8]))}end;reduce.[]as$p({o:[R($s)|[R($s)|" "]],z:[R($s)|[R($s)|0]]};_d(.;$p))|.o|.[]|join("");foreach repeat(0)as$_({A:1,B:1};{A:(.A+0.07),B:(.B+0.03)};[t(.A;.B)]|r)'

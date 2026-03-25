@@ -1,0 +1,14 @@
+#+CATEGORY: day
+
+
+#+begin_src
+git clone http://git.do.srb2.org/kimmy/Kart-Public -b kimmy-m1-fixes
+cd Kart-Public
+# should be on commit 0fb20af00...
+rsync -a /path/to/assets/ ./assets/
+mkdir build
+cd build
+cmake .. -DCMAKE_BUILD_TYPE=Release
+make -j8
+./bin/Sonic\ Robo\ Blast\ 2\ Kart.app/Contents/MacOS/Sonic\ Robo\ Blast\ 2\ Kart -opengl -server +gr_shaders off +map map56
+#+end_src

@@ -1,0 +1,29 @@
+#+CATEGORY: day
+
+def is_center_row(hazard, size):
+  return hazard["y"] == floor(size/2)
+
+def bounds(hazard_array, width, height):
+  """
+  Returns (left_hazard_squares, right_hazard_squares)
+  Run this again with all the values transposed
+  to get (top,bottom) :)
+  """
+  center_row = [False] * width
+  for hazard in hazard_array:
+    if is_center_row(hazard, height):
+      center_row[hazard["x"]] = True
+  return (center_row.index(True), center_row[::-1].index(True))
+
+
+
+
+def parse_hazards(hazards, width, height):
+  # Assume hazards is sorted
+
+  hazards = hazards[:]
+  cur_x = 0
+  cur_y = 0
+  for x in range(height):
+    for y in range(width):
+      h = hazards.pop()

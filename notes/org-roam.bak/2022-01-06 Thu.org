@@ -1,0 +1,31 @@
+#+CATEGORY: day
+
+* TODO Trainer Kimmy's Food Plan
+This week's objectives:
+
+1. [ ] *Consistent schedule:* eat a substantial meal at consistent times. For this first week, I can eat whatever I like.
+  |           | Scheduled | Actual time | What? |
+  | Breakfast | 10am      |             |       |
+  | Lunch     | 12pm      |             |       |
+  | Dinner    | 4pm       |             |       |
+
+2. [ ] *Limited snacks:* Outside my meals, I can eat as much tea/water or veggies as I like.
+
+3. [ ] *Calories:* All calories are logged in LoseIt and I'm not in the red.
+
+*** Why these goals?
+Doing this *makes my choices ahead of time.* No need to agonize about /when/ to eat; I've already decided. And I'm sure my imagination will gear me up for /what/ to eat.
+
+At the same time, I want this to *feel like a challenge* enough to get a sense of accomplishment when I'm able to do this
+
+*** Non-goals
+- Portion control
+- Adjusting actual meal content (consider slow-carb or keto-like)
+
+** Things to be conscious of (check when i notice them)
+- [ ] *Moments of hunger:* when my tummy feels rumbly or sick to my stomach
+  - Failure plan: when I notice this, immediately drink some cold water.
+- [ ] *"That wasn't so bad"*: when I'm able to pull out of a dive and it was easier than I expected.
+- [ ] *Schedule isn't working?* Revise as needed.
+
+** Thoughts

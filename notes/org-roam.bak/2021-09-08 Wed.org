@@ -1,0 +1,46 @@
+#+CATEGORY: day
+
+* stack evaluator
+
+#+begin_src python
+
+  def expensive_computation(operands):
+    # ... submits $(*operands) to some complicated web service and returns
+    # a Placeholder object
+
+  NAMESPACE = {"*": np.product, "+": np.sum, "$": expensive_computation}
+  def eval(expr):
+    if isnumeric(expr):
+      return expr
+    else:
+      [op, *subexpressions] = expr
+      # apply op to subexpressions
+      return NAMESPACE[op](map(eval, subexpressions))
+
+  def read(tokenizer):
+    """
+    Parse a stream of input tokens into a list of top level expressions.
+    Example:
+    >>> read("( + 3 2 ) ( + 1 1 )")
+    [["+", 3, 2], ["+", 1, 1]]
+    """
+    top_level_expressions = []
+    while tokenizer:
+      token = tokenizer.pop(0)
+      if token == '(':
+        top_level_expressions.append(read(tokenizer))
+      elif token == ')':
+        return top_level_expressions
+      else:
+        top_level_expressions.append(
+          int(token) if isnumeric(token) else token
+        )
+    return top_level_expressions
+
+  def calculate(input_str):
+    """
+    Evaluates a string with a SINGLE top-level expression
+    """
+    [expr] = read(input_str.split())
+    return eval(expr)
+#+end_src

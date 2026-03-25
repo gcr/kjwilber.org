@@ -1,0 +1,1042 @@
+:PROPERTIES:
+:ID:       E39F7D1E-A925-438F-A81B-E3CED79BE2EA
+:END:
+#+title: Bookshare volunteer proofreading guidelines
+
+** What is Proofing?
+1. When books are scanned and converted to text, there are always errors or "*/scannos/*" (See Glossary) that result. Bookshare volunteers detect and correct errors and formatting so that books are usable with a variety of assistive devices--from screen readers to digital braille devices. A computer with internet access, word processing software, and a talent for pinpointing detail are all you need! The most reliable*/proofreading/*(See Glossary) can only be attained by reading the book.
+
+2. The process for proofreading for Bookshare is different than traditional proofreading done in literature classes. For the most part, books need to closely resemble the original printed book and the changes we make are to correct the scanning errors and to ensure accessibility by changing of some of the formatting, such as specific*/font sizes/*(See Glossary) and bolding for chapter headings.
+
+3. No manual can cover every possible scenario so you are encouraged to address the friendly, helpful, experienced volunteers on the Bookshare Volunteer email list with questions that arise as you read the manual and proofread.
+
+** Getting Started
+*** Create a Volunteer Account with Bookshare
+1. Sign up to volunteer by clicking on the Sign Up button on the Volunteer Opportunities Page and filling out the forms. The approval process is done by a staff member so it won't be instantaneous.
+
+     a. If you have an existing Bookshare member account, you can add volunteer status to your existing account by selecting "I have a Bookshare account already."
+
+2. Once we receive and approve your volunteer request, you will receive an email notification that you can get started. This may take a few days.
+
+** Checking Out a Book
+1. Go to My Volunteer Home and click on check out a book
+
+2. Select a book from the list provided. You can search for a specific book by title or author.
+
+3. Some books have special indications in the title of the book:
+
+     a. Hold for (name) in the title means that this book is reserved for the volunteer named. Never check out a book that says Hold for unless it's your name.
+
+     b. BSO in the title of a book stands for Better Scan of indicating that this book will replace a lower-quality book that is already in the collection. You may check out BSO books. They are proofread just as any other book. When you check out a BSO title, always retain the BSO in the title when checking it in.
+
+     c. Wish List in the title of a book means that this book has been requested by a Bookshare Member and scanned by Bookshare staff or volunteers. Sighted proofreaders can request the*/PDF/*(see glossary) to reference while proofreading from a staff scanned book. Email[[mailto:volunteers@bookshare.org][volunteers@bookshare.org]]to request the PDF.
+
+4. Use the advance search to make sure the book you've chosen isn't already in the collection. Search by
+     a. title
+     b. author: Complex author names may be spelling, case and punctuation sensitive. If you don't find the author's name one way, try alternate capitalization and punctuation.
+     c. ISBN (See Glossary)
+
+5. Also check:
+     a. Books in process page
+     b. Books awaiting approval page
+
+6. View a book's summary page by clicking on the title.
+
+7. Once you have chosen a book, select the check-out link and download it to a folder you'll remember.
+
+8. You have 14 days to proofread before you must check the book back in and delete it from your computer. If you need more time you can renew a book at your My Checked Out Books, a link found on My Volunteer Home Page.
+
+9. The book is an*/rtf/*(see glossary) file. Word processors you use to proofread must retain the elements of the rtf file. Your job is to make sure the book fulfills all the checklist requirements. You must check in the proofread book in rtf format.
+
+Tip: For sighted volunteers, if you're using Microsoft Word it may be easier to use Draft View for proofreading because it shows the types of breaks that are in the book. Go to the "view" tab and select "draft."
+
+** Steps to Follow in Every Book
+1. Read the entire book.
+
+2. If the book isn't a BSO, check that the book isn't already in the collection. If it is, reject it.
+
+3. Adjust fonts for navigation.
+
+4. Number all pages removing any headers.
+
+5. Correct Scannos as you go.
+
+6. Run a spell check checking any questionable results in context.
+
+7. You are not a copy editor. You must retain any errors overlooked by the publisher.
+
+8. Keep this manual and refer to it as you proofread.
+
+** Things that Books Must Have
+*** Title Page
+1. The title page is the first page with the title, the author and often the publisher. This doesn't always apply to children's books.
+
+2. Make the title font size 20 point and make the font bold.
+
+     a. For book titles and chapter names over 65 characters including spaces:
+
+          i. If there is a colon in the title add a paragraph mark after the colon and put everything on the second line size 14 point and bold.
+
+          ii. If there is no colon, add one after the chapter number or before the subtitle.
+
+3. Make the author's name and any other text size 12 and unbolded font.
+
+4. If the title appears on any other page treat it as regular text with size 12 unbolded font.
+
+*** Copyright Information
+1. The copyright page may include one of the following:
+
+     a. The copyright symbol ©
+
+     b. The word copyright
+
+     c. The abbreviation cpr
+
+     d. Creative Commons
+
+     e. Public Domain
+
+2. If the book's copyright page does not contain any one of the previous items (as is the case for many older books):
+
+     a. Contact the scanner to get the information.
+
+     b. Older books that may not have all the copyright information needed sometimes fall under Public Domain.
+
+     c. If you are unsure about the copyright information, please contact[[mailto:volunteers@bookshare.org][volunteers@bookshare.org]]to confirm.
+
+3. In children's books the copyright page is often at the back of the book.
+
+*** Page Numbers and Page Breaks
+1. A page number must be on every page and correspond with the page numbers in the original book.
+
+     a. If page numbers are not on every page, the Bookshare conversion software may incorrectly re-number all the pages based on the page breaks.
+
+     b. A good way to check that page numbers correspond with the book's is to make sure the chapter headings are on the same pages the table of contents indicates.
+
+2. If the front and back covers or dust flaps have been scanned and formatted as pages, these pages must be numbered and placed at the beginning of the book.
+
+     a. Sometimes the scanner will have placed these pages at the end of the book. In that case, move those pages to the beginning.
+
+3. Page numbers must be located on either the first or the last line of the page. Keeping placement of page numbers consistent and at the tops of pages is preferred.
+
+4. Page numbers must be the only character on a line.
+
+5. Don't use Microsoft Word's header or footer function to place page numbers.
+
+6. If page numbers are not present, volunteers must type the page numbers themselves.
+
+     a. In children's books of 50 pages or less that don't have any page numbers, don't add them.
+
+7. Auto-numbering by Microsoft Word will not be recognized by the*/converter/*(See Glossary).
+
+8. Rarely a book has a group of unnumbered pages, often of images, which are not included in the numbering sequence. Cut those pages, move them to the end of the book, paste them there and begin numbering from the last page preceding them.
+
+9. Sometimes the first few pages of the book are not numbered but the rest of the book is. When this happens there are two different possible scenarios:
+
+     a. If page numbers start with 1 then number the preceding pages with lower case Roman numerals, starting with i until you reach the page numbered 1.
+
+      b. If page numbering starts with a 2 or higher, number the preceding pages until you get back to 1. Then number any remaining preceding pages with lower case Roman numerals, starting with i until you reach the page numbered 1.
+
+c. If the book contains Roman numerals, retain them and number previous pages in upper or lower case Roman numerals matching those established in the book. If you run out of pages before reaching Roman numeral one, don't worry about it.
+
+10. If the*/pagination/*(See Glossary) is strange in the printed book, please make a note of it in the comments section and reach out to the scanner or[[mailto:volunteers@bookshare.org][volunteers@bookshare.org]]to help clarify any questions.
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** When to Reject a Book
+1. If the book doesn't have at least 90% of its page breaks and you can't determine where those page breaks are and insert them yourself.
+
+2. If a book came from an*/eBook/*(See Glossary) or is an EPUB book. Often the ISBN will indicate it is an eBook. If you think you have an eBook, contact[[mailto:volunteers@bookshare.org][volunteers@bookshare.org]]and ask for help.
+
+3. If the book is a play or a dramatic work.
+
+4. If it is an advance prepublication copy of a book.
+
+5. If the book has missing pages and the submitter can't supply them.
+
+6. If there are more than a couple of passages of garbled text that can't be fixed.
+
+7. If most page numbers are missing and can't be figured out.
+
+8. If the copyright information is missing and can't be obtained.
+
+9. If the book has footnotes but the*/footnote indicator/*(See Glossary) numbers are missing.
+
+10. If most sentences are incorrectly broken by paragraph marks or there are no paragraph marks.
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** Formatting
+*** Page Breaks
+1. Every page must end with a hard page break.
+
+2. Including a blank line before or after the page break is unnecessary.
+
+3. Sometimes the*/OCR/*(See Glossary) software indicates new pages as section breaks. Replace section breaks with hard page breaks.
+
+4. Add missing hard page breaks.
+
+     a. Checking page numbers may help determine if a page break is missing.
+
+     b. If the page is unusually long or you are unsure about the location of a page break, contact the scanner to verify.
+
+5. If the only text on a page is a table make sure there is a title and page number or add the word table in brackets: [table]
+
+6. If a soft page break occurs increase the page length for the entire book.
+
+*** Blank Pages, Spaces and Lines
+1. Include all blank pages by numbering them and writing [blank page] on them so it is clear that no information is missing and page numbers remain consistent.
+
+2. A single underscore should be used to represent a blank space that the author includes in the text. Example: Use a _ to tighten a screw.
+
+     a. When underscores in the text designate a specific number of words or letters insert that number of underscores separated by spaces.
+
+--Example: Fill in the missing letters p e r _ _ n. Answer p e rn. The 2 underscores are used to represent two missing letters
+
+--Example: Write your first name, middle initial and last name. _ _ _ for.
+
+3. Don't use spacing or tabbing to format the text as our converter automatically removes extra blank spaces, tabs and blank lines.]
+
+4. Globally replace tabs with a single space.
+
+5. When a break in the text represents a change in scene, topic or time, type asterisk space asterisk space asterisk or the blank line will be removed. Be sure to insert spaces between asterisks. Example: * * *
+
+6. When a blank line separates poetry stanzas, block quotes, correspondence, a sign, a newspaper headline, or other short passages, type a single asterisk to denote the separation.
+
+*** Table of Contents
+1. Keep the table of contents as text. If it is in table format, convert it to text.
+
+2. After each heading type three periods and a space before the page number.
+
+3. Examples
+
+     a. PREFACE... vii
+
+     b. Chapter 1. CALCUTTA... 1
+
+     c. Chapter 2. The Birthday Surprise... 12
+
+4. If the table of contents has the chapters but no page numbers, locate the chapters in the body of the book and add their page numbers where needed.
+
+*** Font
+1. Tahoma, Arial and Times New Roman are recommended. If you are proofreading visually, Tahoma and Arial may be easier to read. Do not use custom or obscure fonts, as these don't exist on some computers.
+
+2. General text in the book should be size 12. This size should be used throughout the book except for:
+
+     a. TITLE: 20 point and bold only on the title page and nowhere else.
+
+     b. BOOKS or PARTS: 18 point and bold.
+
+     c. CHAPTERS: 16 point and bold. This includes titles such as acknowledgements, introduction, notes, Other Books by the Author, epilogue, glossary, and index.
+
+     d. SUBCHAPTERS or SUBSECTIONS: 14 point and bold.
+
+     e. Recipe titles 14 point and bold.
+
+     f. Poem titles must be size 14 and bold when they occur within chapters or size 16 and bold in poetry books when they are the chapter titles.
+
+*** Font Modifiers
+1. Make sure that the ENTIRE WORD is bolded (*bolded*), italicized (/italicized/), underlined () or crossed through (). Otherwise the word will be converted into two words (the modified part will be separated from the rest of the word).
+
+2. Random bolding and italicizing happens when software misinterprets the text when scanning. If the word is not one that you would emphasize when speaking aloud, it probably should not be italicized or bolded.
+
+3. When italicized text is also bolded, unbold it unless it occurs in titles formatted for navigation.
+
+4. If bolding or italics start partway through a sentence, they most likely should be removed, unless a specific word or phrase is emphasized as in: She said it was for/me/.
+
+5. Bolding and italics of whole pages should be removed unless they are part of italicized letters, flashbacks, poetry or text otherwise emphasized by the author, which can be determined through context.
+
+6. When proofreading in*/BRF/*(See Glossary), there is no indicator of any of the above font modifiers.
+
+*** Word Spacing
+1. Check that any squished-together words are separated correctly. This happens frequently with italicized and smaller fonts.
+
+     a. Example: "Her Highness loved thecolor blue". Separate "thecolor" into two words so it says "the color blue".
+
+2. Check that separated words are connected correctly.
+
+     a. Example: "He wanted to dis-appear from the classroom." Remove the dash and make "disappear" into one word.
+
+3. Sometimes when the book is printed, a word will be split between two pages and connected with a hyphen. If this happens, move the end of the split word to the page above along with any punctuation immediately following it. Make sure to keep the page break.
+
+*** Paragraphs
+1. Search the entire book for " " (quote space quote). This almost always indicates a missing hard paragraph break. If you have determined through context this is so, add the hard paragraph mark.
+
+2. Sometimes scanning inserts paragraph breaks in the middle of sentences. Here is how to find and correct them. This is a 26 step process. In the find box search for paragraph mark, in word ^p followed immediately by the lower case letter a (make sure your search is case sensitive) Ignore those results that are the first word of the first line on the page. Read each of the rest of the results in context deleting the paragraph break and replacing it with a space where appropriate. Repeat this for each subsequent letter of the alphabet.
+
+*** Chapter Headings
+1. If there is a table of contents refer to it to make sure all of the chapter headings actually scanned and are present on the correct pages in the book.
+
+2. The chapter number and name must be on one line to aid navigation.
+
+3. For chapter titles longer than 65 characters including spaces,
+
+     a. If there is a colon in the title, add a paragraph mark after the colon to split the title into two lines. Make everything on the second line size 14 point and bold.
+
+     b. If there is no colon, add one after the chapter number or before the subtitle. Add a paragraph mark after this new colon to split the title into two lines. Make everything on the second line size 14 point and bold.
+
+4. When repeated chapter headings are present:
+
+     a. Some novels use repeating names for chapter titles--for example when a story is told from the point of view of different people and each chapter title is the name of the person. In situations like this the converter will remove the chapter titles. To solve this add Chapter and then the chapter number before each title.
+
+5. If a chapter or section heading is simply a number, it will be lost. Add the word Section or Chapter before the number to prevent it from being dropped in navigation.
+
+6. Sometimes the first paragraph in a chapter begins with the first words, phrase or sentence in all capital letters. It is important that a word isn't part capitals and part lowercase because it distorts speech. Leave the phrase capitalized. If the last word in the phrase is part capitals and part lowercase, make it either all upper case or all lower case.
+
+     a. Example: "THAT NIGHT THE STARS WERE GLIttering in the sky." should be: THAT NIGHT THE STARS WERE GLITTERING in the sky.
+
+7. If a book has the title, chapter or author's name at the top or bottom of each page remove them. These are called*/running headers/*(See Glossary) and*/running footers/*(See Glossary).
+
+8. When there are recipes, write [Recipe] before each recipe title.
+
+9. In a novel or the equivalent (not a book of poetry) that might include a stanza of poetry, or an entire poem, write [Poem] right before it begins and put three asterisks on a separate line after the end of the poem.
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** Punctuation and Special Characters
+*** Asterisks
+1. Always place spaces between multiple asterisks.
+
+*** Ellipses
+1. There should be no space preceding the*/ellipsis/*(See Glossary), no spaces between the periods, and a single space following the ellipsis, unless it is followed by additional punctuation.
+2. To globally correct some of the ellipses:
+
+     a. In the find field type: space period space period space period space
+
+Replace with: period period period space
+
+     b. When there is a space between the ellipsis and the quote at the end of a sentence or phrase:
+
+In the find field type: period period period space quote
+
+Replace with: period period period quote    
+
+     c. If there is a space between the ellipsis and other punctuation, including the question mark, the single end quote, the comma and the exclamation mark, do the following:
+
+search for period period period space comma
+
+Replace with period period period comma
+
+     d. Do the same, substituting other punctuation marks for the comma, including the question mark, the final single quote and the exclamation mark.
+
+3. You can find additional incorrectly formatted ellipses in a book by searching for a blank space followed by a period
+
+4. If the ellipsis is at the end of a sentence, the period should follow it with no space before the period so that there are four dots "periods" in a row: ....
+
+6. Search for period space period to find instances where the fourth period is spaced in front or after the ellipses.
+
+7. Ultimately some types of ellipsis errors are only found in context as you read the books.
+
+*** Quotes
+1. When a speaker is quoting someone else represented by "' or '" if there is a space between these punctuation marks, remove them. " space ' (" ') must be "' with no space between them.
+
+2. When a quote is followed by a word of dialect which begins with an ' there must be no space between the " and '. example, " 'Tis should be "'Tis.
+
+3. When items within a sentence in a list are enclosed in quotes, retain them. Example "Gone with the Wind" "Hop on Pop". Do not remove the space between these quoted items or place them on separate lines.
+
+*** Dashes
+1. Globally replace*/Em-dash/*(---) (See Glossary) with two dashes in a row (--). Copy the Em dash into the search field and type -- in the replace field and then replace all.
+
+2. There must be no spaces between -- or - (hyphen ) and the text and punctuation that surround them.
+
+3. To check that no spaces remain before or after double dashes, a two step process:
+
+     a. Search for "space dash dash" and replace with "dash dash".
+
+     b. Then search for "dash dash space" and replace with "dash dash"
+
+Perform these operations without the quotes.
+
+*** Symbols that Convert Correctly
+1. Degree symbol as in temperature: 78°
+
+2. Copyright: ©
+
+3. At sign: @
+
+4. Trademark: ™
+
+5. Registered: ®
+
+6. British pound: £
+
+7. number sign: #
+
+8. Japanese yen: ¥
+
+9. Cents: ¢
+
+10. Division: ÷
+
+11. Plus and/or minus signs: ±
+
+12. Quotation marks: "
+
+13. Single (smart quotes) are converted to apostrophes.
+
+14. Double smart quotes will be converted to regular double quotation marks.
+
+*** Fractions
+:PROPERTIES:
+:ID:       1B4E093F-4D12-48DF-AA2B-4DDCF09900E2
+:END:
+1. Fractions must be written in normal font as in 1/4, not in super and subscript or a single graphical character
+
+2. Mixed numbers should be written with a dash between the number and the fraction, as in 5-3/4
+
+*** Superscript/Subscript
+1. Retain super script and subscript as it occurs correctly in the book as determined by context, if possible.
+
+** Tables
+1. Keep tables as tables.
+
+2. If the only text on a page is in table format, put the title of the table in text outside the table and above it.
+
+3. If there is no title on a table, write [table] outside the table at the top in regular text.
+
+4. If the table is very simple--one row or one column--consider changing it to text, as it will be much easier to read in Braille or to listen to.
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** Things to be Removed or Amended
+*** Scanning Errors
+1. Even the best scan-to-text technology will result in occasional errors. This is one of the reasons we read every scanned book to proofread thoroughly and accurately.
+
+     a. Example: He was eating combread should be He was eating cornbread.// enjoy this/should be/I enjoy this/. Don't he should be Don't lie. See die ducks should be See the ducks.
+
+2. Sometimes during scanning the edges of pages are cut off causing scannos like:
+
+     a. left margin omissions: ne for me, he for she, :an for can,
+
+     b. Right margin omissions bu for but, neve for never, anc for and., wh; for why.
+
+     c. Punctuation like , . and - at the right margin can be cut off.
+
+*** Sample List of Common Scannoes
+1. The following are interchangeably misrecognized 1, !, /, l, I, i.
+
+2. cl for d, or d for cl.
+
+3. Often a hyphen will be missing in a string of words. Example: "rough-and-tumble" will become roughand-tumble or rough-andtumble.
+
+4. vv for w or w for vv.
+
+5. ii for ü or U for ll.
+
+6. urn for um or rn for m.
+
+7. v for y.
+
+8. lo for b or ol for d.
+
+9. d for tl.
+
+10. f for t for r for i.
+
+11. ill for 111.
+
+12. q for g.
+
+13. C for G or e for c.
+
+14. '' for ".
+
+15. h for b or b for h.
+
+16. fr for h.
+
+17 T for 'I or "I
+
+18. Missing comma or period after y or w
+
+19. 'Y or 'T for "Y or "T
+
+20. '' for "
+
+21. space for ' in words: don t for don't can t for can't
+
+*** Symbols that Can't be Converted and Must be Removed
+1. Dagger † and Double Daggers ‡ for footnotes. Replace † with ** and ‡ with ***.
+
+2. Bullets • If bullets are part of a list replace them with asterisks.
+
+3. Upside down punctuation, as in Spanish ¡¿.
+
+4. Non-Roman alphabets are sometimes recognized but rarely read, with the exception of more common Greek letters.
+
+*** Garbage Characters
+1. Sometimes the scanner will translate dust or stains on the book pages to strings of gibberish. These are called "garbage characters" and should be deleted. If you're unsure, contact the scanner.
+
+2. Garbage characters are often garbled headers, random punctuation or isolated single letters.
+
+3 This is a partial list of garbage characters which, when found, can be copied into the find field and replaced with space.
+
+     a. <
+
+     b. >
+
+     c. • check context to determine if should be converted to asterisk or removed.
+
+     d. §
+
+     e. ^
+
+     f. «
+
+     g. »
+
+     h. |
+
+      i. ¦
+
+*** Tabs
+1. The converter will delete all tabs, and won't replace them with anything.
+
+2. Globally replace tabs with a space.
+
+3. If the document automatically adds an indent at the top of the page, indents all the text, or indents some of the paragraph, ignore it because the converter will delete these indents.
+
+4. Don't create tabs and blank spaces to duplicate margin spacing as it appears in a print book.
+
+*** Images
+1. You may find only remnants of images that partially scanned from a book such as clusters of junk characters or garbled text. Delete them if they are the only characters on a page and write [Image removed.]
+
+     a. Writing [Image removed] is not necessary for insignificant images that are not relevant to the plot like publishers' logos and decorative graphics.
+
+2. Describing images:
+
+     a. You may include image description written in complete sentences and placed in square brackets.
+
+     b. Put the description where the image is in the text, unless the image appears in the middle of a sentence or paragraph. In that case, move the description to immediately after the sentence or paragraph.
+
+     c. Precede the description with the word image: Don't write explanations for why you are describing the image.
+
+     d. Be objective
+
+--example: Rather than writing [Image: A boy pounds his fists, jumps with excitement, and shrieks happily.], write: [Image: A boy jumps into the air with his hands balled into fists overhead. He is smiling with an open mouth.] You don't know that he's happy, but by describing his smile, the reader can assume it. You also don't know that he's shrieking, but by describing his open mouth, the reader can assume it.
+
+     e. Keep it concise. Especially in books for very young children, don't let your descriptions overwhelm the text.
+
+     f. If there are no details in an image which aren't already described in the text, don't describe it.
+
+     g. Keep the vocabulary in your description close to the vocabulary level used by the author. (If the book is targeted for second graders to read, use second grade vocabulary in your description.)
+
+3. If the image has a caption, keep it.
+
+     a. Write [caption] followed by a space before the captioned text.
+
+--example [caption] A portrait of Abraham Lincoln carefully proofreading the Gettysburg Address.
+
+*** Charts/Figures/Shapes 
+1. When these are present and can't be described remove and replace with [Chart Removed] [Figure Removed] or [Shape Removed].
+
+2. If the chart/figure has a title or description, retain it but put brackets around the word chart or figure: [chart] 3.2 Dinosaur Species [Figure] 3 Population Growth.
+
+3. Smart Art
+
+     a. Inserting Smart Art works in RTF but is not converted in*/DAISY/*(See Glossary).
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** Protecting Repeated Text in Poetry and Children's Book
+1. Sometimes, usually in poetry and children's books, a book's text has the same phrase repeated. If that phrase is the first sentence or last sentence on consecutive multiple pages, the Bookshare converter might think it's a running header or running footer, and remove it from the book.
+
+The easiest way to prevent this is:
+
+     a. put three asterisks in a row right above the phrase on every page it occurs if it's at the top of a page;
+
+     b. put three asterisks in a row right after the phrase on every page it occurs if it's at the bottom of a page.
+
+Be sure to insert spaces between asterisks. (i.e., * * *)
+
+EXAMPLE: shows the phrase at the bottom of two consecutive pages:
+
+A book has:
+
+"Come inside, Mr. Bird," said the mouse.
+
+"I'll show you what there is in a People House...
+
+[page break]
+
+"Come inside, Mr. Rabbit, said the mouse.
+
+"I'll show you what there is in a People House...
+
+Change this to:
+
+"Come inside, Mr. Bird," said the mouse.
+
+"I'll show you what there is in a People House...
+
+* * *
+
+[page break]
+
+"Come inside, Mr. Rabbit, said the mouse.
+
+"I'll show you what there is in a People House...
+
+* * *
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** Footnotes and Endnotes
+1. A Footnote is usually located at the bottom of a page. A corresponding footnote indicator, usually an asterisk, dagger, double dagger, or number is present in the text.
+
+2. When the footnote indicator in the text is a number with a corresponding numbered footnote at the bottom of the page:
+
+     a. The footnote indicator utilizing a number in the text should be superscripted, if possible.
+
+     b. There must be a space before and after the superscripted number.
+
+     c. The number for the footnote at the bottom of the page isn't superscripted.
+
+          1) Example: Mary had a little lamb 3 which followed her.
+
+At the bottom of the page the footnote says: 3. A lamb is a baby sheep.
+
+          2) If the footnote indicator is a dagger replace it within the text with two superscripted asterisks with no space between them followed by a space. If they are the last characters at the end of a paragraph, don't put a space after them. At the bottom of the page replace the dagger with two asterisks in regular font with no space between them followed by a space and the text of the footnote.
+
+3. If the footnote indicator is a double dagger replace it within the text with three superscripted asterisks with no space between them followed by a space. If they are the last characters at the end of a paragraph, don't put a space after them. At the bottom of the page replace the double dagger with three asterisks in regular font with no space between them followed by a space and the text of the footnote.
+
+     TIP: Most of the time daggers aren't recognized by the OCR. The single dagger is often misrecognized as lower case f, + or t. Double daggers may appear as capital H or other random characters.
+
+4. If the footnote indicator is one, two or more asterisks, superscript them with no space between them followed by a space. If they are the last characters at the end of a paragraph, don't put a space after them. At the bottom of the page the asterisks must be in regular font with no space between them followed by a space and the text of the footnote.
+
+5. Do not use Word's footer function to create the footnote.
+
+     TIP: The BRF format doesn't show footnote indicators in superscript. To complete preparing the book, load the document as an RTF file to a word processor where you can superscript them.
+
+6. Separate the text of the actual footnote from the text of the rest of the page by adding a line with three asterisks on it after the text and before the footnote or footnotes. Make sure to put spaces between the asterisks (Example: * * *).
+
+The footnotes should not be in square brackets (as they were prior to this new and updated standard). Do not add the word "footnote" or any other similar descriptive text prior to the footnotes.
+
+7. Endnotes are footnotes located at the end of the chapters or the end of the book instead of at the bottoms of pages.
+
+     a. Format the endnote heading at the end of a chapter as a subsection, size 14 point and bold.
+
+     b. Format the endnote heading at the end of the book, often titled Notes, size 16 and bold. If these are divided by chapters, place the chapter headings in size 14 point and bold.
+
+8. In the unusual case where an em-dash precedes or follows a footnote indicator, keep the space between the footnote indicator number and the em-dash (instead of removing the space as is usually done with an em-dash).
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** Sidebar
+1. The Sidebar and the boxed text are used most often in textbooks to emphasize important points or add supplemental information to the text.
+
+2. Put the word sidebar or the word box in brackets followed by a space before its text.
+
+     a. example: [Sidebar] It is important to read every word of the book.
+
+3. Because of their placement on the page, text with sidebars is often garbled. For example the text from the sidebar may appear in the middle of several lines. In some cases it may not be possible to reconstruct the sidebar but if you can, then treat it as described above.
+
+4. Place the sidebar or boxed text at the end of a sentence or paragraph.
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** Scanners' Notes
+1. Scanners may make notes in the document if something is intentionally put there by the author, for example a misspelled word. These notes are usually in brackets
+
+     a. Example: [Scanner's Note: Intentionally Misspelled word].
+
+     b. These notes must be deleted out of the file before the file is checked in
+
+2. Scanners also leave explanatory notes in the book history. Proofreaders must read these notes.
+
+3. Locating the book history:
+
+     a. Click on the book title in my checked out books.
+
+     b. Click on the "view book history" link.
+
+     c. To find the scanner's note search for the words, "submit initial volunteer file".
+
+     d. Read the notes left for the proofreader, or, if there are no notes, go back to proofreading.
+
+     e. In the same paragraph with the scanner's notes is the scanner's name or nickname. Enter on this and a window opens where you can write a message to the scanner.
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** Auto Generated Lists
+1. Auto-generated lists occur when your word processor automatically distinguishes a list of information, either using letters, numbers or bullets.
+
+2. When you are proofreading make sure you have the option to create autoformatted lists off. Instructions for how to do this are in the appendix.
+
+** End Matter
+1 Bibliographies, notes, appendices indexes and glossaries need not be proofread but must be retained.
+
+2. Proofreading this material is encouraged as the content is appreciated by readers.
+
+3. Booklists and preview material are informative and entertaining to readers. Though all of this may not scan, retain any of the content that makes sense.
+
+4. Indexes are often long and contain soft page breaks. Do not number the soft page breaks.
+
+5. Number all end matter pages which lack numbers.
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** Submitting a Completed Book 
+1. From "My Volunteer Home" go to "My Checked Out Books". Here you will find a list of books that you've been proofreading.
+
+2. Next to the title of the book you have finished, click "check in" and a new page will appear with more instructions.
+
+3. Activate the browse button by clicking on it or by pressing enter. Select your proofread file.
+
+4. Next fill out the comments field.
+
+     a. Required. Your computer's operating system such as : Windows, Mac, Linux or other (Please specify)
+
+     b. Required. Your proofreading software such as: Microsoft Word, Word for Mac, Kurzweil 1000, OpenBook, Other (please specify)
+
+     c. Add any comments that will aid staff in processing your book such as: pointing out the presence of dialects, foreign languages, numerous editors' errors you've left in place, and problems in the book you are doubtful you fixed correctly or didn't know how to correct.
+
+5. Next activate the Continue button by clicking on it or by pressing enter. At this point your proofread file will upload so it may take a few minutes before you're presented with the next page.
+
+6. Once your book has uploaded you will be on the book information page. In the first field check that the ISBN is correct if there is one.
+
+7. The title field:
+
+     a. Capitalize all words in the book's title for the title field except words such as: and, to, in, the, and of unless these words are the first word in the title.
+
+     b. Or use the capitalization for the title as it appears on Amazon or Good Reads which are the gold standard for correct titles preferred by Bookshare.
+
+     c. If the scanner placed a hold for you before the title of the book, please remove it.
+
+     d. If the staff left a hold followed by rev 1, 2, etc. leave it in the title.
+
+     e. Never remove BSO from the title.
+
+      f. Place the number of a book in a series in parenthesis after the title. Example: Busy Bodies (Claire Malloy Mystery #10).
+
+     g. If you suspect your book is part of a series go to Fantastic fiction, Amazon or Good Reads. Add the information you find to the title field.
+
+8. Author field:
+
+     a. The author's name must appear as it is written on the book's title page.
+
+     b. Place commas between the names of multiple authors.
+
+     c. Don't place a comma between an author's name and its' appendages such as editor, Ph.D. or M.D.
+
+     d. Omit the illustrator's name.
+
+8. Language: Make sure only English is selected unless the entire book is in another language.
+
+9. Make sure the quality field says excellent.
+
+10. The name of the copyright holder in the copyright field must match the name written in the book.
+
+11. Check that the copyright date matches that in the book. If there are multiple copyrights, use the most recent.
+
+     a. In anthologies, use the single copyright date if one is given, otherwise use the most recent of the multiple copyrights of the entries.
+
+12. What is written in the publisher field should match the publisher named in the book.
+
+13. Brief Synopsis: write NA
+
+14. Complete Synopsis
+
+     a. When possible use the book's synopsis scanned from the back cover or dust jacket flaps.
+
+     b. Never use quotes in the book that were provided to promote the book.
+
+     c. You can use the synopsis already in the field. Be sure to proofread it carefully as it often contains typos, incorrect spacing and improper punctuation.
+
+     d. delete attributed quotes and HTML code from supplied synopsis. HTML example [&385]
+
+     e. If no synopsis exists, copy the synopsis from Amazon.com. Never use information from customer reviews, publishers like Library Journal or other individuals.
+
+15. For the Number of pages field, write the number equal to the highest Arabic page in your book. You may have to replace 0 or an incorrect number to supply the accurate page number.
+
+16. Adult content:
+
+     a. Only check this box on the very rare occasions the book would not be readily available to any customer at an ordinary bookstore or library.
+
+     b. Don't check this box based on your personal opinion.
+
+     c. Occasionally Bookshare's software, which examines a book for adult content based on a formula, results in a book being incorrectly checked as having adult content. Uncheck the adult content box after proofreading the book if it meets the conditions in part a.
+
+17. Categories:
+
+     a. Check up to 4 categories that apply.
+
+     b. After having read the book you'll be in a better position to know which categories to check or uncheck that reflect the book's content.
+
+     c. Review all categories, unchecking any which don't apply.
+
+--examples:
+
+          1) When fiction and nonfiction are both checked.
+
+          2) When children and teens are both checked and the book is clearly for one age group or the other.
+
+18. Image descriptions:
+
+     a. This box should only be checked if the image descriptions add to the understanding of the book.
+
+     b. If only a book's cover has been thoroughly described the book doesn't qualify to have image descriptions checked.
+
+19. Click "check in book"
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** Glossary 
+*BRF:*Braille Ready Format. Standard contracted braille. BRF files may be used to produce hard copy (embossed) braille or read with a refreshable braille display.
+
+*Converter:*the software tool Bookshare uses to convert rtf and other files to the books members download in DAISY and braille formats.
+
+*DAISY:*Digital Accessible Information System. DAISY is a digital format for accessible materials. DAISY provides the capability to distribute books digitally with powerful indexing and bookmarking to easily move quickly from one part of a book to another.
+
+*EBook:*an electronic edition of a book, such as EPUB or PDF.
+
+*ellipsis:*three periods in a row without spaces between. They indicate missing or interrupted text
+
+*em dash:*a symbol twice the length of a dash, punctuation that mainly signals the interruption of an idea. Convert it to double dashes.
+
+*en dash:*the length of one and a half dashes, punctuation to use instead of to or through between dates. Convert it to a dash. sample end result 1935-1970
+
+*Endnote:*numbered citations of additional information located at the end of each chapter or at the end of the book.
+
+*Font size given in points:*determines the size of the letters, higher numbers indicating larger size.
+
+*font style:*appearance of the text such as bold, italics and bold italic.
+
+*font type:*the type of the print in the document such as Aerial, Tahoma or Times New Roman.
+
+*footnote:*Text usually located at the bottom of a page containing additional information about a passage or word in the text marked by its corresponding number or symbol.
+
+*footnote indicator:*superscripted number or symbol used in the text to indicate a footnote.
+
+*ISBN:*International Standard Book Number: a unique numeric commercial book identifier assigned to each edition and variation of a book.
+
+*OCR:*optical character recognition. the process by which printed text is turned into electronic text.
+
+*pagination:*placing page numbers and their accompanying page breaks in proper sequence.
+
+*PDF:*Portable Document format, a file format created by Adobe Systems which captures in electronic form all the elements of a printed document. It will display on a computer screen exactly how as document is supposed to look when it is printed
+
+out. It is not permitted to submit PDF files of books to Bookshare for addition into
+
+the collection.
+
+*proofreading:*reading through an entire book making sure scannos are corrected and all of the elements required by Bookshare are present.
+
+*RTF:*Rich Text Format, a file format created by Microsoft which most other word processors can read and edit. It contains all the elements such as page breaks, font type and style, among other things, that are needed for a Bookshare file. It does not contain all the codes that more advanced word processors use (those codes are either ignored or cause problems for the Bookshare conversion software).
+
+*Running header:*The book's title, author, or chapter name printed at the top of each page.
+
+*Running footer:*The book's title, author or chapter name printed at the bottom of each page.
+
+*scanno:*a typographical error introduced by optical character recognition software which may mistake a letter or set of letters for a letter or set of letters of similar shape.
+
+[[https://www.bookshare.org/cms/proofreading-home#top][Back To Top]]
+
+** Appendix 
+*** Keystrokes for Accents 
+1. Make sure your keyboard language is set to American English.
+
+2. acute = CONTROL + ' then the letter
+
+3. c cedilla = CONTROL + comma then c
+
+4. circumflex = CONTROL + shift 6, then the letter.
+
+5. grav = CONTROL +` (the key to the left of the 1) then the letter
+
+6. ny (Spanish accent) CONTROL +shift grav then n
+
+7. umlaut = CONTROL + shift then semicolon then the letter
+
+8. When adding an accent to a capitalized letter use the same keystrokes followed by shift with the letter.
+
+*** Three Ways to Correct Scannoes
+1. Correct the scanno in context as you read: example change exacdy to exactly.
+
+2. If you suspect there are more than one occurrence of the scanno like exacdy, type it in the find box. Press enter. Then press escape. Read the word you found in context and fix it. Repeat this until no more occurrences are found and return to the place where you first found the scanno.
+
+3. A faster method is to bring up the find and replace box. Type exacdy in the find field and exactly in the replace field and press alt a to replace them all. be careful to check your typing. If you make a mistake, all of the scannos will be replaced by the word that will contain your error. You can't be sure this works for all scannos. For example, if you replace the scanno die with the correct word the, you will turn instances where the correct word die is correct but you will have turned it into the. Use the global replace with caution.
+
+*** Helpful Keyboard Shortcuts (hotkeys)
+1. f7 starts spellcheck
+
+2. font selection, for highlighted part of or whole book: CONTROL with d. There will be 3 drop down menus.
+
+     a. In the*/font type/*(see glossary)*//*drop down: arrow down or type in font name like Arial, Tahoma or Times New Roman. Tab to
+
+     b. the*/font style (see glossary)/*drop down: arrow down to select regular, italic, bold or bold italic or leave this field blank. Tab to
+
+     c. font size: arrow down or up to select, or type size number
+
+     d. Change only a. b. or c. above as needed. Tab over anything you wish to stay the same.
+
+3. Finding and/or replacing text
+
+     a. find: CONTROL with f
+
+     b. find and replace: CONTROL with h
+
+     c. Cancel find or find and replace: Press ESCAPE
+
+     d. Repeat find: after closing the Find or the Find and Replace window: hold down ALT and CONTROL with y (This is a great time saver.)
+
+4. page breaks
+
+     a. add a page break: CONTROL with enter
+
+     b. delete the page break: press delete when the cursor is at the beginning of the first line of the page just below the page break to be deleted.
+
+5. Selecting (highlighting) text
+
+     a. Select page breaks type caret m in the find box. useful when checking that page numbers are there while working on or before checking in a book.
+
+     b. Select text by letter: hold down SHIFT and use the left or right arrow key to move the cursor
+
+or hold down SHIFT and use numpad 4 or 6
+
+     c. Select text by word: CONTROL with SHIFT then press the right or left arrow
+
+or CONTROL with SHIFT and numpad 4 or 6
+
+     d Select to the end of a line: press SHIFT and the END key
+
+or Shift and numpad 2
+
+     e. Select to the beginning of a line: press SHIFT and the HOME key
+
+or SHIFT and numpad 8
+
+     f. Select by whole line: With the cursor at the beginning of the line, press CONTROL and up or down arrow
+
+or CONTROL SHIFT numpad 8 for up and 2 for down
+
+     g. Select by paragraph: CONTROL with SHIFT then press up or down arrow
+
+or CONTROL with SHIFT numpad 8 or 2
+
+     h. Select to the beginning of a document: press CONTROL with SHIFT and then press the HOME
+
+     i. Select to the end of a document: press CONTROL with SHIFT and then press END
+
+     j. Select the entire document: CONTROL with a
+
+6. Toggle: When a hotkey is marked toggle it means that using it the first time turns the action on. Using it again (as when you are finished) turns the action off. Toggling cycles between on and off every time you use the hotkey. Hotkeys that are toggles are identified with (toggle)
+
+7. Bolding, changing text size, and italicizing existing text for book titles, parts, chapters, sections, recipes, poems and content
+
+     a. Make letters bold: highlight the text to be bolded then CONTROL with b (toggle)
+
+     b. Make letters italic: highlight the text to be italicized then CONTROL with i (toggle)
+
+     c. Decrease font size 1 point: highlight the text to be decreased then CONTROL with [
+
+     d. Increase font size 1 point: highlight the text to be increased then CONTROL with ]
+
+8. Underlining existing letters or spaces: highlight the text to be underlined and press
+
+CONTROL with u (toggle)
+
+9. count the following: Pages, words, characters (no spaces), characters (with spaces), paragraphs and lines.
+
+     a. Highlight what you want counted from the entire document to a single line then: CONTROL with SHIFT then g
+
+     b. Useful when checking to see if a title is 65 characters or more: Highlight the text then CONTROL with SHIFT then g
+
+10. Altering attributes for text to be typed:
+
+     a. bolding: CONTROL with b (toggle)
+
+     b italicize: CONTROL with I (toggle)
+
+     c. underline: CONTROL with u (toggle)
+
+     d. Decrease font size 1 point: With the cursor on the space before the text you want to type: CONTROL [
+
+     e. Increase font size 1 point: With the cursor on the space before the text you want to type: press the CONTROL with ]
+
+11. Undo the last action: press the CONTROL key and the Z key. This is an easy way to correct your mistakes. Press this as many times as needed to get to the place you want to change. This doesn't work once you close and reopen the document.
+
+12. In the find box
+
+     a. ^p = paragraph mark which indicates the start of a paragraph
+
+     b. ^p^p = double line break
+
+     c. ^+ = em-dash"
+
+     d. ^- = en-dash"
+
+*** How to Customize Microsoft Word Auto Correction Options
+(Based on MS Word 2013 but should work for most versions of Word for Windows)
+
+1. Open Options by pressing alt plus f, then t.
+
+2. You are in a list of categories. Press down arrow until you reach Proofing.
+
+3. Press the tab key until you reach a button labelled "Auto Correct Options" and press the spacebar on this button. This opens a multi-page dialogue box where you can change many auto-correct features.
+
+4. The first item is a list of things that can be replaced with something else, such as (c) will be replaced by a graphical copyright sign.
+
+5. Press down arrow in this list until you come to "dot dot dot". This means that when you type three periods in a row Word will automatically replace the three periods with something else.
+
+6. Press tab once more and you will be in a list that tells you what Word will replace "dot dot dot" with. In this case it will say something like "horizontal ellipsis".
+
+7. While focused on this entry you can press alt plus D or tab to the "Delete Button" and press space. This will delete the entry from the list which means word will no longer automatically replace the three periods with its graphical ellipsis.
+
+8. Tab to the "OK Button" and press space.
+
+9. Follow steps 1-3 above to go back into the Auto-Correct Options.
+
+     a. Press "CONTROL plus tab" until you come to the "Auto-Format As You type" tab.
+
+     b. Tab through these options and uncheck the ones you want to disable.
+
+We recommend unchecking the following:
+
+* fractions such as 1/2 with a graphical character
+
+* automatic bulleted lists
+
+* automatic numbered lists
+
+* Borderlines
+
+     c. Press "CONTROL plus Tab" again until you get to the "Auto-Format" tab.
+
+10. Press tab a few times until you get to the "Automatic Bulleted Lists" option and uncheck it in here too.
+
+11. Tab to "OK" and press space to activate.
+
+*** How to Change Paper Size in MS Word 
+(Works for Versions of Word: 2007, 2010 and 2013 and may work for later versions as well)
+
+1. To change the paper size of a document in Microsoft Word you will need to go to the "Page Setup" dialogue on the "Page Layout" tab. To get here press "alt plus p, s, p"
+
+2. Press "CONTROL plus tab" until you see/hear "Paper Tab".
+
+3. Press tab once and you will be in a combo box called "Paper Size". If you press the "down arrow", you will find various types of paper from which to choose.
+
+In most cases, changing from "Letter" (which is usually the default) to "Legal" size will be sufficient to get rid of all of the soft page breaks in your document.
+
+4. Arrow down to "Legal", or press the letter "L" until you see/hear "Legal".
+
+5. Press tab a few times until you come to a combo box labelled "Apply To" and make sure it says "Whole Document".
+
+6. Tab to "OK" and press space to activate.
+
+If you still see some soft page breaks, it may be necessary to change the page length a bit more.
+
+7. Return to the "Paper Tab" of the "Page Setup" dialogue.
+
+8. In the "Paper Size" combo box, Press down arrow or the letter "C" until you hear "Custom".
+
+9. Press tab until you see/ "Height". This is an edit field where you can enter the paper length you want. Legal size is 14", so entering a length longer than 14" will probably get rid of any lingering soft page breaks. (Note that Word will not accept a length of more than 22 inches.)
+
+10. Again, make sure you're applying this setting to the entire document, then tab to "OK" and press the space bar.
+
+You may get a pop-up message from Word indicating that "one or more margins is outside the printable area". Just tab to the "Ignore" button and press the space bar to dismiss the message.
+
+*** Spell Catchers Can't Catch 'Em
+One reason it's so important to read all of the book you're proofreading is that the spell check won't identify all of the scannos because some of them are real words the OCR recognized in place of another real word like cuts for cute or me for the. These can only be found and fixed by reading them in context.
+
+For over a decade some volunteers enjoyed recording words their spell checkers couldn't catch as they encountered them while preparing scans or proofreading. Here is an alphabetized list of words your spell check couldn't have identified. It might help to refer to it when you're unsure whether or not to correct a real word that doesn't make sense.

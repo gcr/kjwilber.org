@@ -1,0 +1,5 @@
+#+CATEGORY: day
+
+
+
+progress = HTML("<h1><img display='inline-block' style='float: left; padding-right: 0.5em;' valign='baseline' src='https://i.imgur.com/WEEFbsd.gif' width=75 height=96>Processing PDF files...</h1>")

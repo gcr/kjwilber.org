@@ -1,0 +1,648 @@
+#+CATEGORY: day
+
+
+#+begin_src python
+#@title Setup path and install dependencies { display-mode: "form" }
+
+from google.colab import drive, widgets, output, auth
+auth.authenticate_user()
+drive.mount('./gdrive')
+
+#@markdown This should be 'gdrive' + the path to where you've saved the paper proceedings folder.
+PATH = "./gdrive/My Drive/Areas/CVF Open Access Proceedings/ICCV 2021/" #@param {type:"string"}
+!sudo apt update -y
+!sudo apt install -y libgraphicsmagick++1-dev libboost-python-dev poppler-utils
+!sudo pip install --upgrade nameparser reportlab unidecode gspread pikepdf pdf2image
+!sudo apt install -y ghostscript graphicsmagick inkscape qpdf
+#@markdown After evaluating this cell, you will be prompted **twice** to authenticate your Google account.
+
+from IPython.display import HTML, display, Image
+#from PyPDF2 import PdfFileWriter, PdfFileReader
+#from PyPDF2.generic import NameObject, NumberObject
+import pikepdf
+import io
+from collections import Counter
+from glob import glob
+from nameparser import HumanName
+from oauth2client.client import GoogleCredentials
+#from pgmagick import Image, Blob, ImageList
+from pprint import pformat
+from reportlab.pdfgen import canvas
+from skimage import morphology
+from skimage.io import imread
+from time import time
+from tqdm import tqdm_notebook as tqdm
+import IPython.display
+import csv
+import gspread
+import hashlib
+import json
+import numpy as np
+import os
+import pandas as pd
+import random
+import re
+import subprocess
+import tempfile
+import traceback
+import unidecode
+
+# utils ########################################################################
+
+def create_pagenumber_stamp(page, out_page_number, page_stamp_location):
+    """Returns a PikePDF "Page" instance that shows the stamp with
+    'out_page_number'. The stamp is placed at x=center of the page,
+    y=page_stamp_location points from the bottom.
+
+    """
+    content = io.BytesIO()
+    pagewidth = float(page.mediaBox[2])
+    pageheight = float(page.mediaBox[3])
+    c = canvas.Canvas(content, pagesize=(8.5*72, 11*72), pdfVersion=(1,4))
+    c.setFillColorRGB(1,1,1)
+    pagewidth = float(page.mediaBox[2])
+    rectw, recth = 72, 14
+    c.rect(x = (pagewidth/2.0 - rectw/2.0),
+           y = page_stamp_location - 3,
+           width = rectw,
+           height = recth,
+           fill = True,
+           stroke = False,
+    )
+    c.setFillColorRGB(0.5, 0.5, 0.5)
+    c.setFont("Times-Roman", 9)
+    c.drawCentredString(x = pagewidth/2.0,
+                        y = page_stamp_location,
+                        text = "%d" % out_page_number,
+    )
+    c.showPage()
+    c.save()
+    content.seek(0)
+    return PdfFileReader(content).getPage(0)
+
+def nice_open_pdf_file(filename):
+    """ Run QPDF and then Ghostscript on the PDF file """
+    assert os.path.exists(filename), "%s does not exist"%filename
+
+    # Pass input thru qpdf to fix xref table
+    #proc = subprocess.Popen(["qpdf", filename, "--replace-input"],
+    #                        stdin=subprocess.PIPE,
+    #                        stdout=subprocess.PIPE)
+    #(out2, err) = proc.communicate("")
+    #print "qpdf run: %r" % [out2, err]
+
+    proc = subprocess.Popen([
+            "gs",
+            "-sDEVICE=pdfwrite",
+            "-dCompatibilityLevel=1.4",
+            "-dNOPAUSE",
+            "-dQUIET",
+            "-dBATCH",
+            # see http://superuser.com/questions/360216/use-ghostscript-but-tell-it-to-not-reprocess-images
+            #"-dJPEGQ=95", # default is 75
+
+        # don't do this -- this sets the DPI to be horrible
+            #"-dPDFSETTINGS=/printer",
+            # "-dColorConversionStrategy=/LeaveColorUnchanged",
+        # i don't think ghostscript downsamples images by default
+            # "-dDownsampleMonoImages=false",
+            # "-dDownsampleGrayImages=false",
+            # "-dDownsampleColorImages=false",
+        # turning these options balloons filesizes... a shame that ghostscript must reencode images by default
+            # "-dAutoFilterColorImages=false",
+            # "-dAutoFilterGrayImages=false",
+            # "-dColorImageFilter=/DCTEncode",
+            # "-dGrayImageFilter=/DCTEncode",
+        # preserve hyperlinks
+            "-dPreserveAnnots=true", "-dPrinted=false",
+            "-sOutputFile=-",
+
+            # better image quality when in screen mode
+            # see https://stackoverflow.com/questions/40849325/ghostscript-pdfwrite-specify-jpeg-quality
+            "-c",".setpdfwrite << /ColorACSImageDict << /VSamples [ 1 1 1 1 ] /HSamples [ 1 1 1 1 ] /QFactor 0.08 /Blend 1 >> /ColorImageDownsampleType /Bicubic /ColorConversionStrategy /LeaveColorUnchanged >> setdistillerparams",
+
+            "-f", filename,
+        ],
+        stdin=subprocess.PIPE,
+        stdout=subprocess.PIPE,
+    )
+    (out,err) = proc.communicate("")
+
+    return PdfFileReader(io.BytesIO(out))
+
+def nearest_ascii(ustring):
+    """ Given an encoded string that may contain UTF-8 or Latin-1 high
+    bytes, try to convert it completely ASCII. This is suitable for
+    filenames and author lists. """
+    if not isinstance(ustring,unicode):
+        try:
+            ustring = ustring.decode('utf-8')
+        except:
+            try:
+                ustring = ustring.decode("iso-8859-1")
+            except:
+                raise ValueError(ustring)
+    # return unicodedata.normalize('NFKD', ustring).encode('ascii','ignore')
+    return unidecode.unidecode(ustring)
+
+def sanitize_for_filename(string):
+    return re.compile(r"[^-a-zA-Z_.0-9]").subn("",nearest_ascii(string))[0]
+
+def pdf_to_png_buffers(pdf):
+  pdf2image.convert_from_path
+  #ilist = ImageList()
+  #ilist.readImages(str(pdf))
+  #for img in ilist:
+  #  out = Blob()
+  #  img.write(out, "png")
+  #  yield out.data
+
+def pdf_to_rgba(filename):
+  for png_buffer in pdf_to_png_buffers(filename):
+    img = imread(io.BytesIO(png_buffer))
+    if img.ndim == 2:
+        img = img[:,:, np.newaxis][:,:,[0,0,0]]
+    yield img
+
+def guess_page_number_locations(pdf_filename, debug=False):
+    """Problem: Authors do not read the submission instructions. Some PDF
+    files are fearfully and wonderfully made, and may suffer from any
+    combination of the following maladies:
+
+    - Incorrect page numbers, numbered from page 1
+    - The above, but only on the first page
+    - The above, but on all pages except the first page
+    - Generating a US Letter-sized paper and then cropping it in the
+      middle of an A4 page (this means we can't hardcode the stamp
+      location)
+    - Simply submitting an A4-sized paper, which blatantly violates
+      submission guidelines
+    - Creating figures that bleed into the page margins, which would
+      show up underneath the stamped page number
+    - Turning the entire PDF file into a sequence of concatenated
+      bitmaps, making textual detection of page numbers completely
+      impossible (this one's the WORST!)
+    - Permuting all of the letters in the OCR layer to foil
+      copy+pasting, making text detection of page numbers impossible
+
+    To get around these issues, we need to guess where the page number
+    is using some basic hand-tuned image processing: we crop off a
+    region near the lower center of the paper and use filters to
+    detect whether there's a page-number-sized area of text below the
+    body copy.
+
+    """
+    results = []
+    prev_location = None
+    pdf = PdfFileReader(pdf_filename)
+    n_pages = pdf.getNumPages()
+    for page_num, img in enumerate(pdf_to_rgba(pdf_filename)):
+        img = img.mean(2)
+
+        # Erode the image, to smooth over text regions.
+        img = morphology.erosion(img,
+                                 np.ones((18,18)),
+        )
+
+        # Row_avgs is a measure of how likely each row contains a page
+        # number. This is calculated as follows: things in the MIDDLE
+        # should count TOWARD the pagenumber score; things near the
+        # OUTSIDE should count AGAINST. The final result is a 1-d
+        # array with length equal to the document's height in points.
+        xmidpoint = int(img.shape[1] / 2.0)
+        xleft = xmidpoint-25
+        xright = xmidpoint+10
+        #import IPython; IPython.embed()
+        row_avgs = (
+              (255-img[:, xleft:xright]).sum(1)
+            - (255-img[:, :xleft]).sum(1)
+            - (255-img[:, xright:]).sum(1)
+        )
+        row_avgs = row_avgs[::-1]
+
+        # # Next, smooth this value again
+        # row_avgs_smoothed = (np.convolve(row_avgs, np.ones(12)/12., mode='same'))
+
+        if debug:
+            from matplotlib.pylab import subplots
+            fig, (ax1,ax2) = subplots(1,2, figsize=(8,4))
+            ax1.plot(row_avgs)
+            ax1.set_xlim(0, 200)
+            # The 256--356 is a vertical section that's slightly more than
+            # an inch.
+            img[:, xleft:xright] *= 0.8
+            ax2.imshow(img[500:], cmap='gray')
+
+        # Second step: Find if there's a page number at the bottom.
+        # This will be indicated by a positive value for the score.
+        proposed_page_number_location = None
+        if np.any(row_avgs > 1000):
+            proposed_locs = np.where(row_avgs > 0)[0]
+            if np.all(row_avgs[:proposed_locs[0]+12] >= 0):
+                # The page number should be WELL below the rest of the body
+                # text.
+                proposed_page_number_location = proposed_locs[0] + 7
+
+        if debug:
+            print("Proposing", proposed_page_number_location)
+
+        # Use this location, maybe.
+        if (proposed_page_number_location and page_num != n_pages-1):
+            # why is that last term necessary? ^^^^^^^^^^^^^^^^
+            # Use this location
+            results.append(proposed_page_number_location)
+            prev_location = proposed_page_number_location
+        else:
+            # No page numbers here, OR they're likely to overlap with
+            # some badly-behaved figures... hmm...
+            first_ink_location = np.where(row_avgs < 0)[0][0]
+            if debug:
+                print("First ink location:", first_ink_location)
+            if not prev_location or prev_location+12 > first_ink_location:
+                # uh oh, have to guess! just.... put it...halfwayish?
+                prev_location = int(first_ink_location / 2.0)
+            results.append(prev_location)
+
+    return results
+
+def emit_csv(papers,filename, pathname="content_cvpr_2015/papers/", supplemental_pathname="content_cvpr_2015/supplemental/"):
+    """Convert all papers to a CSV file that's suitable to import into
+       phpmyadmin"""
+    with open(filename,"wb") as f:
+        writer = csv.writer(f,quoting=csv.QUOTE_NONE,escapechar="\\")
+        for paper in papers:
+            writer.writerow([
+                # Title
+                nearest_ascii(paper.title),
+                # Authors
+                nearest_ascii(", ".join(paper.authors)),
+                # PDF (filename)
+                pathname+paper.sensible_filename(),
+                # Supplemental material
+                (supplemental_pathname+paper.sensible_supplemental_filename()
+                 if paper.supplemental_filename
+                 else "None"),
+                # Slides
+                "None",
+                # Poster
+                "None",
+                # Xplore
+                "None",
+                # First page
+                paper.start_page,
+                # Last page
+                paper.last_page,
+                # Abstract
+                strip_latex_characters(nearest_ascii(paper.abstract)),
+                ])
+
+def strip_latex_characters(text):
+    """
+    Remove LaTeX characters from a string.
+    """
+    orig_text = text
+    text = re.subn(r"\\inst{([1-9,]*)}?", r"",  text)[0]
+    text = re.subn(r"\\orcidID{([^}]*)}", r"",  text)[0]
+    text = re.subn(r"\\emph{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\textit{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\textbf{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\textsc{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\textcolor{[a-z]*}{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\mbox{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\mathbf{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\peng{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\footnote{([^}]*)}", r"(\1)",  text)[0]
+    text = re.subn(r"\\url{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\cite{([^}]*)}", r"[??]",  text)[0] #:)
+    # the following rule deals with: "Ji{\v r}{\'{\i}} Hlad\r{u}vka"
+    text = re.subn(r"{\\'{\\(.)}}", r"\1",  text)[0]
+    text = re.subn(r"{\\v\W*([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\'{\\(.)}", r"\1",  text)[0]
+    text = re.subn(r"\\'{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"{\\(.)}", r"\1",  text)[0]
+    text = re.subn(r"\\'{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\v{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\`{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\\"{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\~{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"{\\'\W*([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"{\\aa}", r"aa",  text)[0]
+    text = re.subn(r"{\\\"([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"{\\`([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\c{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\u{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\r{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\\^{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\`([^}]*)", r"\1",  text)[0]
+    text = re.subn(r"\\`{([^}]*)}", r"\1",  text)[0]
+    text = re.subn(r"\\'i", r"i",  text)[0]
+    text = re.subn(r"\\'e", r"e",  text)[0]
+    text = re.subn(r"\\'(.)", r"\1",  text)[0]
+    text = re.subn(r"\\frac{([^}]*)}{([^}]*)}", r"\1 / \2",  text)[0]
+    text = (text
+            .replace("~", " ")
+            .replace("$", "")
+            .replace(r"\%", "%")
+            .replace(r"\_", "_")
+            .replace(r"\(", "(")
+            .replace(r"\)", ")")
+            .replace(r"``", '"')
+            .replace(r"''", '"')
+            .replace(r"\"", "")   # dropping \"o -> o
+            .replace(r"\it ", "")
+            .replace(r"\times ", "x")
+            .replace(r"\times", "x")
+            .replace(r"\beta", "b")
+            .replace(r"\rightarrow", "->")
+            .replace(r"\ ", " ")
+            .replace(r"\eg", "e.g.")
+            .replace(r"\chi", "Chi")
+            .replace(r"\sim", "~")
+            .replace(r"\approx", "~")
+            .replace(r"\em", "")
+            .replace(r"\bm", "")
+            .replace(r"\infty", "infinity")
+            .replace(r"\Phi", "Phi")
+            .replace(r"\ell", "l")
+            .replace(r"\epsilon", "epsilon")
+            .replace(r"\it ", "it ")
+            .replace(r"\textbf ", "")
+            .replace(r"\bf ", "")
+            .replace(r"\ryn ", "") # wtf is this
+            .replace(r"\ie ", "i.e. ")
+            .replace(r"\ie", "i.e.")
+            .replace(r"\etc", "etc.")
+            .replace(r"\&", "&")
+            .replace(r"\ll", "<<")
+            .replace(r"\newline", "")
+    )
+    if "{" in text:
+        print("Warning: Stripping brackets:", text[text.index("{")-30:text.index("{")+30])
+    text = text.replace("{"," ")
+    if "}" in text:
+        print("Warning: Stripping brackets:", text[text.index("}")-30:text.index("}")+30], repr(orig_text))
+    text = text.replace("}"," ")
+    if "\\" in text:
+        print("Warning: Another \-command:", text[text.index("\\")-30:text.index("\\")+30], repr(orig_text))
+    return text
+
+# paper ########################################################################
+
+class Paper(object):
+    def __init__(self, title, authors, abstract, conference, year, conference_long, filename, start_page, last_page, supplemental_filename, output_filename_prefix, page_number_locations, input_path=None, output_path=None, banner_file=None):
+        self.title = title
+        self.authors = authors
+        self.abstract = abstract
+        self.conference  = conference
+        self.year = year
+        self.conference_long = conference_long
+        self.filename = filename
+        self.start_page = start_page
+        self.last_page = last_page
+        self.supplemental_filename = supplemental_filename
+        self.output_filename_prefix = output_filename_prefix
+        self.page_number_locations = page_number_locations
+
+        self._input_path = input_path
+        self._output_path = output_path
+        self._banner_file = banner_file
+
+    def output_filename(self, output_path=None):
+        assert (output_path or self._output_path) == (self._output_path or output_path)
+        output_path = output_path or self._output_path
+        return os.path.join(output_path, self.sensible_filename())
+
+    def output_exists(self, output_path=None):
+        assert (output_path or self._output_path) == (self._output_path or output_path)
+        output_path = output_path or self._output_path
+        return os.path.exists(self.output_filename(output_path))
+
+    def input_filename(self, input_path=None):
+        assert (input_path or self._input_path) == (self._input_path or input_path)
+        input_path = input_path or self._input_path
+        return os.path.join(input_path, self.filename)
+
+    def input_exists(self, input_path=None):
+        assert (input_path or self._input_path) == (self._input_path or input_path)
+        input_path = input_path or self._input_path
+        return os.path.exists(self.input_filename(input_path))
+
+    def input_newer_than_output(self, *args, **kwargs):
+        if not self.output_exists(*args, **kwargs):
+            return True
+        input_mtime = os.path.getmtime(self.input_filename(*args,**kwargs))
+        output_mtime = os.path.getmtime(self.input_filename(*args,**kwargs))
+        return input_mtime > output_mtime
+
+    def __str__(self):
+        return u"\n".join([
+            u"\x1b[0;30m" + self.input_filename() + u"\x1b[0m",
+            u"\x1b[1;32m" + self.title + u"\x1b[0m", #+ ", p.%d"%self.start_page
+            u", ".join(self.authors)
+        ]).encode('utf-8')
+
+    def __repr__(self):
+        return "Paper(%s)" % pformat(dict(
+            input_filename = self.input_filename(),
+            output_filename = self.output_filename(),
+            **self.__dict__
+        ))
+
+    def stamp_pdf(self,
+                  input_path=None,
+                  output_path=None,
+                  banner_file=None,
+                  stamp_page_numbers = True,
+        ):
+        """Perform the following actions on paper:
+            - Read it from the input folder
+            - Give it proper metadata
+            - Give it the CVF banner
+            - Give it proper page numbers
+            - Give it a proper filename
+            - Copy it to the output folder
+        """
+
+        metadata = {
+            "/Title": nearest_ascii(self.title),
+            "/Author": nearest_ascii(", ".join(self.authors)),
+            "/Subject": self.conference_long,
+        }
+
+        input_pdf_filename = self.input_filename(input_path)
+        output_pdf_filename = self.output_filename(output_path)
+        assert (banner_file or self._banner_file) == (self._banner_file or banner_file)
+        banner_file = banner_file or self._banner_file
+        pdf_in = nice_open_pdf_file(input_pdf_filename)
+        pdf_out = PdfFileWriter()
+
+        if not os.path.isdir(os.path.dirname(output_pdf_filename)):
+          os.makedirs(os.path.dirname(output_pdf_filename))
+
+        pdf_out.addMetadata(metadata)
+
+        # Guess page number locations.
+        if stamp_page_numbers and self.start_page is not None:
+            page_number_locations = (
+                self.page_number_locations or guess_page_number_locations(input_pdf_filename))
+        else:
+            page_number_locations = [None] * pdf_in.getNumPages()
+
+        # Process each page
+        for page_num, page_number_location in zip(xrange(pdf_in.getNumPages()),
+                                                  page_number_locations):
+            page = pdf_in.getPage(page_num)
+            if page.mediaBox != [0,0,612,792]:
+                # units in points (72 per inch)
+                print("Problem: Page %d is NOT 8.5x11 size! Check to make sure it looks OK!" % page_num)
+                print("  Filename: %s"%input_pdf_filename)
+
+            # Sometimes ghostscript accidentally gets confused
+            # and rotates our page... this flag doesn't affect any
+            # of the drawing commands, but will ask the viewer
+            # to rotate the page.
+            if page.get('/Rotate', 0) != 0:
+                page[NameObject("/Rotate")] = NumberObject(0)
+
+            # Add the banner to the first page
+            if page_num == 0:
+                if '*' in banner_file:
+                    banner_file = banner_file.replace('*', '{height}')
+                page.mergePage(PdfFileReader(banner_file.format(
+                    conference = self.conference,
+                    height = "%0.1fin" % (float(page.mediaBox[3]) / 72.0)
+                )).getPage(0))
+
+            # Add stamped page numbers to the output page
+            if stamp_page_numbers:
+                out_page_number = page_num + self.start_page
+                page.mergePage(create_pagenumber_stamp(page,
+                                                    out_page_number,
+                                                    page_number_location))
+            pdf_out.addPage(page)
+
+        # Finalize stamping the PDF
+        temp = output_pdf_filename + "-tmp-" + "".join([random.choice("0123456789") for _ in xrange(10)])
+        with open(temp, "wb") as f:
+            pdf_out.write(f)
+        os.rename(temp, output_pdf_filename)
+
+    def sensible_filename(self):
+        """ Generate a sensible final filename given a paper dictionary """
+        first_author = HumanName(self.authors[0])
+        first_author.capitalize()
+        name = (first_author.last or first_author.first).replace(" ","_")
+        first_few_words_of_title = "_".join(self.title.split(" ")[:10])
+        return self.output_filename_prefix + sanitize_for_filename(
+            "%s_%s_%s_%d_paper.pdf" % (name,
+                                       first_few_words_of_title,
+                                       self.conference,
+                                       self.year,
+            ))
+
+    def sensible_supplemental_filename(self):
+        """ Generate a sensible final filename given a paper dictionary """
+        extension = self.supplemental_filename.split(".")[1]
+        first_author = HumanName(self.authors[0])
+        first_author.capitalize()
+        name = (first_author.last or first_author.first).replace(" ","_")
+        first_three_words_of_title = "_".join(self.title.split(" ")[:3])
+        return sanitize_for_filename(
+            "%s_%s_%s_%d_supplemental.%s" % (name,
+                                            first_three_words_of_title,
+                                            self.conference,
+                                            self.year,
+                                            extension,
+            ))
+
+# colab tools ##################################################################
+
+def png_buffer_to_html(png):
+  return "<img src='data:image/png;base64,%s' style='border: #000 solid 1px;' />" % png.encode("base64").strip()
+
+def display_pdf_files(pdf_files):
+  tab = widgets.TabBar([os.path.basename(p) for p in pdf_files])
+  for pdf in pdf_files:
+    with tab.output_to(os.path.basename(pdf)):
+      display(HTML("".join(map(png_buffer_to_html, pdf_to_png_buffers(pdf)))))
+
+def gsheets_to_paper_list(spreadsheet_url, creds = None):
+    auth.authenticate_user()
+    creds = creds or GoogleCredentials.get_application_default()
+    gc = gspread.authorize(creds)
+    worksheet = gc.open_by_url(spreadsheet_url).sheet1
+
+    assert not set("0123456789").intersection(set(CONFERENCE)), "The year should not be part of the conference acronym"
+    assert CONFERENCE == CONFERENCE.upper(), "The conference acronym is typically a short string like 'ICCV' or 'CVPR'"
+
+    paper_list = []
+    cache_col_idx = 1 + worksheet.row_values(1).index(COL_CACHE)
+    for row_idx, row in enumerate(worksheet.get_all_records(), start=2):
+      if row[COL_TITLE] and row[COL_CAMERA_READY_FILE]:
+        paper = Paper(
+                  title = row[COL_TITLE],
+                  abstract = row[COL_ABSTRACT],
+                  authors = row[COL_AUTHORS].split(COL_AUTHORS_SEPARATOR),
+                  conference = CONFERENCE,
+                  conference_long = LONG_CONFERENCE,
+                  year = int(YEAR),
+                  start_page = int(row[COL_FIRST_PAGE]) if COL_FIRST_PAGE else None,
+                  last_page = int(row[COL_LAST_PAGE]) if COL_LAST_PAGE else None,
+                  filename = row[COL_CAMERA_READY_FILE],
+                  supplemental_filename = row[COL_SUPPLEMENTAL_FILE],
+                  output_filename_prefix = row[COL_OUTPUT_FILENAME_PREFIX],
+                  page_number_locations = (json.loads(row[COL_PAGE_NUMBER_LOCATIONS]) if row[COL_PAGE_NUMBER_LOCATIONS] else None),
+                  input_path = PDF_INPUT_PATH,
+                  output_path = PDF_OUTPUT_PATH,
+                  banner_file = BANNER_OUTPUT,
+              )
+        paper_list.append(paper)
+        paper.cache = GSheetsCacheCell(paper, worksheet, row_idx, cache_col_idx)
+    if len(set([paper.sensible_filename() for paper in paper_list])) != len(paper_list):
+        counter = Counter([paper.sensible_filename() for paper in paper_list])
+        duplicate_papers = [str(paper) for paper in paper_list if counter[paper.sensible_filename()] > 1]
+        raise ValueError("Papers don't have unique output filenames!\nA list of duplicates: %s" % "\n\n".join(duplicate_papers))
+    assert len(set([paper.filename for paper in paper_list])) == len(paper_list), "Papers don't have unique input filenames! Ensure there are no duplicate paper IDs"
+    missing_papers = [
+        paper
+        for paper in paper_list if not paper.input_exists()
+    ]
+    assert not missing_papers, "The following papers are missing their input file:\n%s"% "\n\n".join(map(str, missing_papers))
+    missing_input_files = set(glob(PDF_INPUT_PATH+"/*.pdf")) - set([p.input_filename() for p in paper_list])
+    assert not missing_input_files, "The following PDF files do not have papers:\n\n" + "\n".join(missing_input_files)
+    return paper_list
+
+class GSheetsCacheCell(object):
+  def __init__(self, paper, worksheet, row, col):
+    self.paper = paper
+    self.worksheet = worksheet
+    self.worksheet._cached_values = None
+    self.row = row
+    self.col = col
+  def _get_cell(self):
+    if self.worksheet._cached_values:
+      return self.worksheet._cached_values[self.row-1][self.col-1]
+    return self.worksheet.cell(self.row, self.col).value
+  def _update_cache(self):
+    self.worksheet._cached_values = self.worksheet.get_all_values()
+  def _hash(self):
+    self.paper.cache = None
+    try:
+      return hashlib.md5(
+          repr(self.paper) +
+          open(self.paper.input_filename()).read()
+      ).hexdigest()
+    finally:
+      self.paper.cache = self
+  def needs_update(self):
+    if not self.paper.output_exists():
+        return True
+    if self.paper.input_newer_than_output():
+        return True
+    if self._get_cell() != self._hash():
+        return True
+    return False
+  def update(self):
+    self.worksheet.update_cell(self.row, self.col, self._hash())
+
+#+end_src

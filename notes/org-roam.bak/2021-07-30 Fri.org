@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       6E62531D-E38A-418F-A553-7D6FF89EB2F6
+:END:
+#+CATEGORY: day
+
+
+
+aws s3api put-object-acl --bucket bam-dataset --key exampleobject --acl public-read
+
+#+begin_src sh
+set +x
+aws s3api put-object-acl --bucket bam-dataset --key version-2/1YK8z6Yi/20171214-behance-styles-3m-1YK8z6Yi.sqlite.gz --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-2/1YK8z6Yi/20171214-behance-styles-3m-images-1YK8z6Yi.tar --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-2/2ZgB9Vzh/20171214-behance-styles-full-2ZgB9Vzh.sqlite.gz --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-2/R4OHZduT/20171214-behance-styles-crowd-only-R4OHZduT.sqlite.gz --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-2/R4OHZduT/20171214-behance-styles-crowd-only-images-R4OHZduT.tar --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-2/lD9j4do8/20171214-behance-styles-2m-images-lD9j4do8.tar --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-2/lD9j4do8/20171214-behance-styles-2m-lD9j4do8.sqlite.gz --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-1/20170509-behance-styles-10m-weOBZeA6WY.sqlite --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-1/20170509-behance-styles-1m-18UThu3ICM.sqlite --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-1/20170509-behance-styles-2.2m-Nja9G.sqlite --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-1/20170509-behance-styles-20m-qDFwEs1QzE.sqlite --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-1/20170509-behance-styles-40m-9ldkq6ubVO.sqlite --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-1/20170509-behance-styles-5m-7ASWZWUQFV.sqlite --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-1/20170509-behance-styles-crowd-only-xQ3gXol5UR.sqlite --acl public-read
+aws s3api put-object-acl --bucket bam-dataset --key version-1/20170509-behance-styles-full-uQlccKK2QV.sqlite --acl public-read
+#+end_src
