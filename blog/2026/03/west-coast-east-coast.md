@@ -45,7 +45,7 @@ I don't think NYC is becoming more laid back, but I certainly think the bay area
 
 ## Final Thoughts
 This sort of position piece is new to me.
-I'm used to academic, structured writing, where every claim is enumerated and supported by evidence, so it feels quite strange to write about my _gut feelings_, or my _honest guesses_, especially since I'm not prepared to support them in a debate.
+I'm used to academic, structured writing, where every claim is enumerated and supported by evidence, so it feels quite strange to write about my _gut feelings_, or my -- shudder! -- _earnest guesses or worries_, especially since I'm not prepared to support them in a debate.
 
 But if I were to continue sketching this topic out, I'd want to outline:
 - The role of individualism in shaping the forces of capital
