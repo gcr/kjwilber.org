@@ -54,3 +54,6 @@ But if I were to continue sketching this topic out, I'd want to outline:
   - The way that the individualism of Americans differs from the individualism of other countries
 - Community as remedy for some of this
 - The role of non-tech disciplines as ecological signifiers of our noosphere's health, the rising tide that lifts all boats
+
+
+Am I wrong? Is this post full of shit? Write your own blog post and tell me about it! I'd love to hear your thoughts!
