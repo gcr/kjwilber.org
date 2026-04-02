@@ -39,7 +39,7 @@ Ernest Hemingway famously kept a notebook around so he could write in public whe
 
 Even Leonardo the Vinci himself was said to keep his chisel in his pocket protector so he would be ready whenever the desire to sculpt marble struck. 
 
-Longtime Kimmy enjoyers know that I too keep one of these suckers with me at all times.
+Longtime Kimmy enjoyers know that I too keep one of these suckers with me at all times. In this way, I follow in the footsteps of Hemingway, Vinci, Graham Bell, and the rest.
 My tool of choice is [this weird camping spork thing](https://www.humangear.com/shop/p/duo), a combination spoon/fork with ends that clip into each other. It’s small enough not to be a bother, but when assembled, the handle is long enough to reach into narrow crevasses. It’s so aesthetically pleasing to me for some reason! 
 
 At a restaurant but the waiter didn’t bring utensils? Big Spoon. Burrito hull failure turns your lunch into a casserole? Big spoon. Need to reserve your table so strangers don’t steal it? Leave a Big Spoon there.
