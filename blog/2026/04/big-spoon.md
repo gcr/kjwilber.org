@@ -23,7 +23,7 @@ In my hubris, I often did exactly the first half of that. “Sure, I can eat a h
 
 Why do I abandon my yogurt so? Part of this is ADHD attention blindness, but part of this is also due to the opportunity cost of ruining a perfectly clean bowl by ladling a schlopful of yogurt into it. No thanks! Who has time to wash one extra dish later when I could increase my disposable plastic use instead?
 
-Today’s insight was REVELATORY. The issue disappears when you have a Big Spoon: just eat directly from the large container! Take the giant yogurt container out of the fridge, feast ravenously, then put the surplus back.
+Today’s insight was REVELATORY. The issue disappears when you have a Big Spoon: just eat directly from the large container! Take the giant yogurt container out of the fridge, feast ravenously, then put the surplus back. A small spoon won’t cut it because the container’s too big—you’d get yogurt on your hands—but you don’t have a small spoon, you have a big spoon with a long handle!
 
 With practice, you can unlock an advanced technique: grab some blueberries or jam and mix them *straight into the container*. You can put whatever you want in there. Berries? Cinnamon? Granola? Chocolate chips?
 
