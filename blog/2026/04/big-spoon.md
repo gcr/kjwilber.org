@@ -1,5 +1,5 @@
 ---
-title: “A Big Spoon is All You Need: On the unreasonable effectiveness of Big Spoon”
+title: "A Big Spoon is All You Need: On the unreasonable effectiveness of Big Spoon"
 date: 2026-04-01
 tags:
   - half-baked
