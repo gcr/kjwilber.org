@@ -1,5 +1,5 @@
 ---
-title: A Big Spoon is All You Need: On the unreasonable effectiveness of Big Spoon
+title: "A Big Spoon is All You Need: On the unreasonable effectiveness of Big Spoon"
 date: 2026-04-01
 tags:
   - half-baked
@@ -23,7 +23,7 @@ In my hubris, I often did exactly the first half of that. “Sure, I can eat a h
 
 Why do I abandon my yogurt so? Part of this is ADHD attention blindness, but part of this is also due to the opportunity cost of ruining a perfectly clean bowl by ladling a schlopful of yogurt into it. No thanks! Who has time to wash one extra dish later when I could increase my disposable plastic use instead?
 
-Today’s insight was REVELATORY. The issue disappears when you have a Big Spoon: just eat directly from the large container! Take the giant yogurt container out of the fridge, feast ravenously, then put the surplus back.
+Today’s insight was REVELATORY. The issue disappears when you have a Big Spoon: just eat directly from the large container! Take the giant yogurt container out of the fridge, feast ravenously, then put the surplus back. A small spoon won’t cut it because the container’s too big—you’d get yogurt on your hands—but you don’t have a small spoon, you have a big spoon with a long handle!
 
 With practice, you can unlock an advanced technique: grab some blueberries or jam and mix them *straight into the container*. You can put whatever you want in there. Berries? Cinnamon? Granola? Chocolate chips?
 
@@ -39,7 +39,7 @@ Ernest Hemingway famously kept a notebook around so he could write in public whe
 
 Even Leonardo the Vinci himself was said to keep his chisel in his pocket protector so he would be ready whenever the desire to sculpt marble struck. 
 
-Longtime Kimmy enjoyers know that I too keep one of these suckers with me at all times.
+Longtime Kimmy enjoyers know that I too keep one of these suckers with me at all times. In this way, I follow in the footsteps of Hemingway, Vinci, Graham Bell, and the rest.
 My tool of choice is [this weird camping spork thing](https://www.humangear.com/shop/p/duo), a combination spoon/fork with ends that clip into each other. It’s small enough not to be a bother, but when assembled, the handle is long enough to reach into narrow crevasses. It’s so aesthetically pleasing to me for some reason! 
 
 At a restaurant but the waiter didn’t bring utensils? Big Spoon. Burrito hull failure turns your lunch into a casserole? Big spoon. Need to reserve your table so strangers don’t steal it? Leave a Big Spoon there.
