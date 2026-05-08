@@ -1,5 +1,7 @@
 ---
 draft: true
+title: FPS shield design
+date: 2026-05-01
 ---
 
 

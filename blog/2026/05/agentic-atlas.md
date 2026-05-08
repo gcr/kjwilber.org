@@ -1,6 +1,8 @@
 ---
 draft: true
 title: An atlas of agent coding tools
+date: 2026-05-01
+
 ---
 
 
@@ -21,4 +23,3 @@ One problem with agentic coding in 2026 is that there are integration points at 
   - cobfigures context, procides tools
   
 ## Experiment
-  

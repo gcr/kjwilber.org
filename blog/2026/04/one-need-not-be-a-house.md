@@ -1,5 +1,7 @@
 ---
 draft: true
+title: One need not be a house
+date: 2026-04-07
 ---
 
 One need not be a chamber — to be haunted —One need not be a House —The Brain — has Corridors surpassing Material Place —Far safer, of a Midnight — meetingExternal Ghost —Than an Interior — confronting —That cooler — Host —Far safer, through an Abbey — gallop —The Stones a’chase —Than moonless — One’s A’self encounter —In lonesome place —Ourself — behind Ourself — Concealed —Should startle — most —Assassin — hid in Our Apartment —Be Horror’s least —The Prudent — carries a Revolver —He bolts the Door, O’erlooking a Superior SpectreMore near —
