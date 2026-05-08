@@ -21,5 +21,9 @@ One problem with agentic coding in 2026 is that there are integration points at 
 - agent 
   - cobfigures context, procides tools
   
-## Experiment
+## Experiments
 
+1. please implement "haloshield" in ironwail
+2. please make a mdl2gltf converter
+3. convert liz's subtitles
+4. stitch together this QR code
