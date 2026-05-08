@@ -1,7 +1,6 @@
 ---
 title: Of beasts and buttons
 tags: ["half-baked"]
-draft: true
 date: 2026-05-08
 ---
 
