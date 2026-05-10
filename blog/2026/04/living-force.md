@@ -1,6 +1,7 @@
 ---
 title: Living Force
 date: 2026-04-06
+draft: true
 tags:
  - quotes
 ---
