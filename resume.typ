@@ -136,6 +136,20 @@
 
 #let experience = (
   (
+  start: [2026],
+  end: [Present],
+  company: [Cornell Lab of Ornithology],
+  title: [Research Engineer (Temp)],
+  location: [Ithaca, NY],
+  description: [
+    - Built data processing infrastructure for the Macaulay Library, a large-scale audio/video repository of 110,000,000+ media assets of birds and other wildlife. My work helped us ingest, process, and visualize this data $5 times$ faster than before
+    - Helped launch the Merlin Photo ID "suggest crop" feature, which uses a deep learning model to suggest the best crop of a bird in a photo for identification
+    - Collaborated across ML team on Merlin app feature development including Sound ID's streaming multi-label audio recognition, photo quality/feature image models, and detector integration into the Photo ID workflow
+    - Served on the ML engineering hiring committee for the third consecutive search cycle, conducting technical interviews and helping build team capacity
+  ]
+  ),
+
+  (
     start: [2024],
     end: [Present],
     company: [Krnel.ai],
@@ -199,8 +213,8 @@
     title: [Summer Intern],
     location: [Mountain View, CA],
     description: [
-      - Implemented and tested tools to make it easier for ML engineers to prototype UI interactions.
-      - These tools helped shape the feature roadmap for #link("https://support.google.com/photos/answer/7378859?hl=en&co=GENIE.Platform%3DDesktop")[Google Photos Sharing Suggestions].
+      // - Implemented and tested tools to make it easier for ML engineers to prototype UI interactions.
+      // - These tools helped shape the feature roadmap for #link("https://support.google.com/photos/answer/7378859?hl=en&co=GENIE.Platform%3DDesktop")[Google Photos Sharing Suggestions].
     ]
   ), (
     start: [2016],
@@ -208,8 +222,8 @@
     title: [Summer Intern],
     location: [San Jose, CA],
     description: [
-      - Curated #link("https://arxiv.org/abs/1704.08614")[BAM], one of the first large-scale collections of professional commercial artwork, intended for ML object classification and emotion understanding.
-      - Built a data loader system in Python and Redis to quickly analyze millions of images for ML training and inference workloads, speeding up training by 5$times$.
+      // - Curated #link("https://arxiv.org/abs/1704.08614")[BAM], one of the first large-scale collections of professional commercial artwork, intended for ML object classification and emotion understanding.
+      // - Built a data loader system in Python and Redis to quickly analyze millions of images for ML training and inference workloads, speeding up training by 5$times$.
     ]
   ), (
     start: [2014],
@@ -217,9 +231,9 @@
     title: [Summer Intern],
     location: [San Francisco, CA],
     description: [
-      - Conducted product-focused computer vision research.
-      - Introduced our team to more efficient tools and technologies.
-      - Maintained a computer vision evaluation and experimentation pipeline for crowdsourced data collection of face images.
+      // - Conducted product-focused computer vision research.
+      // - Introduced our team to more efficient tools and technologies.
+      // - Maintained a computer vision evaluation and experimentation pipeline for crowdsourced data collection of face images.
     ],
   ), (
     start: [2013],
